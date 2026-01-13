@@ -14259,6 +14259,17 @@
           "recipes": []
         },
         {
+          "id": 7842,
+          "name": "invoker_forge_spirit_ad",
+          "name_loc": "Forge Spirit (AD)",
+          "name_english_loc": "Forge Spirit (AD)",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": []
+        },
+        {
           "id": 5388,
           "name": "forged_spirit_melting_strike",
           "name_loc": "Melting Strike",
@@ -14362,17 +14373,6 @@
           "name": "invoker_sun_strike_ad",
           "name_loc": "Sun Strike (AD)",
           "name_english_loc": "Sun Strike (AD)",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 7842,
-          "name": "invoker_forge_spirit_ad",
-          "name_loc": "Forge Spirit (AD)",
-          "name_english_loc": "Forge Spirit (AD)",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
