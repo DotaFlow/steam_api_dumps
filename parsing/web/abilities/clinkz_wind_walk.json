@@ -8,7 +8,7 @@
     "Has a fadetime of %fade_time% seconds."
   ],
   "shard_loc": "",
-  "scepter_loc": "Increases Skeleton Archer health.",
+  "scepter_loc": "",
   "facets_loc": [],
   "type": 1,
   "behavior": "4196356",
@@ -189,9 +189,7 @@
       "heading_loc": "",
       "bonuses": [],
       "values_shard": [],
-      "values_scepter": [
-        4
-      ],
+      "values_scepter": [],
       "facet_bonus": {
         "name": "",
         "values": [],
@@ -208,9 +206,7 @@
       "heading_loc": "SKELETON ARCHER HITS TO KILL:",
       "bonuses": [],
       "values_shard": [],
-      "values_scepter": [
-        1
-      ],
+      "values_scepter": [],
       "facet_bonus": {
         "name": "",
         "values": [],
@@ -221,7 +217,7 @@
     {
       "name": "skeleton_building_damage_reduction",
       "values_float": [
-        25
+        75
       ],
       "is_percentage": false,
       "heading_loc": "",
