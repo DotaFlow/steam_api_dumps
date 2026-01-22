@@ -531,7 +531,7 @@
         0
       ],
       "mana_costs": [
-        50
+        70
       ],
       "gold_costs": [],
       "health_costs": [],
@@ -751,7 +751,7 @@
         {
           "name": "AbilityManaCost",
           "values_float": [
-            50
+            70
           ],
           "is_percentage": false,
           "heading_loc": "",
@@ -1064,7 +1064,7 @@
         {
           "name": "outgoing_floor",
           "values_float": [
-            18
+            17
           ],
           "is_percentage": true,
           "heading_loc": "MIN DAMAGE:",
