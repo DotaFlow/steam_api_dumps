@@ -16,7 +16,7 @@
     "jsondata": {
       "localized_subtitle": [
         "No more sleeping, need to help! Then sleep more...",
-        null,
+        "Zeit zum Aufwachen, meine Hilfe ist gefragt! Danach wird weitergeschlafen …",
         "Fini la sieste, il est temps de prêter mainforte ! Ensuite, retour au dodo…",
         "Basta dormire, c'è bisogno di aiuto! Poi... si potrà dormire ancora.",
         "인제 그만 자고 도와줘야겠어! 그리고 더 자야지...",
@@ -371,7 +371,7 @@
       "posttime": 1769464802,
       "updatetime": 1769464802,
       "body": "The people have spoken, and the first new addition from the [url=https://www.playdeadlock.com/oldgods]Old Gods, New Blood[/url] update is...\n\n[h3]Rem[/h3]\n[p][img src=\"{STEAM_CLAN_IMAGE}/45164767/6c73693f5bc1ae125ff877ba896f5d87997a45e8.png\"][/img]\n\nAn accidental stowaway from the world of dreams, Rem has found himself stranded in the city that never sleeps. Pillow fights are Rem's preferred form of conflict, tossing his favorite pillow at enemies to knock them back when they're getting too close. His friends, however, he likes to keep nearby - leaping to their aid when things get dicey and taking a quick nap on their shoulder. His Lil Helpers are curious creatures, taking interest in everything the streets of New York have to offer, and cheering on his allies as they go. Ultimately when Naptime hits, no one will be able to keep their eyes open. - [i]The best part of being asleep, is being asleep.[/i]\n\nKeep your votes coming, as the next hero will be released on Thursday at 2pm PST. See you then!",
-      "commentcount": 336,
+      "commentcount": 347,
       "tags": [
         "mod_reviewed",
         "ModAct_1278681683_1769469364_0"
@@ -380,8 +380,8 @@
       "hidden": 0,
       "forum_topic_id": "689747912977049531",
       "event_gid": "519736513892715706",
-      "voteupcount": 3866,
-      "votedowncount": 200,
+      "voteupcount": 4106,
+      "votedowncount": 210,
       "ban_check_result": 0,
       "banned": 0
     },
@@ -393,7 +393,7 @@
     "follower_count": 0,
     "ignore_count": 0,
     "forum_topic_id": "689747912977049531",
-    "rtime32_last_modified": 1769534258,
+    "rtime32_last_modified": 1769543990,
     "news_post_gid": "0",
     "rtime_mod_reviewed": 1769469365,
     "featured_app_tagid": 0,
@@ -401,8 +401,8 @@
     "build_id": 0,
     "build_branch": "",
     "unlisted": 0,
-    "votes_up": 3856,
-    "votes_down": 199,
+    "votes_up": 4106,
+    "votes_down": 210,
     "comment_type": "ForumTopic",
     "gidfeature": "4431066036850502634",
     "gidfeature2": "689747912977049531",
