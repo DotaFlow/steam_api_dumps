@@ -45,7 +45,7 @@
         "¿Qué otra cosa pensaba hacer hoy, ser responsable?",
         null,
         null,
-        null
+        "Apa lagi kelakuannya hari ini, menjadi bertanggung jawab?"
       ],
       "localized_title_image": [
         "bc1073477e9c049875c4fb91960b7887462620b1.png",
@@ -371,7 +371,7 @@
       "posttime": 1770069595,
       "updatetime": 1770069595,
       "body": "По результатам голосования сегодня к героям Проклятого Яблока присоединяется...\n\n[h3]Сильвер[/h3]\n[img]{STEAM_CLAN_IMAGE}/45164767/0841efa2500ec2bf46ca991f4df8150748d8defa.png[/img]\n\nСильвер зарабатывает на жизнь, выслеживая подонков, но сегодня нью-йоркская мизонтроп-ликантроп планирует призвать бога. К счастью, карьера охотницы за головами хорошо подготовила её ко всему, что требуется для ритуала. Сильвер быстро расправляется с врагами — сначала [i]опутывает болой[/i] и [i]пинает[/i] в лицо, а затем добивает [i]скоростным огнём[/i] из своего дробовика. Нравится ей это или нет, но в конце концов [i]ликантропия[/i] берёт своё, и враги горько жалеют, что оказались слишком близко. [i]«Это должно быть легко. И хотя не будет, я [u]очень[/u] хорошо умею себе врать».[/i]\n\n\nВы уже можете сыграть за Сильвер! Следующий герой из обновления [url=https://www.playdeadlock.com/oldgods]«Старые боги, новая кровь»[/url] будет выпущен в 1:00 пятницы по Москве. Увидимся!\n",
-      "commentcount": 286,
+      "commentcount": 288,
       "tags": [
         "mod_reviewed",
         "ModAct_487176015_1770070628_0"
@@ -380,8 +380,8 @@
       "hidden": 0,
       "forum_topic_id": "728028898691075477",
       "event_gid": "515233548718835346",
-      "voteupcount": 2991,
-      "votedowncount": 118,
+      "voteupcount": 3049,
+      "votedowncount": 122,
       "ban_check_result": 0,
       "banned": 0
     },
@@ -393,7 +393,7 @@
     "follower_count": 0,
     "ignore_count": 0,
     "forum_topic_id": "728028898691075477",
-    "rtime32_last_modified": 1770130179,
+    "rtime32_last_modified": 1770133320,
     "news_post_gid": "0",
     "rtime_mod_reviewed": 1770070629,
     "featured_app_tagid": 0,
@@ -401,8 +401,8 @@
     "build_id": 0,
     "build_branch": "",
     "unlisted": 0,
-    "votes_up": 2991,
-    "votes_down": 118,
+    "votes_up": 3046,
+    "votes_down": 122,
     "comment_type": "ForumTopic",
     "gidfeature": "4431066036850502634",
     "gidfeature2": "728028898691075477",
