@@ -16,7 +16,7 @@
     "jsondata": {
       "localized_subtitle": [
         "Wrath comes for them",
-        null,
+        "Sein Zorn wird sie treffen",
         "Le courroux s'abat sur la lie de la ville",
         "L'ira li colpirà.",
         "분노가 악을 찾아왔습니다",
@@ -380,8 +380,8 @@
       "hidden": 0,
       "forum_topic_id": "760680362677509491",
       "event_gid": "530996781696156190",
-      "voteupcount": 3052,
-      "votedowncount": 105,
+      "voteupcount": 3061,
+      "votedowncount": 104,
       "ban_check_result": 0,
       "banned": 0
     },
@@ -393,7 +393,7 @@
     "follower_count": 0,
     "ignore_count": 0,
     "forum_topic_id": "760680362677509491",
-    "rtime32_last_modified": 1770400526,
+    "rtime32_last_modified": 1770400799,
     "news_post_gid": "0",
     "rtime_mod_reviewed": 1770330052,
     "featured_app_tagid": 0,
@@ -401,7 +401,7 @@
     "build_id": 0,
     "build_branch": "",
     "unlisted": 0,
-    "votes_up": 3046,
+    "votes_up": 3055,
     "votes_down": 104,
     "comment_type": "ForumTopic",
     "gidfeature": "4431066036850502634",
