@@ -1,19 +1,21 @@
 # [DotaFlow](https://dotaflow.online)
 
 ## Folders
-### experimental/public/staging
-- **_VersionsHistory.json**: saved history of Dota Client updates
-- **GetClientVersion.json**: latest response from IGCVersion_\*/GetClientVersion steam API
-- **GetServerVersion.json**: latest response from IGCVersion_\*/GetServerVersion steam API
-- **GetHeroes.json**: latest response from IEconDOTA2_\*/GetHeroes steam API
-- **GetStoreMetaData.json**: latest response from IEconItems_\*/GetStoreMetaData steam API
-- **GetAssetPrices.json**: latest response from ISteamEconomy/GetAssetPrices steam API (only for public 570)
+### { Dota 2 | Deadlock }/{ experimental | public | staging }
+- **_VersionsHistory.json**: saved history of APP Client updates (dota2, deadlock)
+- **GetClientVersion.json**: latest response from IGCVersion_\*/GetClientVersion steam API (dota2, deadlock)
+- **GetServerVersion.json**: latest response from IGCVersion_\*/GetServerVersion steam API (dota2, deadlock)
+- **GetHeroes.json**: latest response from IEconDOTA2_\*/GetHeroes steam API (dota2)
+- **GetStoreMetaData.json**: latest response from IEconItems_\*/GetStoreMetaData steam API (dota2)
+- **GetAssetPrices.json**: latest response from ISteamEconomy/GetAssetPrices steam API (dota2, only for public 570)
 - **GetSDRConfig.json**: latest response from ISteamApps/GetSDRConfig steam API (for all dota apps, but response is same)
 ____
 - - ___Checked app IDs___
-- - - Experimental - 247040
-- - - Staging - 2305270
-- - - Public - 570
+- - - Dota 2 Experimental - 247040
+- - - Dota 2 Staging - 2305270
+- - - Dota 2 Public - 570
+- - - Deadlock Public - 1422450
+- - - Deadlock Experimental - 3488080
 ____
 ### web
 - #### abilities
