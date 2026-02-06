@@ -45,7 +45,7 @@
         null,
         null,
         null,
-        null
+        "Kemurkaan menghampiri mereka"
       ],
       "localized_title_image": [
         "9088eab680caeffe62f6faa0b3ac94e49fe43a00.png",
@@ -371,7 +371,7 @@
       "posttime": 1770328806,
       "updatetime": 1770328806,
       "body": "Evil stirs in New York, and the Venator is here to answer.\n\n[h3]Venator[/h3]\n[img]{STEAM_CLAN_IMAGE}/45164767/a8fcf6c0e81b0fc764cb294caeba6cfd583e69a3.png[/img]\n\nVenator doesn't walk the righteous path, he blazes the trail so that others may do so safely. His biggest challenge is knowing which weapon to use first. Firing a [i]Consecrating Grenade[/i] into the fray softens up his enemies and keeps them from restoring health, and his [i]Hex-Lined Snap Trap[/i] scatters across the ground to lock them in place. A [i]Gutshot[/i] from his shotgun will knock back enemies who get too close, and when the time is right, [i]Ira Domini[/i] will rid the world of evil once and for all. - [i]\"Today, nine commandments will have to do.\"[/i]\n\nVenator joins the ritual now. The countdown for our final two heroes is upon us, and we'll see you back here on Monday February 9th at 2pm PST for our next release!",
-      "commentcount": 194,
+      "commentcount": 214,
       "tags": [
         "mod_reviewed",
         "ModAct_1803566692_1770330051_0"
@@ -380,8 +380,8 @@
       "hidden": 0,
       "forum_topic_id": "760680362677509491",
       "event_gid": "530996781696156190",
-      "voteupcount": 2235,
-      "votedowncount": 81,
+      "voteupcount": 2724,
+      "votedowncount": 95,
       "ban_check_result": 0,
       "banned": 0
     },
@@ -393,7 +393,7 @@
     "follower_count": 0,
     "ignore_count": 0,
     "forum_topic_id": "760680362677509491",
-    "rtime32_last_modified": 1770363251,
+    "rtime32_last_modified": 1770385422,
     "news_post_gid": "0",
     "rtime_mod_reviewed": 1770330052,
     "featured_app_tagid": 0,
@@ -401,8 +401,8 @@
     "build_id": 0,
     "build_branch": "",
     "unlisted": 0,
-    "votes_up": 2230,
-    "votes_down": 80,
+    "votes_up": 2720,
+    "votes_down": 95,
     "comment_type": "ForumTopic",
     "gidfeature": "4431066036850502634",
     "gidfeature2": "760680362677509491",
