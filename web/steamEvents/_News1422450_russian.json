@@ -42,7 +42,7 @@
         null,
         null,
         null,
-        null,
+        "¡Que comience el espectáculo!",
         null,
         null,
         null
@@ -371,7 +371,7 @@
       "posttime": 1770674407,
       "updatetime": 1770674407,
       "body": "Come one, come all! Today, we're introducing...\n\n[h3]Celeste[/h3]\n[img]{STEAM_CLAN_IMAGE}/45164767/a8b1361481f9292802bb6592cf79733971efa76f.png[/img]\n\nIt's not every day that Coney Island's biggest star, [i]The Dazzling Celeste[/i], performs on the streets of Manhattan. Her show begins with [i]Light Eater[/i], where a deep breath lit by her blazing baton coats enemies in front of her, and grants increased damage against them. Following that up, she envelops herself in the prismatic shield of her [i]Dazzling Trick[/i], which explodes and silences nearby enemies who break it. Try not to get distracted by her gliding gracefully through the air, or by the dance of her [i]Radiant Daggers[/i], as you'll regret being underneath them when they rain down from above. As for her memorable final act, the [i]Shining Wonder[/i] will make her allies go [i]OOH[/i] and her foes go [i]AGGHHH![/i] - [i]\"You are about to see something rare and wonderful!\"[/i]\n\nCeleste is available to play in-game now! Join us on Thursday Feb 12th at 2pm for the release of Apollo and the conclusion of our [url=https://www.playdeadlock.com/oldgods]Old Gods, New Blood[/url] update. We'll see you then!",
-      "commentcount": 93,
+      "commentcount": 113,
       "tags": [
         "mod_reviewed",
         "ModAct_1888979151_1770675674_0"
@@ -380,8 +380,8 @@
       "hidden": 0,
       "forum_topic_id": "760680733094314578",
       "event_gid": "530996781696156969",
-      "voteupcount": 519,
-      "votedowncount": 38,
+      "voteupcount": 654,
+      "votedowncount": 48,
       "ban_check_result": 0,
       "banned": 0
     },
@@ -393,7 +393,7 @@
     "follower_count": 0,
     "ignore_count": 0,
     "forum_topic_id": "760680733094314578",
-    "rtime32_last_modified": 1770676864,
+    "rtime32_last_modified": 1770677826,
     "news_post_gid": "0",
     "rtime_mod_reviewed": 1770675674,
     "featured_app_tagid": 0,
@@ -401,8 +401,8 @@
     "build_id": 0,
     "build_branch": "",
     "unlisted": 0,
-    "votes_up": 486,
-    "votes_down": 38,
+    "votes_up": 628,
+    "votes_down": 47,
     "comment_type": "ForumTopic",
     "gidfeature": "4431066036850502634",
     "gidfeature2": "760680733094314578",
