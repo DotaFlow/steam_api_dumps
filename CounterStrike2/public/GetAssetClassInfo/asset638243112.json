@@ -1,0 +1,76 @@
+{
+  "appid": "730",
+  "classid": "638243112",
+  "instanceid": "0",
+  "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG51EejH_XGwt6kCnCS_Gl2-4r5_1fuVQTOy9jh-3devaT3Pf06dfbDWWPFxOh0trE7Syzqx0pztmSHy9-tcC3Bb1BzFNIuEovaMLzT",
+  "icon_url_large": "",
+  "icon_drag_url": "",
+  "name": "Operation Vanguard Case Key",
+  "market_hash_name": "Operation Vanguard Case Key",
+  "market_name": "Operation Vanguard Case Key",
+  "market_listing_bucket_id": "18AA0A3004",
+  "market_listing_bucket_group_id": "G18AA0A3004",
+  "market_listing_bucket_group_name": "Operation Vanguard Case Key",
+  "name_color": "b0c3d9",
+  "background_color": "393b3e",
+  "type": "Base Grade Key",
+  "tradable": "1",
+  "marketable": "1",
+  "commodity": "1",
+  "market_tradable_restriction": "7",
+  "market_marketable_restriction": "7",
+  "descriptions": {
+    "0": {
+      "type": "html",
+      "value": "This key only opens Operation Vanguard Cases",
+      "name": "description"
+    },
+    "1": {
+      "type": "html",
+      "value": " ",
+      "name": "blank"
+    },
+    "2": {
+      "type": "html",
+      "value": "",
+      "color": "00a000",
+      "name": "attribute"
+    }
+  },
+  "owner_descriptions": "",
+  "actions": {
+    "0": {
+      "type": "inspect",
+      "name": "Inspect in Game...",
+      "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D5495006752385675356"
+    }
+  },
+  "market_actions": {
+    "0": {
+      "type": "inspect",
+      "name": "Inspect in Game...",
+      "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D5495006752385675356"
+    }
+  },
+  "tags": {
+    "0": {
+      "internal_name": "CSGO_Tool_WeaponCase_KeyTag",
+      "name": "Key",
+      "category": "Type",
+      "category_name": "Type"
+    },
+    "1": {
+      "internal_name": "normal",
+      "name": "Normal",
+      "category": "Quality",
+      "category_name": "Category"
+    },
+    "2": {
+      "internal_name": "Rarity_Common",
+      "name": "Base Grade",
+      "category": "Rarity",
+      "color": "b0c3d9",
+      "category_name": "Quality"
+    }
+  }
+}

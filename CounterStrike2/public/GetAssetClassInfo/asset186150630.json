@@ -1,0 +1,77 @@
+{
+  "appid": "730",
+  "classid": "186150630",
+  "instanceid": "0",
+  "is_currency": "0",
+  "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG51EejH-HRwtquO0SU5EVwy4zx82b0URjyl5fswnMVufGrbPU5JaDKCDaUkOgktrQ7Tn_nzR905DnXztr_InrBbwIhA8NzQflK7EeRo_iSDw",
+  "icon_url_large": "",
+  "icon_drag_url": "",
+  "name": "eSports Key",
+  "market_hash_name": "eSports Key",
+  "market_name": "eSports Key",
+  "market_listing_bucket_id": "18B4093004",
+  "market_listing_bucket_group_id": "G18B4093004",
+  "market_listing_bucket_group_name": "eSports Key",
+  "name_color": "b0c3d9",
+  "background_color": "393b3e",
+  "type": "Base Grade Key",
+  "tradable": "1",
+  "marketable": "1",
+  "commodity": "1",
+  "market_tradable_restriction": "7",
+  "market_marketable_restriction": "7",
+  "descriptions": {
+    "0": {
+      "type": "html",
+      "value": "This key opens any eSports Case.\n\nA portion of the proceeds from the sale of this key will go towards one of the established community-run CS:GO tournaments. Stay tuned for further announcements.",
+      "name": "description"
+    },
+    "1": {
+      "type": "html",
+      "value": " ",
+      "name": "blank"
+    },
+    "2": {
+      "type": "html",
+      "value": "",
+      "color": "00a000",
+      "name": "attribute"
+    }
+  },
+  "owner_descriptions": "",
+  "actions": {
+    "0": {
+      "type": "inspect",
+      "name": "Inspect in Game...",
+      "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D7530767647050400672"
+    }
+  },
+  "market_actions": {
+    "0": {
+      "type": "inspect",
+      "name": "Inspect in Game...",
+      "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D7530767647050400672"
+    }
+  },
+  "tags": {
+    "0": {
+      "internal_name": "CSGO_Tool_WeaponCase_KeyTag",
+      "name": "Key",
+      "category": "Type",
+      "category_name": "Type"
+    },
+    "1": {
+      "internal_name": "normal",
+      "name": "Normal",
+      "category": "Quality",
+      "category_name": "Category"
+    },
+    "2": {
+      "internal_name": "Rarity_Common",
+      "name": "Base Grade",
+      "category": "Rarity",
+      "color": "b0c3d9",
+      "category_name": "Quality"
+    }
+  }
+}

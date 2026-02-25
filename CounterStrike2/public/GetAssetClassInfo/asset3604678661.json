@@ -1,0 +1,87 @@
+{
+  "appid": "730",
+  "classid": "3604678661",
+  "instanceid": "0",
+  "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG51EejH_XV0MGkITXE5AB094KtuwG0Exv1yMfkqXcCtvT_MPw5JPTKV2bDk7Z3sudtHSjr2w0ptCMWPT2u",
+  "icon_url_large": "",
+  "icon_drag_url": "",
+  "name": "Storage Unit",
+  "market_hash_name": "Storage Unit",
+  "market_name": "Storage Unit",
+  "market_listing_bucket_id": "18B1093004",
+  "market_listing_bucket_group_id": "G18B1093004",
+  "market_listing_bucket_group_name": "Storage Unit",
+  "name_color": "b0c3d9",
+  "background_color": "393b3e",
+  "type": "Base Grade Tool",
+  "tradable": "0",
+  "marketable": "0",
+  "owner_only": "1",
+  "commodity": "1",
+  "market_tradable_restriction": "7",
+  "market_marketable_restriction": "7",
+  "descriptions": {
+    "0": {
+      "type": "html",
+      "value": "The Storage Unit allows you to store up to 1,000 of your surplus items which would otherwise exceed inventory limit. At any time you can move items from your inventory into the Storage Unit, retrieve items back into your inventory, or you can just use it to organize your collectibles.",
+      "name": "description"
+    },
+    "1": {
+      "type": "html",
+      "value": " ",
+      "name": "blank"
+    },
+    "2": {
+      "type": "html",
+      "value": "",
+      "color": "00a000",
+      "name": "attribute"
+    },
+    "3": {
+      "type": "html",
+      "value": " ",
+      "name": "blank"
+    },
+    "4": {
+      "type": "html",
+      "value": "",
+      "name": "attribute"
+    }
+  },
+  "owner_descriptions": "",
+  "actions": {
+    "0": {
+      "type": "inspect",
+      "name": "Inspect in Game...",
+      "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D10251955708680677409"
+    }
+  },
+  "market_actions": {
+    "0": {
+      "type": "inspect",
+      "name": "Inspect in Game...",
+      "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D10251955708680677409"
+    }
+  },
+  "tags": {
+    "0": {
+      "internal_name": "CSGO_Type_Tool",
+      "name": "Tool",
+      "category": "Type",
+      "category_name": "Type"
+    },
+    "1": {
+      "internal_name": "normal",
+      "name": "Normal",
+      "category": "Quality",
+      "category_name": "Category"
+    },
+    "2": {
+      "internal_name": "Rarity_Common",
+      "name": "Base Grade",
+      "category": "Rarity",
+      "color": "b0c3d9",
+      "category_name": "Quality"
+    }
+  }
+}
