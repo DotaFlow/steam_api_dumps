@@ -1,0 +1,122 @@
+{
+  "appid": "570",
+  "classid": "57939754",
+  "instanceid": "0",
+  "is_currency": "0",
+  "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_fMxoWjOXSY4Wl2_Ibn70upQBmln5fhrCZat_OrbvVrJPGQXj7CmL0ns7hsHHm2zUVxsDiBmdyodmXXMFHRxpfThA",
+  "icon_url_large": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGIyi3kajH_fMxoWjOXSY4Wl2_Ibn70vYTRzjmZOuridatqr5P_E4IqjLDDGRxesvsbVvTHHmkx5_5z7Uzd-tcHOebAcgA4wwG7DZLI5uWA",
+  "icon_drag_url": "",
+  "name": "Blood Chaser",
+  "market_hash_name": "Blood Chaser",
+  "market_name": "Blood Chaser",
+  "name_color": "D2D2D2",
+  "background_color": "",
+  "type": "Mythical Chain Weapon",
+  "tradable": "1",
+  "marketable": "1",
+  "commodity": "0",
+  "market_tradable_restriction": "7",
+  "market_marketable_restriction": "7",
+  "fraudwarnings": "",
+  "descriptions": {
+    "0": {
+      "type": "html",
+      "value": "Used By: Axe",
+      "name": "attribute",
+      "app_data": ""
+    },
+    "1": {
+      "type": "html",
+      "value": " ",
+      "name": "attribute",
+      "app_data": ""
+    },
+    "2": {
+      "type": "html",
+      "value": "Forged in Demons' Blood",
+      "color": "9da1a9",
+      "name": "attribute",
+      "app_data": {
+        "def_index": "20002",
+        "is_itemset_name": "1"
+      }
+    },
+    "3": {
+      "type": "html",
+      "value": "Demon Blood Helm",
+      "color": "6c7075",
+      "name": "attribute",
+      "app_data": {
+        "def_index": "4008"
+      }
+    },
+    "4": {
+      "type": "html",
+      "value": "Demon Blood Armor",
+      "color": "6c7075",
+      "name": "attribute",
+      "app_data": {
+        "def_index": "4009"
+      }
+    },
+    "5": {
+      "type": "html",
+      "value": "Demon Blood Guard",
+      "color": "6c7075",
+      "name": "attribute",
+      "app_data": {
+        "def_index": "4010"
+      }
+    },
+    "6": {
+      "type": "html",
+      "value": "Blood Chaser",
+      "color": "6c7075",
+      "name": "attribute",
+      "app_data": {
+        "def_index": "4004"
+      }
+    },
+    "7": {
+      "type": "html",
+      "value": "A three section chained haft with double bladed axe head at the top. Nearly as dangerous to it's wielder as it is to the enemy.",
+      "name": "attribute",
+      "app_data": ""
+    }
+  },
+  "owner_descriptions": "",
+  "tags": {
+    "0": {
+      "internal_name": "unique",
+      "name": "Standard",
+      "category": "Quality",
+      "color": "D2D2D2",
+      "category_name": "Quality"
+    },
+    "1": {
+      "internal_name": "Rarity_Mythical",
+      "name": "Mythical",
+      "category": "Rarity",
+      "color": "8847ff",
+      "category_name": "Rarity"
+    },
+    "2": {
+      "internal_name": "wearable",
+      "name": "Wearable",
+      "category": "Type",
+      "category_name": "Type"
+    },
+    "3": {
+      "internal_name": "weapon",
+      "name": "Weapon",
+      "category": "Slot",
+      "category_name": "Slot"
+    },
+    "4": {
+      "internal_name": "npc_dota_hero_axe",
+      "name": "Axe",
+      "category": "Hero",
+      "category_name": "Hero"
+    }
+  }
+}
