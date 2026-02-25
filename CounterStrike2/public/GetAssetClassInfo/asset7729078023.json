@@ -1,0 +1,104 @@
+{
+  "appid": "730",
+  "classid": "7729078023",
+  "instanceid": "0",
+  "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76EzjE02jy6nw_DFI0PGmabZqJb7EWDCUxe8v5bY7SXzqwhhxsDjRm4moJ3yUbgEjX5p0QbJYtEHpx9a1Kaq8sBWm-Bdu",
+  "icon_url_large": "",
+  "icon_drag_url": "",
+  "name": "Budapest 2025 Souvenir Package",
+  "market_hash_name": "Budapest 2025 Souvenir Package",
+  "market_name": "Budapest 2025 Souvenir Package",
+  "market_listing_bucket_id": "18DF283004",
+  "market_listing_bucket_group_id": "G18DF283004",
+  "market_listing_bucket_group_name": "Budapest 2025 Souvenir Package",
+  "name_color": "b0c3d9",
+  "background_color": "393b3e",
+  "type": "Base Grade Pass",
+  "tradable": "0",
+  "marketable": "0",
+  "commodity": "1",
+  "market_tradable_restriction": "7",
+  "market_marketable_restriction": "7",
+  "descriptions": {
+    "0": {
+      "type": "html",
+      "value": "This item commemorates the StarLadder Budapest 2025 CS2 Major Championship.",
+      "color": "ffd700",
+      "name": "attribute"
+    },
+    "1": {
+      "type": "html",
+      "value": " ",
+      "name": "blank"
+    },
+    "2": {
+      "type": "html",
+      "value": "This is a sealed StarLadder Budapest 2025 CS2 Major Championship Souvenir Package.",
+      "name": "description"
+    },
+    "3": {
+      "type": "html",
+      "value": " ",
+      "name": "blank"
+    },
+    "4": {
+      "type": "html",
+      "value": "",
+      "color": "00a000",
+      "name": "attribute"
+    },
+    "5": {
+      "type": "html",
+      "value": " ",
+      "name": "blank"
+    },
+    "6": {
+      "type": "html",
+      "value": "",
+      "name": "attribute"
+    }
+  },
+  "owner_descriptions": "",
+  "actions": {
+    "0": {
+      "type": "inspect",
+      "name": "Inspect in Game...",
+      "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D17007036678025630617"
+    }
+  },
+  "market_actions": {
+    "0": {
+      "type": "inspect",
+      "name": "Inspect in Game...",
+      "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D17007036678025630617"
+    }
+  },
+  "tags": {
+    "0": {
+      "internal_name": "CSGO_Type_Ticket",
+      "name": "Pass",
+      "category": "Type",
+      "category_name": "Type"
+    },
+    "1": {
+      "internal_name": "normal",
+      "name": "Normal",
+      "category": "Quality",
+      "category_name": "Category"
+    },
+    "2": {
+      "internal_name": "Rarity_Common",
+      "name": "Base Grade",
+      "category": "Rarity",
+      "color": "b0c3d9",
+      "category_name": "Quality"
+    },
+    "3": {
+      "internal_name": "Tournament25",
+      "name": "StarLadder Budapest 2025",
+      "category": "Tournament",
+      "category_name": "Tournament",
+      "escalate_to_parent": "1"
+    }
+  }
+}

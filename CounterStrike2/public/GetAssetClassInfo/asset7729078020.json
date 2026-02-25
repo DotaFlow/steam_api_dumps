@@ -1,0 +1,70 @@
+{
+  "appid": "730",
+  "classid": "7729078020",
+  "instanceid": "0",
+  "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWyIXKU7lNny4P9-UnrQATOnZfz-G1Q7M29fK1uK_WBMWOZ0v56sfhWTCigkFNxsT7VzN_7JHOXOlIiC8AlE7IDuhPukdfgMunj4AzYg99Dyn-ojn4Y8G81tArD3HEt",
+  "icon_url_large": "",
+  "icon_drag_url": "",
+  "name": "Sticker Slab",
+  "market_hash_name": "Sticker Slab",
+  "market_name": "Sticker Slab",
+  "market_listing_bucket_id": "18A01F3004",
+  "market_listing_bucket_group_id": "G18A01F3004",
+  "market_listing_bucket_group_name": "Sticker Slab",
+  "name_color": "b0c3d9",
+  "background_color": "393b3e",
+  "type": "Base Grade Charm",
+  "tradable": "1",
+  "marketable": "1",
+  "commodity": "1",
+  "market_tradable_restriction": "7",
+  "market_marketable_restriction": "7",
+  "descriptions": {
+    "0": {
+      "type": "html",
+      "value": "Any sticker can be safely sealed in this slab. A slab is a charm that can be attached to any weapon, and detached by using a Charm Detachment. You can also return the sticker to your inventory at any time by cracking open and discarding this slab.",
+      "name": "description"
+    },
+    "1": {
+      "type": "html",
+      "value": " ",
+      "name": "blank"
+    }
+  },
+  "owner_descriptions": "",
+  "actions": {
+    "0": {
+      "type": "inspect",
+      "name": "Inspect in Game...",
+      "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D7387087828504152672"
+    }
+  },
+  "market_actions": {
+    "0": {
+      "type": "inspect",
+      "name": "Inspect in Game...",
+      "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D7387087828504152672"
+    }
+  },
+  "tags": {
+    "0": {
+      "internal_name": "CSGO_Tool_Keychain",
+      "name": "Charm",
+      "category": "Type",
+      "category_name": "Type"
+    },
+    "1": {
+      "internal_name": "normal",
+      "name": "Normal",
+      "category": "Quality",
+      "category_name": "Category"
+    },
+    "2": {
+      "internal_name": "Rarity_Common",
+      "name": "Base Grade",
+      "category": "Rarity",
+      "color": "b0c3d9",
+      "category_name": "Quality"
+    }
+  }
+}

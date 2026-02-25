@@ -1,0 +1,589 @@
+{
+  "appid": "730",
+  "classid": "7729078030",
+  "instanceid": "0",
+  "is_currency": "0",
+  "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yenmC4QQlptK76UvmVRjOjYLp_ile_c2-aadmH_KGCjXAk7tJt_NmWjmMlhIppziLnorrMmXFaFN1X8cjR-4C5BHqkN20Yuy05APWjo9FxSj3hyxBuik4su8KV6Ig5OSJ2AOxiV5w",
+  "icon_url_large": "",
+  "icon_drag_url": "",
+  "name": "Budapest 2025 Contenders Autograph Capsule",
+  "market_hash_name": "Budapest 2025 Contenders Autograph Capsule",
+  "market_name": "Budapest 2025 Contenders Autograph Capsule",
+  "market_listing_bucket_id": "18F0283004",
+  "market_listing_bucket_group_id": "G18F0283004",
+  "market_listing_bucket_group_name": "Budapest 2025 Contenders Autograph Capsule",
+  "name_color": "b0c3d9",
+  "background_color": "393b3e",
+  "type": "Base Grade Container",
+  "tradable": "1",
+  "marketable": "1",
+  "commodity": "1",
+  "market_tradable_restriction": "7",
+  "market_marketable_restriction": "7",
+  "market_buy_country_restriction": "FR",
+  "descriptions": {
+    "0": {
+      "type": "html",
+      "value": "This item commemorates the StarLadder Budapest 2025 CS2 Major Championship.",
+      "color": "ffd700",
+      "name": "attribute"
+    },
+    "1": {
+      "type": "html",
+      "value": " ",
+      "name": "blank"
+    },
+    "2": {
+      "type": "html",
+      "value": "This capsule contains a single Paper, Embroidered, Holo, or Gold sticker autographed by one of the Contenders players at Budapest 2025.\n\n50% of the proceeds from the sale of this capsule support the included players and organizations.\n\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+      "name": "description"
+    },
+    "3": {
+      "type": "html",
+      "value": " ",
+      "name": "blank"
+    },
+    "4": {
+      "type": "html",
+      "value": "Container Series #466",
+      "color": "99ccff",
+      "name": "attr: set supply crate series"
+    },
+    "5": {
+      "type": "html",
+      "value": " ",
+      "name": "blank"
+    },
+    "6": {
+      "type": "html",
+      "value": "Sticker can be autographed by one of the following professional players:",
+      "name": "attribute"
+    },
+    "7": {
+      "type": "html",
+      "value": "dumau (Eduardo Wolkmer)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "8": {
+      "type": "html",
+      "value": "latto (Bruno Rebelatto)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "9": {
+      "type": "html",
+      "value": "lux (Lucas Meneghini)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "10": {
+      "type": "html",
+      "value": "n1ssim (Vinicius Pereira)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "11": {
+      "type": "html",
+      "value": "saadzin (Guilherme Pacheco)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "12": {
+      "type": "html",
+      "value": "broky (Helvijs Saukants)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "13": {
+      "type": "html",
+      "value": "frozen (David Cernansky)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "14": {
+      "type": "html",
+      "value": "jcobbb (Jakub Pietruszewski)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "15": {
+      "type": "html",
+      "value": "karrigan (Finn Andersen)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "16": {
+      "type": "html",
+      "value": "rain (Håvard Nygaard)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "17": {
+      "type": "html",
+      "value": "alex666 (Alexey Yarmoshchuk)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "18": {
+      "type": "html",
+      "value": "esenthial (Dmytro Tsvir)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "19": {
+      "type": "html",
+      "value": "headtr1ck (Daniil Valitov)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "20": {
+      "type": "html",
+      "value": "kensizor (Artem Kapran)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "21": {
+      "type": "html",
+      "value": "npl (Andrii Kukharskyi)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "22": {
+      "type": "html",
+      "value": "Kursy (Jeremy Gast)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "23": {
+      "type": "html",
+      "value": "PR (Oldřich Nový)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "24": {
+      "type": "html",
+      "value": "REZ (Fredrik Sterner)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "25": {
+      "type": "html",
+      "value": "Tauson (Sebastian Tauson Lindelof)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "26": {
+      "type": "html",
+      "value": "ztr (Erik Gustafsson)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "27": {
+      "type": "html",
+      "value": "blameF (Benjamin Vang Bremer)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "28": {
+      "type": "html",
+      "value": "Cypher (Cai Ashley Watson)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "29": {
+      "type": "html",
+      "value": "fEAR (Rodion Smyk)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "30": {
+      "type": "html",
+      "value": "jambo (Dmytro Semera)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "31": {
+      "type": "html",
+      "value": "KRIMZ (Lars Freddy Johansson)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "32": {
+      "type": "html",
+      "value": "AW (Andrey Anisimov)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "33": {
+      "type": "html",
+      "value": "BELCHONOKK (Andrei Iasinskii)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "34": {
+      "type": "html",
+      "value": "Jame (Ali Dzhami)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "35": {
+      "type": "html",
+      "value": "nota (Emil Moskvitin)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "36": {
+      "type": "html",
+      "value": "xiELO (Vladislav Lysov)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "37": {
+      "type": "html",
+      "value": "ewjerkz (Michel Magalhães)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "38": {
+      "type": "html",
+      "value": "r1nkle (Artem Moroz)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "39": {
+      "type": "html",
+      "value": "sjuush (Rasmus Beck)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "40": {
+      "type": "html",
+      "value": "Snappi (Marco Pfeiffer)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "41": {
+      "type": "html",
+      "value": "xKacpersky (Kacper Gabara)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "42": {
+      "type": "html",
+      "value": "chelo (Marcelo Cespedes)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "43": {
+      "type": "html",
+      "value": "noway (Kaiky Santos)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "44": {
+      "type": "html",
+      "value": "skullz (Felipe Frank Medeiros)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "45": {
+      "type": "html",
+      "value": "TRY (Santino Rigal)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "46": {
+      "type": "html",
+      "value": "VINI (Vinicius Figueiredo)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "47": {
+      "type": "html",
+      "value": "INS (Joshua Potter)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "48": {
+      "type": "html",
+      "value": "jks (Justin Savage)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "49": {
+      "type": "html",
+      "value": "nettik (Corey Browne)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "50": {
+      "type": "html",
+      "value": "regali (Iulian Harjau)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "51": {
+      "type": "html",
+      "value": "vexite (Declan Portelli)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "52": {
+      "type": "html",
+      "value": "C4LLM3SU3 (Qihao Su)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "53": {
+      "type": "html",
+      "value": "EmiliaQAQ (Tang Junjie)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "54": {
+      "type": "html",
+      "value": "Starry (Ye Lizhi)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "55": {
+      "type": "html",
+      "value": "westmelon (Niu Zhe)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "56": {
+      "type": "html",
+      "value": "z4KR (Zhang Sike)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "57": {
+      "type": "html",
+      "value": "HexT (Jadan Postma)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "58": {
+      "type": "html",
+      "value": "Lake (Mason Sanderson)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "59": {
+      "type": "html",
+      "value": "s1n (Elias Stein)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "60": {
+      "type": "html",
+      "value": "slaxz- (Fritz Dietrich)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "61": {
+      "type": "html",
+      "value": "Swisher (Michael Schmid)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "62": {
+      "type": "html",
+      "value": "arT (Andrei Piovezan)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "63": {
+      "type": "html",
+      "value": "decenty (Lucas Bacelar)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "64": {
+      "type": "html",
+      "value": "kye (Kayke Bertolucci)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "65": {
+      "type": "html",
+      "value": "Lucaozy (Lucas Neves)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "66": {
+      "type": "html",
+      "value": "zevy (Romeu Rocco)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "67": {
+      "type": "html",
+      "value": "chayJESUS (Richard Seidy)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "68": {
+      "type": "html",
+      "value": "drop (André Wagner de Abreu)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "69": {
+      "type": "html",
+      "value": "History (Allan Botton)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "70": {
+      "type": "html",
+      "value": "kauez (Kaue Kaschuk)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "71": {
+      "type": "html",
+      "value": "venomzera (Carlos Eduardo)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "72": {
+      "type": "html",
+      "value": "Bart4k (Baatarkhuu Batbold)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "73": {
+      "type": "html",
+      "value": "cobra (Anarbileg Uuganbayar)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "74": {
+      "type": "html",
+      "value": "nin9 (Yesuntumur Gantulga)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "75": {
+      "type": "html",
+      "value": "sk0R (Tengis Batjargal)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "76": {
+      "type": "html",
+      "value": "xerolte (Munkhtogtokh Enkhbat)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "77": {
+      "type": "html",
+      "value": "br0 (Alexander Bro)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "78": {
+      "type": "html",
+      "value": "jeorge (Jeorge Endicott)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "79": {
+      "type": "html",
+      "value": "nitr0 (Nicholas Cannella)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "80": {
+      "type": "html",
+      "value": "Sonic (Aran Groesbeek)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "81": {
+      "type": "html",
+      "value": "XotiC (Zack Elshani)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "82": {
+      "type": "html",
+      "value": "ChildKing (Peng Junhao)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "83": {
+      "type": "html",
+      "value": "L1haNg (Li Yihang)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "84": {
+      "type": "html",
+      "value": "Marek (Tzu-Chi Huang)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "85": {
+      "type": "html",
+      "value": "Summer (Cai Yulun)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "86": {
+      "type": "html",
+      "value": "Tiger (Junbin Zheng)",
+      "color": "b0c3d9",
+      "name": "attribute"
+    },
+    "87": {
+      "type": "html",
+      "value": " ",
+      "name": "blank"
+    },
+    "88": {
+      "type": "html",
+      "value": "",
+      "color": "00a000",
+      "name": "attribute"
+    }
+  },
+  "owner_descriptions": "",
+  "tags": {
+    "0": {
+      "internal_name": "CSGO_Type_WeaponCase",
+      "name": "Container",
+      "category": "Type",
+      "category_name": "Type"
+    },
+    "1": {
+      "internal_name": "crate_signature_pack_bud2025_group_players_collection",
+      "name": "Budapest 2025 Player Autographs",
+      "category": "StickerCapsule",
+      "category_name": "Sticker Collection"
+    },
+    "2": {
+      "internal_name": "normal",
+      "name": "Normal",
+      "category": "Quality",
+      "category_name": "Category"
+    },
+    "3": {
+      "internal_name": "Rarity_Common",
+      "name": "Base Grade",
+      "category": "Rarity",
+      "color": "b0c3d9",
+      "category_name": "Quality"
+    },
+    "4": {
+      "internal_name": "Tournament25",
+      "name": "StarLadder Budapest 2025",
+      "category": "Tournament",
+      "category_name": "Tournament",
+      "escalate_to_parent": "1"
+    }
+  }
+}
