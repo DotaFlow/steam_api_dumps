@@ -1,0 +1,89 @@
+{
+  "appid": "570",
+  "classid": "4429806574",
+  "instanceid": "0",
+  "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0WqmuqKgQfUYS42ES-RPPa14WyMHqE6lhKpsilsgG0FE2j0YLl_C9X4PWhJqU4dfTLW2LDxL0h5bY_HHGwwxgmsW6Dn9j6JHvBawcjWJEmEeNbukKm0oqwei-EWiw",
+  "icon_url_large": "",
+  "icon_drag_url": "",
+  "name": "Virtus.pro Silver to Gold Tier Support",
+  "market_hash_name": "Virtus.pro Silver to Gold Tier Support",
+  "market_name": "Virtus.pro Silver to Gold Tier Support",
+  "name_color": "D2D2D2",
+  "background_color": "",
+  "type": "Common Tool",
+  "tradable": "0",
+  "marketable": "0",
+  "commodity": "0",
+  "market_tradable_restriction": "7",
+  "market_marketable_restriction": "7",
+  "item_expiration": "2021-10-18T07:00:00Z",
+  "fraudwarnings": "",
+  "descriptions": {
+    "0": {
+      "type": "html",
+      "value": "This item cannot be listed on the Steam Community Market.",
+      "name": "attribute",
+      "app_data": ""
+    },
+    "1": {
+      "type": "html",
+      "value": " ",
+      "name": "attribute",
+      "app_data": ""
+    },
+    "2": {
+      "type": "html",
+      "value": "This item will expire on Oct 18, 2021 (0:00:00).",
+      "color": "ff4040",
+      "name": "attribute",
+      "app_data": ""
+    },
+    "3": {
+      "type": "html",
+      "value": " ",
+      "name": "attribute",
+      "app_data": ""
+    },
+    "4": {
+      "type": "html",
+      "value": "( Not Tradable or Deletable )",
+      "name": "attribute",
+      "app_data": ""
+    }
+  },
+  "owner_descriptions": "",
+  "tags": {
+    "0": {
+      "internal_name": "unique",
+      "name": "Standard",
+      "category": "Quality",
+      "color": "D2D2D2",
+      "category_name": "Quality"
+    },
+    "1": {
+      "internal_name": "Rarity_Common",
+      "name": "Common",
+      "category": "Rarity",
+      "color": "b0c3d9",
+      "category_name": "Rarity"
+    },
+    "2": {
+      "internal_name": "tool",
+      "name": "Tool",
+      "category": "Type",
+      "category_name": "Type"
+    },
+    "3": {
+      "internal_name": "none",
+      "name": "N/A",
+      "category": "Slot",
+      "category_name": "Slot"
+    },
+    "4": {
+      "internal_name": "DOTA_OtherType",
+      "name": "Other",
+      "category": "Hero",
+      "category_name": "Hero"
+    }
+  }
+}

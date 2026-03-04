@@ -1,0 +1,124 @@
+{
+  "appid": "570",
+  "classid": "973406471",
+  "instanceid": "0",
+  "is_currency": "0",
+  "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGJG51EejH-LGxsuyIGmS2llzy5P872bgUxT8jZjl-DBI0OG6abdlbvSVVjXFw-t0seBvTHi2xB514zzUy97_J3jFPFJ0D8ZyFrFbt0K4wNX5d7S1BDAH2UI",
+  "icon_url_large": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGJG51EejH-LGxsuyIGmS2llzy5P872bgUxT8jZjl-DBI0OG6abdlH_ySHGCVj78isrFqSX_gwUQk523Tw4v6J3-XPQZ0CsRwF-IL40PqmtzjMLy3sgzAy9US3xtaOsg",
+  "icon_drag_url": "",
+  "name": "Treasure of the Grimsneer's Stash",
+  "market_hash_name": "Treasure of the Grimsneer's Stash",
+  "market_name": "Treasure of the Grimsneer's Stash",
+  "name_color": "D2D2D2",
+  "background_color": "",
+  "type": "Rare Treasure chest",
+  "tradable": "1",
+  "marketable": "1",
+  "commodity": "0",
+  "market_tradable_restriction": "7",
+  "market_marketable_restriction": "7",
+  "fraudwarnings": "",
+  "descriptions": {
+    "0": {
+      "type": "html",
+      "value": "This treasure contains one of the following items:",
+      "name": "attribute",
+      "app_data": ""
+    },
+    "1": {
+      "type": "html",
+      "value": "Garb of the Frost Lord",
+      "color": "4b69ff",
+      "name": "attribute",
+      "app_data": ""
+    },
+    "2": {
+      "type": "html",
+      "value": "Wraps of the Winterbringer",
+      "color": "4b69ff",
+      "name": "attribute",
+      "app_data": ""
+    },
+    "3": {
+      "type": "html",
+      "value": "Covert Saboteur",
+      "color": "4b69ff",
+      "name": "attribute",
+      "app_data": ""
+    },
+    "4": {
+      "type": "html",
+      "value": "The Stumpgrinder",
+      "color": "4b69ff",
+      "name": "attribute",
+      "app_data": ""
+    },
+    "5": {
+      "type": "html",
+      "value": "Emberbark",
+      "color": "4b69ff",
+      "name": "attribute",
+      "app_data": ""
+    },
+    "6": {
+      "type": "html",
+      "value": " ",
+      "name": "attribute",
+      "app_data": ""
+    },
+    "7": {
+      "type": "html",
+      "value": "In addition, this treasure has a chance of containing:",
+      "name": "attribute",
+      "app_data": ""
+    },
+    "8": {
+      "type": "html",
+      "value": "Random courier w/ special FX and colors.",
+      "color": "d32ce6",
+      "name": "attribute",
+      "app_data": ""
+    },
+    "9": {
+      "type": "html",
+      "value": "No seal or key is needed to open this treasure, as it is already unlocked. 15% of the proceeds of each sale contributes towards joinDOTA MLG Pro League Season 2.",
+      "name": "attribute",
+      "app_data": ""
+    }
+  },
+  "owner_descriptions": "",
+  "tags": {
+    "0": {
+      "internal_name": "unique",
+      "name": "Standard",
+      "category": "Quality",
+      "color": "D2D2D2",
+      "category_name": "Quality"
+    },
+    "1": {
+      "internal_name": "Rarity_Rare",
+      "name": "Rare",
+      "category": "Rarity",
+      "color": "4b69ff",
+      "category_name": "Rarity"
+    },
+    "2": {
+      "internal_name": "treasure_chest",
+      "name": "Treasure",
+      "category": "Type",
+      "category_name": "Type"
+    },
+    "3": {
+      "internal_name": "none",
+      "name": "N/A",
+      "category": "Slot",
+      "category_name": "Slot"
+    },
+    "4": {
+      "internal_name": "DOTA_OtherType",
+      "name": "Other",
+      "category": "Hero",
+      "category_name": "Hero"
+    }
+  }
+}
