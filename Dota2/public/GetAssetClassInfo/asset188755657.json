@@ -1,0 +1,70 @@
+{
+  "appid": "570",
+  "classid": "188755657",
+  "instanceid": "0",
+  "is_currency": "0",
+  "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGJazz1j_VPnAwvWoIX6a2kF9_ZTk70vuTxrOmpPh-R1I6ubgPfY0I6TGVj6WxLgvsrc8G3i1zEgk5WXUyNercHuTZwIiCcR2RbEOtg74zIMeQg_hPg",
+  "icon_url_large": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttydbPaERSR0Wqmu7LAocGJazz1j_VPnAwvWoIX6a2kF9_ZTk70vuTxrOmpPh-R1I6uaRZKV_J_XdXmXCw7Ym4eA7Ti_ikE11tTzSyImvcyqSb1N0CpVxE7MLthG6ld3jPvSiuVKy-SUtEQ",
+  "icon_drag_url": "",
+  "name": "Whispering Dead Set",
+  "market_hash_name": "Whispering Dead Set",
+  "market_name": "Whispering Dead Set",
+  "name_color": "D2D2D2",
+  "background_color": "",
+  "type": "Rare Bundle",
+  "tradable": "1",
+  "marketable": "1",
+  "commodity": "0",
+  "market_tradable_restriction": "7",
+  "market_marketable_restriction": "7",
+  "fraudwarnings": "",
+  "descriptions": {
+    "0": {
+      "type": "html",
+      "value": "Used By: Templar Assassin",
+      "name": "attribute",
+      "app_data": ""
+    },
+    "1": {
+      "type": "html",
+      "value": "Contains all of the items in the 'Whispering Dead' set for Templar Assassin:",
+      "name": "attribute",
+      "app_data": ""
+    }
+  },
+  "owner_descriptions": "",
+  "tags": {
+    "0": {
+      "internal_name": "unique",
+      "name": "Standard",
+      "category": "Quality",
+      "color": "D2D2D2",
+      "category_name": "Quality"
+    },
+    "1": {
+      "internal_name": "Rarity_Rare",
+      "name": "Rare",
+      "category": "Rarity",
+      "color": "4b69ff",
+      "category_name": "Rarity"
+    },
+    "2": {
+      "internal_name": "bundle",
+      "name": "Bundle",
+      "category": "Type",
+      "category_name": "Type"
+    },
+    "3": {
+      "internal_name": "none",
+      "name": "N/A",
+      "category": "Slot",
+      "category_name": "Slot"
+    },
+    "4": {
+      "internal_name": "npc_dota_hero_templar_assassin",
+      "name": "Templar Assassin",
+      "category": "Hero",
+      "category_name": "Hero"
+    }
+  }
+}
