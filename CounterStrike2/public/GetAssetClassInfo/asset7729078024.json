@@ -19,7 +19,7 @@
   "commodity": "1",
   "market_tradable_restriction": "7",
   "market_marketable_restriction": "7",
-  "market_buy_country_restriction": "FR",
+  "market_buy_country_restriction": "NL,DE,FR",
   "descriptions": {
     "0": {
       "type": "html",

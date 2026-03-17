@@ -63,14 +63,14 @@
     "0": {
       "type": "inspect",
       "name": "Inspect in Game...",
-      "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D17007036678025630617"
+      "link": "steam://run/730//+csgo_econ_action_preview%2010001008CF3830103811201478106010D4DF9328"
     }
   },
   "market_actions": {
     "0": {
       "type": "inspect",
       "name": "Inspect in Game...",
-      "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D17007036678025630617"
+      "link": "steam://run/730//+csgo_econ_action_preview%2010001008CF3830103811201478106010D4DF9328"
     }
   },
   "tags": {
