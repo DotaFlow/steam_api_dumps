@@ -1,7 +1,7 @@
 {
-  "id": 1043,
-  "name": "special_bonus_unique_dragon_knight_9",
-  "name_loc": "+{s:bonus_damage} Breathe Fire Damage",
+  "id": 1814,
+  "name": "special_bonus_unique_clockwerk_rocket_flare_charges",
+  "name_loc": "{s:bonus_AbilityCharges} Rocket Flare Charges",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

@@ -1,7 +1,7 @@
 {
-  "id": 1043,
-  "name": "special_bonus_unique_dragon_knight_9",
-  "name_loc": "+{s:bonus_damage} Breathe Fire Damage",
+  "id": 1033,
+  "name": "special_bonus_unique_lifestealer_infest_damage",
+  "name_loc": "+{s:bonus_damage} Infest Damage",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

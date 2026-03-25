@@ -1,7 +1,7 @@
 {
-  "id": 1043,
-  "name": "special_bonus_unique_dragon_knight_9",
-  "name_loc": "+{s:bonus_damage} Breathe Fire Damage",
+  "id": 1798,
+  "name": "special_bonus_unique_necrophos_reaper_scythe_damage_per_health",
+  "name_loc": "+{s:bonus_damage_per_health} Reaper's Scythe Damage Per Missing HP",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

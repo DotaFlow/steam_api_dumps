@@ -1,7 +1,7 @@
 {
-  "id": 1043,
-  "name": "special_bonus_unique_dragon_knight_9",
-  "name_loc": "+{s:bonus_damage} Breathe Fire Damage",
+  "id": 1810,
+  "name": "special_bonus_unique_death_prophet_exorcism_duration_on_kill",
+  "name_loc": "Deaths During Exorcism Extend Duration By +{s:bonus_duration_increase_per_kill}s",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

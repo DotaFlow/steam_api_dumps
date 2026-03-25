@@ -1,7 +1,7 @@
 {
-  "id": 1043,
-  "name": "special_bonus_unique_dragon_knight_9",
-  "name_loc": "+{s:bonus_damage} Breathe Fire Damage",
+  "id": 1797,
+  "name": "special_bonus_unique_tinker_rearm_channel_time",
+  "name_loc": "-{s:bonus_AbilityChannelTime}s Time to Rearm",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

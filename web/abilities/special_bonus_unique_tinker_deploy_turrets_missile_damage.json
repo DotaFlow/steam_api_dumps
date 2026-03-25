@@ -1,7 +1,7 @@
 {
-  "id": 1043,
-  "name": "special_bonus_unique_dragon_knight_9",
-  "name_loc": "+{s:bonus_damage} Breathe Fire Damage",
+  "id": 1796,
+  "name": "special_bonus_unique_tinker_deploy_turrets_missile_damage",
+  "name_loc": "+{s:bonus_missile_damage} Deploy Turrets Missile Damage",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

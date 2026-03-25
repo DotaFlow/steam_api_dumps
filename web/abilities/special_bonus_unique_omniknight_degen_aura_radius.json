@@ -1,7 +1,7 @@
 {
-  "id": 1043,
-  "name": "special_bonus_unique_dragon_knight_9",
-  "name_loc": "+{s:bonus_damage} Breathe Fire Damage",
+  "id": 1815,
+  "name": "special_bonus_unique_omniknight_degen_aura_radius",
+  "name_loc": "+{s:bonus_radius} Degen Aura Radius",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

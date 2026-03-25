@@ -1,7 +1,7 @@
 {
-  "id": 1043,
-  "name": "special_bonus_unique_dragon_knight_9",
-  "name_loc": "+{s:bonus_damage} Breathe Fire Damage",
+  "id": 1799,
+  "name": "special_bonus_unique_venomancer_plague_spread",
+  "name_loc": "+{s:bonus_debuff_radius} Noxious Plague Spread Radius",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

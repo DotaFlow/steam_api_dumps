@@ -1,7 +1,7 @@
 {
-  "id": 1043,
-  "name": "special_bonus_unique_dragon_knight_9",
-  "name_loc": "+{s:bonus_damage} Breathe Fire Damage",
+  "id": 1812,
+  "name": "special_bonus_unique_luna_lunar_orbit_speed_damage",
+  "name_loc": "{s:bonus_rotating_glaive_collision_speed_damage_tooltip}x Lunar Orbit Damage / Speed",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

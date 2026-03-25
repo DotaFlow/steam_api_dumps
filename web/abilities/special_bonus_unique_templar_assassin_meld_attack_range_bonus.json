@@ -1,7 +1,7 @@
 {
-  "id": 1043,
-  "name": "special_bonus_unique_dragon_knight_9",
-  "name_loc": "+{s:bonus_damage} Breathe Fire Damage",
+  "id": 1811,
+  "name": "special_bonus_unique_templar_assassin_meld_attack_range_bonus",
+  "name_loc": "+{s:bonus_attack_range_bonus} Meld Attack Range",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

@@ -1,7 +1,7 @@
 {
-  "id": 1043,
-  "name": "special_bonus_unique_dragon_knight_9",
-  "name_loc": "+{s:bonus_damage} Breathe Fire Damage",
+  "id": 1813,
+  "name": "special_bonus_unique_dragon_knight_wyrms_wrath_damage",
+  "name_loc": "+{s:bonus_magic_damage}% Wyrm's Wrath Bonuses",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

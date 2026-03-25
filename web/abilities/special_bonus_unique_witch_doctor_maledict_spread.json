@@ -1,8 +1,8 @@
 {
-  "id": 1043,
-  "name": "special_bonus_unique_dragon_knight_9",
-  "name_loc": "+{s:bonus_damage} Breathe Fire Damage",
-  "desc_loc": "",
+  "id": 1794,
+  "name": "special_bonus_unique_witch_doctor_maledict_spread",
+  "name_loc": "Maledict bursts deal {s:bonus_spread_pct}% damage in a {s:bonus_spread_radius} AoE ",
+  "desc_loc": "Sends projectiles that deal {s:bonus_spread_pct}% of the burst damage at all enemy units within {s:bonus_spread_radius} range",
   "lore_loc": "",
   "notes_loc": [],
   "shard_loc": "",
