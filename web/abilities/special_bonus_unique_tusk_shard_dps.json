@@ -1,8 +1,8 @@
 {
-  "id": 1674,
-  "name": "special_bonus_unique_largo_8",
-  "name_loc": "2 Catchy Lick Charges",
-  "desc_loc": "",
+  "id": 1834,
+  "name": "special_bonus_unique_tusk_shard_dps",
+  "name_loc": "Ice Shards slow by {s:bonus_aghs_shard_move_slow}% and deal {s:bonus_aghs_shard_damage} DPS",
+  "desc_loc": "Applies to enemies trapped inside the Ice Shards",
   "lore_loc": "",
   "notes_loc": [],
   "shard_loc": "",

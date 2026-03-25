@@ -1,8 +1,8 @@
 {
-  "id": 1674,
-  "name": "special_bonus_unique_largo_8",
-  "name_loc": "2 Catchy Lick Charges",
-  "desc_loc": "",
+  "id": 1843,
+  "name": "special_bonus_unique_dawnbreaker_celestial_hammer_targets_allies",
+  "name_loc": "Celestial Hammer Trail Grants Movement Speed to Allies",
+  "desc_loc": "Bonus movement speed is equal to the movement slow",
   "lore_loc": "",
   "notes_loc": [],
   "shard_loc": "",

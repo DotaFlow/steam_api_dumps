@@ -1,7 +1,7 @@
 {
-  "id": 1674,
-  "name": "special_bonus_unique_largo_8",
-  "name_loc": "2 Catchy Lick Charges",
+  "id": 1840,
+  "name": "special_bonus_unique_terrorblade_sunder_hp_threshold",
+  "name_loc": "-{s:bonus_hit_point_minimum_pct}% Sunder Minimum HP Swap",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],
