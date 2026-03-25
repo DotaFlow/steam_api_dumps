@@ -1,15 +1,15 @@
 {
-  "id": 1388,
-  "name": "skywrath_mage_ruin_and_restoration",
-  "name_loc": "Ruin and Restoration",
-  "desc_loc": "Skywrath Mage has %spell_lifesteal%%% Spell Lifesteal.",
+  "id": 1780,
+  "name": "winter_wyvern_accelerated_learning",
+  "name_loc": "Eldwurm Studies",
+  "desc_loc": "Winter Wyvern can skill this ability to reduce all ability and talent level requirements by 1. On the next level up, Winter Wyvern will receive an additional ability point for every level that was put into Eldwurm Studies since the last level up.",
   "lore_loc": "",
   "notes_loc": [],
   "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
   "type": 0,
-  "behavior": "66",
+  "behavior": "8796093022211",
   "target_team": 0,
   "target_type": 0,
   "flags": 0,
@@ -45,22 +45,13 @@
   "health_costs": [],
   "special_values": [
     {
-      "name": "spell_lifesteal",
+      "name": "levels_between_upgrades",
       "values_float": [
-        25,
-        30,
-        35,
-        40
+        5
       ],
       "is_percentage": false,
       "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_skywrath_arcane_bolt_lifesteal",
-          "value": 20,
-          "operation": 0
-        }
-      ],
+      "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -76,7 +67,7 @@
   "ability_has_shard": false,
   "ability_is_granted_by_scepter": false,
   "ability_is_granted_by_shard": false,
-  "ability_is_innate": false,
+  "ability_is_innate": true,
   "item_cost": 0,
   "item_initial_charges": 0,
   "item_neutral_tier": 4294967295,

@@ -1,39 +1,37 @@
 {
-  "id": 5601,
-  "name": "techies_suicide",
-  "name_loc": "Blast Off!",
-  "desc_loc": "Techies hurtle themselves into the enemy's midst, detonating charges upon impact which deal massive area of effect damage and stun enemies. Upon landing, the assault deals Techies non-lethal damage equal to a percentage of their current health.",
-  "lore_loc": "Where we going?",
+  "id": 1777,
+  "name": "techies_snare_trap",
+  "name_loc": "Snare Trap",
+  "desc_loc": "Plant an invisible trap that, when triggered by a player-controlled target, does a small amount of damage over time and slows enemy cast speed. Affected units are also tethered inside of the trap radius. Snare Traps take %activation_time% seconds to activate and last for up to %duration% seconds.",
+  "lore_loc": "",
   "notes_loc": [
-    "The self-damage Techies receive from this blast is pure and non-lethal.",
-    "This ability destroys trees."
+    "Snare Traps destroy all other Snare Traps in their area of effect when they detonate.",
+    "Snare Traps are not triggered by invisible units.",
+    "Snare Traps do not block neutral creep camps from spawning."
   ],
   "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
   "type": 0,
-  "behavior": "67633200",
-  "target_team": 2,
+  "behavior": "8657043505",
+  "target_team": 0,
   "target_type": 0,
   "flags": 0,
   "damage": 2,
   "immunity": 4,
   "dispellable": 2,
-  "max_level": 4,
+  "max_level": 1,
   "cast_ranges": [
-    1000
+    150
   ],
   "cast_points": [
-    1
+    0.6
   ],
   "channel_times": [
     0
   ],
   "cooldowns": [
-    40,
-    35,
-    30,
-    25
+    16
   ],
   "durations": [
     0
@@ -45,21 +43,35 @@
     0
   ],
   "mana_costs": [
-    100,
-    125,
-    150,
-    175
+    140
   ],
   "gold_costs": [],
   "health_costs": [],
   "special_values": [
     {
-      "name": "radius",
+      "name": "activation_radius",
+      "values_float": [
+        250
+      ],
+      "is_percentage": false,
+      "heading_loc": "TRIGGER RADIUS:",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "effect_radius",
       "values_float": [
         400
       ],
       "is_percentage": false,
-      "heading_loc": "EXPLOSION RADIUS:",
+      "heading_loc": "TRAP RADIUS:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -71,72 +83,9 @@
       "required_facet": ""
     },
     {
-      "name": "damage",
+      "name": "activation_time",
       "values_float": [
-        200,
-        300,
-        400,
-        500
-      ],
-      "is_percentage": false,
-      "heading_loc": "FULL DAMAGE:",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_techies",
-          "value": 200,
-          "operation": 0
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "stun_duration",
-      "values_float": [
-        0.8,
-        1,
-        1.2,
-        1.4
-      ],
-      "is_percentage": false,
-      "heading_loc": "STUN DURATION:",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "hp_cost",
-      "values_float": [
-        20
-      ],
-      "is_percentage": true,
-      "heading_loc": "CURRENT HP SELF DAMAGE:",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "duration",
-      "values_float": [
-        0.75
+        2
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -151,9 +100,111 @@
       "required_facet": ""
     },
     {
+      "name": "fade_time",
+      "values_float": [
+        2
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "duration",
+      "values_float": [
+        300
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "damage",
+      "values_float": [
+        75
+      ],
+      "is_percentage": false,
+      "heading_loc": "DAMAGE PER SECOND:",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "damage_interval",
+      "values_float": [
+        0.25
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "effect_duration",
+      "values_float": [
+        4
+      ],
+      "is_percentage": false,
+      "heading_loc": "DURATION:",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "cast_slow_pct",
+      "values_float": [
+        100
+      ],
+      "is_percentage": true,
+      "heading_loc": "CAST SPEED SLOW:",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
       "name": "AbilityCastRange",
       "values_float": [
-        1000
+        150
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -170,7 +221,7 @@
     {
       "name": "AbilityCastPoint",
       "values_float": [
-        1
+        0.6
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -187,10 +238,7 @@
     {
       "name": "AbilityManaCost",
       "values_float": [
-        100,
-        125,
-        150,
-        175
+        140
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -207,20 +255,11 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
-        40,
-        35,
-        30,
-        25
+        16
       ],
       "is_percentage": false,
       "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_techies_5",
-          "value": 15,
-          "operation": 2
-        }
-      ],
+      "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {

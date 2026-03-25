@@ -1,27 +1,22 @@
 {
-  "id": 5551,
-  "name": "bristleback_warpath",
-  "name_loc": "Warpath",
-  "desc_loc": "Bristleback works himself up into a fury every time he casts a spell, increasing his movement speed and damage.",
-  "lore_loc": "'Temper, temper,' his mum always chided.  But in a fight, a temper can come in handy.",
-  "notes_loc": [
-    "Bristleback's illusions will receive the bonuses.",
-    "Items will not trigger Warpath.",
-    "Break disables the gaining of new stacks.",
-    "Break does not disable the bonuses from existing stacks."
-  ],
+  "id": 1771,
+  "name": "bristleback_brawlers_grit",
+  "name_loc": "Brawler's Grit",
+  "desc_loc": "Every time Bristleback is Stunned, Hexed, Feared, Taunted, or Rooted he gains a stacking buff for %duration%s that provides status resistance and debuff amplificiation, up to a maximum of %max_stacks% stacks.",
+  "lore_loc": "",
+  "notes_loc": [],
   "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
-  "type": 1,
-  "behavior": "2",
+  "type": 0,
+  "behavior": "8796093022210",
   "target_team": 0,
   "target_type": 0,
   "flags": 0,
   "damage": 0,
-  "immunity": 0,
-  "dispellable": 3,
-  "max_level": 3,
+  "immunity": 4,
+  "dispellable": 2,
+  "max_level": 1,
   "cast_ranges": [
     0
   ],
@@ -50,74 +45,9 @@
   "health_costs": [],
   "special_values": [
     {
-      "name": "damage_per_stack",
+      "name": "duration",
       "values_float": [
-        15,
-        20,
-        25
-      ],
-      "is_percentage": false,
-      "heading_loc": "DAMAGE PER STACK:",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_bristleback_3",
-          "value": 18,
-          "operation": 0
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "aspd_per_stack",
-      "values_float": [
-        0,
-        0,
-        0
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "move_speed_per_stack",
-      "values_float": [
-        2,
-        2.5,
-        3
-      ],
-      "is_percentage": true,
-      "heading_loc": "MOVEMENT PER STACK:",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "stack_duration",
-      "values_float": [
-        16,
-        18,
-        20
+        8
       ],
       "is_percentage": false,
       "heading_loc": "STACK DURATION:",
@@ -134,12 +64,44 @@
     {
       "name": "max_stacks",
       "values_float": [
-        8,
-        10,
-        12
+        4
       ],
       "is_percentage": false,
       "heading_loc": "MAX STACKS:",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "status_resist_pct",
+      "values_float": [
+        5.7
+      ],
+      "is_percentage": true,
+      "heading_loc": "STATUS RESIST PER STACK:",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "debuff_amp_pct",
+      "values_float": [
+        2.9
+      ],
+      "is_percentage": true,
+      "heading_loc": "DEBUFF AMPLIFICATION PER STACK:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -156,7 +118,7 @@
   "ability_has_shard": false,
   "ability_is_granted_by_scepter": false,
   "ability_is_granted_by_shard": false,
-  "ability_is_innate": false,
+  "ability_is_innate": true,
   "item_cost": 0,
   "item_initial_charges": 0,
   "item_neutral_tier": 4294967295,

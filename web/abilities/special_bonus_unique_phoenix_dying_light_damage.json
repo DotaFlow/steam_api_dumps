@@ -1,15 +1,15 @@
 {
-  "id": 1388,
-  "name": "skywrath_mage_ruin_and_restoration",
-  "name_loc": "Ruin and Restoration",
-  "desc_loc": "Skywrath Mage has %spell_lifesteal%%% Spell Lifesteal.",
+  "id": 1775,
+  "name": "special_bonus_unique_phoenix_dying_light_damage",
+  "name_loc": "+{s:bonus_damage_pct}% Dying Light Missing Health as Damage",
+  "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],
   "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
-  "type": 0,
-  "behavior": "66",
+  "type": 2,
+  "behavior": "2",
   "target_team": 0,
   "target_type": 0,
   "flags": 0,
@@ -43,34 +43,7 @@
   ],
   "gold_costs": [],
   "health_costs": [],
-  "special_values": [
-    {
-      "name": "spell_lifesteal",
-      "values_float": [
-        25,
-        30,
-        35,
-        40
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_skywrath_arcane_bolt_lifesteal",
-          "value": 20,
-          "operation": 0
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    }
-  ],
+  "special_values": [],
   "is_item": false,
   "ability_has_scepter": false,
   "ability_has_shard": false,
