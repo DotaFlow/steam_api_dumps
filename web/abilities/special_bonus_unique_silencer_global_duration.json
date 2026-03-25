@@ -1,7 +1,7 @@
 {
-  "id": 7375,
-  "name": "special_bonus_unique_outworld_devourer_4",
-  "name_loc": "+{s:bonus_mana_capacity_steal}% Astral Imprisonment Mana Capacity Steal",
+  "id": 1825,
+  "name": "special_bonus_unique_silencer_global_duration",
+  "name_loc": "+{s:bonus_AbilityDuration}s Global Silence Duration",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

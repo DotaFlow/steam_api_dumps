@@ -1,7 +1,7 @@
 {
-  "id": 7375,
-  "name": "special_bonus_unique_outworld_devourer_4",
-  "name_loc": "+{s:bonus_mana_capacity_steal}% Astral Imprisonment Mana Capacity Steal",
+  "id": 1827,
+  "name": "special_bonus_unique_outworld_devourer_barrier",
+  "name_loc": "-{s:bonus_AbilityCooldown}s Objurgation Cooldown",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

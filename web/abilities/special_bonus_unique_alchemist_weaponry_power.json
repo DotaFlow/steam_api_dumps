@@ -1,7 +1,7 @@
 {
-  "id": 7375,
-  "name": "special_bonus_unique_outworld_devourer_4",
-  "name_loc": "+{s:bonus_mana_capacity_steal}% Astral Imprisonment Mana Capacity Steal",
+  "id": 1823,
+  "name": "special_bonus_unique_alchemist_weaponry_power",
+  "name_loc": "+{s:bonus_slow_per_stack}% Corrosive Weaponry Slow / Damage Reduction Per Stack",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

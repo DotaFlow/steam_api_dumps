@@ -1,7 +1,7 @@
 {
-  "id": 7375,
-  "name": "special_bonus_unique_outworld_devourer_4",
-  "name_loc": "+{s:bonus_mana_capacity_steal}% Astral Imprisonment Mana Capacity Steal",
+  "id": 1831,
+  "name": "special_bonus_unique_rubick_curiosity_factor",
+  "name_loc": "{s:bonus_curiosity_factor}x Curiosity Bonuses",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

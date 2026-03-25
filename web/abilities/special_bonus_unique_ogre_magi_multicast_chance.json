@@ -1,7 +1,7 @@
 {
-  "id": 7375,
-  "name": "special_bonus_unique_outworld_devourer_4",
-  "name_loc": "+{s:bonus_mana_capacity_steal}% Astral Imprisonment Mana Capacity Steal",
+  "id": 1829,
+  "name": "special_bonus_unique_ogre_magi_multicast_chance",
+  "name_loc": "+{s:bonus_multicast_2_times}% Multicast Chance",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

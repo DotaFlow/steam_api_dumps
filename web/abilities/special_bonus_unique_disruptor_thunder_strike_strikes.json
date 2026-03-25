@@ -1,8 +1,8 @@
 {
-  "id": 7375,
-  "name": "special_bonus_unique_outworld_devourer_4",
-  "name_loc": "+{s:bonus_mana_capacity_steal}% Astral Imprisonment Mana Capacity Steal",
-  "desc_loc": "",
+  "id": 1832,
+  "name": "special_bonus_unique_disruptor_thunder_strike_strikes",
+  "name_loc": "+{s:bonus_strikes} Thunder Strike Strikes",
+  "desc_loc": "Strikes are 50% faster",
   "lore_loc": "",
   "notes_loc": [],
   "shard_loc": "",

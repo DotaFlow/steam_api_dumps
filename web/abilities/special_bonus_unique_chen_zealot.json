@@ -1,7 +1,7 @@
 {
-  "id": 7375,
-  "name": "special_bonus_unique_outworld_devourer_4",
-  "name_loc": "+{s:bonus_mana_capacity_steal}% Astral Imprisonment Mana Capacity Steal",
+  "id": 1818,
+  "name": "special_bonus_unique_chen_zealot",
+  "name_loc": "+{s:bonus_damage}% Zealot Health/Damage",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

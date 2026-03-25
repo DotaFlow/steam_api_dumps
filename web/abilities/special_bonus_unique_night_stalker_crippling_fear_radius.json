@@ -1,7 +1,7 @@
 {
-  "id": 7375,
-  "name": "special_bonus_unique_outworld_devourer_4",
-  "name_loc": "+{s:bonus_mana_capacity_steal}% Astral Imprisonment Mana Capacity Steal",
+  "id": 1816,
+  "name": "special_bonus_unique_night_stalker_crippling_fear_radius",
+  "name_loc": "+{s:bonus_radius} Crippling Fear Radius",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

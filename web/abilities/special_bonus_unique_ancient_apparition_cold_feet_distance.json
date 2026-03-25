@@ -1,7 +1,7 @@
 {
-  "id": 7375,
-  "name": "special_bonus_unique_outworld_devourer_4",
-  "name_loc": "+{s:bonus_mana_capacity_steal}% Astral Imprisonment Mana Capacity Steal",
+  "id": 1820,
+  "name": "special_bonus_unique_ancient_apparition_cold_feet_distance",
+  "name_loc": "+{s:bonus_break_distance} Cold Feet Break Distance",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

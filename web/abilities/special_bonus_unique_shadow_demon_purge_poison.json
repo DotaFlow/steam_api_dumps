@@ -1,8 +1,8 @@
 {
-  "id": 7375,
-  "name": "special_bonus_unique_outworld_devourer_4",
-  "name_loc": "+{s:bonus_mana_capacity_steal}% Astral Imprisonment Mana Capacity Steal",
-  "desc_loc": "",
+  "id": 1828,
+  "name": "special_bonus_unique_shadow_demon_purge_poison",
+  "name_loc": "Demonic Purge Applies Shadow Poison",
+  "desc_loc": "1 Shadow Poison Stack is applied per second",
   "lore_loc": "",
   "notes_loc": [],
   "shard_loc": "",

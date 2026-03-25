@@ -1,7 +1,7 @@
 {
-  "id": 7375,
-  "name": "special_bonus_unique_outworld_devourer_4",
-  "name_loc": "+{s:bonus_mana_capacity_steal}% Astral Imprisonment Mana Capacity Steal",
+  "id": 1824,
+  "name": "special_bonus_unique_silencer_brain_drain_damage",
+  "name_loc": "+{s:bonus_damage_pct}% Suffer In Silence Silenced Target Damage",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],
