@@ -1,7 +1,7 @@
 {
-  "id": 1615,
-  "name": "special_bonus_unique_zeus_6",
-  "name_loc": "-{s:bonus_AbilityCooldown}% Arc Lightning Mana Cost / Cooldown",
+  "id": 1789,
+  "name": "special_bonus_unique_nevermore_frenzy_max_collection_count",
+  "name_loc": "+{s:bonus_soul_collection_per_hero} Feast of Souls Souls Collected Per Hero",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

@@ -1,7 +1,7 @@
 {
-  "id": 1615,
-  "name": "special_bonus_unique_zeus_6",
-  "name_loc": "-{s:bonus_AbilityCooldown}% Arc Lightning Mana Cost / Cooldown",
+  "id": 1787,
+  "name": "special_bonus_unique_juggernaut_omnislash_cooldown",
+  "name_loc": "-{s:bonus_AbilityCooldown}s Omnislash Cooldown",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

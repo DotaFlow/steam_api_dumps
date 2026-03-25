@@ -1,7 +1,7 @@
 {
-  "id": 1615,
-  "name": "special_bonus_unique_zeus_6",
-  "name_loc": "-{s:bonus_AbilityCooldown}% Arc Lightning Mana Cost / Cooldown",
+  "id": 1786,
+  "name": "special_bonus_unique_crystal_maiden_glacial_guard_mana_multiplier",
+  "name_loc": "+{s:bonus_mana_multiplier}% Glacial Guard Mana Spent To Barrier",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

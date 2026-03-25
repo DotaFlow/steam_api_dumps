@@ -1,7 +1,7 @@
 {
-  "id": 1615,
-  "name": "special_bonus_unique_zeus_6",
-  "name_loc": "-{s:bonus_AbilityCooldown}% Arc Lightning Mana Cost / Cooldown",
+  "id": 1790,
+  "name": "special_bonus_unique_sven_stormhammer_cooldown",
+  "name_loc": "-{s:bonus_AbilityCooldown}% Storm Hammer Cooldown and Mana Cost",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

@@ -1,7 +1,7 @@
 {
-  "id": 1615,
-  "name": "special_bonus_unique_zeus_6",
-  "name_loc": "-{s:bonus_AbilityCooldown}% Arc Lightning Mana Cost / Cooldown",
+  "id": 1230,
+  "name": "special_bonus_unique_sand_king_scorpion_strike_damage",
+  "name_loc": "+{s:bonus_attack_damage} Stinger Damage",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],
