@@ -11,7 +11,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 600,
@@ -22,7 +23,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 603,
@@ -33,7 +35,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 604,
@@ -44,7 +47,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 606,
@@ -62,7 +66,8 @@
                 58
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 607,
@@ -80,7 +85,8 @@
                 52
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 608,
@@ -98,7 +104,8 @@
                 53
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 2,
@@ -109,7 +116,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 3,
@@ -120,7 +128,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 4,
@@ -131,7 +140,20 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1847,
+          "name": "item_splintmail",
+          "name_loc": "Splintmail",
+          "name_english_loc": "Splintmail",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 5,
@@ -142,7 +164,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 6,
@@ -153,7 +176,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 7,
@@ -164,7 +188,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 8,
@@ -175,7 +200,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 9,
@@ -186,7 +212,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 10,
@@ -197,7 +224,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 11,
@@ -208,7 +236,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 237,
@@ -219,7 +248,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 265,
@@ -230,7 +260,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 244,
@@ -241,7 +272,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 12,
@@ -252,7 +284,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 182,
@@ -263,7 +296,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 246,
@@ -281,7 +315,8 @@
                 55
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 247,
@@ -292,7 +327,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 13,
@@ -303,7 +339,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 14,
@@ -314,7 +351,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 15,
@@ -325,7 +363,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 16,
@@ -336,7 +375,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 17,
@@ -347,7 +387,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 18,
@@ -358,7 +399,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 19,
@@ -369,7 +411,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 20,
@@ -380,7 +423,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 261,
@@ -391,7 +435,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1122,
@@ -402,7 +447,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 21,
@@ -413,7 +459,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 22,
@@ -424,7 +471,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 23,
@@ -435,7 +483,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 24,
@@ -446,7 +495,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 25,
@@ -457,7 +507,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 485,
@@ -468,7 +519,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 26,
@@ -479,7 +531,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 473,
@@ -490,7 +543,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 27,
@@ -501,7 +555,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 28,
@@ -512,7 +567,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 29,
@@ -523,7 +579,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 30,
@@ -534,7 +591,20 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1848,
+          "name": "item_shawl",
+          "name_loc": "Shawl",
+          "name_english_loc": "Shawl",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 31,
@@ -545,7 +615,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 32,
@@ -556,7 +627,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 33,
@@ -567,7 +639,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 34,
@@ -578,7 +651,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 35,
@@ -597,7 +671,8 @@
                 16
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 36,
@@ -608,7 +683,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 37,
@@ -619,7 +695,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 38,
@@ -630,7 +707,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 216,
@@ -641,7 +719,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 4204,
@@ -652,7 +731,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 4205,
@@ -663,7 +743,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 4206,
@@ -674,7 +755,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 4207,
@@ -693,7 +775,8 @@
                 4204
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 4208,
@@ -711,7 +794,8 @@
                 4205
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 1123,
@@ -722,7 +806,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1154,
@@ -733,7 +818,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 39,
@@ -744,7 +830,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 40,
@@ -755,7 +842,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 41,
@@ -766,7 +854,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 42,
@@ -777,7 +866,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 43,
@@ -788,7 +878,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 217,
@@ -824,7 +915,8 @@
                 218
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 218,
@@ -835,7 +927,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 44,
@@ -846,7 +939,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 241,
@@ -857,7 +951,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 45,
@@ -868,7 +963,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 286,
@@ -879,7 +975,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 46,
@@ -890,7 +987,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 47,
@@ -907,7 +1005,8 @@
                 29
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 219,
@@ -925,7 +1024,8 @@
                 47
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 48,
@@ -936,7 +1036,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 220,
@@ -947,7 +1048,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 49,
@@ -966,7 +1068,8 @@
                 2
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 50,
@@ -977,7 +1080,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 51,
@@ -988,7 +1092,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 52,
@@ -999,7 +1104,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 53,
@@ -1010,7 +1116,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 54,
@@ -1021,7 +1128,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 55,
@@ -1032,7 +1140,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 56,
@@ -1043,7 +1152,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 279,
@@ -1054,7 +1164,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 57,
@@ -1065,7 +1176,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1802,
@@ -1076,7 +1188,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 58,
@@ -1087,7 +1200,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 59,
@@ -1098,7 +1212,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 60,
@@ -1109,7 +1224,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 61,
@@ -1120,7 +1236,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 593,
@@ -1131,7 +1248,20 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1849,
+          "name": "item_wizard_hat",
+          "name_loc": "Wizard Hat",
+          "name_english_loc": "Wizard Hat",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 62,
@@ -1164,7 +1294,8 @@
                 18
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 63,
@@ -1175,138 +1306,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 1098,
-          "name": "item_recipe_samurai_tabi",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": [
-            {
-              "items": [
-                17,
-                18,
-                19,
-                24
-              ]
-            }
-          ]
-        },
-        {
-          "id": 1091,
-          "name": "item_samurai_tabi",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": true,
-          "recipes": []
-        },
-        {
-          "id": 1092,
-          "name": "item_recipe_hermes_sandals",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": [
-            {
-              "items": [
-                50,
-                52
-              ]
-            }
-          ]
-        },
-        {
-          "id": 1093,
-          "name": "item_hermes_sandals",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": true,
-          "recipes": []
-        },
-        {
-          "id": 1099,
-          "name": "item_recipe_witches_switch",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": [
-            {
-              "items": [
-                86,
-                88,
-                94
-              ]
-            }
-          ]
-        },
-        {
-          "id": 1100,
-          "name": "item_witches_switch",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": true,
-          "recipes": []
-        },
-        {
-          "id": 653,
-          "name": "item_recipe_grandmasters_glaive",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 1094,
-          "name": "item_recipe_lunar_crest",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": [
-            {
-              "items": [
-                31,
-                244,
-                61
-              ]
-            }
-          ]
-        },
-        {
-          "id": 1095,
-          "name": "item_lunar_crest",
-          "name_loc": "Lunar Crest",
-          "name_english_loc": "Lunar Crest",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1106,
@@ -1320,11 +1321,12 @@
           "recipes": [
             {
               "items": [
-                1122,
-                69
+                69,
+                1122
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 1107,
@@ -1335,7 +1337,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1807,
@@ -1353,7 +1356,8 @@
                 129
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 1808,
@@ -1364,18 +1368,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
-        },
-        {
-          "id": 655,
-          "name": "item_grandmasters_glaive",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 64,
@@ -1392,7 +1386,8 @@
                 25
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 65,
@@ -1403,18 +1398,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
-        },
-        {
-          "id": 1164,
-          "name": "item_aetherial_halo",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 66,
@@ -1429,11 +1414,12 @@
             {
               "items": [
                 485,
-                28,
-                19
+                19,
+                28
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 67,
@@ -1444,7 +1430,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 533,
@@ -1463,7 +1450,8 @@
                 181
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 534,
@@ -1474,7 +1462,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 68,
@@ -1492,7 +1481,8 @@
                 57
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 69,
@@ -1503,7 +1493,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1125,
@@ -1514,7 +1505,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 70,
@@ -1525,7 +1517,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 71,
@@ -1536,18 +1529,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 731,
-          "name": "item_satchel",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 72,
@@ -1565,7 +1548,8 @@
                 13
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 73,
@@ -1576,7 +1560,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 74,
@@ -1594,7 +1579,8 @@
                 14
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 75,
@@ -1605,7 +1591,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 76,
@@ -1623,7 +1610,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 77,
@@ -1634,7 +1622,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 78,
@@ -1652,7 +1641,8 @@
                 4
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 79,
@@ -1663,7 +1653,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 80,
@@ -1683,7 +1674,8 @@
                 2
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 81,
@@ -1694,7 +1686,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 907,
@@ -1712,7 +1705,8 @@
                 60
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 908,
@@ -1723,7 +1717,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 85,
@@ -1740,7 +1735,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 86,
@@ -1751,7 +1747,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 87,
@@ -1768,7 +1765,8 @@
                 28
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 88,
@@ -1779,7 +1777,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 268,
@@ -1797,7 +1796,8 @@
                 261
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 269,
@@ -1808,7 +1808,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 89,
@@ -1822,12 +1823,13 @@
           "recipes": [
             {
               "items": [
+                279,
                 31,
-                94,
-                279
+                1848
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 90,
@@ -1838,7 +1840,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 91,
@@ -1852,12 +1855,13 @@
           "recipes": [
             {
               "items": [
-                20,
                 28,
-                12
+                12,
+                20
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 92,
@@ -1868,7 +1872,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 93,
@@ -1885,7 +1890,8 @@
                 27
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 94,
@@ -1896,7 +1902,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 95,
@@ -1914,7 +1921,8 @@
                 1802
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 96,
@@ -1925,7 +1933,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1801,
@@ -1936,7 +1945,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 97,
@@ -1951,10 +1961,11 @@
             {
               "items": [
                 67,
-                1125
+                5
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 98,
@@ -1965,7 +1976,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 245,
@@ -1980,11 +1992,12 @@
             {
               "items": [
                 98,
-                7,
-                55
+                67,
+                7
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 250,
@@ -1995,7 +2008,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 251,
@@ -2014,7 +2028,8 @@
                 57
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 252,
@@ -2025,7 +2040,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 99,
@@ -2044,7 +2060,8 @@
                 244
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 100,
@@ -2055,7 +2072,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 612,
@@ -2073,7 +2091,8 @@
                 58
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 610,
@@ -2084,7 +2103,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 233,
@@ -2102,7 +2122,8 @@
                 57
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 232,
@@ -2113,7 +2134,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 101,
@@ -2131,7 +2153,8 @@
                 593
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 102,
@@ -2142,7 +2165,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 262,
@@ -2160,7 +2184,8 @@
                 236
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 263,
@@ -2171,7 +2196,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 103,
@@ -2185,11 +2211,13 @@
           "recipes": [
             {
               "items": [
-                1122,
-                473
+                60,
+                261,
+                1849
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 197,
@@ -2207,7 +2235,8 @@
                 103
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 198,
@@ -2225,7 +2254,8 @@
                 103
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 199,
@@ -2243,7 +2273,8 @@
                 103
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 200,
@@ -2261,7 +2292,8 @@
                 103
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 104,
@@ -2272,7 +2304,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 201,
@@ -2283,7 +2316,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 202,
@@ -2294,7 +2328,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 203,
@@ -2305,7 +2340,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 204,
@@ -2316,7 +2352,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 105,
@@ -2335,7 +2372,8 @@
                 17
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 191,
@@ -2353,7 +2391,8 @@
                 105
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 192,
@@ -2371,7 +2410,8 @@
                 105
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 106,
@@ -2382,7 +2422,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 193,
@@ -2393,7 +2434,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 194,
@@ -2404,7 +2446,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 107,
@@ -2424,7 +2467,8 @@
                 22
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 108,
@@ -2435,7 +2479,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 270,
@@ -2452,7 +2497,8 @@
                 108
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 271,
@@ -2463,7 +2509,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 727,
@@ -2474,7 +2521,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 609,
@@ -2485,7 +2533,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 725,
@@ -2496,7 +2545,20 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1850,
+          "name": "item_eldwurms_edda",
+          "name_loc": "Eldwurm's Edda",
+          "name_english_loc": "Eldwurm's Edda",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 109,
@@ -2514,7 +2576,8 @@
                 1802
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 110,
@@ -2525,7 +2588,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 111,
@@ -2539,12 +2603,13 @@
           "recipes": [
             {
               "items": [
-                9,
+                86,
                 55,
-                86
+                9
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 112,
@@ -2555,7 +2620,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 113,
@@ -2569,11 +2635,12 @@
           "recipes": [
             {
               "items": [
-                279,
-                53
+                53,
+                279
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 114,
@@ -2584,7 +2651,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 115,
@@ -2598,11 +2666,12 @@
           "recipes": [
             {
               "items": [
-                21,
-                8
+                8,
+                21
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 116,
@@ -2613,7 +2682,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 117,
@@ -2624,7 +2694,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 118,
@@ -2638,11 +2709,13 @@
           "recipes": [
             {
               "items": [
-                190,
-                9
+                9,
+                1847,
+                1872
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 119,
@@ -2653,7 +2726,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 120,
@@ -2667,12 +2741,12 @@
           "recipes": [
             {
               "items": [
-                473,
-                129,
-                57
+                190,
+                129
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 121,
@@ -2683,7 +2757,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 122,
@@ -2697,11 +2772,12 @@
           "recipes": [
             {
               "items": [
-                24,
-                69
+                69,
+                24
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 123,
@@ -2712,7 +2788,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 221,
@@ -2731,7 +2808,8 @@
                 59
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 226,
@@ -2742,7 +2820,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 222,
@@ -2756,11 +2835,12 @@
           "recipes": [
             {
               "items": [
-                261,
-                259
+                259,
+                261
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 223,
@@ -2771,7 +2851,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 224,
@@ -2786,10 +2867,11 @@
             {
               "items": [
                 54,
-                6
+                1847
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 225,
@@ -2800,7 +2882,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 255,
@@ -2818,7 +2901,8 @@
                 59
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 256,
@@ -2829,7 +2913,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 258,
@@ -2847,7 +2932,8 @@
                 19
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 259,
@@ -2858,7 +2944,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 369,
@@ -2869,18 +2956,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 276,
-          "name": "item_combo_breaker",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 260,
@@ -2891,7 +2968,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 266,
@@ -2909,7 +2987,8 @@
                 1122
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 267,
@@ -2920,7 +2999,40 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1851,
+          "name": "item_recipe_essence_distiller",
+          "name_loc": "Essence Distiller Recipe",
+          "name_english_loc": "Essence Distiller Recipe",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [
+            {
+              "items": [
+                92,
+                4,
+                1849
+              ]
+            }
+          ],
+          "is_innate": false
+        },
+        {
+          "id": 1852,
+          "name": "item_essence_distiller",
+          "name_loc": "Essence Distiller",
+          "name_english_loc": "Essence Distiller",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": true,
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 124,
@@ -2934,11 +3046,12 @@
           "recipes": [
             {
               "items": [
-                56,
-                61
+                61,
+                56
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 125,
@@ -2949,7 +3062,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 243,
@@ -2967,7 +3081,8 @@
                 6
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 242,
@@ -2978,7 +3093,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 126,
@@ -2993,10 +3109,11 @@
             {
               "items": [
                 3,
-                4
+                1847
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 127,
@@ -3007,7 +3124,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 128,
@@ -3021,12 +3139,13 @@
           "recipes": [
             {
               "items": [
+                60,
                 61,
-                59,
-                60
+                59
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 129,
@@ -3037,7 +3156,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 130,
@@ -3048,7 +3168,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 131,
@@ -3059,7 +3180,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 691,
@@ -3078,7 +3200,8 @@
                 61
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 692,
@@ -3089,7 +3212,71 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1853,
+          "name": "item_recipe_consecrated_wraps",
+          "name_loc": "Consecrated Wraps Recipe",
+          "name_english_loc": "Consecrated Wraps Recipe",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [
+            {
+              "items": [
+                61,
+                1848,
+                261
+              ]
+            }
+          ],
+          "is_innate": false
+        },
+        {
+          "id": 1854,
+          "name": "item_consecrated_wraps",
+          "name_loc": "Consecrated Wraps",
+          "name_english_loc": "Consecrated Wraps",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": true,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1855,
+          "name": "item_recipe_crellas_crozier",
+          "name_loc": "Crella's Crozier Recipe",
+          "name_english_loc": "Crella's Crozier Recipe",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [
+            {
+              "items": [
+                37,
+                129
+              ]
+            }
+          ],
+          "is_innate": false
+        },
+        {
+          "id": 1856,
+          "name": "item_crellas_crozier",
+          "name_loc": "Crella's Crozier",
+          "name_english_loc": "Crella's Crozier",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": true,
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 132,
@@ -3107,7 +3294,8 @@
                 51
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 133,
@@ -3118,7 +3306,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 134,
@@ -3133,11 +3322,12 @@
             {
               "items": [
                 51,
-                7,
-                485
+                485,
+                7
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 135,
@@ -3148,7 +3338,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 136,
@@ -3166,7 +3357,8 @@
                 32
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 137,
@@ -3177,7 +3369,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 138,
@@ -3192,11 +3385,12 @@
             {
               "items": [
                 52,
-                32,
-                5
+                5,
+                32
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 139,
@@ -3207,7 +3401,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 140,
@@ -3225,7 +3420,8 @@
                 51
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 141,
@@ -3236,7 +3432,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 142,
@@ -3254,7 +3451,8 @@
                 17
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 143,
@@ -3265,7 +3463,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 144,
@@ -3279,13 +3478,14 @@
           "recipes": [
             {
               "items": [
+                69,
                 3,
                 3,
-                1125,
                 11
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 145,
@@ -3296,7 +3496,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 146,
@@ -3314,7 +3515,8 @@
                 1122
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 147,
@@ -3325,7 +3527,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 148,
@@ -3343,7 +3546,8 @@
                 2
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 149,
@@ -3354,7 +3558,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 234,
@@ -3372,7 +3577,8 @@
                 17
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 236,
@@ -3383,7 +3589,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 150,
@@ -3402,7 +3609,8 @@
                 2
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 151,
@@ -3413,7 +3621,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 183,
@@ -3427,12 +3636,13 @@
           "recipes": [
             {
               "items": [
-                215,
+                5,
                 485,
-                5
+                215
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 152,
@@ -3443,7 +3653,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 248,
@@ -3461,7 +3672,8 @@
                 51
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 249,
@@ -3472,7 +3684,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 153,
@@ -3486,11 +3699,12 @@
           "recipes": [
             {
               "items": [
-                170,
-                162
+                162,
+                170
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 154,
@@ -3501,7 +3715,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 272,
@@ -3515,11 +3730,12 @@
           "recipes": [
             {
               "items": [
-                162,
-                259
+                259,
+                162
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 273,
@@ -3530,7 +3746,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 274,
@@ -3544,11 +3761,12 @@
           "recipes": [
             {
               "items": [
-                259,
-                170
+                170,
+                259
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 277,
@@ -3559,7 +3777,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 155,
@@ -3573,12 +3792,13 @@
           "recipes": [
             {
               "items": [
-                26,
+                53,
                 5,
-                53
+                26
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 156,
@@ -3589,7 +3809,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 157,
@@ -3607,7 +3828,8 @@
                 55
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 158,
@@ -3618,7 +3840,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 159,
@@ -3637,7 +3860,8 @@
                 1575
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 160,
@@ -3648,7 +3872,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 161,
@@ -3666,7 +3891,8 @@
                 17
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 162,
@@ -3677,7 +3903,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 163,
@@ -3695,7 +3922,8 @@
                 261
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 164,
@@ -3706,7 +3934,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 633,
@@ -3724,7 +3953,8 @@
                 24
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 635,
@@ -3735,7 +3965,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 165,
@@ -3754,7 +3985,8 @@
                 25
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 166,
@@ -3765,7 +3997,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1565,
@@ -3779,11 +4012,13 @@
           "recipes": [
             {
               "items": [
+                206,
                 60,
-                206
+                1872
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 1466,
@@ -3794,7 +4029,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 167,
@@ -3813,7 +4049,8 @@
                 240
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 168,
@@ -3824,7 +4061,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 169,
@@ -3842,7 +4080,8 @@
                 18
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 170,
@@ -3853,7 +4092,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 171,
@@ -3867,11 +4107,12 @@
           "recipes": [
             {
               "items": [
-                26,
-                3
+                3,
+                26
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 172,
@@ -3882,7 +4123,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 173,
@@ -3900,7 +4142,8 @@
                 19
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 174,
@@ -3911,7 +4154,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1096,
@@ -3929,7 +4173,8 @@
                 52
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 1097,
@@ -3940,7 +4185,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 175,
@@ -3958,7 +4204,8 @@
                 37
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 176,
@@ -3969,7 +4216,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 177,
@@ -3988,7 +4236,8 @@
                 13
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 178,
@@ -3999,7 +4248,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 179,
@@ -4014,10 +4264,12 @@
             {
               "items": [
                 29,
-                88
+                88,
+                1849
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 180,
@@ -4028,7 +4280,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 228,
@@ -4042,11 +4295,12 @@
           "recipes": [
             {
               "items": [
-                1802,
-                129
+                129,
+                1802
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 235,
@@ -4057,7 +4311,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 181,
@@ -4068,7 +4323,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 240,
@@ -4079,7 +4335,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 640,
@@ -4093,12 +4350,13 @@
           "recipes": [
             {
               "items": [
+                18,
                 1575,
-                240,
-                18
+                240
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 569,
@@ -4109,7 +4367,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1575,
@@ -4120,7 +4379,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 599,
@@ -4134,12 +4394,13 @@
           "recipes": [
             {
               "items": [
+                2,
                 593,
-                28,
-                2
+                28
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 596,
@@ -4150,7 +4411,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 597,
@@ -4164,13 +4426,14 @@
           "recipes": [
             {
               "items": [
+                69,
                 31,
-                181,
-                25,
-                1125
+                2,
+                181
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 598,
@@ -4181,7 +4444,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 184,
@@ -4195,12 +4459,13 @@
           "recipes": [
             {
               "items": [
+                94,
                 17,
-                19,
                 244
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 185,
@@ -4211,7 +4476,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 930,
@@ -4230,7 +4496,8 @@
                 279
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 931,
@@ -4241,7 +4508,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 186,
@@ -4260,18 +4528,20 @@
                 240
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 187,
           "name": "item_medallion_of_courage",
           "name_loc": "Medallion of Courage",
           "name_english_loc": "Medallion of Courage",
-          "neutral_item_tier": -1,
+          "neutral_item_tier": 1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 227,
@@ -4286,11 +4556,12 @@
             {
               "items": [
                 1128,
-                261,
+                4,
                 244
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 229,
@@ -4301,7 +4572,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1127,
@@ -4315,12 +4587,13 @@
           "recipes": [
             {
               "items": [
-                59,
-                12,
-                593
+                1849,
+                593,
+                12
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 1128,
@@ -4331,7 +4604,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 188,
@@ -4342,7 +4616,8 @@
           "is_pregame_suggested": true,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 257,
@@ -4353,7 +4628,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 189,
@@ -4367,12 +4643,13 @@
           "recipes": [
             {
               "items": [
-                56,
-                4,
-                20
+                473,
+                19,
+                593
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 190,
@@ -4383,7 +4660,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 910,
@@ -4401,7 +4679,8 @@
                 473
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 911,
@@ -4412,7 +4691,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1805,
@@ -4430,7 +4710,8 @@
                 58
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 1806,
@@ -4441,7 +4722,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 230,
@@ -4455,11 +4737,12 @@
           "recipes": [
             {
               "items": [
-                79,
-                180
+                180,
+                79
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 231,
@@ -4470,7 +4753,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 205,
@@ -4488,7 +4772,8 @@
                 61
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 206,
@@ -4499,7 +4784,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 238,
@@ -4517,7 +4803,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 239,
@@ -4528,7 +4815,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 207,
@@ -4546,7 +4834,8 @@
                 162
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 208,
@@ -4557,7 +4846,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 209,
@@ -4571,11 +4861,13 @@
           "recipes": [
             {
               "items": [
-                125,
-                261
+                32,
+                1847,
+                56
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 210,
@@ -4586,7 +4878,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 211,
@@ -4597,7 +4890,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 212,
@@ -4608,7 +4902,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 213,
@@ -4627,7 +4922,8 @@
                 27
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 214,
@@ -4638,7 +4934,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": true,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 215,
@@ -4649,7 +4946,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 253,
@@ -4664,10 +4962,11 @@
             {
               "items": [
                 215,
-                31
+                1848
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 254,
@@ -4678,7 +4977,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1021,
@@ -4689,7 +4989,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1022,
@@ -4700,7 +5001,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1023,
@@ -4711,7 +5013,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1024,
@@ -4722,7 +5025,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1025,
@@ -4733,7 +5037,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1026,
@@ -4744,7 +5049,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1027,
@@ -4755,7 +5061,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1028,
@@ -4766,7 +5073,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1029,
@@ -4777,7 +5085,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1030,
@@ -4788,7 +5097,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1032,
@@ -4799,7 +5109,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 287,
@@ -4810,7 +5121,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 288,
@@ -4821,7 +5133,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 289,
@@ -4832,7 +5145,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 290,
@@ -4843,7 +5157,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 291,
@@ -4854,7 +5169,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 292,
@@ -4865,7 +5181,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 293,
@@ -4876,7 +5193,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 294,
@@ -4887,7 +5205,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 295,
@@ -4898,7 +5217,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 302,
@@ -4909,7 +5229,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 297,
@@ -4920,7 +5241,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 829,
@@ -4931,7 +5253,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 834,
@@ -4942,7 +5265,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 849,
@@ -4953,7 +5277,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 298,
@@ -4964,7 +5289,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 299,
@@ -4975,7 +5301,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 300,
@@ -4986,7 +5313,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 301,
@@ -4997,7 +5325,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 304,
@@ -5008,7 +5337,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 328,
@@ -5019,7 +5349,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 305,
@@ -5030,7 +5361,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 306,
@@ -5041,7 +5373,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 307,
@@ -5052,7 +5385,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 308,
@@ -5063,7 +5397,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 309,
@@ -5074,7 +5409,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 310,
@@ -5085,7 +5421,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 311,
@@ -5096,7 +5433,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 325,
@@ -5107,7 +5445,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 330,
@@ -5118,7 +5457,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 334,
@@ -5129,7 +5469,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 335,
@@ -5140,7 +5481,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 336,
@@ -5151,7 +5493,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 326,
@@ -5162,7 +5505,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 327,
@@ -5173,7 +5517,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 331,
@@ -5184,7 +5529,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 312,
@@ -5195,7 +5541,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 313,
@@ -5206,7 +5553,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 354,
@@ -5217,7 +5565,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1124,
@@ -5228,7 +5577,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 355,
@@ -5239,7 +5589,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 356,
@@ -5250,7 +5601,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 357,
@@ -5261,7 +5613,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 358,
@@ -5272,7 +5625,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 359,
@@ -5283,7 +5637,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 360,
@@ -5294,7 +5649,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 361,
@@ -5305,7 +5661,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 362,
@@ -5316,7 +5673,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 363,
@@ -5327,7 +5685,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 364,
@@ -5338,7 +5697,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 365,
@@ -5349,7 +5709,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 366,
@@ -5360,7 +5721,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 367,
@@ -5371,7 +5733,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 368,
@@ -5382,7 +5745,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 275,
@@ -5419,7 +5783,8 @@
                 162
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 370,
@@ -5430,7 +5795,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 317,
@@ -5441,7 +5807,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 371,
@@ -5452,7 +5819,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 372,
@@ -5463,18 +5831,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 373,
-          "name": "item_dimensional_doorway",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 374,
@@ -5485,7 +5843,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 375,
@@ -5496,7 +5855,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 376,
@@ -5507,7 +5867,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 377,
@@ -5518,7 +5879,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 378,
@@ -5529,7 +5891,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 379,
@@ -5540,7 +5903,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 349,
@@ -5551,7 +5915,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 381,
@@ -5562,7 +5927,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 565,
@@ -5573,29 +5939,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 566,
-          "name": "item_wizard_glass",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 570,
-          "name": "item_gloves_of_travel",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 573,
@@ -5606,29 +5951,20 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 574,
           "name": "item_cloak_of_flames",
           "name_loc": "Cloak of Flames",
           "name_english_loc": "Cloak of Flames",
-          "neutral_item_tier": -1,
+          "neutral_item_tier": 2,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 575,
-          "name": "item_venom_gland",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 571,
@@ -5639,51 +5975,20 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 576,
-          "name": "item_gladiator_helm",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 577,
           "name": "item_possessed_mask",
           "name_loc": "Possessed Mask",
           "name_english_loc": "Possessed Mask",
-          "neutral_item_tier": -1,
+          "neutral_item_tier": 0,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 578,
-          "name": "item_ancient_perseverance",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 637,
-          "name": "item_star_mace",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 638,
@@ -5694,29 +5999,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 582,
-          "name": "item_oakheart",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 674,
-          "name": "item_warhammer",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 680,
@@ -5727,7 +6011,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 675,
@@ -5738,7 +6023,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 676,
@@ -5749,7 +6035,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 686,
@@ -5760,7 +6047,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 677,
@@ -5771,7 +6059,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 678,
@@ -5782,40 +6071,20 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 679,
-          "name": "item_vengeances_shadow",
-          "name_loc": "Shadow of Vengeance",
-          "name_english_loc": "Shadow of Vengeance",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 585,
           "name": "item_stormcrafter",
           "name_loc": "Stormcrafter",
           "name_english_loc": "Stormcrafter",
-          "neutral_item_tier": -1,
+          "neutral_item_tier": 2,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 588,
-          "name": "item_overflowing_elixir",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 589,
@@ -5826,18 +6095,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 824,
-          "name": "item_assassins_dagger",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 825,
@@ -5848,29 +6107,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 826,
-          "name": "item_sample_picker",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 827,
-          "name": "item_icarus_wings",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 828,
@@ -5881,29 +6119,20 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 836,
-          "name": "item_light_robes",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 837,
           "name": "item_heavy_blade",
           "name_loc": "Witchbane",
           "name_english_loc": "Witchbane",
-          "neutral_item_tier": -1,
+          "neutral_item_tier": 4,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 838,
@@ -5914,18 +6143,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 839,
-          "name": "item_fortitude_ring",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 840,
@@ -5936,7 +6155,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 835,
@@ -5947,18 +6167,20 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 945,
           "name": "item_seeds_of_serenity",
           "name_loc": "Seeds of Serenity",
           "name_english_loc": "Seeds of Serenity",
-          "neutral_item_tier": -1,
+          "neutral_item_tier": 1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 946,
@@ -5969,7 +6191,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 947,
@@ -5980,18 +6203,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 948,
-          "name": "item_tome_of_omniscience",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 949,
@@ -6002,29 +6215,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 940,
-          "name": "item_wand_of_the_brine",
-          "name_loc": "Wand of the Brine",
-          "name_english_loc": "Wand of the Brine",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 938,
-          "name": "item_slime_vial",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1101,
@@ -6042,7 +6234,8 @@
                 1122
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 939,
@@ -6053,7 +6246,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 950,
@@ -6064,29 +6258,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 968,
-          "name": "item_arcane_scout",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 969,
-          "name": "item_barricade",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 990,
@@ -6097,18 +6270,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 998,
-          "name": "item_manacles_of_power",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1000,
@@ -6119,29 +6282,20 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 1017,
-          "name": "item_wand_of_sanctitude",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1077,
           "name": "item_dagger_of_ristul",
           "name_loc": "Dagger of Ristul",
           "name_english_loc": "Dagger of Ristul",
-          "neutral_item_tier": -1,
+          "neutral_item_tier": 0,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 4300,
@@ -6152,7 +6306,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 4301,
@@ -6163,7 +6318,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 4302,
@@ -6174,7 +6330,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1090,
@@ -6185,7 +6342,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 2091,
@@ -6196,7 +6354,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 2092,
@@ -6207,7 +6366,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 2093,
@@ -6218,7 +6378,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 2094,
@@ -6229,7 +6390,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 2095,
@@ -6240,7 +6402,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 2096,
@@ -6251,7 +6414,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 2097,
@@ -6262,7 +6426,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1156,
@@ -6273,7 +6438,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1157,
@@ -6284,18 +6450,20 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1158,
           "name": "item_whisper_of_the_dread",
           "name_loc": "Whisper of the Dread",
           "name_english_loc": "Whisper of the Dread",
-          "neutral_item_tier": 2,
+          "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1159,
@@ -6306,7 +6474,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1160,
@@ -6317,7 +6486,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1161,
@@ -6328,51 +6498,20 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 2098,
-          "name": "item_horizons_equilibrium",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 2099,
-          "name": "item_blighted_spirit",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 2190,
           "name": "item_dandelion_amulet",
           "name_loc": "Dandelion Amulet",
           "name_english_loc": "Dandelion Amulet",
-          "neutral_item_tier": -1,
+          "neutral_item_tier": 3,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 2191,
-          "name": "item_turtle_shell",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 2192,
@@ -6383,7 +6522,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 2193,
@@ -6394,7 +6534,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1167,
@@ -6405,7 +6546,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1168,
@@ -6416,7 +6558,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1803,
@@ -6427,7 +6570,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1804,
@@ -6438,18 +6582,20 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1440,
           "name": "item_black_grimoire",
-          "name_loc": "Black Grimoire",
-          "name_english_loc": "Black Grimoire",
+          "name_loc": "Black Grimoire\n(Warlock)",
+          "name_english_loc": "Black Grimoire\n(Warlock)",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1441,
@@ -6460,7 +6606,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1576,
@@ -6471,7 +6618,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1577,
@@ -6482,40 +6630,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 1578,
-          "name": "item_cursed_circlet",
-          "name_loc": "Accursed",
-          "name_english_loc": "Accursed",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 1579,
-          "name": "item_ogre_heart",
-          "name_loc": "Restorative",
-          "name_english_loc": "Restorative",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 1580,
-          "name": "item_neutral_tabi",
-          "name_loc": "Elusive",
-          "name_english_loc": "Elusive",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1581,
@@ -6526,18 +6642,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 1582,
-          "name": "item_hellbear_totem",
-          "name_loc": "",
-          "name_english_loc": "",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1583,
@@ -6548,7 +6654,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1584,
@@ -6559,7 +6666,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1585,
@@ -6570,7 +6678,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1586,
@@ -6581,7 +6690,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1587,
@@ -6592,7 +6702,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1588,
@@ -6603,7 +6714,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1589,
@@ -6614,7 +6726,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1590,
@@ -6625,7 +6738,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1591,
@@ -6636,7 +6750,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1592,
@@ -6647,7 +6762,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1593,
@@ -6658,7 +6774,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1594,
@@ -6669,7 +6786,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1595,
@@ -6680,7 +6798,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1596,
@@ -6691,7 +6810,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1597,
@@ -6702,7 +6822,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1598,
@@ -6713,7 +6834,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1599,
@@ -6724,7 +6846,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1600,
@@ -6735,18 +6858,20 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1601,
           "name": "item_crippling_crossbow",
           "name_loc": "Crippling Crossbow",
           "name_english_loc": "Crippling Crossbow",
-          "neutral_item_tier": 3,
+          "neutral_item_tier": 1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1602,
@@ -6757,7 +6882,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1603,
@@ -6768,7 +6894,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1604,
@@ -6779,7 +6906,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1605,
@@ -6790,7 +6918,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1606,
@@ -6801,7 +6930,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1607,
@@ -6812,7 +6942,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1608,
@@ -6823,7 +6954,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1609,
@@ -6834,7 +6966,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1610,
@@ -6845,18 +6978,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 1636,
-          "name": "item_crystal_raindrop",
-          "name_loc": "Crystal Raindrop",
-          "name_english_loc": "Crystal Raindrop",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1637,
@@ -6867,7 +6990,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1638,
@@ -6878,7 +7002,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1639,
@@ -6889,7 +7014,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1640,
@@ -6900,7 +7026,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1641,
@@ -6911,7 +7038,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1642,
@@ -6922,7 +7050,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1643,
@@ -6933,7 +7062,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1644,
@@ -6944,7 +7074,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1645,
@@ -6955,18 +7086,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
-        },
-        {
-          "id": 1646,
-          "name": "item_circlet_of_the_flayed_twins",
-          "name_loc": "Circlet of the Flayed Twins",
-          "name_english_loc": "Circlet of the Flayed Twins",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1647,
@@ -6977,7 +7098,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1648,
@@ -6988,7 +7110,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1649,
@@ -6999,7 +7122,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1650,
@@ -7010,7 +7134,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1651,
@@ -7021,7 +7146,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1652,
@@ -7032,7 +7158,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1715,
@@ -7050,7 +7177,8 @@
                 3
               ]
             }
-          ]
+          ],
+          "is_innate": false
         },
         {
           "id": 1076,
@@ -7061,7 +7189,40 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": true,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1857,
+          "name": "item_recipe_hydras_breath",
+          "name_loc": "",
+          "name_english_loc": "",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [
+            {
+              "items": [
+                1076,
+                236,
+                181
+              ]
+            }
+          ],
+          "is_innate": false
+        },
+        {
+          "id": 1858,
+          "name": "item_hydras_breath",
+          "name_loc": "Hydra's Breath",
+          "name_english_loc": "Hydra's Breath",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": true,
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1716,
@@ -7072,7 +7233,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1717,
@@ -7083,7 +7245,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1718,
@@ -7094,7 +7257,8 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1719,
@@ -7105,18 +7269,20 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1720,
           "name": "item_idol_of_screeauk",
-          "name_loc": "Idol of Scree'Auk",
-          "name_english_loc": "Idol of Scree'Auk",
+          "name_loc": "Idol of Scree'auk",
+          "name_english_loc": "Idol of Scree'auk",
           "neutral_item_tier": 3,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
         },
         {
           "id": 1721,
@@ -7127,7 +7293,212 @@
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
-          "recipes": []
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1859,
+          "name": "item_spellslinger",
+          "name_loc": "Spellslinger",
+          "name_english_loc": "Spellslinger",
+          "neutral_item_tier": 2,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1860,
+          "name": "item_prophets_pendulum",
+          "name_loc": "Prophet's Pendulum",
+          "name_english_loc": "Prophet's Pendulum",
+          "neutral_item_tier": 3,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1861,
+          "name": "item_stonefeather_satchel",
+          "name_loc": "Stonefeather Satchel",
+          "name_english_loc": "Stonefeather Satchel",
+          "neutral_item_tier": 0,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1862,
+          "name": "item_enchanters_bauble",
+          "name_loc": "Enchanter's Bauble",
+          "name_english_loc": "Enchanter's Bauble",
+          "neutral_item_tier": 3,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1863,
+          "name": "item_harmonizer",
+          "name_loc": "Harmonizer",
+          "name_english_loc": "Harmonizer",
+          "neutral_item_tier": 4,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1864,
+          "name": "item_conjurers_catalyst",
+          "name_loc": "Conjurer's Catalyst",
+          "name_english_loc": "Conjurer's Catalyst",
+          "neutral_item_tier": 3,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1865,
+          "name": "item_enhancement_vital",
+          "name_loc": "Vital",
+          "name_english_loc": "Vital",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1866,
+          "name": "item_enhancement_hulking",
+          "name_loc": "Hulking",
+          "name_english_loc": "Hulking",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1867,
+          "name": "item_enhancement_manic",
+          "name_loc": "Manic",
+          "name_english_loc": "Manic",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1868,
+          "name": "item_foragers_kit",
+          "name_loc": "Forager's Kit",
+          "name_english_loc": "Forager's Kit",
+          "neutral_item_tier": 0,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1869,
+          "name": "item_foragers_health",
+          "name_loc": "Vital Toadstool",
+          "name_english_loc": "Vital Toadstool",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1870,
+          "name": "item_foragers_stats",
+          "name_loc": "Ironwood Nut",
+          "name_english_loc": "Ironwood Nut",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1871,
+          "name": "item_foragers_mana",
+          "name_loc": "Tomo'kan Ringcap",
+          "name_english_loc": "Tomo'kan Ringcap",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1872,
+          "name": "item_chasm_stone",
+          "name_loc": "Chasm Stone",
+          "name_english_loc": "Chasm Stone",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1873,
+          "name": "item_partisans_brand",
+          "name_loc": "Partisan's Brand",
+          "name_english_loc": "Partisan's Brand",
+          "neutral_item_tier": 2,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1874,
+          "name": "item_enhancement_nimble",
+          "name_loc": "Nimble",
+          "name_english_loc": "Nimble",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1875,
+          "name": "item_tidehunter_fish",
+          "name_loc": "Leviathan's Fish",
+          "name_english_loc": "Leviathan's Fish",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
         }
       ]
     }
