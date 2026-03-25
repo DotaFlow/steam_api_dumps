@@ -1,41 +1,33 @@
 {
-  "id": 6344,
-  "name": "pangolier_swashbuckle",
-  "name_loc": "Swashbuckle",
-  "desc_loc": "Pangolier dashes along the target line, then slashes and briefly slows all enemies in the drawn direction with several quick swipes.\n\nLucky Shot has a chance to activate from this damage.",
-  "lore_loc": "The Pangolier's blade is even nimbler than his tongue.",
-  "notes_loc": [
-    "Casting Swashbuckle during Rolling Thunder ends Rolling Thunder."
-  ],
+  "id": 1785,
+  "name": "muerta_spectral_slug",
+  "name_loc": "Spectral Slug",
+  "desc_loc": "Muerta shoots a spectral bullet at an enemy, dealing damage, knocking them back, and turning them ethereal for %duration%s - rendering them immune to physical damage and unable to attack. The target is slowed and %bonus_spell_damage_pct%%% more vulnerable to magic damage. Enemies will not be knocked out of Muerta's attack range.",
+  "lore_loc": "",
+  "notes_loc": [],
   "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
   "type": 0,
-  "behavior": "1074528272",
-  "target_team": 0,
-  "target_type": 0,
+  "behavior": "8589934601",
+  "target_team": 2,
+  "target_type": 19,
   "flags": 0,
-  "damage": 1,
-  "immunity": 3,
-  "dispellable": 0,
-  "max_level": 4,
+  "damage": 2,
+  "immunity": 4,
+  "dispellable": 2,
+  "max_level": 1,
   "cast_ranges": [
-    575,
-    650,
-    725,
-    800
+    500
   ],
   "cast_points": [
-    0.15
+    0.2
   ],
   "channel_times": [
     0
   ],
   "cooldowns": [
-    19,
-    16,
-    13,
-    10
+    12
   ],
   "durations": [
     0
@@ -47,48 +39,19 @@
     0
   ],
   "mana_costs": [
-    75,
-    80,
-    85,
-    90
+    75
   ],
   "gold_costs": [],
   "health_costs": [],
   "special_values": [
     {
-      "name": "dash_range",
+      "name": "projectile_speed",
       "values_float": [
-        575,
-        650,
-        725,
-        800
+        2500
       ],
       "is_percentage": false,
-      "heading_loc": "DASH RANGE:",
+      "heading_loc": "",
       "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "range",
-      "values_float": [
-        850
-      ],
-      "is_percentage": false,
-      "heading_loc": "SLASH RANGE:",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_pangolier",
-          "value": 200,
-          "operation": 0
-        }
-      ],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -101,13 +64,10 @@
     {
       "name": "damage",
       "values_float": [
-        35,
-        65,
-        95,
-        125
+        225
       ],
       "is_percentage": false,
-      "heading_loc": "DAMAGE PER STRIKE:",
+      "heading_loc": "DAMAGE:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -119,17 +79,13 @@
       "required_facet": ""
     },
     {
-      "name": "attack_damage",
-      "values_float": [],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_pangolier_3",
-          "value": 20,
-          "operation": 0
-        }
+      "name": "knockback_distance",
+      "values_float": [
+        250
       ],
+      "is_percentage": false,
+      "heading_loc": "MAX KNOCKBACK DISTANCE:",
+      "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -140,9 +96,9 @@
       "required_facet": ""
     },
     {
-      "name": "dash_speed",
+      "name": "knockback_duration",
       "values_float": [
-        2000
+        0.2
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -157,63 +113,12 @@
       "required_facet": ""
     },
     {
-      "name": "attack_interval",
-      "values_float": [
-        0.1
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "start_radius",
-      "values_float": [
-        155
-      ],
-      "is_percentage": false,
-      "heading_loc": "SLASH WIDTH:",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "end_radius",
-      "values_float": [
-        155
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "strikes",
+      "name": "duration",
       "values_float": [
         3
       ],
       "is_percentage": false,
-      "heading_loc": "STRIKES:",
+      "heading_loc": "DURATION:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -225,46 +130,12 @@
       "required_facet": ""
     },
     {
-      "name": "procs_onhit_effects",
+      "name": "slow_pct",
       "values_float": [
-        1
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "slow_duration",
-      "values_float": [
-        0.6
-      ],
-      "is_percentage": false,
-      "heading_loc": "SLOW DURATION:",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "slow_percent",
-      "values_float": [
-        100
+        -30
       ],
       "is_percentage": true,
-      "heading_loc": "SLOW:",
+      "heading_loc": "MOVEMENT SLOW:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -276,12 +147,12 @@
       "required_facet": ""
     },
     {
-      "name": "damage_penalty",
+      "name": "bonus_spell_damage_pct",
       "values_float": [
-        25
+        -20
       ],
-      "is_percentage": false,
-      "heading_loc": "",
+      "is_percentage": true,
+      "heading_loc": "INCREASED MAGIC DAMAGE:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -295,10 +166,7 @@
     {
       "name": "AbilityCastRange",
       "values_float": [
-        575,
-        650,
-        725,
-        800
+        500
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -315,7 +183,7 @@
     {
       "name": "AbilityCastPoint",
       "values_float": [
-        0.15
+        0.2
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -332,10 +200,7 @@
     {
       "name": "AbilityManaCost",
       "values_float": [
-        75,
-        80,
-        85,
-        90
+        75
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -352,20 +217,11 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
-        19,
-        16,
-        13,
-        10
+        12
       ],
       "is_percentage": false,
       "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_pangolier_4",
-          "value": 2,
-          "operation": 2
-        }
-      ],
+      "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -380,7 +236,7 @@
   "ability_has_scepter": false,
   "ability_has_shard": false,
   "ability_is_granted_by_scepter": false,
-  "ability_is_granted_by_shard": false,
+  "ability_is_granted_by_shard": true,
   "ability_is_innate": false,
   "item_cost": 0,
   "item_initial_charges": 0,

@@ -6,7 +6,7 @@
   "lore_loc": "The long-dead members of the Ash Legion, assembled from the finest warriors to ever test the might of Mars, still revel in the thrill of combat, gladly beholden to the hand that fell them for as long as he so commands.",
   "notes_loc": [],
   "shard_loc": "",
-  "scepter_loc": "",
+  "scepter_loc": "Lowers cooldown by %bonus_AbilityCooldown%s and increases duration. If an enemy is killed in the Arena, Mars and all of his allies inside the Arena restore %arena_kill_buff_heal_pct%%  of their max health and mana and get a %arena_kill_buff_damage_pct%%  attack damage buff for %arena_kill_buff_duration%s. This effect stacks.",
   "facets_loc": [],
   "type": 1,
   "behavior": "48",
@@ -57,7 +57,9 @@
       "heading_loc": "DURATION:",
       "bonuses": [],
       "values_shard": [],
-      "values_scepter": [],
+      "values_scepter": [
+        1
+      ],
       "facet_bonus": {
         "name": "",
         "values": [],
@@ -108,7 +110,13 @@
       ],
       "is_percentage": false,
       "heading_loc": "SPEAR DAMAGE:",
-      "bonuses": [],
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_mars_arena_of_blood_damage",
+          "value": 70,
+          "operation": 0
+        }
+      ],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -221,23 +229,6 @@
       "required_facet": ""
     },
     {
-      "name": "obscure_vision",
-      "values_float": [
-        0
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
       "name": "arena_kill_buff_duration",
       "values_float": [
         0
@@ -246,7 +237,9 @@
       "heading_loc": "",
       "bonuses": [],
       "values_shard": [],
-      "values_scepter": [],
+      "values_scepter": [
+        20
+      ],
       "facet_bonus": {
         "name": "",
         "values": [],
@@ -263,7 +256,9 @@
       "heading_loc": "",
       "bonuses": [],
       "values_shard": [],
-      "values_scepter": [],
+      "values_scepter": [
+        35
+      ],
       "facet_bonus": {
         "name": "",
         "values": [],
@@ -280,7 +275,9 @@
       "heading_loc": "",
       "bonuses": [],
       "values_shard": [],
-      "values_scepter": [],
+      "values_scepter": [
+        35
+      ],
       "facet_bonus": {
         "name": "",
         "values": [],
@@ -297,7 +294,9 @@
       "heading_loc": "",
       "bonuses": [],
       "values_shard": [],
-      "values_scepter": [],
+      "values_scepter": [
+        100
+      ],
       "facet_bonus": {
         "name": "",
         "values": [],
@@ -388,15 +387,11 @@
       ],
       "is_percentage": false,
       "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_mars_arena_cooldown",
-          "value": 16,
-          "operation": 2
-        }
-      ],
+      "bonuses": [],
       "values_shard": [],
-      "values_scepter": [],
+      "values_scepter": [
+        10
+      ],
       "facet_bonus": {
         "name": "",
         "values": [],
@@ -406,7 +401,7 @@
     }
   ],
   "is_item": false,
-  "ability_has_scepter": false,
+  "ability_has_scepter": true,
   "ability_has_shard": false,
   "ability_is_granted_by_scepter": false,
   "ability_is_granted_by_shard": false,

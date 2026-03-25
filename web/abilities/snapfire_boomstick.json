@@ -1,15 +1,15 @@
 {
-  "id": 1407,
-  "name": "arc_warden_runic_infusion",
-  "name_loc": "Runic Infusion",
-  "desc_loc": "Runes of Power fuse to the Self. Arc Warden gains +%all_attribute_bonus_per_stack% all attributes permanently whenever Arc Warden or the Tempest Double activates a Power Rune.",
+  "id": 1782,
+  "name": "snapfire_boomstick",
+  "name_loc": "Boomstick",
+  "desc_loc": "Snapfire deals more damage to nearby enemies.",
   "lore_loc": "",
   "notes_loc": [],
   "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
   "type": 0,
-  "behavior": "567347999932419",
+  "behavior": "66",
   "target_team": 0,
   "target_type": 0,
   "flags": 0,
@@ -45,12 +45,12 @@
   "health_costs": [],
   "special_values": [
     {
-      "name": "water_bounty_rune_duration_pct",
+      "name": "damage_amp_min",
       "values_float": [
-        67
+        0
       ],
-      "is_percentage": false,
-      "heading_loc": "",
+      "is_percentage": true,
+      "heading_loc": "MIN DAMAGE AMP:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -62,12 +62,12 @@
       "required_facet": ""
     },
     {
-      "name": "bonus_stacks_per_rune_pickup",
+      "name": "damage_amp_max",
       "values_float": [
-        1
+        35
       ],
-      "is_percentage": false,
-      "heading_loc": "",
+      "is_percentage": true,
+      "heading_loc": "MAX DAMAGE AMP:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -79,19 +79,30 @@
       "required_facet": ""
     },
     {
-      "name": "all_attribute_bonus_per_stack",
+      "name": "distance_threshold_max",
       "values_float": [
-        1.5
+        495
       ],
       "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_arc_warden_8",
-          "value": 1.5,
-          "operation": 0
-        }
+      "heading_loc": "MIN DAMAGE RANGE:",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "distance_threshold_min",
+      "values_float": [
+        50
       ],
+      "is_percentage": false,
+      "heading_loc": "MAX DAMAGE RANGE:",
+      "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {

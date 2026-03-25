@@ -1,15 +1,15 @@
 {
-  "id": 1407,
-  "name": "arc_warden_runic_infusion",
-  "name_loc": "Runic Infusion",
-  "desc_loc": "Runes of Power fuse to the Self. Arc Warden gains +%all_attribute_bonus_per_stack% all attributes permanently whenever Arc Warden or the Tempest Double activates a Power Rune.",
+  "id": 1783,
+  "name": "hoodwink_tomokan_tracker",
+  "name_loc": "Tomo'kan Tracker",
+  "desc_loc": "Hoodwink can see footprints of where enemy Heroes have been in the last %trail_history_duration% seconds in a %search_radius% area around her.",
   "lore_loc": "",
   "notes_loc": [],
   "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
   "type": 0,
-  "behavior": "567347999932419",
+  "behavior": "13194139533378",
   "target_team": 0,
   "target_type": 0,
   "flags": 0,
@@ -45,9 +45,9 @@
   "health_costs": [],
   "special_values": [
     {
-      "name": "water_bounty_rune_duration_pct",
+      "name": "search_radius",
       "values_float": [
-        67
+        1200
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -62,9 +62,9 @@
       "required_facet": ""
     },
     {
-      "name": "bonus_stacks_per_rune_pickup",
+      "name": "trail_history_duration",
       "values_float": [
-        1
+        15
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -79,19 +79,30 @@
       "required_facet": ""
     },
     {
-      "name": "all_attribute_bonus_per_stack",
+      "name": "trail_duration",
       "values_float": [
-        1.5
+        0.5
       ],
       "is_percentage": false,
       "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_arc_warden_8",
-          "value": 1.5,
-          "operation": 0
-        }
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "trail_interval",
+      "values_float": [
+        0.2
       ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {

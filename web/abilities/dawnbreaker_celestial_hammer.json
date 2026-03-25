@@ -64,7 +64,13 @@
       ],
       "is_percentage": false,
       "heading_loc": "HAMMER DAMAGE:",
-      "bonuses": [],
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_dawnbreaker_celestial_hammer_damage",
+          "value": 40,
+          "operation": 3
+        }
+      ],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -161,10 +167,25 @@
       ],
       "is_percentage": true,
       "heading_loc": "FIRE TRAIL MOVEMENT SLOW:",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "targets_allies",
+      "values_float": [],
+      "is_percentage": false,
+      "heading_loc": "",
       "bonuses": [
         {
-          "name": "special_bonus_unique_dawnbreaker_celestial_hammer_slow",
-          "value": 15,
+          "name": "special_bonus_unique_dawnbreaker_celestial_hammer_targets_allies",
+          "value": 1,
           "operation": 0
         }
       ],
@@ -187,7 +208,13 @@
       ],
       "is_percentage": false,
       "heading_loc": "FIRE TRAIL BURN DPS:",
-      "bonuses": [],
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_dawnbreaker_celestial_hammer_damage",
+          "value": 40,
+          "operation": 3
+        }
+      ],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -347,26 +374,6 @@
           "operation": 5
         }
       ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "fire_trail_health_regen",
-      "values_float": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "is_percentage": true,
-      "heading_loc": "FIRE TRAIL MOVESPEED BONUS:",
-      "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
