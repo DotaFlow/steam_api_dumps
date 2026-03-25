@@ -1,33 +1,39 @@
 {
-  "id": 1692,
-  "name": "visage_summon_familiars_recall",
-  "name_loc": "Recall Familiar",
-  "desc_loc": "Recall this familiar to Visage after %recall_duration%s, during which they cannot attack or act.",
+  "id": 1762,
+  "name": "meepo_fling_release",
+  "name_loc": "Fling Release",
+  "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],
   "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
   "type": 0,
-  "behavior": "6293572",
-  "target_team": 0,
-  "target_type": 0,
+  "behavior": "73",
+  "target_team": 2,
+  "target_type": 19,
   "flags": 0,
   "damage": 2,
   "immunity": 4,
-  "dispellable": 1,
+  "dispellable": 2,
   "max_level": 1,
   "cast_ranges": [
-    0
+    400,
+    500,
+    600,
+    700
   ],
   "cast_points": [
-    0
+    0.2,
+    0.2,
+    0.2,
+    0.2
   ],
   "channel_times": [
     0
   ],
   "cooldowns": [
-    10
+    0
   ],
   "durations": [
     0
@@ -45,9 +51,12 @@
   "health_costs": [],
   "special_values": [
     {
-      "name": "recall_duration",
+      "name": "AbilityCastRange",
       "values_float": [
-        4
+        400,
+        500,
+        600,
+        700
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -62,9 +71,9 @@
       "required_facet": ""
     },
     {
-      "name": "AbilityCooldown",
+      "name": "AbilityCastPoint",
       "values_float": [
-        10
+        0.2
       ],
       "is_percentage": false,
       "heading_loc": "",

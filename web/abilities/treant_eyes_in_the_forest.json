@@ -84,7 +84,7 @@
     {
       "name": "duration",
       "values_float": [
-        300
+        360
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -135,7 +135,7 @@
     {
       "name": "AbilityCharges",
       "values_float": [
-        3
+        2
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -152,7 +152,7 @@
     {
       "name": "AbilityChargeRestoreTime",
       "values_float": [
-        55
+        135
       ],
       "is_percentage": false,
       "heading_loc": "",

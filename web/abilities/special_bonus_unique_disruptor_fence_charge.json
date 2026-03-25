@@ -1,8 +1,8 @@
 {
-  "id": 6812,
-  "name": "special_bonus_unique_disruptor_5",
-  "name_loc": "+{s:bonus_duration}s Kinetic Field Duration",
-  "desc_loc": "Also affects Kinetic Fence",
+  "id": 1766,
+  "name": "special_bonus_unique_disruptor_fence_charge",
+  "name_loc": "+{s:bonus_AbilityCharges} Kinetic Fence Charge",
+  "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],
   "shard_loc": "",

@@ -1,24 +1,22 @@
 {
-  "id": 5469,
-  "name": "naga_siren_rip_tide",
-  "name_loc": "Rip Tide",
-  "desc_loc": "Naga Siren and her illusions deal bonus damage to enemies and reduce their armor for %duration% seconds every %hits% attacks.",
-  "lore_loc": "A torrent from the Deep Ones crushes the defenses of the Siren's enemies.",
-  "notes_loc": [
-    "Using Rip Tide doesn't interrupt channeling."
-  ],
+  "id": 1768,
+  "name": "naga_siren_slithereen_cutlass",
+  "name_loc": "Slithereen Cutlass",
+  "desc_loc": "Naga Siren's attacks add a stacking debuff that causes the target to miss attacks for %debuff_duration% seconds, up to a max of %max_stacks% stacks.",
+  "lore_loc": "",
+  "notes_loc": [],
   "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
   "type": 0,
-  "behavior": "2",
+  "behavior": "8589934595",
   "target_team": 0,
   "target_type": 0,
   "flags": 0,
   "damage": 2,
   "immunity": 4,
   "dispellable": 2,
-  "max_level": 4,
+  "max_level": 1,
   "cast_ranges": [
     0
   ],
@@ -50,7 +48,7 @@
   "health_costs": [],
   "special_values": [
     {
-      "name": "hits",
+      "name": "debuff_duration",
       "values_float": [
         6
       ],
@@ -67,55 +65,9 @@
       "required_facet": ""
     },
     {
-      "name": "armor_reduction",
+      "name": "max_stacks",
       "values_float": [
-        -2,
-        -4,
-        -6,
-        -8
-      ],
-      "is_percentage": false,
-      "heading_loc": "ARMOR REDUCTION:",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "damage",
-      "values_float": [
-        30,
-        40,
-        50,
-        60
-      ],
-      "is_percentage": false,
-      "heading_loc": "DAMAGE:",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_naga_siren_2",
-          "value": 30,
-          "operation": 3
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "radius",
-      "values_float": [
-        300
+        10
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -130,12 +82,12 @@
       "required_facet": ""
     },
     {
-      "name": "duration",
+      "name": "miss_chance_per_stack",
       "values_float": [
-        4
+        0
       ],
-      "is_percentage": false,
-      "heading_loc": "",
+      "is_percentage": true,
+      "heading_loc": "MISS CHANCE PER STACK:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -152,7 +104,7 @@
   "ability_has_shard": false,
   "ability_is_granted_by_scepter": false,
   "ability_is_granted_by_shard": false,
-  "ability_is_innate": false,
+  "ability_is_innate": true,
   "item_cost": 0,
   "item_initial_charges": 0,
   "item_neutral_tier": 4294967295,
