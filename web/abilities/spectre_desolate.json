@@ -50,7 +50,7 @@
     {
       "name": "bonus_damage",
       "values_float": [
-        25
+        23
       ],
       "is_percentage": false,
       "heading_loc": "DAMAGE:",

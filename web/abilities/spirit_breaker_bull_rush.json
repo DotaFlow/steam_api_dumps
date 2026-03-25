@@ -1,21 +1,23 @@
 {
-  "id": 1310,
-  "name": "night_stalker_heart_of_darkness",
-  "name_loc": "Heart of Darkness",
-  "desc_loc": "Night Stalker's health regeneration is increased during the night and decreased during the day.",
+  "id": 1757,
+  "name": "spirit_breaker_bull_rush",
+  "name_loc": "Empowering Haste",
+  "desc_loc": "Spirit Breaker gains bonus Movement Speed for a duration whenever he stuns an enemy. Effects from multiple stuns stack and have independent durations. Duration pauses during Charge of Darkness.",
   "lore_loc": "",
-  "notes_loc": [],
-  "shard_loc": "Heart of Darkness now also applies to mana regeneration at night with the same values as health regeneration. Increases the duration of night time by %nighttime_increase%s.",
+  "notes_loc": [
+    "Empowering Haste buff allows Spirit Breaker to go over the max movement speed limit."
+  ],
+  "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
   "type": 0,
-  "behavior": "8796093022210",
+  "behavior": "562949953421315",
   "target_team": 0,
   "target_type": 0,
   "flags": 0,
   "damage": 0,
   "immunity": 0,
-  "dispellable": 0,
+  "dispellable": 3,
   "max_level": 1,
   "cast_ranges": [
     0
@@ -45,12 +47,12 @@
   "health_costs": [],
   "special_values": [
     {
-      "name": "hp_regen_during_night_pct",
+      "name": "hero_duration",
       "values_float": [
-        20
+        2
       ],
-      "is_percentage": true,
-      "heading_loc": "NIGHT BONUS HP REGEN:",
+      "is_percentage": false,
+      "heading_loc": "HERO DURATION:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -62,16 +64,14 @@
       "required_facet": ""
     },
     {
-      "name": "affects_mana_regen",
+      "name": "creep_duration",
       "values_float": [
-        0
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [
         1
       ],
+      "is_percentage": false,
+      "heading_loc": "CREEP DURATION:",
+      "bonuses": [],
+      "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
         "name": "",
@@ -81,16 +81,43 @@
       "required_facet": ""
     },
     {
-      "name": "nighttime_increase",
+      "name": "hero_movespeed_percent",
       "values_float": [
-        0
+        8
       ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [
-        45
+      "is_percentage": true,
+      "heading_loc": "HERO MOVESPEED:",
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_bull_rush_movement_increase",
+          "value": 8,
+          "operation": 0
+        }
       ],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "creep_movespeed_percent",
+      "values_float": [
+        2
+      ],
+      "is_percentage": true,
+      "heading_loc": "CREEP MOVESPEED:",
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_bull_rush_movement_increase",
+          "value": 2,
+          "operation": 0
+        }
+      ],
+      "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
         "name": "",

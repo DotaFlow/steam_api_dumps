@@ -1,39 +1,33 @@
 {
-  "id": 5364,
-  "name": "gyrocopter_call_down",
-  "name_loc": "Call Down",
-  "desc_loc": "Call down %total_strikes% aerial missile strikes that slow and damage enemy units in a target area. Each strike is %strike_separation% distance from the previous one.",
-  "lore_loc": "'Bombs Away!'",
-  "notes_loc": [
-    "The visual indicator is visible to allies only."
-  ],
+  "id": 1755,
+  "name": "chen_zealot",
+  "name_loc": "Zealot",
+  "desc_loc": "Whenever Chen respawns, he is joined by a Zealot, a melee warrior creep with the ability to sacrifice itself to heal or deal damage to an enemy.  The Zealot receives Holy Persuasion's benefits and scales up with other lane melee creeps as game time increases and gains extra base damage.  The Zealot respawns next to Chen after %zealot_respawn_time%s.<br><br>Zealot may be activated to teleport a unit under your control to Chen after a %teleport_delay% second delay.  If Chen is targeted, it will teleport all units you control. Taking damage from enemy heroes or their units will cancel the teleport.",
+  "lore_loc": "",
+  "notes_loc": [],
   "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
-  "type": 1,
-  "behavior": "8589934640",
-  "target_team": 0,
-  "target_type": 0,
-  "flags": 0,
-  "damage": 2,
-  "immunity": 4,
+  "type": 0,
+  "behavior": "8",
+  "target_team": 1,
+  "target_type": 3,
+  "flags": 131072,
+  "damage": 0,
+  "immunity": 2,
   "dispellable": 2,
-  "max_level": 3,
+  "max_level": 1,
   "cast_ranges": [
-    1000
+    0
   ],
   "cast_points": [
-    0.3,
-    0.3,
     0.3
   ],
   "channel_times": [
     0
   ],
   "cooldowns": [
-    90,
-    75,
-    60
+    10
   ],
   "durations": [
     0
@@ -45,20 +39,18 @@
     0
   ],
   "mana_costs": [
-    150,
-    200,
-    250
+    50
   ],
   "gold_costs": [],
   "health_costs": [],
   "special_values": [
     {
-      "name": "slow_duration",
+      "name": "zealots",
       "values_float": [
-        4
+        1
       ],
       "is_percentage": false,
-      "heading_loc": "SLOW DURATION:",
+      "heading_loc": "",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -70,12 +62,12 @@
       "required_facet": ""
     },
     {
-      "name": "slow",
+      "name": "zealot_respawn_time",
       "values_float": [
-        50
+        60
       ],
-      "is_percentage": true,
-      "heading_loc": "MISSILE SLOW:",
+      "is_percentage": false,
+      "heading_loc": "",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -89,13 +81,17 @@
     {
       "name": "damage",
       "values_float": [
-        200,
-        350,
-        500
+        0
       ],
       "is_percentage": false,
-      "heading_loc": "MISSILE DAMAGE:",
-      "bonuses": [],
+      "heading_loc": "BONUS BASE DAMAGE:",
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_chen_zealot",
+          "value": 25,
+          "operation": 3
+        }
+      ],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -106,47 +102,17 @@
       "required_facet": ""
     },
     {
-      "name": "radius",
-      "values_float": [
-        400
-      ],
-      "is_percentage": false,
-      "heading_loc": "RADIUS:",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "missile_delay_tooltip",
-      "values_float": [
-        2
-      ],
+      "name": "bonus_hp",
+      "values_float": [],
       "is_percentage": false,
       "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "strike_delay",
-      "values_float": [
-        1
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_chen_zealot",
+          "value": 25,
+          "operation": 0
+        }
       ],
-      "is_percentage": false,
-      "heading_loc": "TIME BETWEEN STRIKES:",
-      "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -157,60 +123,9 @@
       "required_facet": ""
     },
     {
-      "name": "total_strikes",
+      "name": "teleport_delay",
       "values_float": [
-        3
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "strike_separation",
-      "values_float": [
-        500
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "tracking_missile_damage",
-      "values_float": [
-        50
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "AbilityCastRange",
-      "values_float": [
-        1000
+        6
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -244,9 +159,7 @@
     {
       "name": "AbilityManaCost",
       "values_float": [
-        150,
-        200,
-        250
+        50
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -263,19 +176,11 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
-        90,
-        75,
-        60
+        10
       ],
       "is_percentage": false,
       "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_gyrocopter_5",
-          "value": 40,
-          "operation": 2
-        }
-      ],
+      "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -291,7 +196,7 @@
   "ability_has_shard": false,
   "ability_is_granted_by_scepter": false,
   "ability_is_granted_by_shard": false,
-  "ability_is_innate": false,
+  "ability_is_innate": true,
   "item_cost": 0,
   "item_initial_charges": 0,
   "item_neutral_tier": 4294967295,

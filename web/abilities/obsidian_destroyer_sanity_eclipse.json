@@ -29,8 +29,8 @@
     0
   ],
   "cooldowns": [
-    150,
-    135,
+    140,
+    130,
     120
   ],
   "durations": [
@@ -73,8 +73,8 @@
       "name": "radius",
       "values_float": [
         450,
-        525,
-        600
+        500,
+        550
       ],
       "is_percentage": false,
       "heading_loc": "RADIUS:",
@@ -112,13 +112,7 @@
       ],
       "is_percentage": false,
       "heading_loc": "MANA DIFFERENCE MULTIPLIER:",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_outworld_devourer_4",
-          "value": 0.15,
-          "operation": 0
-        }
-      ],
+      "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -235,8 +229,8 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
-        150,
-        135,
+        140,
+        130,
         120
       ],
       "is_percentage": false,

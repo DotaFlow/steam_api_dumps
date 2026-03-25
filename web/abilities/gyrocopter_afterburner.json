@@ -1,15 +1,15 @@
 {
-  "id": 1310,
-  "name": "night_stalker_heart_of_darkness",
-  "name_loc": "Heart of Darkness",
-  "desc_loc": "Night Stalker's health regeneration is increased during the night and decreased during the day.",
+  "id": 1759,
+  "name": "gyrocopter_afterburner",
+  "name_loc": "Afterburner",
+  "desc_loc": "Gyrocopter gains movement speed for a short duration after damaging an enemy with his attacks or abilities.",
   "lore_loc": "",
   "notes_loc": [],
-  "shard_loc": "Heart of Darkness now also applies to mana regeneration at night with the same values as health regeneration. Increases the duration of night time by %nighttime_increase%s.",
+  "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
   "type": 0,
-  "behavior": "8796093022210",
+  "behavior": "567347999932419",
   "target_team": 0,
   "target_type": 0,
   "flags": 0,
@@ -45,12 +45,12 @@
   "health_costs": [],
   "special_values": [
     {
-      "name": "hp_regen_during_night_pct",
+      "name": "bonus_movespeed_duration",
       "values_float": [
-        20
+        3.9
       ],
-      "is_percentage": true,
-      "heading_loc": "NIGHT BONUS HP REGEN:",
+      "is_percentage": false,
+      "heading_loc": "DURATION:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -62,16 +62,14 @@
       "required_facet": ""
     },
     {
-      "name": "affects_mana_regen",
+      "name": "bonus_movement_speed_per_hit",
       "values_float": [
-        0
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [
         1
       ],
+      "is_percentage": false,
+      "heading_loc": "MOVESPEED (HEROES):",
+      "bonuses": [],
+      "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
         "name": "",
@@ -81,16 +79,14 @@
       "required_facet": ""
     },
     {
-      "name": "nighttime_increase",
+      "name": "bonus_movement_speed_per_hit_creep",
       "values_float": [
-        0
+        0.5
       ],
       "is_percentage": false,
-      "heading_loc": "",
+      "heading_loc": "MOVESPEED (CREEPS):",
       "bonuses": [],
-      "values_shard": [
-        45
-      ],
+      "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
         "name": "",

@@ -105,7 +105,6 @@
         2.5,
         5,
         7.5,
-        10,
         10
       ],
       "is_percentage": false,
@@ -133,13 +132,7 @@
       ],
       "is_percentage": false,
       "heading_loc": "RADIUS:",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_batrider_7",
-          "value": 50,
-          "operation": 0
-        }
-      ],
+      "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -172,12 +165,17 @@
         -0.75,
         -1.5,
         -2.25,
-        -3,
         -3
       ],
       "is_percentage": true,
       "heading_loc": "MOVEMENT SLOW:",
-      "bonuses": [],
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_batrider_7",
+          "value": 0.5,
+          "operation": 2
+        }
+      ],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -193,7 +191,6 @@
         -10,
         -30,
         -50,
-        -70,
         -70
       ],
       "is_percentage": true,
@@ -267,7 +264,6 @@
         5,
         10,
         15,
-        20,
         20
       ],
       "is_percentage": false,
@@ -303,16 +299,16 @@
     },
     {
       "name": "napalm_stacks_on_attack",
-      "values_float": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
+      "values_float": [],
       "is_percentage": false,
       "heading_loc": "",
-      "bonuses": [],
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_batrider_6",
+          "value": 1,
+          "operation": 0
+        }
+      ],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {

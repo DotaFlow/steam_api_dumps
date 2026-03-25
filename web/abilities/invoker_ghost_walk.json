@@ -7,7 +7,7 @@
   "notes_loc": [
     "The slow effect does not work on Spell Immune enemies."
   ],
-  "shard_loc": "",
+  "shard_loc": "Ghost Walk now also applies the Ice Wall Damage Per Second to enemies in a larger radius.",
   "scepter_loc": "",
   "facets_loc": [],
   "type": 0,
@@ -71,7 +71,9 @@
       "is_percentage": false,
       "heading_loc": "SLOW RADIUS:",
       "bonuses": [],
-      "values_shard": [],
+      "values_shard": [
+        150
+      ],
       "values_scepter": [],
       "facet_bonus": {
         "name": "",
@@ -92,7 +94,8 @@
         -50,
         -55,
         -60,
-        -65
+        -65,
+        -70
       ],
       "is_percentage": true,
       "heading_loc": "ENEMY SLOW (<font color='#7998b5'>QUAS</font>):\n",
@@ -118,7 +121,8 @@
         10,
         15,
         20,
-        25
+        25,
+        30
       ],
       "is_percentage": true,
       "heading_loc": "SELF SPEED (<font color='#d671a9'>WEX</font>):\n",
@@ -161,7 +165,8 @@
         14,
         16,
         18,
-        20
+        20,
+        22
       ],
       "is_percentage": false,
       "heading_loc": "HEALTH REGENERATION (<font color='#7998b5'>QUAS</font>):",
@@ -187,7 +192,8 @@
         14,
         16,
         18,
-        20
+        20,
+        22
       ],
       "is_percentage": false,
       "heading_loc": "MANA REGENERATION (<font color='#d671a9'>WEX</font>):\n",
@@ -209,7 +215,9 @@
       "is_percentage": false,
       "heading_loc": "",
       "bonuses": [],
-      "values_shard": [],
+      "values_shard": [
+        1
+      ],
       "values_scepter": [],
       "facet_bonus": {
         "name": "",

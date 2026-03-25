@@ -5,7 +5,7 @@
   "desc_loc": "In a fiery rage, knocks all nearby enemies away from you to a fixed distance, dealing damage and silencing them.",
   "lore_loc": "Not even Huskar's own flesh can contain the unending expansion of his life force.",
   "notes_loc": [],
-  "shard_loc": "Lowers Inner Fire cooldown and causes it to apply a movement speed slow and heal Huskar for a percentage of the damage dealt to enemies.",
+  "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
   "type": 0,
@@ -70,10 +70,10 @@
     {
       "name": "damage",
       "values_float": [
-        105,
-        170,
-        235,
-        300
+        110,
+        180,
+        250,
+        320
       ],
       "is_percentage": false,
       "heading_loc": "DAMAGE:",
@@ -148,6 +148,23 @@
       "required_facet": ""
     },
     {
+      "name": "min_knockback_distance",
+      "values_float": [
+        25
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
       "name": "knockback_duration",
       "values_float": [
         1
@@ -165,54 +182,14 @@
       "required_facet": ""
     },
     {
-      "name": "movement_slow_pct",
+      "name": "min_knockback_duration",
       "values_float": [
-        0
+        0.4
       ],
-      "is_percentage": true,
-      "heading_loc": "MOVEMENT SLOW:",
+      "is_percentage": false,
+      "heading_loc": "",
       "bonuses": [],
-      "values_shard": [
-        50
-      ],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "hero_damage_heal_pct",
-      "values_float": [
-        0
-      ],
-      "is_percentage": true,
-      "heading_loc": "HERO DAMAGE AS HEAL:",
-      "bonuses": [],
-      "values_shard": [
-        50
-      ],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "creep_damage_heal_pct",
-      "values_float": [
-        0
-      ],
-      "is_percentage": true,
-      "heading_loc": "NON-HERO DAMAGE AS HEAL:",
-      "bonuses": [],
-      "values_shard": [
-        10
-      ],
+      "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
         "name": "",
@@ -266,9 +243,7 @@
       "is_percentage": false,
       "heading_loc": "",
       "bonuses": [],
-      "values_shard": [
-        3
-      ],
+      "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
         "name": "",
@@ -280,7 +255,7 @@
   ],
   "is_item": false,
   "ability_has_scepter": false,
-  "ability_has_shard": true,
+  "ability_has_shard": false,
   "ability_is_granted_by_scepter": false,
   "ability_is_granted_by_shard": false,
   "ability_is_innate": false,
