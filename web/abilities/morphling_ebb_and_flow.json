@@ -1,67 +1,58 @@
 {
-  "id": 5140,
-  "name": "witch_doctor_maledict",
-  "name_loc": "Maledict",
-  "desc_loc": "Curses all enemy Heroes and player-controlled units in a small area, causing them to take a set amount of damage each second, as well as bursts of damage every 4 seconds based on how much health they have lost since the curse began.",
-  "lore_loc": "Certain voodoo magics can make an enemy regret engaging the Witch Doctor.",
+  "id": 1741,
+  "name": "morphling_ebb_and_flow",
+  "name_loc": "Ebb and Flow",
+  "desc_loc": "Morphling receives bonus cast range and slow resistance based on his current Strength, and attack range and movement speed based on his current Agility. These bonuses persist if he is morphed into another hero.",
+  "lore_loc": "",
   "notes_loc": [
-    "If an affected hero's health has increased above the amount they had when Maledict was cast, the burst damage will be 0."
+    "Attack range bonuses during morph only apply when morphed into a Ranged hero."
   ],
   "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
   "type": 0,
-  "behavior": "134217776",
+  "behavior": "562949953421379",
   "target_team": 0,
-  "target_type": 1,
+  "target_type": 0,
   "flags": 0,
-  "damage": 2,
-  "immunity": 4,
+  "damage": 0,
+  "immunity": 0,
   "dispellable": 3,
-  "max_level": 4,
+  "max_level": 1,
   "cast_ranges": [
-    600
+    0
   ],
   "cast_points": [
-    0.35,
-    0.35,
-    0.35,
-    0.35
+    0
   ],
   "channel_times": [
     0
   ],
   "cooldowns": [
-    30,
-    26,
-    22,
-    18
+    0
   ],
   "durations": [
-    12
+    0
   ],
   "damages": [
-    18,
-    22,
-    26,
-    30
+    0,
+    0,
+    0,
+    0
   ],
   "mana_costs": [
-    105,
-    110,
-    115,
-    120
+    0
   ],
   "gold_costs": [],
   "health_costs": [],
   "special_values": [
     {
-      "name": "radius",
+      "name": "swell_up_duration",
       "values_float": [
-        200
+        1.5
       ],
       "is_percentage": false,
-      "heading_loc": "RADIUS:",
+      "heading_loc": "",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -73,15 +64,97 @@
       "required_facet": ""
     },
     {
-      "name": "bonus_damage",
+      "name": "swell_down_duration",
       "values_float": [
-        16,
-        24,
-        32,
+        1
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "swell_duration",
+      "values_float": [
+        5.2
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "max_swell_duration",
+      "values_float": [
+        2.7
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "model_scale",
+      "values_float": [
         40
       ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "stats_pct",
+      "values_float": [
+        25
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "attack_range_per_agi",
+      "values_float": [
+        20
+      ],
       "is_percentage": true,
-      "heading_loc": "LOST HEALTH BURST DAMAGE:",
+      "heading_loc": "AGILITY TO ATTACK RANGE:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -93,12 +166,12 @@
       "required_facet": ""
     },
     {
-      "name": "bonus_damage_threshold",
+      "name": "move_speed_per_agi",
       "values_float": [
-        100
+        15
       ],
-      "is_percentage": false,
-      "heading_loc": "",
+      "is_percentage": true,
+      "heading_loc": "AGILITY TO MOVEMENT SPEED:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -110,19 +183,13 @@
       "required_facet": ""
     },
     {
-      "name": "ticks",
+      "name": "cast_range_per_str",
       "values_float": [
-        3
+        20
       ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_witch_doctor_7",
-          "value": 1,
-          "operation": 0
-        }
-      ],
+      "is_percentage": true,
+      "heading_loc": "STRENGTH TO CAST RANGE:",
+      "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -133,51 +200,26 @@
       "required_facet": ""
     },
     {
-      "name": "spread_pct",
-      "values_float": [],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_witch_doctor_maledict_spread",
-          "value": 75,
-          "operation": 0
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "spread_radius",
-      "values_float": [],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_witch_doctor_maledict_spread",
-          "value": 800,
-          "operation": 0
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "spread_speed",
+      "name": "slow_resist_per_str",
       "values_float": [
-        1200
+        20
+      ],
+      "is_percentage": true,
+      "heading_loc": "STRENGTH TO SLOW RESISTANCE:",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "model_scale_min",
+      "values_float": [
+        -20
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -192,109 +234,9 @@
       "required_facet": ""
     },
     {
-      "name": "AbilityDamage",
+      "name": "model_scale_max",
       "values_float": [
-        18,
-        22,
-        26,
-        30
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "AbilityCastRange",
-      "values_float": [
-        600
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "AbilityDuration",
-      "values_float": [
-        12
-      ],
-      "is_percentage": false,
-      "heading_loc": "DURATION:",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_witch_doctor_7",
-          "value": 4,
-          "operation": 0
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "AbilityCastPoint",
-      "values_float": [
-        0.35
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "AbilityManaCost",
-      "values_float": [
-        105,
-        110,
-        115,
-        120
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "AbilityCooldown",
-      "values_float": [
-        30,
-        26,
-        22,
-        18
+        40
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -314,7 +256,7 @@
   "ability_has_shard": false,
   "ability_is_granted_by_scepter": false,
   "ability_is_granted_by_shard": false,
-  "ability_is_innate": false,
+  "ability_is_innate": true,
   "item_cost": 0,
   "item_initial_charges": 0,
   "item_neutral_tier": 4294967295,

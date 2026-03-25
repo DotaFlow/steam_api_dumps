@@ -1,15 +1,15 @@
 {
-  "id": 1442,
-  "name": "special_bonus_unique_lina_crit_debuff",
-  "name_loc": "{s:bonus_target_crit_multiplier}% Attack Crit On Targets Affected By Slow Burn",
-  "desc_loc": "",
+  "id": 1745,
+  "name": "sniper_take_aim_stop",
+  "name_loc": "Stop Take Aim",
+  "desc_loc": "Stop Take Aim",
   "lore_loc": "",
   "notes_loc": [],
   "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
-  "type": 2,
-  "behavior": "2",
+  "type": 0,
+  "behavior": "33556549",
   "target_team": 0,
   "target_type": 0,
   "flags": 0,
@@ -21,6 +21,9 @@
     0
   ],
   "cast_points": [
+    0,
+    0,
+    0,
     0
   ],
   "channel_times": [

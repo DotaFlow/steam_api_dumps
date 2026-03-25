@@ -27,7 +27,7 @@
     0
   ],
   "cooldowns": [
-    15
+    0
   ],
   "durations": [
     0
@@ -39,7 +39,7 @@
     0
   ],
   "mana_costs": [
-    75
+    0
   ],
   "gold_costs": [],
   "health_costs": [],
@@ -112,7 +112,13 @@
       ],
       "is_percentage": false,
       "heading_loc": "",
-      "bonuses": [],
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_phantom_lancer_juxtapose_duration",
+          "value": 1,
+          "operation": 0
+        }
+      ],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -129,7 +135,13 @@
       ],
       "is_percentage": false,
       "heading_loc": "",
-      "bonuses": [],
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_phantom_lancer_juxtapose_duration",
+          "value": 1,
+          "operation": 0
+        }
+      ],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -313,12 +325,14 @@
     {
       "name": "AbilityManaCost",
       "values_float": [
-        75
+        0
       ],
       "is_percentage": false,
       "heading_loc": "",
       "bonuses": [],
-      "values_shard": [],
+      "values_shard": [
+        75
+      ],
       "values_scepter": [],
       "facet_bonus": {
         "name": "",
@@ -330,12 +344,14 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
-        15
+        0
       ],
       "is_percentage": false,
       "heading_loc": "",
       "bonuses": [],
-      "values_shard": [],
+      "values_shard": [
+        15
+      ],
       "values_scepter": [],
       "facet_bonus": {
         "name": "",

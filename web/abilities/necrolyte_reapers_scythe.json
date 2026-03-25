@@ -57,7 +57,13 @@
       ],
       "is_percentage": false,
       "heading_loc": "DAMAGE PER MISSING HP:",
-      "bonuses": [],
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_necrophos_reaper_scythe_damage_per_health",
+          "value": 0.3,
+          "operation": 0
+        }
+      ],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -92,7 +98,7 @@
         3
       ],
       "is_percentage": false,
-      "heading_loc": "HP REGEN PER KILL:",
+      "heading_loc": "HP REGEN:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -111,7 +117,7 @@
         3
       ],
       "is_percentage": false,
-      "heading_loc": "MANA REGEN PER KILL:",
+      "heading_loc": "MANA REGEN:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],

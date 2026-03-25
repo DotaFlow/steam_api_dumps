@@ -4,11 +4,9 @@
   "name_loc": "Storm Hammer",
   "desc_loc": "Sven unleashes his magical gauntlet that deals damage and stuns enemy units in a small area around the target.",
   "lore_loc": "The Rogue Knight's iron gauntlet, taken from the school of his father, strikes his foes to their core.",
-  "notes_loc": [
-    "Aghanim's Scepter upgrade does not allow Storm Hammer to target invulnerable targets."
-  ],
+  "notes_loc": [],
   "shard_loc": "",
-  "scepter_loc": "Increases cast range, projectile speed and applies a basic dispel to affected enemies. Allows Storm Hammer to affect invulnerable enemies in the radius. If alt-cast, it deals an additional %scepter_bonus_damage% damage and Sven travels with the Storm Hammer.",
+  "scepter_loc": "Increases cast range and applies a basic dispel on the target. Affects invulnerable units. If alt-cast, it deals an additional %scepter_bonus_damage% damage and Sven travels with the Storm Hammer.",
   "facets_loc": [],
   "type": 0,
   "behavior": "134217768",
@@ -61,7 +59,7 @@
         1000
       ],
       "is_percentage": false,
-      "heading_loc": "PROJECTILE SPEED:",
+      "heading_loc": "",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [
@@ -155,7 +153,28 @@
       "required_facet": ""
     },
     {
-      "name": "#AbilityDamage",
+      "name": "bonus_damage_pct",
+      "values_float": [],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_sven",
+          "value": 20,
+          "operation": 0
+        }
+      ],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "AbilityDamage",
       "values_float": [
         80,
         160,
@@ -180,7 +199,7 @@
         600
       ],
       "is_percentage": false,
-      "heading_loc": "CAST RANGE:",
+      "heading_loc": "",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [
@@ -220,7 +239,13 @@
       ],
       "is_percentage": false,
       "heading_loc": "",
-      "bonuses": [],
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_sven_stormhammer_cooldown",
+          "value": 25,
+          "operation": 4
+        }
+      ],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -240,7 +265,13 @@
       ],
       "is_percentage": false,
       "heading_loc": "",
-      "bonuses": [],
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_sven_stormhammer_cooldown",
+          "value": 25,
+          "operation": 4
+        }
+      ],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {

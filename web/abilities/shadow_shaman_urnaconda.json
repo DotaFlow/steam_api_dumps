@@ -1,101 +1,53 @@
 {
-  "id": 5140,
-  "name": "witch_doctor_maledict",
-  "name_loc": "Maledict",
-  "desc_loc": "Curses all enemy Heroes and player-controlled units in a small area, causing them to take a set amount of damage each second, as well as bursts of damage every 4 seconds based on how much health they have lost since the curse began.",
-  "lore_loc": "Certain voodoo magics can make an enemy regret engaging the Witch Doctor.",
-  "notes_loc": [
-    "If an affected hero's health has increased above the amount they had when Maledict was cast, the burst damage will be 0."
-  ],
+  "id": 1743,
+  "name": "shadow_shaman_urnaconda",
+  "name_loc": "Urnaconda",
+  "desc_loc": "Throw a snake jar at the target location, damaging all enemies in the AoE and creating a Massive Serpent Ward that has %megaward_multiplier_tooltip%x the base Serpent Ward damage and health there that lasts %ward_duration%s.",
+  "lore_loc": "",
+  "notes_loc": [],
   "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
   "type": 0,
-  "behavior": "134217776",
-  "target_team": 0,
-  "target_type": 1,
-  "flags": 0,
-  "damage": 2,
-  "immunity": 4,
-  "dispellable": 3,
-  "max_level": 4,
+  "behavior": "8589934705",
+  "target_team": 2,
+  "target_type": 0,
+  "flags": 16,
+  "damage": 0,
+  "immunity": 3,
+  "dispellable": 0,
+  "max_level": 1,
   "cast_ranges": [
-    600
+    650
   ],
   "cast_points": [
-    0.35,
-    0.35,
-    0.35,
-    0.35
+    0.3
   ],
   "channel_times": [
     0
   ],
   "cooldowns": [
-    30,
-    26,
-    22,
-    18
+    50
   ],
   "durations": [
-    12
+    0
   ],
   "damages": [
-    18,
-    22,
-    26,
-    30
+    0,
+    0,
+    0,
+    0
   ],
   "mana_costs": [
-    105,
-    110,
-    115,
-    120
+    115
   ],
   "gold_costs": [],
   "health_costs": [],
   "special_values": [
     {
-      "name": "radius",
+      "name": "ward_duration",
       "values_float": [
-        200
-      ],
-      "is_percentage": false,
-      "heading_loc": "RADIUS:",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "bonus_damage",
-      "values_float": [
-        16,
-        24,
-        32,
-        40
-      ],
-      "is_percentage": true,
-      "heading_loc": "LOST HEALTH BURST DAMAGE:",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "bonus_damage_threshold",
-      "values_float": [
-        100
+        15
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -110,74 +62,9 @@
       "required_facet": ""
     },
     {
-      "name": "ticks",
+      "name": "speed",
       "values_float": [
-        3
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_witch_doctor_7",
-          "value": 1,
-          "operation": 0
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "spread_pct",
-      "values_float": [],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_witch_doctor_maledict_spread",
-          "value": 75,
-          "operation": 0
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "spread_radius",
-      "values_float": [],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_witch_doctor_maledict_spread",
-          "value": 800,
-          "operation": 0
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "spread_speed",
-      "values_float": [
-        1200
+        1000
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -192,12 +79,43 @@
       "required_facet": ""
     },
     {
-      "name": "AbilityDamage",
+      "name": "impact_radius",
       "values_float": [
-        18,
-        22,
-        26,
-        30
+        225
+      ],
+      "is_percentage": false,
+      "heading_loc": "IMPACT RADIUS:",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "impact_damage",
+      "values_float": [
+        275
+      ],
+      "is_percentage": false,
+      "heading_loc": "IMPACT DAMAGE:",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "megaward_multiplier_tooltip",
+      "values_float": [
+        4
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -214,7 +132,7 @@
     {
       "name": "AbilityCastRange",
       "values_float": [
-        600
+        650
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -229,32 +147,9 @@
       "required_facet": ""
     },
     {
-      "name": "AbilityDuration",
-      "values_float": [
-        12
-      ],
-      "is_percentage": false,
-      "heading_loc": "DURATION:",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_witch_doctor_7",
-          "value": 4,
-          "operation": 0
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
       "name": "AbilityCastPoint",
       "values_float": [
-        0.35
+        0.3
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -271,10 +166,7 @@
     {
       "name": "AbilityManaCost",
       "values_float": [
-        105,
-        110,
-        115,
-        120
+        115
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -291,10 +183,7 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
-        30,
-        26,
-        22,
-        18
+        50
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -313,7 +202,7 @@
   "ability_has_scepter": false,
   "ability_has_shard": false,
   "ability_is_granted_by_scepter": false,
-  "ability_is_granted_by_shard": false,
+  "ability_is_granted_by_shard": true,
   "ability_is_innate": false,
   "item_cost": 0,
   "item_initial_charges": 0,

@@ -120,7 +120,7 @@
       "bonuses": [
         {
           "name": "special_bonus_unique_kunkka_2",
-          "value": 70,
+          "value": 75,
           "operation": 0
         }
       ],
@@ -143,7 +143,7 @@
       "bonuses": [
         {
           "name": "special_bonus_unique_kunkka_4",
-          "value": 130,
+          "value": 80,
           "operation": 0
         }
       ],
@@ -199,13 +199,17 @@
       "required_facet": ""
     },
     {
-      "name": "cooldown_reduction_per_hero_hit",
-      "values_float": [
-        0
-      ],
+      "name": "pierces_armor",
+      "values_float": [],
       "is_percentage": false,
-      "heading_loc": "HERO HIT COOLDOWN REDUCTION:",
-      "bonuses": [],
+      "heading_loc": "",
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_kunkka_tidebringer_armor_pierce",
+          "value": 25,
+          "operation": 0
+        }
+      ],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -233,6 +237,48 @@
       "required_facet": ""
     },
     {
+      "name": "AbilityCharges",
+      "values_float": [],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_kunkka_tidebringer_charges",
+          "value": 2,
+          "operation": 0
+        }
+      ],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "AbilityChargeRestoreTime",
+      "values_float": [],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_kunkka_tidebringer_charges",
+          "value": 4,
+          "operation": 5
+        }
+      ],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
       "name": "AbilityCooldown",
       "values_float": [
         13,
@@ -242,7 +288,13 @@
       ],
       "is_percentage": false,
       "heading_loc": "",
-      "bonuses": [],
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_kunkka_tidebringer_charges",
+          "value": 0.1,
+          "operation": 5
+        }
+      ],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {

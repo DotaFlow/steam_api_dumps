@@ -78,7 +78,7 @@
     {
       "name": "true_sight_radius",
       "values_float": [
-        500
+        600
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -95,7 +95,7 @@
     {
       "name": "sight_radius_day",
       "values_float": [
-        500
+        600
       ],
       "is_percentage": false,
       "heading_loc": "SIGHT RADIUS:",
@@ -112,7 +112,7 @@
     {
       "name": "sight_radius_night",
       "values_float": [
-        500
+        600
       ],
       "is_percentage": false,
       "heading_loc": "",

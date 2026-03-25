@@ -1,42 +1,36 @@
 {
-  "id": 5142,
-  "name": "riki_smoke_screen",
-  "name_loc": "Smoke Screen",
-  "desc_loc": "Throws down a smoke bomb, silencing enemies and causing them to miss attacks.",
-  "lore_loc": "Since his escape during the night of his betrayal, Riki has valued the use of a simple smoke screen to confuse his opponents.",
-  "notes_loc": [
-    "Can be cast during Tricks of the Trade.",
-    "Doesn't prevent the use of active items."
-  ],
-  "shard_loc": "Enemies caught in the smoke screen have their armor reduced by %armor_reduction% and cannot be targeted by their allies.",
+  "id": 1740,
+  "name": "morphling_syntropy",
+  "name_loc": "Syntropy",
+  "desc_loc": "Morphling's attacks have increased attack range, slowing the target's movement and attack speed.\n\n If Morphling's agility is 50% higher than strength, the maximum Attack Speed slow is applied. \n\nIf Morphling's Strength is 50% higher than his agility, the maximum Movement Speed slow is applied.",
+  "lore_loc": "",
+  "notes_loc": [],
+  "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
   "type": 0,
-  "behavior": "134217776",
-  "target_team": 0,
-  "target_type": 0,
+  "behavior": "135176",
+  "target_team": 2,
+  "target_type": 19,
   "flags": 0,
-  "damage": 0,
+  "damage": 2,
   "immunity": 4,
-  "dispellable": 3,
+  "dispellable": 2,
   "max_level": 4,
   "cast_ranges": [
-    550
+    0
   ],
   "cast_points": [
-    0.2
+    0
   ],
   "channel_times": [
     0
   ],
   "cooldowns": [
-    17,
-    15,
-    13,
-    11
+    0
   ],
   "durations": [
-    6
+    0
   ],
   "damages": [
     0,
@@ -45,25 +39,22 @@
     0
   ],
   "mana_costs": [
-    75
+    10,
+    12,
+    14,
+    16
   ],
   "gold_costs": [],
   "health_costs": [],
   "special_values": [
     {
-      "name": "radius",
+      "name": "slow_duration",
       "values_float": [
-        425
+        3
       ],
       "is_percentage": false,
-      "heading_loc": "RADIUS:",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_riki_7",
-          "value": 50,
-          "operation": 0
-        }
-      ],
+      "heading_loc": "DEBUFF DURATION:",
+      "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -74,15 +65,35 @@
       "required_facet": ""
     },
     {
-      "name": "miss_rate",
+      "name": "attack_range_bonus",
       "values_float": [
-        40,
-        50,
-        60,
-        70
+        75,
+        125,
+        175,
+        225
+      ],
+      "is_percentage": false,
+      "heading_loc": "ATTACK RANGE BONUS:",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "movement_slow_max",
+      "values_float": [
+        20,
+        25,
+        30,
+        35
       ],
       "is_percentage": true,
-      "heading_loc": "MISS RATE:",
+      "heading_loc": "MAX MOVEMENT SLOW:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -94,50 +105,12 @@
       "required_facet": ""
     },
     {
-      "name": "block_targeting",
+      "name": "movement_slow_min",
       "values_float": [
-        0
+        10
       ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [
-        1
-      ],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "armor_reduction",
-      "values_float": [
-        0
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [
-        5
-      ],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "AbilityCastRange",
-      "values_float": [
-        550
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
+      "is_percentage": true,
+      "heading_loc": "MIN MOVEMENT SLOW:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -149,12 +122,15 @@
       "required_facet": ""
     },
     {
-      "name": "AbilityDuration",
+      "name": "attack_slow_max",
       "values_float": [
-        6
+        35,
+        45,
+        55,
+        65
       ],
       "is_percentage": false,
-      "heading_loc": "DURATION:",
+      "heading_loc": "MAX ATTACK SLOW:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -166,12 +142,12 @@
       "required_facet": ""
     },
     {
-      "name": "AbilityCastPoint",
+      "name": "attack_slow_min",
       "values_float": [
-        0.2
+        10
       ],
       "is_percentage": false,
-      "heading_loc": "",
+      "heading_loc": "MIN ATTACK SLOW",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -185,7 +161,10 @@
     {
       "name": "AbilityManaCost",
       "values_float": [
-        75
+        10,
+        12,
+        14,
+        16
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -198,37 +177,11 @@
         "operation": 0
       },
       "required_facet": ""
-    },
-    {
-      "name": "AbilityCooldown",
-      "values_float": [
-        17,
-        15,
-        13,
-        11
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_riki_3",
-          "value": 3,
-          "operation": 2
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
     }
   ],
   "is_item": false,
   "ability_has_scepter": false,
-  "ability_has_shard": true,
+  "ability_has_shard": false,
   "ability_is_granted_by_scepter": false,
   "ability_is_granted_by_shard": false,
   "ability_is_innate": false,
