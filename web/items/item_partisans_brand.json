@@ -1,10 +1,12 @@
 {
-  "id": 1716,
-  "name": "item_weighted_dice",
-  "name_loc": "Weighted Dice",
-  "desc_loc": "<h1>Passive: Loaded</h1>Increases your base damage maximum by %bonus_max_damage%. When calculating your base damage or creep bounty from last hits, the value is computed %roll_count% times and the highest value is taken.",
+  "id": 1873,
+  "name": "item_partisans_brand",
+  "name_loc": "Partisan's Brand",
+  "desc_loc": "<h1>Passive: Brand</h1> Increases spell damage dealt to player controlled units by %bonus_damage_pct%%%.",
   "lore_loc": "",
-  "notes_loc": [],
+  "notes_loc": [
+    "Player controlled units includes heroes and any creep summoned or converted by them."
+  ],
   "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
@@ -45,26 +47,9 @@
   "health_costs": [],
   "special_values": [
     {
-      "name": "roll_count",
+      "name": "bonus_damage_pct",
       "values_float": [
-        2
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "bonus_max_damage",
-      "values_float": [
-        6
+        9
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -87,7 +72,7 @@
   "ability_is_innate": false,
   "item_cost": 0,
   "item_initial_charges": 0,
-  "item_neutral_tier": 0,
+  "item_neutral_tier": 2,
   "item_stock_max": 0,
   "item_stock_time": 0,
   "item_quality": 1
