@@ -95,7 +95,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain increased from 2.4 to 2.7"
+          "note": "Intelligence gain increased from 2.4 to 2.7",
+          "icon": "intelligence"
         }
       ]
     },
@@ -104,15 +105,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 2"
+          "note": "Base damage reduced by 2",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 2.9 to 2.8"
+          "note": "Strength gain reduced from 2.9 to 2.8",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain reduced from 2.1 to 1.8"
+          "note": "Agility gain reduced from 2.1 to 1.8",
+          "icon": "agility"
         }
       ]
     },
@@ -121,7 +125,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain increased from 3 to 3.2"
+          "note": "Intelligence gain increased from 3 to 3.2",
+          "icon": "intelligence"
         }
       ],
       "abilities": [
@@ -155,7 +160,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -173,7 +179,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base agility increased by 4"
+          "note": "Base agility increased by 4",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -202,7 +209,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased from 310 to 315"
+          "note": "Base movement speed increased from 310 to 315",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -241,7 +249,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain reduced from 3.3 to 3.1"
+          "note": "Agility gain reduced from 3.3 to 3.1",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -285,11 +294,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 2.4 to 2.8"
+          "note": "Agility gain increased from 2.4 to 2.8",
+          "icon": "agility"
         }
       ]
     },
@@ -298,7 +309,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Attack range increased from 640 to 650"
+          "note": "Attack range increased from 640 to 650",
+          "icon": "attack_range"
         }
       ],
       "talent_notes": [
@@ -324,7 +336,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 2"
+          "note": "Base armor increased by 2",
+          "icon": "armor"
         }
       ]
     },
@@ -333,7 +346,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain reduced from 3.0 to 2.7"
+          "note": "Agility gain reduced from 3.0 to 2.7",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -415,7 +429,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 2.1 to 2.3"
+          "note": "Strength gain increased from 2.1 to 2.3",
+          "icon": "strength"
         }
       ]
     },
@@ -424,11 +439,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain increased from 2.7 to 3.0"
+          "note": "Intelligence gain increased from 2.7 to 3.0",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
@@ -490,11 +507,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor reduced by 2"
+          "note": "Base armor reduced by 2",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
-          "note": "Agility reduced from 24 + 2.7 to 20 + 2.4"
+          "note": "Agility reduced from 24 + 2.7 to 20 + 2.4",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -580,7 +599,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 3.2 to 3.0"
+          "note": "Strength gain reduced from 3.2 to 3.0",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -606,7 +626,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility steal now also occurs when an enemy dies within 300 units from you with the debuff, rather than only when you get the killing blow"
+          "note": "Agility steal now also occurs when an enemy dies within 300 units from you with the debuff, rather than only when you get the killing blow",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -672,7 +693,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 2.1 to 2.4"
+          "note": "Strength gain increased from 2.1 to 2.4",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -692,7 +714,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 3 to 3.4"
+          "note": "Strength gain increased from 3 to 3.4",
+          "icon": "strength"
         }
       ]
     },

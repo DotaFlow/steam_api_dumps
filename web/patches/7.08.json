@@ -254,11 +254,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base intelligence increased by 3"
+          "note": "Base intelligence increased by 3",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Base damage random variance reduced from 18 min/max damage spread to 12"
+          "note": "Base damage random variance reduced from 18 min/max damage spread to 12",
+          "icon": "damage"
         }
       ]
     },
@@ -304,7 +306,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed reduced from 305 to 290"
+          "note": "Base movement speed reduced from 305 to 290",
+          "icon": "movement"
         }
       ]
     },
@@ -384,7 +387,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 3"
+          "note": "Base damage reduced by 3",
+          "icon": "damage"
         }
       ]
     },
@@ -430,7 +434,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor reduced by 1"
+          "note": "Base armor reduced by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [

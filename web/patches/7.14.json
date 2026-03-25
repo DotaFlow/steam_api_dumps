@@ -394,7 +394,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased by 5"
+          "note": "Base movement speed increased by 5",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -437,7 +438,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -457,7 +459,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 3"
+          "note": "Base damage increased by 3",
+          "icon": "damage"
         }
       ]
     },
@@ -539,7 +542,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 7"
+          "note": "Base damage increased by 7",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -810,7 +814,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health regen reduced from 2 to 1.5"
+          "note": "Base Health regen reduced from 2 to 1.5",
+          "icon": "health_regen"
         }
       ]
     },
@@ -819,7 +824,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -884,7 +890,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor reduced by 1"
+          "note": "Base armor reduced by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -942,7 +949,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Health regen increased from 1.5 to 2.5"
+          "note": "Health regen increased from 1.5 to 2.5",
+          "icon": "health_regen"
         }
       ],
       "abilities": [
@@ -962,7 +970,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength increased by 3"
+          "note": "Base strength increased by 3",
+          "icon": "strength"
         }
       ]
     },
@@ -1026,7 +1035,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 2"
+          "note": "Base armor increased by 2",
+          "icon": "armor"
         }
       ]
     },
@@ -1171,7 +1181,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength growth increased from 2.2 to 2.4"
+          "note": "Strength growth increased from 2.2 to 2.4",
+          "icon": "strength"
         }
       ]
     },

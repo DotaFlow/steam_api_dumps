@@ -316,7 +316,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 2"
+          "note": "Base Damage increased by 2",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -336,7 +337,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 4"
+          "note": "Base Damage increased by 4",
+          "icon": "damage"
         }
       ]
     },
@@ -345,7 +347,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -509,11 +512,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 5"
+          "note": "Base damage increased by 5",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 2.6 to 2.3"
+          "note": "Strength gain reduced from 2.6 to 2.3",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -643,7 +648,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Base damage increased by 2"
+          "note": "Base damage increased by 2",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -702,7 +708,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed reduced from 310 to 305"
+          "note": "Base movement speed reduced from 310 to 305",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -780,7 +787,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 2.15 to 2.3"
+          "note": "Strength gain increased from 2.15 to 2.3",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -818,7 +826,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Intelligence reduced by 2 (base damage unchanged)"
+          "note": "Base Intelligence reduced by 2 (base damage unchanged)",
+          "icon": "intelligence"
         }
       ],
       "abilities": [
@@ -838,7 +847,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence increased from 16 + 1.55 to 18 + 1.7"
+          "note": "Intelligence increased from 16 + 1.55 to 18 + 1.7",
+          "icon": "intelligence"
         }
       ],
       "abilities": [
@@ -858,7 +868,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength increased by 1"
+          "note": "Base strength increased by 1",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -1074,7 +1085,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain reduced from 1.55 to 1.4"
+          "note": "Intelligence gain reduced from 1.55 to 1.4",
+          "icon": "intelligence"
         }
       ],
       "abilities": [
@@ -1094,7 +1106,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base intelligence increased by 2"
+          "note": "Base intelligence increased by 2",
+          "icon": "intelligence"
         }
       ]
     },
@@ -1191,7 +1204,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed reduced from 290 to 280"
+          "note": "Base movement speed reduced from 290 to 280",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -1228,7 +1242,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 4"
+          "note": "Base damage increased by 4",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -1321,7 +1336,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 2"
+          "note": "Base damage increased by 2",
+          "icon": "damage"
         }
       ],
       "abilities": [

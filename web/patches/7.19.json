@@ -56,7 +56,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength reduced by 1"
+          "note": "Base strength reduced by 1",
+          "icon": "strength"
         }
       ]
     },
@@ -79,7 +80,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base intelligence reduced by 2"
+          "note": "Base intelligence reduced by 2",
+          "icon": "intelligence"
         }
       ],
       "abilities": [
@@ -127,7 +129,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 2"
+          "note": "Base damage increased by 2",
+          "icon": "damage"
         }
       ]
     },
@@ -164,7 +167,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -223,7 +227,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 2"
+          "note": "Base damage reduced by 2",
+          "icon": "damage"
         }
       ]
     },
@@ -278,7 +283,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed reduced from 280 to 275"
+          "note": "Base movement speed reduced from 280 to 275",
+          "icon": "movement"
         }
       ]
     },
@@ -363,7 +369,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength increased by 2"
+          "note": "Base strength increased by 2",
+          "icon": "strength"
         }
       ]
     },

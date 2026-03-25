@@ -199,7 +199,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed reduced from 315 to 310"
+          "note": "Base movement speed reduced from 315 to 310",
+          "icon": "movement"
         }
       ]
     },
@@ -260,7 +261,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain reduced from 3.4 to 3.2"
+          "note": "Intelligence gain reduced from 3.4 to 3.2",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
@@ -273,7 +275,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 2.8 to 3.3"
+          "note": "Agility gain increased from 2.8 to 3.3",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -454,7 +457,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ]
     },

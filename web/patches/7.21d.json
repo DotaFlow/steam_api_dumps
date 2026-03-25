@@ -60,7 +60,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 3.2 to 3.4"
+          "note": "Strength gain increased from 3.2 to 3.4",
+          "icon": "strength"
         }
       ]
     },
@@ -69,11 +70,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 2.5 to 2.8"
+          "note": "Agility gain increased from 2.5 to 2.8",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Base agility increased by 6 (base damage unchanged)"
+          "note": "Base agility increased by 6 (base damage unchanged)",
+          "icon": "agility"
         }
       ]
     },
@@ -82,7 +85,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 2"
+          "note": "Base armor increased by 2",
+          "icon": "armor"
         }
       ]
     },
@@ -166,7 +170,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence increased from 22 + 3.7 to 23 + 3.9"
+          "note": "Intelligence increased from 22 + 3.7 to 23 + 3.9",
+          "icon": "intelligence"
         }
       ],
       "abilities": [
@@ -195,7 +200,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength increased by 1"
+          "note": "Base strength increased by 1",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -215,7 +221,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence increased from 20 + 3.1 to 21 + 3.3"
+          "note": "Intelligence increased from 20 + 3.1 to 21 + 3.3",
+          "icon": "intelligence"
         }
       ],
       "abilities": [
@@ -235,7 +242,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility increased from 16 + 1.5 to 23 + 1.8"
+          "note": "Agility increased from 16 + 1.5 to 23 + 1.8",
+          "icon": "agility"
         }
       ]
     },
@@ -244,7 +252,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base intelligence reduced by 2"
+          "note": "Base intelligence reduced by 2",
+          "icon": "intelligence"
         }
       ]
     },
@@ -276,7 +285,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -285,7 +295,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Poison Nova scepter damage increased from 60/85/110 to 75/100/125"
+          "note": "Poison Nova scepter damage increased from 60/85/110 to 75/100/125",
+          "icon": "damage"
         }
       ]
     },
@@ -294,7 +305,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 2.8 to 3.2"
+          "note": "Agility gain increased from 2.8 to 3.2",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -314,7 +326,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain reduced from 2.8 to 2.5"
+          "note": "Agility gain reduced from 2.8 to 2.5",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -394,7 +407,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -403,11 +417,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength increased by 1"
+          "note": "Base strength increased by 1",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Base intelligence increased from 17 to 19"
+          "note": "Base intelligence increased from 17 to 19",
+          "icon": "intelligence"
         }
       ]
     },
@@ -416,7 +432,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 3"
+          "note": "Base damage increased by 3",
+          "icon": "damage"
         }
       ]
     },
@@ -439,7 +456,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor reduced by 1"
+          "note": "Base armor reduced by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -462,7 +480,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 3"
+          "note": "Base damage increased by 3",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -561,7 +580,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 2.1 to 2.4"
+          "note": "Agility gain increased from 2.1 to 2.4",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -608,7 +628,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 3.6 to 3.2"
+          "note": "Strength gain reduced from 3.6 to 3.2",
+          "icon": "strength"
         }
       ],
       "talent_notes": [

@@ -59,7 +59,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 2"
+          "note": "Base damage increased by 2",
+          "icon": "damage"
         }
       ]
     },
@@ -68,7 +69,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 2"
+          "note": "Base damage reduced by 2",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -122,7 +124,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -167,7 +170,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 3"
+          "note": "Base damage reduced by 3",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -201,7 +205,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased from 280 to 285"
+          "note": "Base movement speed increased from 280 to 285",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -244,7 +249,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base intelligence increased by 2"
+          "note": "Base intelligence increased by 2",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [
@@ -298,11 +304,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
-          "note": "Base damage increased by 4"
+          "note": "Base damage increased by 4",
+          "icon": "damage"
         }
       ]
     },
@@ -361,7 +369,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor reduced by 2"
+          "note": "Base armor reduced by 2",
+          "icon": "armor"
         }
       ]
     },
@@ -424,7 +433,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 4"
+          "note": "Base damage reduced by 4",
+          "icon": "damage"
         }
       ]
     },
@@ -447,7 +457,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -661,7 +672,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 2"
+          "note": "Base armor increased by 2",
+          "icon": "armor"
         }
       ]
     },
@@ -745,7 +757,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength increased by 1"
+          "note": "Base strength increased by 1",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -805,7 +818,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 3.2 to 3.7"
+          "note": "Agility gain increased from 3.2 to 3.7",
+          "icon": "agility"
         }
       ]
     },
@@ -848,7 +862,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Intelligence increased by 2"
+          "note": "Base Intelligence increased by 2",
+          "icon": "intelligence"
         }
       ]
     },

@@ -148,7 +148,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Talent: Level 10 Talent changed from +175 Health to +10 Strength"
+          "note": "Talent: Level 10 Talent changed from +175 Health to +10 Strength",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
@@ -165,7 +166,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Talent: Level 15 Talent increased from +30 Movement Speed to +40"
+          "note": "Talent: Level 15 Talent increased from +30 Movement Speed to +40",
+          "icon": "movement"
         }
       ]
     },
@@ -241,7 +243,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Shadow Raze damage increase per stack reduced from 80 to 50/60/70/80"
+          "note": "Shadow Raze damage increase per stack reduced from 80 to 50/60/70/80",
+          "icon": "damage"
         }
       ]
     },
@@ -287,7 +290,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Talent: Level 15 Talent changed from +30 Damage to Storm Hammer Dispels Enemies"
+          "note": "Talent: Level 15 Talent changed from +30 Damage to Storm Hammer Dispels Enemies",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
@@ -365,7 +369,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Talent: Level 10 Talent increased from +25 Damage to +30"
+          "note": "Talent: Level 10 Talent increased from +25 Damage to +30",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
@@ -382,7 +387,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Talent: Level 10 Talent increased from +75 Damage to +90"
+          "note": "Talent: Level 10 Talent increased from +75 Damage to +90",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
@@ -406,7 +412,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Talent: Level 10 Talent increased from +20 to +25 Damage"
+          "note": "Talent: Level 10 Talent increased from +20 to +25 Damage",
+          "icon": "damage"
         }
       ]
     },
@@ -433,7 +440,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Talent: Level 20 Talent from +100 Damage to +10 Armor"
+          "note": "Talent: Level 20 Talent from +100 Damage to +10 Armor",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -457,7 +465,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Talent: Level 15 Talent changed from +30 Movement Speed to +16% Ghost Shroud Slow"
+          "note": "Talent: Level 15 Talent changed from +30 Movement Speed to +16% Ghost Shroud Slow",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
@@ -504,11 +513,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Talent: Level 15 Talent changed from +5 Max Skeletons to +25 Skeletons Attack Damage"
+          "note": "Talent: Level 15 Talent changed from +5 Max Skeletons to +25 Skeletons Attack Damage",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Talent: Level 20 Talent changed from +30 Skeletons Attack Damage to 2x Skeletons Spawned"
+          "note": "Talent: Level 20 Talent changed from +30 Skeletons Attack Damage to 2x Skeletons Spawned",
+          "icon": "damage"
         }
       ]
     },
@@ -535,11 +546,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Talent: Level 10 Talent changed from +30 Attack Speed to -20% Breathe Fire Damage Reduction"
+          "note": "Talent: Level 10 Talent changed from +30 Attack Speed to -20% Breathe Fire Damage Reduction",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain reduced from 2.2 to 2.0"
+          "note": "Agility gain reduced from 2.2 to 2.0",
+          "icon": "agility"
         }
       ]
     },
@@ -548,7 +561,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased from 305 to 310"
+          "note": "Base movement speed increased from 305 to 310",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
@@ -575,11 +589,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Talent: Level 10 Talent increased from +30 Movement Speed to +40"
+          "note": "Talent: Level 10 Talent increased from +30 Movement Speed to +40",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
-          "note": "Talent: Level 15 Talent increased from +8 Armor to 10"
+          "note": "Talent: Level 15 Talent increased from +8 Armor to 10",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -669,7 +685,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Talent: Level 15 Talent increased from +250 Attack Range to +300"
+          "note": "Talent: Level 15 Talent increased from +250 Attack Range to +300",
+          "icon": "attack_range"
         }
       ]
     },
@@ -678,7 +695,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Talent: Level 25 Talent increased from +20% Haunt Illusion Damage to +40%"
+          "note": "Talent: Level 25 Talent increased from +20% Haunt Illusion Damage to +40%",
+          "icon": "damage"
         }
       ]
     },
@@ -700,11 +718,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Intelligence increased by 2"
+          "note": "Base Intelligence increased by 2",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Talent: Level 10 Talent changed from +25 Movement Speed to +16% Scorched Earth Movement Speed"
+          "note": "Talent: Level 10 Talent changed from +25 Movement Speed to +16% Scorched Earth Movement Speed",
+          "icon": "movement"
         }
       ]
     },
@@ -797,7 +817,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 3"
+          "note": "Base damage reduced by 3",
+          "icon": "damage"
         }
       ]
     },
@@ -819,7 +840,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Spirit Bear health regeneration increased from 4/5/6/7 to 5/6/7/8"
+          "note": "Spirit Bear health regeneration increased from 4/5/6/7 to 5/6/7/8",
+          "icon": "health_regen"
         },
         {
           "indent_level": 1,
@@ -832,7 +854,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Talent: Level 10 Talent changed from +35% XP Gain to +2 Living Armor Block Instances"
+          "note": "Talent: Level 10 Talent changed from +35% XP Gain to +2 Living Armor Block Instances",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
@@ -840,7 +863,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Talent: Level 25 Talent changed from +6 Living Armor Block Instances to 700 AoE Living Armor (heroes and buildings)"
+          "note": "Talent: Level 25 Talent changed from +6 Living Armor Block Instances to 700 AoE Living Armor (heroes and buildings)",
+          "icon": "armor"
         }
       ]
     },
@@ -849,7 +873,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Talent: Level 20 Talent increased from +30 Strength to +40"
+          "note": "Talent: Level 20 Talent increased from +30 Strength to +40",
+          "icon": "strength"
         }
       ]
     },
@@ -938,7 +963,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Talent: Level 10 Talent increased from +8 Strength to +10"
+          "note": "Talent: Level 10 Talent increased from +8 Strength to +10",
+          "icon": "strength"
         }
       ]
     },
@@ -951,7 +977,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Talent: Level 15 Talent increased from +50 Whirling Axes Damage to +75"
+          "note": "Talent: Level 15 Talent increased from +50 Whirling Axes Damage to +75",
+          "icon": "damage"
         }
       ]
     },
@@ -960,7 +987,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Talent: Level 20 Talent increased from +250 Double Edge Damage to +300"
+          "note": "Talent: Level 20 Talent increased from +250 Double Edge Damage to +300",
+          "icon": "damage"
         }
       ]
     },
@@ -969,7 +997,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength increased by 1"
+          "note": "Base strength increased by 1",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
@@ -991,7 +1020,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Talent: Level 15 Talent increased from +50 Mist Coil Heal/Damage to +60"
+          "note": "Talent: Level 15 Talent increased from +50 Mist Coil Heal/Damage to +60",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
@@ -1059,7 +1089,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Intelligence growth increased from 2.9 to 3.2"
+          "note": "Intelligence growth increased from 2.9 to 3.2",
+          "icon": "intelligence"
         }
       ]
     },
@@ -1068,7 +1099,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Talent: Level 10 Talent increased from +50 Damage to +60"
+          "note": "Talent: Level 10 Talent increased from +50 Damage to +60",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -1088,7 +1120,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Talent: Level 10 Talent changed from +5 Armor to 8% Cooldown Reduction"
+          "note": "Talent: Level 10 Talent changed from +5 Armor to 8% Cooldown Reduction",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
@@ -1096,7 +1129,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Talent: Level 20 Talent increased from +100 Attack Range to +125"
+          "note": "Talent: Level 20 Talent increased from +100 Attack Range to +125",
+          "icon": "attack_range"
         },
         {
           "indent_level": 1,
@@ -1109,7 +1143,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 2"
+          "note": "Base damage increased by 2",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
@@ -1125,7 +1160,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Talent: Level 20 Talent increased from +300 Primal Spring Damage to +400"
+          "note": "Talent: Level 20 Talent increased from +300 Primal Spring Damage to +400",
+          "icon": "damage"
         }
       ]
     }

@@ -19,7 +19,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base agility increased by 4"
+          "note": "Base agility increased by 4",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -165,7 +166,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Intelligence increased from 24 to 28"
+          "note": "Base Intelligence increased from 24 to 28",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
@@ -227,7 +229,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain reduced from 2.2 to 1.4"
+          "note": "Agility gain reduced from 2.2 to 1.4",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -296,7 +299,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Now only steals agility when he kills the enemy himself"
+          "note": "Now only steals agility when he kills the enemy himself",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -335,7 +339,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility increased from 20 + 2.5 to 22 + 3.4"
+          "note": "Agility increased from 20 + 2.5 to 22 + 3.4",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -364,7 +369,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Fixed a bug with multiple Fire Remnant instances not doing damage properly"
+          "note": "Fixed a bug with multiple Fire Remnant instances not doing damage properly",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -384,7 +390,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain reduced from 2.6 to 2.3"
+          "note": "Intelligence gain reduced from 2.6 to 2.3",
+          "icon": "intelligence"
         }
       ]
     }

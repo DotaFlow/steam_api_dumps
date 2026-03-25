@@ -472,7 +472,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased by 5"
+          "note": "Base movement speed increased by 5",
+          "icon": "movement"
         }
       ]
     },
@@ -531,7 +532,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor reduced by 1"
+          "note": "Base armor reduced by 1",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -584,7 +586,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 2.3 to 2.6"
+          "note": "Strength gain increased from 2.3 to 2.6",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -626,7 +629,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 6"
+          "note": "Base damage increased by 6",
+          "icon": "damage"
         }
       ]
     },
@@ -693,7 +697,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased by 15"
+          "note": "Base movement speed increased by 15",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -794,7 +799,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 3"
+          "note": "Base damage increased by 3",
+          "icon": "damage"
         }
       ]
     },
@@ -897,11 +903,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 4"
+          "note": "Base damage increased by 4",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Base movement speed increased by 5"
+          "note": "Base movement speed increased by 5",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -970,7 +978,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength increased by 2"
+          "note": "Base strength increased by 2",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
@@ -1055,7 +1064,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 1.9 to 2.1"
+          "note": "Strength gain increased from 1.9 to 2.1",
+          "icon": "strength"
         }
       ]
     },
@@ -1088,7 +1098,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased by 15"
+          "note": "Base movement speed increased by 15",
+          "icon": "movement"
         }
       ]
     },
@@ -1097,7 +1108,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 3"
+          "note": "Base damage increased by 3",
+          "icon": "damage"
         }
       ]
     },
@@ -1110,7 +1122,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Rearranged Level 20 Talents - +20% Blur Evasion vs -4 Armor Corruption"
+          "note": "Rearranged Level 20 Talents - +20% Blur Evasion vs -4 Armor Corruption",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
@@ -1123,7 +1136,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Fixed meld bonus damage being increased by Spell Amplification"
+          "note": "Fixed meld bonus damage being increased by Spell Amplification",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -1180,7 +1194,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased by 10"
+          "note": "Base movement speed increased by 10",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -1195,7 +1210,7 @@
       ],
       "abilities": [
         {
-          "ability_id": 1292,
+          "ability_id": 5228,
           "ability_notes": [
             {
               "indent_level": 1,
@@ -1310,11 +1325,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased by 15"
+          "note": "Base movement speed increased by 15",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
-          "note": "Base armor increased by 2"
+          "note": "Base armor increased by 2",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -1346,7 +1363,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Heavenly Grace now provides 7/14/21/28 bonus strength"
+          "note": "Heavenly Grace now provides 7/14/21/28 bonus strength",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
@@ -1601,7 +1619,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 2.3 to 2.5"
+          "note": "Strength gain increased from 2.3 to 2.5",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -1683,7 +1702,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased by 15"
+          "note": "Base movement speed increased by 15",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -1703,7 +1723,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength increased from 19 to 22"
+          "note": "Base strength increased from 19 to 22",
+          "icon": "strength"
         }
       ]
     },
@@ -1712,11 +1733,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased by 10"
+          "note": "Base movement speed increased by 10",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
-          "note": "Base agility increased from 16 to 22"
+          "note": "Base agility increased from 16 to 22",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -1746,7 +1769,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 3"
+          "note": "Base damage increased by 3",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -1812,7 +1836,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased by 15"
+          "note": "Base movement speed increased by 15",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -1883,13 +1908,16 @@
     },
     {
       "hero_id": 79,
-      "hero_notes": [
-        {
-          "indent_level": 1,
-          "note": "Soul Catcher manacost reduced from 110 to 50/70/90/110"
-        }
-      ],
       "abilities": [
+        {
+          "ability_id": 1340,
+          "ability_notes": [
+            {
+              "indent_level": 1,
+              "note": "Manacost reduced from 110 to 50/70/90/110"
+            }
+          ]
+        },
         {
           "ability_id": 5423,
           "ability_notes": [
@@ -1969,7 +1997,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased by 10"
+          "note": "Base movement speed increased by 10",
+          "icon": "movement"
         }
       ]
     },
@@ -1978,7 +2007,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Scepter now causes Treant's Overgrowth to deal damage instead of only Enchanted Trees"
+          "note": "Scepter now causes Treant's Overgrowth to deal damage instead of only Enchanted Trees",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -2069,7 +2099,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -2078,11 +2109,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased by 5"
+          "note": "Base movement speed increased by 5",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 2.3 to 2.5"
+          "note": "Strength gain increased from 2.3 to 2.5",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -2101,7 +2134,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased by 5"
+          "note": "Base movement speed increased by 5",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -2412,7 +2446,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased by 15"
+          "note": "Base movement speed increased by 15",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -2440,7 +2475,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 3"
+          "note": "Base damage increased by 3",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -2489,7 +2525,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased by 5"
+          "note": "Base movement speed increased by 5",
+          "icon": "movement"
         }
       ]
     },
@@ -2498,7 +2535,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength reduced from 16 + 1.7 to 15 + 1.5"
+          "note": "Strength reduced from 16 + 1.7 to 15 + 1.5",
+          "icon": "strength"
         }
       ]
     },
@@ -2563,7 +2601,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased by 5"
+          "note": "Base movement speed increased by 5",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -2601,7 +2640,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 4"
+          "note": "Base damage increased by 4",
+          "icon": "damage"
         }
       ],
       "talent_notes": [

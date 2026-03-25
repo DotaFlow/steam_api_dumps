@@ -78,7 +78,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -87,7 +88,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -121,7 +123,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 2"
+          "note": "Base damage increased by 2",
+          "icon": "damage"
         }
       ]
     },
@@ -130,7 +133,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased from 290 to 295"
+          "note": "Base movement speed increased from 290 to 295",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -150,7 +154,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -159,7 +164,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 3"
+          "note": "Base damage increased by 3",
+          "icon": "damage"
         }
       ]
     },
@@ -177,7 +183,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility increased from 18 + 2 to 22 + 2.2"
+          "note": "Agility increased from 18 + 2 to 22 + 2.2",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -197,7 +204,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Poison Nova damage increased from 30/55/80 to 40/65/90"
+          "note": "Poison Nova damage increased from 30/55/80 to 40/65/90",
+          "icon": "damage"
         }
       ]
     },
@@ -297,7 +305,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 1.9 to 2.4"
+          "note": "Agility gain increased from 1.9 to 2.4",
+          "icon": "agility"
         }
       ]
     },
@@ -357,7 +366,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased from 305 to 315"
+          "note": "Base movement speed increased from 305 to 315",
+          "icon": "movement"
         }
       ]
     },
@@ -366,7 +376,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 2.8 to 3.1"
+          "note": "Agility gain increased from 2.8 to 3.1",
+          "icon": "agility"
         }
       ]
     },
@@ -402,11 +413,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed reduced from 340 to 330"
+          "note": "Base movement speed reduced from 340 to 330",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
-          "note": "Spirit Bear movement speed increased from 340/350/360/370 to 340/355/370/385"
+          "note": "Spirit Bear movement speed increased from 340/350/360/370 to 340/355/370/385",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -513,7 +526,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 2.2 to 2.5"
+          "note": "Strength gain increased from 2.2 to 2.5",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -533,7 +547,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength increased from 20 + 2.4 to 21 + 2.6"
+          "note": "Strength increased from 20 + 2.4 to 21 + 2.6",
+          "icon": "strength"
         }
       ]
     },

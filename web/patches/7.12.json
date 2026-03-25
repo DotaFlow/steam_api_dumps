@@ -212,7 +212,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 3"
+          "note": "Base damage increased by 3",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -246,7 +247,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base attack damage range from 39-50 to 43-48"
+          "note": "Base attack damage range from 39-50 to 43-48",
+          "icon": "damage"
         }
       ]
     },
@@ -278,7 +280,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed reduced from 295 to 290"
+          "note": "Base movement speed reduced from 295 to 290",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -298,7 +301,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen reduced from 2.5 to 1.5"
+          "note": "Base Health Regen reduced from 2.5 to 1.5",
+          "icon": "health_regen"
         }
       ],
       "abilities": [
@@ -327,11 +331,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Attack range increased from 350 to 380"
+          "note": "Attack range increased from 350 to 380",
+          "icon": "attack_range"
         },
         {
           "indent_level": 1,
-          "note": "Base damage increased by 5"
+          "note": "Base damage increased by 5",
+          "icon": "damage"
         }
       ]
     },
@@ -369,10 +375,15 @@
     },
     {
       "hero_id": 31,
-      "hero_notes": [
+      "abilities": [
         {
-          "indent_level": 1,
-          "note": "Sacrifice mana conversion increased from 30/50/70/90 to 55/70/85/100"
+          "ability_id": 1245,
+          "ability_notes": [
+            {
+              "indent_level": 1,
+              "note": "Mana conversion increased from 30/50/70/90 to 55/70/85/100"
+            }
+          ]
         }
       ]
     },
@@ -440,7 +451,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Golem's attack damage increased from 75/100/125 to 75/125/175"
+          "note": "Golem's attack damage increased from 75/100/125 to 75/125/175",
+          "icon": "damage"
         }
       ]
     },
@@ -486,7 +498,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement speed increased from 300 to 310"
+          "note": "Movement speed increased from 300 to 310",
+          "icon": "movement"
         }
       ]
     },
@@ -509,7 +522,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased from 325 to 330"
+          "note": "Base movement speed increased from 325 to 330",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -701,14 +715,19 @@
     },
     {
       "hero_id": 71,
-      "hero_notes": [
+      "abilities": [
         {
-          "indent_level": 1,
-          "note": "Empowering Haste active no longer reduces your movement speed afterwards"
-        },
-        {
-          "indent_level": 1,
-          "note": "Empowering Haste cooldown increased from 12 to 20"
+          "ability_id": 1757,
+          "ability_notes": [
+            {
+              "indent_level": 1,
+              "note": "Active no longer reduces your movement speed afterwards"
+            },
+            {
+              "indent_level": 1,
+              "note": "Cooldown increased from 12 to 20"
+            }
+          ]
         }
       ]
     },
@@ -770,7 +789,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base intelligence increased by 3"
+          "note": "Base intelligence increased by 3",
+          "icon": "intelligence"
         }
       ]
     },
@@ -793,7 +813,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Undying Zombie critical health attack speed boost increased from 50 to 75"
+          "note": "Undying Zombie critical health attack speed boost increased from 50 to 75",
+          "icon": "attack_speed"
         }
       ],
       "abilities": [
@@ -850,7 +871,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 4"
+          "note": "Base damage reduced by 4",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -987,7 +1009,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -1014,7 +1037,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base intelligence increased by 1"
+          "note": "Base intelligence increased by 1",
+          "icon": "intelligence"
         }
       ],
       "abilities": [

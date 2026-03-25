@@ -146,11 +146,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base agility reduced from 26 to 19 (base damage unchanged)"
+          "note": "Base agility reduced from 26 to 19 (base damage unchanged)",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 1.9 to 2.2"
+          "note": "Agility gain increased from 1.9 to 2.2",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
@@ -218,11 +220,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility rescaled from 15 + 1.2 to 12 + 1.3"
+          "note": "Agility rescaled from 15 + 1.2 to 12 + 1.3",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Base movement speed reduced by 5"
+          "note": "Base movement speed reduced by 5",
+          "icon": "movement"
         }
       ]
     },
@@ -245,7 +249,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 3"
+          "note": "Base damage reduced by 3",
+          "icon": "damage"
         }
       ]
     },
@@ -254,7 +259,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength reduced by 2"
+          "note": "Base strength reduced by 2",
+          "icon": "strength"
         }
       ]
     },
@@ -263,7 +269,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed reduced by 15"
+          "note": "Base movement speed reduced by 15",
+          "icon": "movement"
         }
       ]
     },
@@ -272,7 +279,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced from 42-51 to 40-45"
+          "note": "Base damage reduced from 42-51 to 40-45",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -287,7 +295,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base agility reduced by 3"
+          "note": "Base agility reduced by 3",
+          "icon": "agility"
         }
       ]
     },
@@ -370,7 +379,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base agility reduced by 5 (base damage and armor unchanged)"
+          "note": "Base agility reduced by 5 (base damage and armor unchanged)",
+          "icon": "agility"
         }
       ]
     },
