@@ -94,7 +94,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -169,7 +170,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 4"
+          "note": "Base Damage decreased by 4",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -249,7 +251,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength increased from 18 to 20"
+          "note": "Base Strength increased from 18 to 20",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -273,7 +276,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Intelligence increased by 2"
+          "note": "Base Intelligence increased by 2",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [
@@ -344,18 +348,12 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor decreased by 1"
-        }
-      ],
-      "abilities": [
+          "note": "Base Armor decreased by 1",
+          "icon": "armor"
+        },
         {
-          "ability_id": 7231,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Root Duration decreased from 1s to 0.25/0.5/0.75/1s"
-            }
-          ]
+          "indent_level": 1,
+          "note": "Call of the Wild Hawk Root Duration decreased from 1s to 0.25/0.5/0.75/1s"
         }
       ]
     },
@@ -389,11 +387,13 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Cooldown rescaled from 10s to 50% of the current cooldown"
+              "note": "Aghanim's Scepter Cooldown rescaled from 10s to 50% of the current cooldown",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter no longer increases Vanish Buffer"
+              "note": "Aghanim's Scepter no longer increases Vanish Buffer",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -453,11 +453,13 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Self Damage Reduction increased from 20% to 25%"
+              "note": "Aghanim's Shard Self Damage Reduction increased from 20% to 25%",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Buff Duration increased from 6s to 7s"
+              "note": "Aghanim's Shard Buff Duration increased from 6s to 7s",
+              "aghanims": "shard"
             }
           ]
         }
@@ -468,7 +470,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength decreased from 21 to 19"
+          "note": "Base Strength decreased from 21 to 19",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -516,7 +519,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Time decreased from 1.7s to 1.5s"
+          "note": "Base Attack Time decreased from 1.7s to 1.5s",
+          "icon": "attack_time"
         }
       ]
     },
@@ -579,7 +583,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Side Gunner Attack Interval increased from 1.2s to 1.3s"
+              "note": "Aghanim's Scepter Side Gunner Attack Interval increased from 1.2s to 1.3s",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -590,7 +595,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen decreased from 1 to 0.5"
+          "note": "Base Health Regen decreased from 1 to 0.5",
+          "icon": "health_regen"
         }
       ],
       "abilities": [
@@ -635,7 +641,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Cancel now always make Brewmaster reappear according to regular Brewling priority, regardless of which Brewling activated it"
+              "note": "Aghanim's Shard Cancel now always make Brewmaster reappear according to regular Brewling priority, regardless of which Brewling activated it",
+              "aghanims": "shard"
             }
           ]
         }
@@ -683,7 +690,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Mana Regen increased by 0.25"
+          "note": "Base Mana Regen increased by 0.25",
+          "icon": "mana_regen"
         }
       ],
       "abilities": [
@@ -712,11 +720,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 2"
+          "note": "Base Damage decreased by 2",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Base Mana Regen decreased by 0.25"
+          "note": "Base Mana Regen decreased by 0.25",
+          "icon": "mana_regen"
         }
       ],
       "talent_notes": [
@@ -822,11 +832,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Intelligence increased from 18 to 19"
+          "note": "Base Intelligence increased from 18 to 19",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain increased from 1.2 to 1.6"
+          "note": "Intelligence gain increased from 1.2 to 1.6",
+          "icon": "intelligence"
         }
       ],
       "abilities": [
@@ -1003,7 +1015,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 2.2 to 2.0"
+          "note": "Intelligence gain decreased from 2.2 to 2.0",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [

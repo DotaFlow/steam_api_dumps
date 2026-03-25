@@ -134,21 +134,6 @@
   "heroes": [
     {
       "hero_id": 2,
-      "subsections": [
-        {
-          "title": "One Man Army",
-          "style": "hero_facet",
-          "facet": "axe_one_man_army",
-          "facet_icon": "strength",
-          "facet_color": "Red0",
-          "general_notes": [
-            {
-              "indent_level": 1,
-              "note": "Linger Duration decreased from 5s to 3s"
-            }
-          ]
-        }
-      ],
       "talent_notes": [
         {
           "indent_level": 1,
@@ -157,6 +142,17 @@
         {
           "indent_level": 1,
           "note": "Level 20 Talent Culling Blade Damage decreased from +125 to +100"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": 1166,
+          "ability_notes": [
+            {
+              "indent_level": 1,
+              "note": "Linger Duration decreased from 5s to 3s"
+            }
+          ]
         }
       ]
     },
@@ -249,7 +245,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "No longer increases Meat Hook projectile speed"
+              "note": "No longer increases Meat Hook projectile speed",
+              "icon": "projectile_speed"
             }
           ]
         }
@@ -396,14 +393,12 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "abilities": [
         {
-          "title": "Wrath of God",
-          "style": "hero_facet",
-          "facet": "sven_strscaling",
-          "facet_icon": "strength",
-          "facet_color": "Red0",
-          "general_notes": [
+          "ability_id": 1234,
+          "ability_notes": [
             {
               "indent_level": 1,
               "note": "Base Damage Reduction decreased from 25 to 20"
@@ -475,7 +470,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Base Strength increased from 22 to 24"
+              "note": "Base Strength increased from 22 to 24",
+              "icon": "strength"
             }
           ]
         }
@@ -560,7 +556,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed decreased from 290 to 280"
+          "note": "Base Movement Speed decreased from 290 to 280",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -588,15 +585,10 @@
           "facet": "tinker_translocator",
           "facet_icon": "movement",
           "facet_color": "Yellow2",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 650,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "Dispel type changed from strong to basic"
-                }
-              ]
+              "indent_level": 1,
+              "note": "Defense Matrix: Dispel type changed from strong to basic"
             }
           ]
         }
@@ -742,7 +734,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 2"
+          "note": "Base Damage increased by 2",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -806,7 +799,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Cleave Damage increased from 25/35/45/55% to 30/40/50/60%"
+              "note": "Cleave Damage increased from 25/35/45/55% to 30/40/50/60%",
+              "icon": "damage"
             }
           ]
         }
@@ -962,7 +956,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Movement speed bonus from nearby heroes decreased from 8% to 7%"
+              "note": "Movement speed bonus from nearby heroes decreased from 8% to 7%",
+              "icon": "movement"
             }
           ]
         }
@@ -1025,11 +1020,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now only starts costing mana per second with Aghanim's Scepter if the duration is extended past its normal end"
+              "note": "Now only starts costing mana per second with Aghanim's Scepter if the duration is extended past its normal end",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
-              "note": "Mana Cost with Aghanim's Scepter is now always 6%"
+              "note": "Mana Cost with Aghanim's Scepter is now always 6%",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -1038,7 +1035,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Max Health Restore decreased from 30% to 25%"
+              "note": "Aghanim's Shard Max Health Restore decreased from 30% to 25%",
+              "aghanims": "shard"
             }
           ]
         },
@@ -1225,7 +1223,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Arcane Curse duration is now set to current Global Silence duration, instead of always 6s"
+              "note": "Aghanim's Scepter Arcane Curse duration is now set to current Global Silence duration, instead of always 6s",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -1259,7 +1258,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard bonus duration decreased from +12s to +8s"
+              "note": "Aghanim's Shard bonus duration decreased from +12s to +8s",
+              "aghanims": "shard"
             }
           ]
         }
@@ -1293,7 +1293,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 3.2 to 3.1"
+          "note": "Strength gain decreased from 3.2 to 3.1",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -1311,7 +1312,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard no longer increases bonus movement speed"
+              "note": "Aghanim's Shard no longer increases bonus movement speed",
+              "aghanims": "shard"
             }
           ]
         }
@@ -1453,18 +1455,12 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen decreased from 4 to 3"
-        }
-      ],
-      "abilities": [
+          "note": "Base Health Regen decreased from 4 to 3",
+          "icon": "health_regen"
+        },
         {
-          "ability_id": 1380,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Max Health Gain decreased from 35 to 30"
-            }
-          ]
+          "indent_level": 1,
+          "note": "Rawhide: Max Health Gain decreased from 35 to 30"
         }
       ]
     },
@@ -1509,11 +1505,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Range decreased from 1200 to 900"
+              "note": "Aghanim's Scepter Range decreased from 1200 to 900",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Damage Threshold increased from 525 to 550"
+              "note": "Aghanim's Scepter Damage Threshold increased from 525 to 550",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -1568,11 +1566,13 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Warrior Damage decreased from 20/35/50 to 18/32/46"
+              "note": "Warrior Damage decreased from 20/35/50 to 18/32/46",
+              "icon": "damage"
             },
             {
               "indent_level": 1,
-              "note": "Archer Damage decreased from 30/45/60 to 25/40/55"
+              "note": "Archer Damage decreased from 30/45/60 to 25/40/55",
+              "icon": "damage"
             }
           ]
         }

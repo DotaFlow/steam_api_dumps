@@ -64,7 +64,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 2"
+          "note": "Base damage increased by 2",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -88,7 +89,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement speed reduced from 310 to 300"
+          "note": "Movement speed reduced from 310 to 300",
+          "icon": "movement"
         }
       ]
     },
@@ -97,11 +99,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength reduced from 21 to 19"
+          "note": "Base strength reduced from 21 to 19",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Base mana regen reduced from 0.25 to 0"
+          "note": "Base mana regen reduced from 0.25 to 0",
+          "icon": "mana_regen"
         }
       ],
       "talent_notes": [
@@ -147,11 +151,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength reduced from 24 to 22"
+          "note": "Base strength reduced from 24 to 22",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Timelock damage reduced from 25/30/35/40 to 20/25/30/35"
+          "note": "Timelock damage reduced from 25/30/35/40 to 20/25/30/35",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
@@ -164,7 +170,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 2"
+          "note": "Base armor increased by 2",
+          "icon": "armor"
         }
       ]
     },
@@ -173,7 +180,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength increased by 2"
+          "note": "Base strength increased by 2",
+          "icon": "strength"
         }
       ]
     },
@@ -182,7 +190,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement speed reduced from 315 to 310"
+          "note": "Movement speed reduced from 315 to 310",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -208,7 +217,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength increased from 18 to 20"
+          "note": "Base strength increased from 18 to 20",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -248,7 +258,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased from 305 to 310"
+          "note": "Base movement speed increased from 305 to 310",
+          "icon": "movement"
         }
       ]
     },
@@ -406,7 +417,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base agility increased from 14 to 18"
+          "note": "Base agility increased from 14 to 18",
+          "icon": "agility"
         }
       ]
     },
@@ -415,7 +427,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base attack speed reduced from 110 to 100"
+          "note": "Base attack speed reduced from 110 to 100",
+          "icon": "attack_speed"
         }
       ]
     },
@@ -424,7 +437,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 2"
+          "note": "Base damage increased by 2",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -468,7 +482,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage changed from 47-57 to 52-58"
+          "note": "Base damage changed from 47-57 to 52-58",
+          "icon": "damage"
         }
       ]
     },
@@ -519,11 +534,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 2"
+          "note": "Base damage reduced by 2",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 3.7 to 3.5"
+          "note": "Strength gain reduced from 3.7 to 3.5",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -577,11 +594,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence from 20 + 1.4 to 21 + 1.6"
+          "note": "Intelligence from 20 + 1.4 to 21 + 1.6",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Base mana regen increased from 0 to 0.5"
+          "note": "Base mana regen increased from 0 to 0.5",
+          "icon": "mana_regen"
         }
       ]
     }

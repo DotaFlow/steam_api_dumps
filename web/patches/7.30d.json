@@ -115,7 +115,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor reduced by 1"
+          "note": "Base Armor reduced by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -151,7 +152,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility Gain reduced from 3.4 to 3.2"
+          "note": "Agility Gain reduced from 3.4 to 3.2",
+          "icon": "agility"
         }
       ]
     },
@@ -197,7 +199,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Heat-Seeking Missile damage per rocket reduced from 125/200/275/350 to 115/190/265/340"
+          "note": "Heat-Seeking Missile damage per rocket reduced from 125/200/275/350 to 115/190/265/340",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -241,15 +244,10 @@
     },
     {
       "hero_id": 38,
-      "abilities": [
+      "hero_notes": [
         {
-          "ability_id": 7231,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Shard Cooldown Reduction reduced from 15 to 7"
-            }
-          ]
+          "indent_level": 1,
+          "note": "Call of the Wild Hawk Shard Cooldown Reduction reduced from 15 to 7"
         }
       ]
     },
@@ -314,7 +312,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -323,7 +322,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -384,7 +384,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage rescaled from 53-63 to 54-60"
+          "note": "Base damage rescaled from 53-63 to 54-60",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -404,7 +405,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 2"
+          "note": "Base damage reduced by 2",
+          "icon": "damage"
         }
       ]
     },
@@ -548,7 +550,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement Speed reduced from 305 to 300"
+          "note": "Movement Speed reduced from 305 to 300",
+          "icon": "movement"
         }
       ]
     },

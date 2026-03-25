@@ -44,7 +44,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage range reduced from 46-57 to 46-54"
+          "note": "Base damage range reduced from 46-57 to 46-54",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -107,18 +108,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base attack speed reduced from 110 to 100"
-        }
-      ],
-      "abilities": [
+          "note": "Base attack speed reduced from 110 to 100",
+          "icon": "attack_speed"
+        },
         {
-          "ability_id": 7230,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Movement speed reduced from 350 to 320/330/340/350"
-            }
-          ]
+          "indent_level": 1,
+          "note": "Call of the Wild Boar movement speed reduced from 350 to 320/330/340/350",
+          "icon": "movement"
         }
       ]
     },
@@ -150,7 +146,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Greater Treants Base Attack Time increased from 1.0 to 1.4"
+          "note": "Greater Treants Base Attack Time increased from 1.0 to 1.4",
+          "icon": "attack_time"
         }
       ]
     },
@@ -173,11 +170,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement Speed reduced from 325 to 320"
+          "note": "Movement Speed reduced from 325 to 320",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
-          "note": "Base armor reduced by 1"
+          "note": "Base armor reduced by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -252,7 +251,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 2"
+          "note": "Base damage reduced by 2",
+          "icon": "damage"
         }
       ]
     }

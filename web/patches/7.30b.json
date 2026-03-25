@@ -37,7 +37,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility growth increased from 3 to 3.4"
+          "note": "Agility growth increased from 3 to 3.4",
+          "icon": "agility"
         }
       ],
       "abilities": [

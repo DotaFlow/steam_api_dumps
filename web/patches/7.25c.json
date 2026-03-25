@@ -154,27 +154,23 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base agility reduced by 3"
+          "note": "Base agility reduced by 3",
+          "icon": "agility"
         }
       ]
     },
     {
       "hero_id": 38,
+      "hero_notes": [
+        {
+          "indent_level": 1,
+          "note": "Call of the Wild Hawk no longer blocks neutral camps"
+        }
+      ],
       "talent_notes": [
         {
           "indent_level": 1,
           "note": "Level 15 Talent reduced from +35 Boar Damage to +30"
-        }
-      ],
-      "abilities": [
-        {
-          "ability_id": 7231,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "No longer blocks neutral camps"
-            }
-          ]
         }
       ]
     },
@@ -183,7 +179,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 2"
+          "note": "Base damage reduced by 2",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -203,7 +200,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 2"
+          "note": "Base damage reduced by 2",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -232,7 +230,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 3.7 to 3.5"
+          "note": "Strength gain reduced from 3.7 to 3.5",
+          "icon": "strength"
         }
       ]
     },
@@ -275,7 +274,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base agility reduced from 24 to 17 (base damage and armor unchanged)"
+          "note": "Base agility reduced from 24 to 17 (base damage and armor unchanged)",
+          "icon": "agility"
         }
       ],
       "abilities": [

@@ -201,7 +201,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base mana regeneration from 1.5 to 1"
+          "note": "Base mana regeneration from 1.5 to 1",
+          "icon": "mana_regen"
         }
       ],
       "abilities": [
@@ -245,7 +246,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 2"
+          "note": "Base damage reduced by 2",
+          "icon": "damage"
         }
       ]
     },

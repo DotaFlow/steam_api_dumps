@@ -65,15 +65,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain increased from 1.8 to 2.2"
+          "note": "Intelligence gain increased from 1.8 to 2.2",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 2.3 to 2.6"
+          "note": "Agility gain increased from 2.3 to 2.6",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Base movement speed increased from 280 to 285"
+          "note": "Base movement speed increased from 280 to 285",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -171,7 +174,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ]
     },

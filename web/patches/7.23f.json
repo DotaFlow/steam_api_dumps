@@ -36,7 +36,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 2"
+          "note": "Base damage reduced by 2",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
@@ -70,11 +71,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base attack speed reduced from 100 to 90"
+          "note": "Base attack speed reduced from 100 to 90",
+          "icon": "attack_speed"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 4.1 to 3.8"
+          "note": "Strength gain reduced from 4.1 to 3.8",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -140,7 +143,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Starting strength reduced by 2"
+          "note": "Starting strength reduced by 2",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -192,7 +196,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Spirit Bear level 1 base damage reduced by 5"
+          "note": "Spirit Bear level 1 base damage reduced by 5",
+          "icon": "damage"
         }
       ]
     },
@@ -201,7 +206,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 3.7 to 3.5"
+          "note": "Strength gain reduced from 3.7 to 3.5",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -230,7 +236,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor reduced by 1"
+          "note": "Base armor reduced by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [

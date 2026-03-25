@@ -273,7 +273,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 2"
+          "note": "Base damage reduced by 2",
+          "icon": "damage"
         }
       ]
     },
@@ -282,7 +283,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 2"
+          "note": "Base damage reduced by 2",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -361,7 +363,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 3"
+          "note": "Base damage increased by 3",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -481,15 +484,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 2"
+          "note": "Base armor increased by 2",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 1.3 to 1.6"
+          "note": "Agility gain increased from 1.3 to 1.6",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Movement speed increased from 315 to 325"
+          "note": "Movement speed increased from 315 to 325",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
@@ -631,7 +637,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed reduced from 315 to 310"
+          "note": "Base movement speed reduced from 315 to 310",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -709,7 +716,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Fish Bait shard attack speed bonus increased from 50 to 75"
+          "note": "Fish Bait shard attack speed bonus increased from 50 to 75",
+          "icon": "attack_speed"
         },
         {
           "indent_level": 1,
@@ -769,7 +777,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Frozen Sigil movement/attack slow increased from 30%/30 to 35%/35"
+          "note": "Frozen Sigil movement/attack slow increased from 30%/30 to 35%/35",
+          "icon": "movement"
         }
       ]
     },
@@ -838,11 +847,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength reduced from 19 to 18"
+          "note": "Base strength reduced from 19 to 18",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Max damage reduced from 57 to 55"
+          "note": "Max damage reduced from 57 to 55",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -866,11 +877,13 @@
         },
         {
           "indent_level": 1,
-          "note": "Ink Over shard total damage increased from 240 to 320"
+          "note": "Ink Over shard total damage increased from 240 to 320",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Ink Over shard movement slow increased from 20% to 25%"
+          "note": "Ink Over shard movement slow increased from 20% to 25%",
+          "icon": "movement"
         }
       ]
     }

@@ -24,11 +24,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Target Stats Steal decreased from 20% to 10%"
+              "note": "Aghanim's Scepter Target Stats Steal decreased from 20% to 10%",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Additional Stats Steal from Universal heroes decreased from 20% to 5%"
+              "note": "Aghanim's Scepter Additional Stats Steal from Universal heroes decreased from 20% to 5%",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -141,7 +143,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen decreased from 0.25 to -0.25 (+1.9 HP Regen at Lvl 1)"
+          "note": "Base Health Regen decreased from 0.25 to -0.25 (+1.9 HP Regen at Lvl 1)",
+          "icon": "health_regen"
         }
       ],
       "abilities": [
@@ -150,11 +153,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard now allows Tombstone to be unit targeted on cast. If cast on an allied hero, they will be automatically bunkered"
+              "note": "Aghanim's Shard now allows Tombstone to be unit targeted on cast. If cast on an allied hero, they will be automatically bunkered",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard no longer grants the Grab Ally ability to neither Undying nor the Tombstone. Allies still can right-click the Tombstone to get inside"
+              "note": "Aghanim's Shard no longer grants the Grab Ally ability to neither Undying nor the Tombstone. Allies still can right-click the Tombstone to get inside",
+              "aghanims": "shard"
             }
           ]
         }
@@ -165,11 +170,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Intelligence decreased from 27 to 25"
+          "note": "Base Intelligence decreased from 27 to 25",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 3.7 to 3.4"
+          "note": "Intelligence gain decreased from 3.7 to 3.4",
+          "icon": "intelligence"
         }
       ],
       "abilities": [
@@ -198,7 +205,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed decreased from 290 to 285"
+          "note": "Base Movement Speed decreased from 290 to 285",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -227,11 +235,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor decreased by 1"
+          "note": "Base Armor decreased by 1",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 3"
+          "note": "Base Damage decreased by 3",
+          "icon": "damage"
         }
       ],
       "abilities": [

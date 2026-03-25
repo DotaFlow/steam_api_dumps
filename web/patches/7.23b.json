@@ -203,7 +203,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 2.6 to 2.9"
+          "note": "Agility gain increased from 2.6 to 2.9",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -236,7 +237,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -259,7 +261,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 2.9 to 2.6"
+          "note": "Strength gain reduced from 2.9 to 2.6",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -333,7 +336,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 3.1 to 3.4"
+          "note": "Strength gain increased from 3.1 to 3.4",
+          "icon": "strength"
         }
       ]
     },
@@ -342,7 +346,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Spirit Bear base attack time increased from 1.7/1.6/1.5/1.4 to 1.75/1.65/1.55/1.45"
+          "note": "Spirit Bear base attack time increased from 1.7/1.6/1.5/1.4 to 1.75/1.65/1.55/1.45",
+          "icon": "attack_time"
         }
       ]
     },
@@ -421,7 +426,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 2.1 to 2.6"
+          "note": "Agility gain increased from 2.1 to 2.6",
+          "icon": "agility"
         }
       ]
     },

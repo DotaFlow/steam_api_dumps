@@ -244,15 +244,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 2.6 to 2.5"
+          "note": "Strength gain reduced from 2.6 to 2.5",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain reduced from 2.6 to 2.5"
+          "note": "Agility gain reduced from 2.6 to 2.5",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain reduced from 2.6 to 2.5"
+          "note": "Intelligence gain reduced from 2.6 to 2.5",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [
@@ -271,11 +274,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain reduced from 3.4 to 3.1"
+          "note": "Agility gain reduced from 3.4 to 3.1",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Fixed Level 15 Talent Bonus Rupture Damage not applying to a target that was already ruptured."
+          "note": "Fixed Level 15 Talent Bonus Rupture Damage not applying to a target that was already ruptured.",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -321,7 +326,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Air time decreased from 1s to 0.8s"
+              "note": "Aghanim's Scepter Air time decreased from 1s to 0.8s",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
@@ -431,7 +437,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Time increased from 1.8 to 1.9"
+          "note": "Base Attack Time increased from 1.8 to 1.9",
+          "icon": "attack_time"
         }
       ],
       "abilities": [
@@ -460,7 +467,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength increased from 28 + 3.8 to 30 + 4.0"
+          "note": "Strength increased from 28 + 3.8 to 30 + 4.0",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -475,7 +483,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain reduced from 3.8 to 3.4"
+          "note": "Agility gain reduced from 3.8 to 3.4",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -484,11 +493,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter illusion bonus movement speed reduced from 25% to 12%"
+              "note": "Aghanim's Scepter illusion bonus movement speed reduced from 25% to 12%",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter illusion now has a hero HP bar"
+              "note": "Aghanim's Scepter illusion now has a hero HP bar",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -542,7 +553,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 0.25 to 1"
+          "note": "Base Health Regen increased from 0.25 to 1",
+          "icon": "health_regen"
         }
       ],
       "talent_notes": [
@@ -622,7 +634,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage reduced by 2"
+          "note": "Base Damage reduced by 2",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -664,7 +677,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility Gain reduced from 3.0 to 2.8"
+          "note": "Agility Gain reduced from 3.0 to 2.8",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -697,19 +711,23 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain reduced from 3.5 to 3.3"
+          "note": "Intelligence gain reduced from 3.5 to 3.3",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 1.4 to 1.8"
+          "note": "Agility gain increased from 1.4 to 1.8",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Base mana regeneration increased from 0 to 0.5"
+          "note": "Base mana regeneration increased from 0 to 0.5",
+          "icon": "mana_regen"
         },
         {
           "indent_level": 1,
-          "note": "Base Movement Speed increased from 320 to 325"
+          "note": "Base Movement Speed increased from 320 to 325",
+          "icon": "movement"
         }
       ]
     },
@@ -741,7 +759,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter damage/heal increased from 200/300/400 to 250/325/400"
+              "note": "Aghanim's Scepter damage/heal increased from 200/300/400 to 250/325/400",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -752,7 +771,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility Gain increased from 2.5 to 2.7"
+          "note": "Agility Gain increased from 2.5 to 2.7",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -799,7 +819,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 1"
+          "note": "Base damage increased by 1",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -832,7 +853,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base attack range increased from 550 to 575."
+          "note": "Base attack range increased from 550 to 575.",
+          "icon": "attack_range"
         }
       ],
       "talent_notes": [
@@ -847,7 +869,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Mana Regeneration increased from 0.5 to 0.75"
+          "note": "Base Mana Regeneration increased from 0.5 to 0.75",
+          "icon": "mana_regen"
         }
       ]
     },
@@ -856,7 +879,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility increased from 18 + 2.4 to 19 + 2.6"
+          "note": "Agility increased from 18 + 2.4 to 19 + 2.6",
+          "icon": "agility"
         }
       ]
     },
@@ -889,11 +913,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain reduced from 2.7 to 2.5"
+          "note": "Agility gain reduced from 2.7 to 2.5",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Attack Range reduced from 625 to 600"
+          "note": "Attack Range reduced from 625 to 600",
+          "icon": "attack_range"
         }
       ],
       "abilities": [
@@ -1029,7 +1055,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Silken Bola bonus attack damage increased from 5/6/7/8 to 6/7/8/9"
+          "note": "Silken Bola bonus attack damage increased from 5/6/7/8 to 6/7/8/9",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -1063,7 +1090,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 1 to 1.25"
+          "note": "Base Health Regen increased from 1 to 1.25",
+          "icon": "health_regen"
         }
       ],
       "abilities": [
@@ -1083,11 +1111,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength Gain reduced from 3.0 to 2.8"
+          "note": "Strength Gain reduced from 3.0 to 2.8",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence Gain increased from 2.8 to 3.0"
+          "note": "Intelligence Gain increased from 2.8 to 3.0",
+          "icon": "intelligence"
         }
       ],
       "abilities": [
@@ -1221,7 +1251,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage rescaled from 49-58 to 52-58"
+          "note": "Base Damage rescaled from 49-58 to 52-58",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -1323,7 +1354,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed increased from 320 to 325."
+          "note": "Base Movement Speed increased from 320 to 325.",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -1352,7 +1384,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Mana Regen increased from 0 to 0.25"
+          "note": "Base Mana Regen increased from 0 to 0.25",
+          "icon": "mana_regen"
         }
       ],
       "talent_notes": [
@@ -1367,7 +1400,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Mana Regeneration increased from to 0 to 0.5"
+          "note": "Base Mana Regeneration increased from to 0 to 0.5",
+          "icon": "mana_regen"
         }
       ],
       "abilities": [
@@ -1404,7 +1438,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength reduced from 22 to 21"
+          "note": "Base Strength reduced from 22 to 21",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -1454,7 +1489,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Speed reduced from 115 to 110"
+          "note": "Base Attack Speed reduced from 115 to 110",
+          "icon": "attack_speed"
         }
       ],
       "talent_notes": [
@@ -1489,7 +1525,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 1."
+          "note": "Base Damage increased by 1.",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -1553,11 +1590,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 2.6 to 2.9"
+          "note": "Agility gain increased from 2.6 to 2.9",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Base Health Regen Increased from 0.5 to 0.75"
+          "note": "Base Health Regen Increased from 0.5 to 0.75",
+          "icon": "health_regen"
         }
       ]
     },
@@ -1590,7 +1629,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength Gain increased from 1.7 to 2.0"
+          "note": "Strength Gain increased from 1.7 to 2.0",
+          "icon": "strength"
         }
       ]
     },
@@ -1599,11 +1639,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength reduced from 23 + 2.8 to 22 +2.6"
+          "note": "Strength reduced from 23 + 2.8 to 22 +2.6",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Base Agility increased from 16 to 20 (Base Damage unchanged)"
+          "note": "Base Agility increased from 16 to 20 (Base Damage unchanged)",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -1618,7 +1660,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter secondary spark wraith activation delay reduced from 3s to 2."
+              "note": "Aghanim's Scepter secondary spark wraith activation delay reduced from 3s to 2.",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -1735,7 +1778,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 0.25 to 0.75"
+          "note": "Base Health Regen increased from 0.25 to 0.75",
+          "icon": "health_regen"
         }
       ],
       "abilities": [

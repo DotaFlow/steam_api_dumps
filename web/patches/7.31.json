@@ -1450,7 +1450,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength reduced from 23 to 21"
+          "note": "Base Strength reduced from 23 to 21",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -1601,7 +1602,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "New Scepter ability Blood Mist. Bloodseeker sprays his blood in an area, taking 5% max HP in pure damage every second while dealing 5% of a unit's max HP to enemies within a 450 radius, and slowing his enemies by 25%. While Blood Mist is active, Thirst's healing is increased by 50%. CD: 4s Cannot be turned off while on cooldown"
+          "note": "New Scepter ability Blood Mist. Bloodseeker sprays his blood in an area, taking 5% max HP in pure damage every second while dealing 5% of a unit's max HP to enemies within a 450 radius, and slowing his enemies by 25%. While Blood Mist is active, Thirst's healing is increased by 50%. CD: 4s Cannot be turned off while on cooldown",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -1653,7 +1655,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength reduced from 18 to 16"
+          "note": "Base Strength reduced from 18 to 16",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -1728,19 +1731,23 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility rescaled from 18 + 3.7 to 24 + 3.4"
+          "note": "Agility rescaled from 18 + 3.7 to 24 + 3.4",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Base armor reduced by 1 (Same starting armor)"
+          "note": "Base armor reduced by 1 (Same starting armor)",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
-          "note": "Base attack speed reduced from 115 to 110"
+          "note": "Base attack speed reduced from 115 to 110",
+          "icon": "attack_speed"
         },
         {
           "indent_level": 1,
-          "note": "Base damage decreased from 27-32 to 24-30 (Average damage increased by 3.5)"
+          "note": "Base damage decreased from 27-32 to 24-30 (Average damage increased by 3.5)",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -1902,11 +1909,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor reduced by 1"
+          "note": "Base armor reduced by 1",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain increased from 1.5 to 1.8"
+          "note": "Intelligence gain increased from 1.5 to 1.8",
+          "icon": "intelligence"
         }
       ],
       "abilities": [
@@ -1967,7 +1976,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -2005,15 +2015,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 1.7 to 1.9"
+          "note": "Agility gain increased from 1.7 to 1.9",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Base mana regen increased from 0 to 0.5"
+          "note": "Base mana regen increased from 0 to 0.5",
+          "icon": "mana_regen"
         },
         {
           "indent_level": 1,
-          "note": "Base attack speed increased from 110 to 115"
+          "note": "Base attack speed increased from 110 to 115",
+          "icon": "attack_speed"
         }
       ],
       "talent_notes": [
@@ -2036,7 +2049,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 2.0 to 2.2"
+          "note": "Agility gain increased from 2.0 to 2.2",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -2289,7 +2303,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Reworked Shard: Lina's spells deal 10 more damage for each Fiery Soul charge"
+          "note": "Reworked Shard: Lina's spells deal 10 more damage for each Fiery Soul charge",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -2338,7 +2353,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter cooldown reduced from 100/60/20 to 80/50/20"
+              "note": "Aghanim's Scepter cooldown reduced from 100/60/20 to 80/50/20",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -2461,11 +2477,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Agility increased from 15 to 17"
+          "note": "Base Agility increased from 15 to 17",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 4.1 to 3.6"
+          "note": "Intelligence gain decreased from 4.1 to 3.6",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
@@ -2507,7 +2525,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 2.4 to 2.6"
+          "note": "Strength gain increased from 2.4 to 2.6",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
@@ -2571,7 +2590,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Demonic Conversion Eidolon attack range increased from 450 to 500"
+          "note": "Demonic Conversion Eidolon attack range increased from 450 to 500",
+          "icon": "attack_range"
         }
       ],
       "abilities": [
@@ -2604,7 +2624,12 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 2"
+          "note": "Base damage reduced by 2",
+          "icon": "damage"
+        },
+        {
+          "indent_level": 1,
+          "note": "Defense Matrix Status Resistance reduced from 20/30/40/50% to 10/20/30/40%"
         }
       ],
       "talent_notes": [
@@ -2618,15 +2643,6 @@
         }
       ],
       "abilities": [
-        {
-          "ability_id": 650,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Status Resistance reduced from 20/30/40/50% to 10/20/30/40%"
-            }
-          ]
-        },
         {
           "ability_id": 5153,
           "ability_notes": [
@@ -2730,7 +2746,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage reduced by 2"
+          "note": "Base Damage reduced by 2",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -2777,7 +2794,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base attack damage increased by 4"
+          "note": "Base attack damage increased by 4",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
@@ -2824,7 +2842,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Agility reduced from 18 to 16"
+          "note": "Base Agility reduced from 18 to 16",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -3049,7 +3068,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Bad Juju: Whenever a unit is affected by one of Dazzle's abilities, they lose/gain 1/2/3 armor for 8/10/12 seconds. Can be activated to deal 30/40/50 damage to all enemies and heal all allies by 30/40/50HP within 1200 radius Mana cost 50/75/100 CD: 15s"
+          "note": "Bad Juju: Whenever a unit is affected by one of Dazzle's abilities, they lose/gain 1/2/3 armor for 8/10/12 seconds. Can be activated to deal 30/40/50 damage to all enemies and heal all allies by 30/40/50HP within 1200 radius Mana cost 50/75/100 CD: 15s",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
@@ -3110,7 +3130,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 3"
+          "note": "Base damage increased by 3",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -3204,11 +3225,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength rescaled from 20 + 3.1 to 22 + 2.6"
+          "note": "Strength rescaled from 20 + 3.1 to 22 + 2.6",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 3.1 to 2.7"
+          "note": "Intelligence gain decreased from 3.1 to 2.7",
+          "icon": "intelligence"
         }
       ],
       "abilities": [
@@ -3281,7 +3304,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence rescaled from 15+1.8 to 16+2.1"
+          "note": "Intelligence rescaled from 15+1.8 to 16+2.1",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
@@ -3297,7 +3321,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Heavenly Grace grants an additional 3/4/5/6 Strength and HP Regen for each debuff dispelled"
+          "note": "Heavenly Grace grants an additional 3/4/5/6 Strength and HP Regen for each debuff dispelled",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
@@ -3401,7 +3426,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 1.8 to 2.1"
+          "note": "Agility gain increased from 1.8 to 2.1",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -3434,7 +3460,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength reduced from 21+3.4 to 20+3.3"
+          "note": "Strength reduced from 21+3.4 to 20+3.3",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -3454,7 +3481,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain reduced from 2.3 to 2.2"
+          "note": "Agility gain reduced from 2.3 to 2.2",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -3545,7 +3573,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement Speed increased from 320 to 325"
+          "note": "Movement Speed increased from 320 to 325",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -3592,7 +3621,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter no longer reduces its cooldown"
+              "note": "Aghanim's Scepter no longer reduces its cooldown",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -3603,7 +3633,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength reduced from 27 to 25"
+          "note": "Base Strength reduced from 27 to 25",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -3658,7 +3689,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
@@ -3977,7 +4009,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement speed increased from 275 to 285"
+          "note": "Movement speed increased from 275 to 285",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -4201,7 +4234,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Is now granted as a secondary ability with Aghanim's Shard. Repeatedly applies a basic dispel on the target allied unit, removing negative buffs for the duration. At the end of the duration, the unit is healed. Units under the effect of Disruption can still be affected by Demonic Cleanse."
+              "note": "Is now granted as a secondary ability with Aghanim's Shard. Repeatedly applies a basic dispel on the target allied unit, removing negative buffs for the duration. At the end of the duration, the unit is healed. Units under the effect of Disruption can still be affected by Demonic Cleanse.",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -4278,15 +4312,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 1.6 to 2.2"
+          "note": "Strength gain increased from 1.6 to 2.2",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 1.6 to 2.4"
+          "note": "Agility gain increased from 1.6 to 2.4",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain increased from 1.6 to 1.9"
+          "note": "Intelligence gain increased from 1.6 to 1.9",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [
@@ -4468,11 +4505,13 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter no longer reduces cooldown"
+              "note": "Aghanim's Scepter no longer reduces cooldown",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter now lets you steal 2 spells. (Note: If you steal a spell with 2 subabilities like Sun Ray, it will take both your spell slots.)"
+              "note": "Aghanim's Scepter now lets you steal 2 spells. (Note: If you steal a spell with 2 subabilities like Sun Ray, it will take both your spell slots.)",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
@@ -4515,20 +4554,6 @@
     },
     {
       "hero_id": 88,
-      "hero_notes": [
-        {
-          "indent_level": 1,
-          "note": "Mana Burn Cooldown reduced from 28/20/12/4s to 20/15/10/5s"
-        },
-        {
-          "indent_level": 1,
-          "note": "Mana Burn Mana cost reduced from 100 to 70/80/90/100"
-        },
-        {
-          "indent_level": 1,
-          "note": "Mana Burn Intelligence damage multiplier reduced from 3.5/4/4.5/5x to 2.3/3.2/4.1/5x"
-        }
-      ],
       "talent_notes": [
         {
           "indent_level": 1,
@@ -4546,6 +4571,23 @@
             {
               "indent_level": 1,
               "note": "Cooldown reduced from 14s to 17/16/15/14s"
+            }
+          ]
+        },
+        {
+          "ability_id": 1767,
+          "ability_notes": [
+            {
+              "indent_level": 1,
+              "note": "Cooldown reduced from 28/20/12/4s to 20/15/10/5s"
+            },
+            {
+              "indent_level": 1,
+              "note": "Mana cost reduced from 100 to 70/80/90/100"
+            },
+            {
+              "indent_level": 1,
+              "note": "Intelligence damage multiplier reduced from 3.5/4/4.5/5x to 2.3/3.2/4.1/5x"
             }
           ]
         },
@@ -4741,7 +4783,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength reduced from 21 to 20"
+          "note": "Base Strength reduced from 21 to 20",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -4852,11 +4895,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 4.6 to 4.0"
+          "note": "Strength gain reduced from 4.6 to 4.0",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -4963,11 +5008,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased from 290 to 295"
+          "note": "Base movement speed increased from 290 to 295",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 2.9 to 2.5"
+          "note": "Strength gain reduced from 2.9 to 2.5",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -5001,7 +5048,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement speed reduced from 315 to 310"
+          "note": "Movement speed reduced from 315 to 310",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -5119,15 +5167,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 2.8 to 2.6"
+          "note": "Strength gain reduced from 2.8 to 2.6",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Base Mana Regen increased from 0 to 0.25"
+          "note": "Base Mana Regen increased from 0 to 0.25",
+          "icon": "mana_regen"
         },
         {
           "indent_level": 1,
-          "note": "Reworked Shard. Causes Mist Coil to deal Abaddon's attack damage on impact (applying on hit effects) and increases Curse of Avernus base slow by 10%"
+          "note": "Reworked Shard. Causes Mist Coil to deal Abaddon's attack damage on impact (applying on hit effects) and increases Curse of Avernus base slow by 10%",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -5146,7 +5197,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base mana regen from 0 to 0.25"
+          "note": "Base mana regen from 0 to 0.25",
+          "icon": "mana_regen"
         },
         {
           "indent_level": 1,
@@ -5169,7 +5221,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Reworked Shard. Legion Commander gains 4 armor for every hero hit with Overwhelming Odds and 0.5 armor for each creep. Increases Overwhelming Odds duration by 8 seconds"
+          "note": "Reworked Shard. Legion Commander gains 4 armor for every hero hit with Overwhelming Odds and 0.5 armor for each creep. Increases Overwhelming Odds duration by 8 seconds",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -5211,19 +5264,23 @@
         },
         {
           "indent_level": 1,
-          "note": "Base movement speed reduced from 320 to 300"
+          "note": "Base movement speed reduced from 320 to 300",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
-          "note": "Base damage increased by 12"
+          "note": "Base damage increased by 12",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Base armor reduced by 2"
+          "note": "Base armor reduced by 2",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
-          "note": "Base attack speed increased from 90 to 100"
+          "note": "Base attack speed increased from 90 to 100",
+          "icon": "attack_speed"
         }
       ],
       "talent_notes": [
@@ -5402,7 +5459,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 4.4 to 3.8"
+          "note": "Strength gain decreased from 4.4 to 3.8",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
@@ -5535,11 +5593,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain reduced from 4.4 to 4.0"
+          "note": "Agility gain reduced from 4.4 to 4.0",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Base attack speed increased from 100 to 110"
+          "note": "Base attack speed increased from 100 to 110",
+          "icon": "attack_speed"
         }
       ],
       "talent_notes": [
@@ -5590,11 +5650,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 3.5 to 3.6"
+          "note": "Strength gain increased from 3.5 to 3.6",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 1.3 to 1.5"
+          "note": "Agility gain increased from 1.3 to 1.5",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -5691,7 +5753,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 2.5 to 3.0"
+          "note": "Agility gain increased from 2.5 to 3.0",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -6007,7 +6070,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 3.4 to 3.7"
+          "note": "Strength gain increased from 3.4 to 3.7",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -6106,7 +6170,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Added Aghanim's Scepter. Reduces Unleash Cooldown by 10 seconds. While Unleash is Active, Marci's abilities trigger Unleash pulses"
+          "note": "Added Aghanim's Scepter. Reduces Unleash Cooldown by 10 seconds. While Unleash is Active, Marci's abilities trigger Unleash pulses",
+          "aghanims": "scepter"
         },
         {
           "indent_level": 1,

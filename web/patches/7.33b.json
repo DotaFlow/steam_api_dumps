@@ -237,11 +237,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed decreased by 5"
+          "note": "Base Movement Speed decreased by 5",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 3.2 to 2.8"
+          "note": "Agility gain decreased from 3.2 to 2.8",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -270,11 +272,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength increased from 19 + 2.0 to 20 + 2.1"
+          "note": "Base Strength increased from 19 + 2.0 to 20 + 2.1",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Base Agility increased from 20 + 2.0 to 21 + 2.1"
+          "note": "Base Agility increased from 20 + 2.0 to 21 + 2.1",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -321,7 +325,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Armor Reduction decreased from 7 to 6"
+              "note": "Aghanim's Shard Armor Reduction decreased from 7 to 6",
+              "aghanims": "shard"
             }
           ]
         },
@@ -374,18 +379,12 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength increased from 23 to 25"
-        }
-      ],
-      "abilities": [
+          "note": "Base Strength increased from 23 to 25",
+          "icon": "strength"
+        },
         {
-          "ability_id": 7230,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Mana Cost decreased from 60/65/70/75 to 60"
-            }
-          ]
+          "indent_level": 1,
+          "note": "Call of the Wild Boar Mana Cost decreased from 60/65/70/75 to 60"
         }
       ]
     },
@@ -414,7 +413,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Mana Regen increased by 0.3"
+          "note": "Base Mana Regen increased by 0.3",
+          "icon": "mana_regen"
         }
       ],
       "abilities": [
@@ -434,7 +434,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength increased from 26 to 27"
+          "note": "Base Strength increased from 26 to 27",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -474,15 +475,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Agility increased from 22 to 25"
+          "note": "Base Agility increased from 22 to 25",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Base Intelligence increased from 18 to 21"
+          "note": "Base Intelligence increased from 18 to 21",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Tar Bomb Projectile Speed increased from 1500 to 2000"
+          "note": "Tar Bomb Projectile Speed increased from 1500 to 2000",
+          "icon": "projectile_speed"
         },
         {
           "indent_level": 1,
@@ -506,7 +510,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Heavenly Grace Base Strength bonus decreased from 8/16/24/32 to 7/14/21/28"
+          "note": "Heavenly Grace Base Strength bonus decreased from 8/16/24/32 to 7/14/21/28",
+          "icon": "strength"
         }
       ]
     },
@@ -515,15 +520,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 3"
+          "note": "Base Damage increased by 3",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Base Attack Range increased from 150 to 175"
+          "note": "Base Attack Range increased from 150 to 175",
+          "icon": "attack_range"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 2.0 to 2.3"
+          "note": "Strength gain increased from 2.0 to 2.3",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -561,7 +569,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 2.0 to 2.2"
+          "note": "Strength gain increased from 2.0 to 2.2",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -603,7 +612,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength decreased from 25 to 23"
+          "note": "Base Strength decreased from 25 to 23",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -666,7 +676,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed reduced from 305 to 300"
+          "note": "Base Movement Speed reduced from 305 to 300",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -738,7 +749,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Intelligence increased from 23 to 27"
+          "note": "Base Intelligence increased from 23 to 27",
+          "icon": "intelligence"
         }
       ],
       "abilities": [
@@ -780,11 +792,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 3.0 to 3.1"
+          "note": "Strength gain increased from 3.0 to 3.1",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 1.9 to 2.0"
+          "note": "Agility gain increased from 1.9 to 2.0",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -799,11 +813,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 2.9 to 3.2"
+          "note": "Strength gain increased from 2.9 to 3.2",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 1.0 to 1.3"
+          "note": "Agility gain increased from 1.0 to 1.3",
+          "icon": "agility"
         }
       ]
     },
@@ -919,7 +935,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength increased from 17 to 19"
+          "note": "Base Strength increased from 17 to 19",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -948,7 +965,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed decreased from 295 to 290"
+          "note": "Base Movement Speed decreased from 295 to 290",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -968,7 +986,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength increased from 20 to 21"
+          "note": "Base Strength increased from 20 to 21",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -988,7 +1007,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 3.0 to 3.2"
+          "note": "Strength gain increased from 3.0 to 3.2",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -1014,11 +1034,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Agility decreased from 22 to 20"
+          "note": "Base Agility decreased from 22 to 20",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 3.0 to 2.7"
+          "note": "Agility gain decreased from 3.0 to 2.7",
+          "icon": "agility"
         }
       ]
     }

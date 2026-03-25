@@ -204,7 +204,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Mana Regeneration increased from 0 to 0.5"
+          "note": "Base Mana Regeneration increased from 0 to 0.5",
+          "icon": "mana_regen"
         },
         {
           "indent_level": 1,
@@ -302,7 +303,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed decreased from 295 to 285"
+          "note": "Base Movement Speed decreased from 295 to 285",
+          "icon": "movement"
         }
       ]
     },
@@ -375,7 +377,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor reduced by 1"
+          "note": "Base Armor reduced by 1",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -477,15 +480,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength decreased from 21 + 2.2 to 19 + 2"
+          "note": "Strength decreased from 21 + 2.2 to 19 + 2",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility Gain reduced from 3.4 to 3.2"
+          "note": "Agility Gain reduced from 3.4 to 3.2",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Base Damage reduced by 1"
+          "note": "Base Damage reduced by 1",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -522,7 +528,7 @@
       "hero_id": 49,
       "abilities": [
         {
-          "ability_id": 1292,
+          "ability_id": 5228,
           "ability_notes": [
             {
               "indent_level": 1,
@@ -600,7 +606,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 2.5 to 2.8"
+          "note": "Strength gain increased from 2.5 to 2.8",
+          "icon": "strength"
         }
       ]
     },
@@ -609,7 +616,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Time improved from 1.7 to 1.5"
+          "note": "Base Attack Time improved from 1.7 to 1.5",
+          "icon": "attack_time"
         }
       ]
     },
@@ -660,7 +668,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -746,7 +755,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength reduced from 25 + 2.9 to 23 + 2.7"
+          "note": "Strength reduced from 25 + 2.9 to 23 + 2.7",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -862,7 +872,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Attack Speed increased from 100 to 110"
+          "note": "Attack Speed increased from 100 to 110",
+          "icon": "attack_speed"
         }
       ],
       "abilities": [
@@ -950,7 +961,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased by 1"
+          "note": "Base Health Regen increased by 1",
+          "icon": "health_regen"
         }
       ],
       "abilities": [
@@ -1071,7 +1083,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage decreased by 2"
+          "note": "Base damage decreased by 2",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -1101,11 +1114,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed increased from 310 to 315"
+          "note": "Base Movement Speed increased from 310 to 315",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain from 3.3 to 3.6"
+          "note": "Strength gain from 3.3 to 3.6",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
@@ -1138,7 +1153,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed Increased from 305 to 310"
+          "note": "Base Movement Speed Increased from 305 to 310",
+          "icon": "movement"
         }
       ],
       "abilities": [

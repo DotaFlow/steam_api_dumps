@@ -691,11 +691,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 3.4 to 2.8"
+          "note": "Strength gain decreased from 3.4 to 2.8",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 2.2 to 2.0"
+          "note": "Agility gain decreased from 2.2 to 2.0",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -769,11 +771,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Blood Mist Movement Speed slow increased from 25% to 30%"
+          "note": "Blood Mist Movement Speed slow increased from 25% to 30%",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
-          "note": "Blood Mist No longer damages Bloodseeker through Spell Immunity"
+          "note": "Blood Mist No longer damages Bloodseeker through Spell Immunity",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -906,7 +910,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed decreased from 305 to 300"
+          "note": "Base Movement Speed decreased from 305 to 300",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -941,7 +946,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 3.4 to 3.1"
+          "note": "Agility gain decreased from 3.4 to 3.1",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -1054,7 +1060,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 2"
+          "note": "Base Damage increased by 2",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -1093,7 +1100,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 1.5 to 2.0"
+          "note": "Base Health Regen increased from 1.5 to 2.0",
+          "icon": "health_regen"
         }
       ],
       "talent_notes": [
@@ -1158,7 +1166,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed decreased from 290 to 280"
+          "note": "Base Movement Speed decreased from 290 to 280",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -1225,11 +1234,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 1.9 to 2.6"
+          "note": "Agility gain increased from 1.9 to 2.6",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 0.25 to 0.5"
+          "note": "Base Health Regen increased from 0.25 to 0.5",
+          "icon": "health_regen"
         }
       ],
       "talent_notes": [
@@ -1255,7 +1266,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 0.25 to 0.75"
+          "note": "Base Health Regen increased from 0.25 to 0.75",
+          "icon": "health_regen"
         }
       ],
       "abilities": [
@@ -1377,7 +1389,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 3.0 to 2.6"
+          "note": "Strength gain decreased from 3.0 to 2.6",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -1555,7 +1568,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 71-78 to 65-72"
+          "note": "Base Damage decreased from 71-78 to 65-72",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -1629,7 +1643,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Tendrils of the Deep Reworked Shard. Grants new ability: Tendrils of the Deep. Releases a wave of tentacles in the targeted direction. The tentacles deal 50% of Ravage damage and stun and travel 75% of Ravage radius. Cooldown: 20s. Mana Cost: 80"
+          "note": "Tendrils of the Deep Reworked Shard. Grants new ability: Tendrils of the Deep. Releases a wave of tentacles in the targeted direction. The tentacles deal 50% of Ravage damage and stun and travel 75% of Ravage radius. Cooldown: 20s. Mana Cost: 80",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -1667,7 +1682,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Range decreased from 600 to 550"
+          "note": "Base Attack Range decreased from 600 to 550",
+          "icon": "attack_range"
         }
       ],
       "talent_notes": [
@@ -1961,6 +1977,28 @@
     },
     {
       "hero_id": 38,
+      "hero_notes": [
+        {
+          "indent_level": 1,
+          "note": "Call of the Wild Boar Slow decreased from 10/20/30/40% to 10/18/26/34%"
+        },
+        {
+          "indent_level": 1,
+          "note": "Call of the Wild Hawk Shard now allows to put this ability on auto-cast. Doing so will make all Hawks instantly and automatically cast Dive Bomb on the first viable target in range, regardless of whether Hawk is still flying or stationary"
+        },
+        {
+          "indent_level": 1,
+          "note": "Call of the Wild Hawk Shard cooldown reduction increased from 7s to 10s"
+        },
+        {
+          "indent_level": 1,
+          "note": "Call of the Wild Hawk Dive Bomb now roots for 2.5 seconds instead of stunning for 2s"
+        },
+        {
+          "indent_level": 1,
+          "note": "Call of the Wild Hawk Dive Bomb Cast Range decreased from 1200 to 900"
+        }
+      ],
       "talent_notes": [
         {
           "indent_level": 1,
@@ -1978,36 +2016,6 @@
             {
               "indent_level": 1,
               "note": "Cast Point improved from 0.4s to 0.3s"
-            }
-          ]
-        },
-        {
-          "ability_id": 7230,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Slow decreased from 10/20/30/40% to 10/18/26/34%"
-            }
-          ]
-        },
-        {
-          "ability_id": 7231,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Shard now allows to put this ability on auto-cast. Doing so will make all Hawks instantly and automatically cast Dive Bomb on the first viable target in range, regardless of whether Hawk is still flying or stationary"
-            },
-            {
-              "indent_level": 1,
-              "note": "Shard cooldown reduction increased from 7s to 10s"
-            },
-            {
-              "indent_level": 1,
-              "note": "Dive Bomb now roots for 2.5 seconds instead of stunning for 2s"
-            },
-            {
-              "indent_level": 1,
-              "note": "Dive Bomb Cast Range decreased from 1200 to 900"
             }
           ]
         },
@@ -2064,7 +2072,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Latent Toxicity Reworked Shard. Grants new ability: Latent Toxicity. Applies a weak poison that slows by 10% and deals 20 damage per second to its target for 7 seconds. If this poison is dispelled in any way, the target will receive 300 damage and be stunned for 2s. Mana Cost: 75. Cooldown: 20s. Range: 600. Cast point: 0.2s. Projectile speed: 1200"
+          "note": "Latent Toxicity Reworked Shard. Grants new ability: Latent Toxicity. Applies a weak poison that slows by 10% and deals 20 damage per second to its target for 7 seconds. If this poison is dispelled in any way, the target will receive 300 damage and be stunned for 2s. Mana Cost: 75. Cooldown: 20s. Range: 600. Cast point: 0.2s. Projectile speed: 1200",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -2126,7 +2135,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health regen increased from 0.25 to 0.5"
+          "note": "Base Health regen increased from 0.25 to 0.5",
+          "icon": "health_regen"
         }
       ],
       "talent_notes": [
@@ -2156,11 +2166,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility increased from 14 + 1.8 to 16 + 2.0"
+          "note": "Agility increased from 14 + 1.8 to 16 + 2.0",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Base Movement Speed decreased from 325 to 285"
+          "note": "Base Movement Speed decreased from 325 to 285",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -2456,7 +2468,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 2"
+          "note": "Base damage increased by 2",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -2712,7 +2725,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -2731,7 +2745,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Fixed Aghanim's Shard mistakenly granting +65 damage"
+              "note": "Fixed Aghanim's Shard mistakenly granting +65 damage",
+              "aghanims": "shard"
             }
           ]
         },
@@ -2789,7 +2804,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed increased from 280 to 285"
+          "note": "Base Movement Speed increased from 280 to 285",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
@@ -2891,7 +2907,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 2.8 to 2.5"
+          "note": "Strength gain decreased from 2.8 to 2.5",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -3010,7 +3027,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 1.9 to 1.7"
+          "note": "Intelligence gain decreased from 1.9 to 1.7",
+          "icon": "intelligence"
         }
       ],
       "abilities": [
@@ -3071,7 +3089,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility increased from 11 + 0.9 to 15 + 1.5"
+          "note": "Agility increased from 11 + 0.9 to 15 + 1.5",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -3154,7 +3173,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Mana Regen increased from 0 to 0.5"
+          "note": "Base Mana Regen increased from 0 to 0.5",
+          "icon": "mana_regen"
         }
       ],
       "abilities": [
@@ -3211,7 +3231,9 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Giving an Aghanim's Scepter to an ally now grants Alchemist bonus Damage and Spell Amplification even if Alchemist doesn't have one yet"
+          "note": "Giving an Aghanim's Scepter to an ally now grants Alchemist bonus Damage and Spell Amplification even if Alchemist doesn't have one yet",
+          "icon": "damage",
+          "aghanims": "scepter"
         }
       ],
       "talent_notes": [
@@ -3296,11 +3318,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Speed decreased from 115 to 100"
+          "note": "Base Attack Speed decreased from 115 to 100",
+          "icon": "attack_speed"
         },
         {
           "indent_level": 1,
-          "note": "Base Attack Time improved from 1.7s to 1.6s"
+          "note": "Base Attack Time improved from 1.7s to 1.6s",
+          "icon": "attack_time"
         }
       ],
       "talent_notes": [
@@ -3381,7 +3405,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed decreased from 315 to 305"
+          "note": "Base Movement Speed decreased from 315 to 305",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -3424,7 +3449,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Primal Companion Reworked Scepter. Grants new ability: Primal Companion. Creates a Primal Split Brewling based on Brewmaster's current Drunken Brawler Stance. If the Brewling moves further than 1600 range away from Brewmaster, it is silenced and slowed by 50%. If the Brewling takes damage from heroes or hero-controlled units, a new one can't be summoned for 3s. If the created Brewling is killed, the ability goes on cooldown for 70 seconds. Only one Brewling can exist at a time. All Brewling's abilities have a doubled cooldown when summoned with Primal Companion. If Brewmaster uses Primal Split, the existing Brewling disappears. Cooldown: 20s. Mana Cost: 50"
+          "note": "Primal Companion Reworked Scepter. Grants new ability: Primal Companion. Creates a Primal Split Brewling based on Brewmaster's current Drunken Brawler Stance. If the Brewling moves further than 1600 range away from Brewmaster, it is silenced and slowed by 50%. If the Brewling takes damage from heroes or hero-controlled units, a new one can't be summoned for 3s. If the created Brewling is killed, the ability goes on cooldown for 70 seconds. Only one Brewling can exist at a time. All Brewling's abilities have a doubled cooldown when summoned with Primal Companion. If Brewmaster uses Primal Split, the existing Brewling disappears. Cooldown: 20s. Mana Cost: 50",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -3511,7 +3537,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 2.2 to 2.5"
+          "note": "Strength gain increased from 2.2 to 2.5",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -3563,7 +3590,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 2.0 to 1.8"
+          "note": "Agility gain decreased from 2.0 to 1.8",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -3610,15 +3638,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen decreased from 3.25 to 0.25"
+          "note": "Base Health Regen decreased from 3.25 to 0.25",
+          "icon": "health_regen"
         },
         {
           "indent_level": 1,
-          "note": "Base Armor decreased from 5 to 4"
+          "note": "Base Armor decreased from 5 to 4",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 20"
+          "note": "Base Damage increased by 20",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -3638,7 +3669,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 2.8 to 2.4"
+          "note": "Strength gain decreased from 2.8 to 2.4",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -3702,7 +3734,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -3955,11 +3988,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 1.7 to 1.5"
+          "note": "Agility gain decreased from 1.7 to 1.5",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Base Attack Speed increased from 110 to 120"
+          "note": "Base Attack Speed increased from 110 to 120",
+          "icon": "attack_speed"
         }
       ],
       "talent_notes": [
@@ -4054,11 +4089,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor decreased by 3"
+          "note": "Base Armor decreased by 3",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 0.25 to 4"
+          "note": "Base Health Regen increased from 0.25 to 4",
+          "icon": "health_regen"
         }
       ],
       "abilities": [
@@ -4100,7 +4137,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Mana Regen increased from 0 to 0.5"
+          "note": "Base Mana Regen increased from 0 to 0.5",
+          "icon": "mana_regen"
         }
       ],
       "talent_notes": [
@@ -4135,7 +4173,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 3.2 to 3.5"
+          "note": "Strength gain increased from 3.2 to 3.5",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
@@ -4225,11 +4264,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 0.75 to 1.0"
+          "note": "Base Health Regen increased from 0.75 to 1.0",
+          "icon": "health_regen"
         },
         {
           "indent_level": 1,
-          "note": "Base Mana Regen increased from 0 to 0.5"
+          "note": "Base Mana Regen increased from 0 to 0.5",
+          "icon": "mana_regen"
         }
       ],
       "abilities": [
@@ -4316,7 +4357,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Agility increased from 14 to 16"
+          "note": "Base Agility increased from 14 to 16",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -4435,15 +4477,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 2.9 to 3.2"
+          "note": "Agility gain increased from 2.9 to 3.2",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Base Movement Speed decreased from 305 to 300"
+          "note": "Base Movement Speed decreased from 305 to 300",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 0.75 to 1.25"
+          "note": "Base Health Regen increased from 0.75 to 1.25",
+          "icon": "health_regen"
         },
         {
           "indent_level": 1,
@@ -4548,7 +4593,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 1 to 1.5"
+          "note": "Base Health Regen increased from 1 to 1.5",
+          "icon": "health_regen"
         }
       ],
       "talent_notes": [
@@ -4574,7 +4620,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased by 1"
+          "note": "Base Health Regen increased by 1",
+          "icon": "health_regen"
         }
       ],
       "talent_notes": [
@@ -4646,7 +4693,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength decreased from 24 + 2.6 to 22 + 2.5"
+          "note": "Strength decreased from 24 + 2.6 to 22 + 2.5",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -5011,7 +5059,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor decreased by 1"
+          "note": "Base Armor decreased by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -5147,7 +5196,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 0 to 0.25"
+          "note": "Base Health Regen increased from 0 to 0.25",
+          "icon": "health_regen"
         }
       ],
       "talent_notes": [

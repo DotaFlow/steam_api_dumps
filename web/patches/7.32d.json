@@ -270,7 +270,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen decreased from 2 to 1.75"
+          "note": "Base Health Regen decreased from 2 to 1.75",
+          "icon": "health_regen"
         }
       ],
       "abilities": [
@@ -310,7 +311,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased from 23-33 to 25-33"
+          "note": "Base Damage increased from 23-33 to 25-33",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -330,7 +332,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Mana Regen increased from 0.5 to 0.6"
+          "note": "Base Mana Regen increased from 0.5 to 0.6",
+          "icon": "mana_regen"
         }
       ]
     },
@@ -376,11 +379,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 2"
+          "note": "Base Damage increased by 2",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Base Mana Regen increased by 0.25"
+          "note": "Base Mana Regen increased by 0.25",
+          "icon": "mana_regen"
         }
       ],
       "talent_notes": [
@@ -453,7 +458,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Demonic Conversion Eidolon Attack Range decreased from 500 to 425/450/475/500"
+          "note": "Demonic Conversion Eidolon Attack Range decreased from 500 to 425/450/475/500",
+          "icon": "attack_range"
         }
       ]
     },
@@ -593,7 +599,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 0.75 to 1"
+          "note": "Base Health Regen increased from 0.75 to 1",
+          "icon": "health_regen"
         }
       ],
       "abilities": [
@@ -674,7 +681,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 2"
+          "note": "Base Damage increased by 2",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -936,7 +944,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 0.25 to 0.75"
+          "note": "Base Health Regen increased from 0.25 to 0.75",
+          "icon": "health_regen"
         }
       ]
     },
@@ -958,7 +967,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 3"
+          "note": "Base Damage increased by 3",
+          "icon": "damage"
         }
       ]
     },
@@ -1001,11 +1011,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 2.8 to 2.6"
+          "note": "Strength gain decreased from 2.8 to 2.6",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Base Armor decreased by 1"
+          "note": "Base Armor decreased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -1018,7 +1030,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 2"
+          "note": "Base Damage increased by 2",
+          "icon": "damage"
         }
       ]
     },
@@ -1059,7 +1072,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Agility increased from 21 to 23"
+          "note": "Base Agility increased from 21 to 23",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -1094,7 +1108,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 0.25 to 1"
+          "note": "Base Health Regen increased from 0.25 to 1",
+          "icon": "health_regen"
         }
       ]
     },
@@ -1173,7 +1188,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter secondary Wraith Duration decreased from 45s to 15s"
+              "note": "Aghanim's Scepter secondary Wraith Duration decreased from 45s to 15s",
+              "aghanims": "scepter"
             }
           ]
         }

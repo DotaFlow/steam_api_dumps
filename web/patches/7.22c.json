@@ -19,7 +19,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased by 10"
+          "note": "Base movement speed increased by 10",
+          "icon": "movement"
         }
       ]
     },
@@ -28,7 +29,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -37,7 +39,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base mana regen increased from 0 to 0.4"
+          "note": "Base mana regen increased from 0 to 0.4",
+          "icon": "mana_regen"
         }
       ],
       "abilities": [
@@ -95,11 +98,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base health regen increased from 0 to 0.5"
+          "note": "Base health regen increased from 0 to 0.5",
+          "icon": "health_regen"
         },
         {
           "indent_level": 1,
-          "note": "Level 25 Dreamcoil talent no longer requires enemies to be in attack range of puck, as long as Puck is within 200 range of the edge of the circle"
+          "note": "Level 25 Dreamcoil talent no longer requires enemies to be in attack range of puck, as long as Puck is within 200 range of the edge of the circle",
+          "icon": "attack_range"
         },
         {
           "indent_level": 1,
@@ -122,7 +127,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 3.2 to 3"
+          "note": "Strength gain reduced from 3.2 to 3",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
@@ -172,7 +178,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base attack speed reduced from 100 to 90"
+          "note": "Base attack speed reduced from 100 to 90",
+          "icon": "attack_speed"
         }
       ]
     },
@@ -181,7 +188,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base health regen increased from 0 to 0.5"
+          "note": "Base health regen increased from 0 to 0.5",
+          "icon": "health_regen"
         }
       ]
     },
@@ -190,7 +198,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base intelligence increased by 2"
+          "note": "Base intelligence increased by 2",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [
@@ -225,7 +234,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain reduced from 3.9 to 3.6"
+          "note": "Intelligence gain reduced from 3.9 to 3.6",
+          "icon": "intelligence"
         }
       ]
     },
@@ -266,7 +276,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Heartstopper mana regen per stack increased from 3/4/5/6 to 3.5/4.5/5.5/6.5"
+          "note": "Heartstopper mana regen per stack increased from 3/4/5/6 to 3.5/4.5/5.5/6.5",
+          "icon": "mana_regen"
         }
       ]
     },
@@ -318,7 +329,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base health regen increased from 0 to 0.5"
+          "note": "Base health regen increased from 0 to 0.5",
+          "icon": "health_regen"
         }
       ]
     },
@@ -327,7 +339,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base intelligence increased by 3"
+          "note": "Base intelligence increased by 3",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [
@@ -535,7 +548,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -558,7 +572,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -606,7 +621,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base health regen reduced from 3.25 to 2.5"
+          "note": "Base health regen reduced from 3.25 to 2.5",
+          "icon": "health_regen"
         }
       ],
       "abilities": [
@@ -640,15 +656,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Attack range reduced from 575 to 500"
+          "note": "Attack range reduced from 575 to 500",
+          "icon": "attack_range"
         },
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 2.5 to 3"
+          "note": "Strength gain increased from 2.5 to 3",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -687,7 +706,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 1.3 to 1.5"
+          "note": "Strength gain increased from 1.3 to 1.5",
+          "icon": "strength"
         }
       ]
     },
@@ -696,7 +716,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Whirling Axes Melee damage reduced from 75/125/175/225 to 50/100/150/200"
+          "note": "Whirling Axes Melee damage reduced from 75/125/175/225 to 50/100/150/200",
+          "icon": "damage"
         }
       ]
     },
@@ -705,11 +726,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength increased by 2"
+          "note": "Base strength increased by 2",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Base mana regen increased from 0 to 0.25"
+          "note": "Base mana regen increased from 0 to 0.25",
+          "icon": "mana_regen"
         }
       ]
     },
@@ -718,7 +741,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 3"
+          "note": "Base damage increased by 3",
+          "icon": "damage"
         }
       ]
     },
@@ -727,7 +751,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement speed increased by 5"
+          "note": "Movement speed increased by 5",
+          "icon": "movement"
         }
       ]
     },
@@ -770,7 +795,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -779,7 +805,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 1.5 to 1.7"
+          "note": "Strength gain increased from 1.5 to 1.7",
+          "icon": "strength"
         }
       ]
     },
@@ -811,7 +838,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base attack speed increased from 100 to 115"
+          "note": "Base attack speed increased from 100 to 115",
+          "icon": "attack_speed"
         }
       ],
       "abilities": [

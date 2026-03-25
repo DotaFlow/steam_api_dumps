@@ -232,7 +232,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Health Regen to Decay decreased from 60% to 55%"
+              "note": "Aghanim's Scepter Health Regen to Decay decreased from 60% to 55%",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -266,7 +267,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Bad Juju No longer affects any Blink Dagger's 3s mute period after taking damage"
+          "note": "Bad Juju No longer affects any Blink Dagger's 3s mute period after taking damage",
+          "icon": "damage"
         }
       ]
     },
@@ -303,7 +305,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor decreased by 1"
+          "note": "Base Armor decreased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -342,7 +345,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Cooldown increased from 8s to 9s"
+              "note": "Aghanim's Scepter Cooldown increased from 8s to 9s",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -376,11 +380,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Agility increased from 16 to 18"
+          "note": "Base Agility increased from 16 to 18",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 1.4 to 1.8"
+          "note": "Agility gain increased from 1.4 to 1.8",
+          "icon": "agility"
         }
       ]
     },
@@ -389,7 +395,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 5"
+          "note": "Base Damage decreased by 5",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -418,7 +425,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed decreased from 285 to 280"
+          "note": "Base Movement Speed decreased from 285 to 280",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -539,7 +547,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Spell Lifesteal now has a 20% penalty against creeps"
+              "note": "Aghanim's Shard Spell Lifesteal now has a 20% penalty against creeps",
+              "aghanims": "shard"
             }
           ]
         }

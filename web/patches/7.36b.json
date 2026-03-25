@@ -446,27 +446,15 @@
     },
     {
       "hero_id": 2,
-      "subsections": [
+      "hero_notes": [
         {
-          "title": "One Man Army",
-          "style": "hero_facet",
-          "facet": "axe_one_man_army",
-          "facet_icon": "strength",
-          "facet_color": "Red0",
-          "general_notes": [
-            {
-              "indent_level": 1,
-              "note": "Bonuses now start fading immediately after approaching an ally, over the 5s linger duration"
-            },
-            {
-              "indent_level": 1,
-              "note": "Radius increased from 600 to 700"
-            },
-            {
-              "indent_level": 1,
-              "note": "Bonus Strength can now be broken"
-            }
-          ]
+          "indent_level": 1,
+          "note": "Coat of Blood: Armor per Kill decreased from 0.4/0.6/0.8/1.0 to 0.2/0.3/0.4/0.5",
+          "icon": "armor"
+        },
+        {
+          "indent_level": 1,
+          "note": "Coat of Blood: Culling Blade Multiplier increased from 2x to 3x"
         }
       ],
       "talent_notes": [
@@ -481,15 +469,19 @@
       ],
       "abilities": [
         {
-          "ability_id": 1201,
+          "ability_id": 1166,
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Armor per Kill decreased from 0.4/0.6/0.8/1.0 to 0.2/0.3/0.4/0.5"
+              "note": "Bonuses now start fading immediately after approaching an ally, over the 5s linger duration"
             },
             {
               "indent_level": 1,
-              "note": "Culling Blade Multiplier increased from 2x to 3x"
+              "note": "Radius increased from 600 to 700"
+            },
+            {
+              "indent_level": 1,
+              "note": "Bonus Strength can now be broken"
             }
           ]
         },
@@ -578,7 +570,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 2.2 to 2.0"
+          "note": "Strength gain decreased from 2.2 to 2.0",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -839,19 +832,23 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter damage and stun duration are now 70% of Burrowstrike's current damage and stun"
+              "note": "Aghanim's Scepter damage and stun duration are now 70% of Burrowstrike's current damage and stun",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter spine interval increased from 0.2s to 0.4s"
+              "note": "Aghanim's Scepter spine interval increased from 0.2s to 0.4s",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter spines per interval increased from 2 to 3"
+              "note": "Aghanim's Scepter spines per interval increased from 2 to 3",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter spines no longer appear if Sand King is outside the Sand Storm"
+              "note": "Aghanim's Scepter spines no longer appear if Sand King is outside the Sand Storm",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -862,7 +859,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Mana Regen decreased from 0.2 to 0"
+          "note": "Base Mana Regen decreased from 0.2 to 0",
+          "icon": "mana_regen"
         }
       ],
       "abilities": [
@@ -879,6 +877,13 @@
     },
     {
       "hero_id": 18,
+      "hero_notes": [
+        {
+          "indent_level": 1,
+          "note": "Vanquisher: Bonus Damage to stunned targets increased from 15% to 17%",
+          "icon": "damage"
+        }
+      ],
       "talent_notes": [
         {
           "indent_level": 1,
@@ -888,17 +893,6 @@
           "indent_level": 1,
           "note": "Level 10 Talent Warcry Duration increased from +4s to +5s"
         }
-      ],
-      "abilities": [
-        {
-          "ability_id": 1232,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Bonus Damage to stunned targets increased from 15% to 17%"
-            }
-          ]
-        }
       ]
     },
     {
@@ -906,7 +900,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed decreased by 10"
+          "note": "Base Movement Speed decreased by 10",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -1062,7 +1057,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength decreased from 23 to 20"
+          "note": "Base Strength decreased from 23 to 20",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -1086,7 +1082,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Serpent Wards now linger for 1.5s after the Shackles end"
+              "note": "Aghanim's Shard Serpent Wards now linger for 1.5s after the Shackles end",
+              "aghanims": "shard"
             }
           ]
         },
@@ -1106,7 +1103,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 2.4 to 2.1"
+          "note": "Agility gain decreased from 2.4 to 2.1",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -1143,7 +1141,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Strength gain increased from 4.0 to 4.1"
+              "note": "Strength gain increased from 4.0 to 4.1",
+              "icon": "strength"
             }
           ]
         }
@@ -1151,7 +1150,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 3.5 to 3.6"
+          "note": "Strength gain increased from 3.5 to 3.6",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -1209,7 +1209,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Damage increased from 42/66.5/91 to 45/70/95"
+              "note": "Damage increased from 42/66.5/91 to 45/70/95",
+              "icon": "damage"
             }
           ]
         }
@@ -1405,15 +1406,11 @@
           ]
         }
       ],
-      "abilities": [
+      "hero_notes": [
         {
-          "ability_id": 7230,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Boar Attack Damage increased from 20/35/50/65 to 25/40/55/70"
-            }
-          ]
+          "indent_level": 1,
+          "note": "Call of the Wild Boar: Boar Attack Damage increased from 20/35/50/65 to 25/40/55/70",
+          "icon": "damage"
         }
       ]
     },
@@ -1429,7 +1426,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Outgoing Spell Damage Reflected decreased from 22% to 20%"
+              "note": "Outgoing Spell Damage Reflected decreased from 22% to 20%",
+              "icon": "damage"
             }
           ]
         }
@@ -1540,7 +1538,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Damage bonus decreased from 150% to 50%"
+              "note": "Aghanim's Shard Damage bonus decreased from 150% to 50%",
+              "aghanims": "shard"
             }
           ]
         },
@@ -1646,11 +1645,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Min Silence Duration decreased from 1.5s to 1.0s"
+              "note": "Aghanim's Shard Min Silence Duration decreased from 1.5s to 1.0s",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Max Silence Duration decreased from 3.5s to 3.0s"
+              "note": "Aghanim's Shard Max Silence Duration decreased from 3.5s to 3.0s",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -1725,7 +1726,7 @@
       ],
       "abilities": [
         {
-          "ability_id": 1292,
+          "ability_id": 5228,
           "ability_notes": [
             {
               "indent_level": 1,
@@ -1908,7 +1909,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Mana Regen increased by 0.5"
+          "note": "Base Mana Regen increased by 0.5",
+          "icon": "mana_regen"
         }
       ]
     },
@@ -2189,7 +2191,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 2"
+          "note": "Base Damage increased by 2",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
@@ -2407,15 +2410,10 @@
           ]
         }
       ],
-      "abilities": [
+      "hero_notes": [
         {
-          "ability_id": 1361,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Magic Resistance per level increased from 0.5% to 0.75%"
-            }
-          ]
+          "indent_level": 1,
+          "note": "Might and Magus: Magic Resistance per level increased from 0.5% to 0.75%"
         }
       ]
     },
@@ -2596,19 +2594,10 @@
     },
     {
       "hero_id": 96,
-      "subsections": [
+      "hero_notes": [
         {
-          "title": "Horsepower",
-          "style": "hero_facet",
-          "facet": "centaur_horsepower",
-          "facet_icon": "speed",
-          "facet_color": "Gray3",
-          "general_notes": [
-            {
-              "indent_level": 1,
-              "note": "Strength to movement speed decreased from 40% to 35%"
-            }
-          ]
+          "indent_level": 1,
+          "note": "Rawhide: Max health gain decreased from +40 to +35"
         }
       ],
       "talent_notes": [
@@ -2623,11 +2612,11 @@
       ],
       "abilities": [
         {
-          "ability_id": 1380,
+          "ability_id": 1379,
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Max health gain decreased from +40 to +35"
+              "note": "Strength to movement speed decreased from 40% to 35%"
             }
           ]
         },
@@ -2636,7 +2625,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Bonus Strength decreased from +15% to +12%"
+              "note": "Aghanim's Shard Bonus Strength decreased from +15% to +12%",
+              "aghanims": "shard"
             }
           ]
         }
@@ -2647,7 +2637,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Intelligence increased from 19 to 20"
+          "note": "Base Intelligence increased from 19 to 20",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [
@@ -2746,11 +2737,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Damage per second increased from 60 to 85"
+              "note": "Aghanim's Shard Damage per second increased from 60 to 85",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Move Slow increased from 40% to 50%"
+              "note": "Aghanim's Shard Move Slow increased from 40% to 50%",
+              "aghanims": "shard"
             }
           ]
         },
@@ -2799,7 +2792,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Radius Bonus in Duel decreased from +200 to +150"
+              "note": "Aghanim's Shard Radius Bonus in Duel decreased from +200 to +150",
+              "aghanims": "shard"
             }
           ]
         },
@@ -2808,7 +2802,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter no longer reduces Duel cooldown"
+              "note": "Aghanim's Scepter no longer reduces Duel cooldown",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -2819,7 +2814,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Range increased by 50"
+          "note": "Base Attack Range increased by 50",
+          "icon": "attack_range"
         }
       ],
       "abilities": [
@@ -2880,7 +2876,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Cooldown Reduction decreased from 20s to 10s"
+              "note": "Aghanim's Scepter Cooldown Reduction decreased from 20s to 10s",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -2917,14 +2914,16 @@
     },
     {
       "hero_id": 110,
-      "subsections": [
+      "hero_notes": [
         {
-          "title": "Dying Light",
-          "style": "hero_facet",
-          "facet": "phoenix_facet_immolate",
-          "facet_icon": "barrier",
-          "facet_color": "Red2",
-          "general_notes": [
+          "indent_level": 1,
+          "note": "Blinding Sun: Duration decreased from 5s to 4s"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": 1397,
+          "ability_notes": [
             {
               "indent_level": 1,
               "note": "Effects are no longer applied by illusions"
@@ -2932,17 +2931,6 @@
             {
               "indent_level": 1,
               "note": "Percentage of missing health as damage decreased from 6% to 4.5%"
-            }
-          ]
-        }
-      ],
-      "abilities": [
-        {
-          "ability_id": 1398,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Duration decreased from 5s to 4s"
             }
           ]
         },
@@ -3082,7 +3070,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard now applies the bonus damage and slow to all enemies affected by Boundless Strike, even if Monkey King did not leap"
+              "note": "Aghanim's Shard now applies the bonus damage and slow to all enemies affected by Boundless Strike, even if Monkey King did not leap",
+              "aghanims": "shard"
             }
           ]
         }
@@ -3209,7 +3198,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Base Charge Restore Time increased from 15s to 18s"
+              "note": "Aghanim's Scepter Base Charge Restore Time increased from 15s to 18s",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -3232,15 +3222,11 @@
           ]
         }
       ],
-      "abilities": [
+      "hero_notes": [
         {
-          "ability_id": 1421,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Glancing shot damage increased from 50% to 60%"
-            }
-          ]
+          "indent_level": 1,
+          "note": "Buckshot: Glancing shot damage increased from 50% to 60%",
+          "icon": "damage"
         }
       ]
     },

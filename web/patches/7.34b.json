@@ -72,7 +72,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 3.0 to 3.2"
+          "note": "Strength gain increased from 3.0 to 3.2",
+          "icon": "strength"
         }
       ]
     },
@@ -81,7 +82,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 2"
+          "note": "Base Damage decreased by 2",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -114,11 +116,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Pulse Interval increased from 2.5s to 3.5s"
+              "note": "Aghanim's Shard Pulse Interval increased from 2.5s to 3.5s",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Pulse now only slows for 50% of the duration of the regular Epicenter slow"
+              "note": "Aghanim's Shard Pulse now only slows for 50% of the duration of the regular Epicenter slow",
+              "aghanims": "shard"
             }
           ]
         }
@@ -187,11 +191,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 3"
+          "note": "Base Damage decreased by 3",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 3.3 to 3.1"
+          "note": "Intelligence gain decreased from 3.3 to 3.1",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [
@@ -225,7 +231,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Speed decreased from 100 to 90"
+          "note": "Base Attack Speed decreased from 100 to 90",
+          "icon": "attack_speed"
         }
       ],
       "talent_notes": [
@@ -281,7 +288,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Speed decreased from 100 to 90"
+          "note": "Base Attack Speed decreased from 100 to 90",
+          "icon": "attack_speed"
         }
       ],
       "abilities": [
@@ -301,7 +309,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 3 to 2.8"
+          "note": "Strength gain decreased from 3 to 2.8",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -310,7 +319,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Cooldown Reduction decreased from 40s to 30s"
+              "note": "Aghanim's Scepter Cooldown Reduction decreased from 40s to 30s",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -321,7 +331,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Agility decreased by 2"
+          "note": "Base Agility decreased by 2",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -344,11 +355,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Orbit Radius increased from 150 to 175"
+              "note": "Aghanim's Shard Orbit Radius increased from 150 to 175",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Collision Radius increased from 90 to 115"
+              "note": "Aghanim's Shard Collision Radius increased from 90 to 115",
+              "aghanims": "shard"
             }
           ]
         },
@@ -396,7 +409,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 1.7 to 2.0"
+          "note": "Strength gain increased from 1.7 to 2.0",
+          "icon": "strength"
         }
       ]
     },
@@ -408,11 +422,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Mana Cost increased from 0 to 50"
+              "note": "Aghanim's Shard Mana Cost increased from 0 to 50",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Cooldown increased from 20s to 30s"
+              "note": "Aghanim's Shard Cooldown increased from 20s to 30s",
+              "aghanims": "shard"
             }
           ]
         }
@@ -450,7 +466,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Ice Wall Movement Slow decreased from 70% to 60%"
+              "note": "Aghanim's Scepter Ice Wall Movement Slow decreased from 70% to 60%",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -461,7 +478,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -481,7 +499,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor decreased by 1"
+          "note": "Base Armor decreased by 1",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -542,7 +561,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength increased from 18 to 20"
+          "note": "Base Strength increased from 18 to 20",
+          "icon": "strength"
         }
       ]
     },
@@ -588,7 +608,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Heroes inside the tombstone (with Aghanim's Shard) are now stunned for 3s if it gets destroyed"
+          "note": "Heroes inside the tombstone (with Aghanim's Shard) are now stunned for 3s if it gets destroyed",
+          "aghanims": "shard"
         }
       ],
       "abilities": [
@@ -631,7 +652,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Damage Multiplier on return increased from 50% to 75%"
+              "note": "Aghanim's Shard Damage Multiplier on return increased from 50% to 75%",
+              "aghanims": "shard"
             }
           ]
         },
@@ -655,11 +677,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 2.5 to 2.7"
+          "note": "Strength gain increased from 2.5 to 2.7",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Base Mana Regen increased from 0.25 to 0.4"
+          "note": "Base Mana Regen increased from 0.25 to 0.4",
+          "icon": "mana_regen"
         }
       ]
     },
@@ -746,7 +770,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -793,7 +818,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 2.5 to 2.7"
+          "note": "Strength gain increased from 2.5 to 2.7",
+          "icon": "strength"
         }
       ],
       "abilities": [

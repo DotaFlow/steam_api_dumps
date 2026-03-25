@@ -297,7 +297,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 2"
+          "note": "Base damage reduced by 2",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -323,7 +324,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased from 290 to 295"
+          "note": "Base movement speed increased from 290 to 295",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -366,7 +368,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain reduced from 4.1 to 3.9"
+          "note": "Agility gain reduced from 4.1 to 3.9",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -409,7 +412,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 2"
+          "note": "Base damage reduced by 2",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -462,7 +466,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement speed increased from 310 to 315"
+          "note": "Movement speed increased from 310 to 315",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -601,7 +606,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -621,7 +627,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased from 275 to 280"
+          "note": "Base movement speed increased from 275 to 280",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -647,7 +654,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base mana regen reduced from 0.75 to 0.5"
+          "note": "Base mana regen reduced from 0.75 to 0.5",
+          "icon": "mana_regen"
         }
       ],
       "talent_notes": [
@@ -673,7 +681,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 2"
+          "note": "Base damage increased by 2",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -736,11 +745,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength increased by 1"
+          "note": "Base strength increased by 1",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Base movement speed increased from 290 to 295"
+          "note": "Base movement speed increased from 290 to 295",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -760,7 +771,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 2.7 to 2.9"
+          "note": "Strength gain increased from 2.7 to 2.9",
+          "icon": "strength"
         }
       ]
     },
@@ -854,7 +866,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain reduced from 3.6 to 3.4"
+          "note": "Agility gain reduced from 3.6 to 3.4",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -947,7 +960,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed reduced from 305 to 300"
+          "note": "Base movement speed reduced from 305 to 300",
+          "icon": "movement"
         }
       ],
       "abilities": [

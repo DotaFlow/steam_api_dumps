@@ -22,7 +22,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength increased by 2"
+          "note": "Base strength increased by 2",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -79,7 +80,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base attack time increased from 1.3 to 1.5"
+          "note": "Base attack time increased from 1.3 to 1.5",
+          "icon": "attack_time"
         }
       ],
       "talent_notes": [
@@ -105,7 +107,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Scepter illusion incoming damage increased from 200% to 350%"
+          "note": "Scepter illusion incoming damage increased from 200% to 350%",
+          "icon": "damage"
         },
         {
           "indent_level": 1,

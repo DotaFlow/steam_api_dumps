@@ -165,7 +165,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Ability tooltips now show icons next to ability values, indicating that those are upgraded by Aghanim's Shard/Scepter, Talents, or Facets"
+          "note": "Ability tooltips now show icons next to ability values, indicating that those are upgraded by Aghanim's Shard/Scepter, Talents, or Facets",
+          "aghanims": "shard"
         },
         {
           "indent_level": 1,
@@ -558,7 +559,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Grants bonus attack damage when an enemy hero within 2500 range has less than 60% mana, increasing as their mana is depleted further, up to a maximum of 20/45/70 bonus attack damage at 15% mana, in which Anti-Mage gains vision and True Sight of that hero"
+              "note": "Grants bonus attack damage when an enemy hero within 2500 range has less than 60% mana, increasing as their mana is depleted further, up to a maximum of 20/45/70 bonus attack damage at 15% mana, in which Anti-Mage gains vision and True Sight of that hero",
+              "icon": "damage"
             }
           ]
         }
@@ -640,24 +642,19 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1201,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Whenever Axe kills an enemy, he gains +1 permanent armor. Kills with Culling Blade gives 2x that amount"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Whenever Axe kills an enemy, he gains +1 permanent armor. Kills with Culling Blade gives 2x that amount"
             }
           ]
         },
         {
-          "title": "One Man Army",
+          "title": "NO FACET TITLE",
           "style": "hero_facet",
           "facet": "axe_one_man_army",
           "facet_icon": "strength",
@@ -665,7 +662,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Increases Axe's Strength by 60% of his armor, as long as there are no allied heroes within a 600 radius of him. Effect lingers for 5s after the ally walks within range"
+              "note": "Increases Axe's Strength by 60% of his armor, as long as there are no allied heroes within a 600 radius of him. Effect lingers for 5s after the ally walks within range",
+              "icon": "strength"
             }
           ]
         },
@@ -704,7 +702,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter upgrade moved to Aghanim's Shard. Still applies Battle Hunger to all affected units, but doesn't reduce Cooldown anymore"
+              "note": "Aghanim's Scepter upgrade moved to Aghanim's Shard. Still applies Battle Hunger to all affected units, but doesn't reduce Cooldown anymore",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -718,7 +717,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter upgrade moved to Aghanim's Shard. No longer provides armor to Axe, but now makes multiple Battle Hunger debuffs stackable"
+              "note": "Aghanim's Scepter upgrade moved to Aghanim's Shard. No longer provides armor to Axe, but now makes multiple Battle Hunger debuffs stackable",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -727,12 +727,14 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard upgrade moved to Aghanim's Scepter. Damage Reduction per stack increased from 15% to 20%, Max stacks decreased from 6 to 5"
+              "note": "Aghanim's Shard upgrade moved to Aghanim's Scepter. Damage Reduction per stack increased from 15% to 20%, Max stacks decreased from 6 to 5",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
               "note": "Aghanim's Scepter now also allows Counter Helix counter to decrease when Axe attacks ",
-              "info": "This effect doesn't work on illusions of Axe"
+              "info": "This effect doesn't work on illusions of Axe",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -813,15 +815,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 2.5 to 2.7"
+          "note": "Strength gain increased from 2.5 to 2.7",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 2.5 to 2.7"
+          "note": "Agility gain increased from 2.5 to 2.7",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain increased from 2.5 to 2.7"
+          "note": "Intelligence gain increased from 2.5 to 2.7",
+          "icon": "intelligence"
         }
       ],
       "abilities": [
@@ -906,7 +911,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed decreased from 300 to 285"
+          "note": "Base Movement Speed decreased from 300 to 285",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
@@ -919,7 +925,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Heal/Damage increased from 30 to 35"
+              "note": "Aghanim's Shard Heal/Damage increased from 30 to 35",
+              "aghanims": "shard"
             }
           ]
         },
@@ -951,19 +958,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1204,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Crystal Maiden has 50% Mana Regen Amplification"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Crystal Maiden has 50% Mana Regen Amplification"
             }
           ]
         },
@@ -986,7 +988,7 @@
           ]
         },
         {
-          "title": "Cold Comfort",
+          "title": "NO FACET TITLE",
           "style": "hero_facet",
           "facet": "crystal_maiden_cold_comfort",
           "facet_icon": "mana",
@@ -1008,7 +1010,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Mana Regen decreased from 0.5 to 0"
+          "note": "Base Mana Regen decreased from 0.5 to 0",
+          "icon": "mana_regen"
         }
       ],
       "abilities": [
@@ -1089,7 +1092,7 @@
           ]
         },
         {
-          "title": "Vantage Point",
+          "title": "NO FACET TITLE",
           "style": "hero_facet",
           "facet": "drow_ranger_high_ground",
           "facet_icon": "damage",
@@ -1097,7 +1100,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Drow Ranger deals 20% more damage with attacks from high ground"
+              "note": "Drow Ranger deals 20% more damage with attacks from high ground",
+              "icon": "damage"
             }
           ]
         },
@@ -1124,7 +1128,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed increased from 300 to 310"
+          "note": "Base Movement Speed increased from 300 to 310",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -1262,19 +1267,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1209,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Juggernaut deals 10% more damage to targets that are facing him. Damage bonus is always applied during Omnislash"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Juggernaut deals 10% more damage to targets that are facing him. Damage bonus is always applied during Omnislash"
             }
           ]
         },
@@ -1305,7 +1305,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Gain a stack of Bladeform every 2 seconds up to a max of 10. Each stack grants a 3% base Agility bonus and 1% Movespeed bonus. Stacks are reset upon taking any damage after a 3 second linger"
+              "note": "Gain a stack of Bladeform every 2 seconds up to a max of 10. Each stack grants a 3% base Agility bonus and 1% Movespeed bonus. Stacks are reset upon taking any damage after a 3 second linger",
+              "icon": "agility"
             }
           ]
         }
@@ -1353,19 +1354,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1215,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Healing Lotuses are 20% more effective on Mirana and her allies"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Healing Lotuses are 20% more effective on Mirana and her allies"
             }
           ]
         },
@@ -1427,7 +1423,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Secondary Starstorm damage increased from 50% to 75%"
+              "note": "Aghanim's Scepter Secondary Starstorm damage increased from 50% to 75%",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -1467,19 +1464,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1220,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Morphling receives 50% of Attribute gain bonuses every half level instead of full bonuses at level up. Also increases All Attributes bonus gained for skill points in the Talent Tree from +2 to +4"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Morphling receives 50% of Attribute gain bonuses every half level instead of full bonuses at level up. Also increases All Attributes bonus gained for skill points in the Talent Tree from +2 to +4"
             }
           ]
         },
@@ -1492,7 +1484,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Hero’s Primary Attribute is Agility"
+              "note": "Hero’s Primary Attribute is Agility",
+              "icon": "agility"
             }
           ],
           "abilities": [
@@ -1516,11 +1509,13 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Hero’s Primary Attribute is Strength"
+              "note": "Hero’s Primary Attribute is Strength",
+              "icon": "strength"
             },
             {
               "indent_level": 1,
-              "note": "Makes Morphling's current Agility to Strength ratio affect his Cooldown speed, ranging from 50% faster with 175% Agility/Strength ratio to regular speed with 50% Agility/Strength ratio. Doesn't affect items"
+              "note": "Makes Morphling's current Agility to Strength ratio affect his Cooldown speed, ranging from 50% faster with 175% Agility/Strength ratio to regular speed with 50% Agility/Strength ratio. Doesn't affect items",
+              "icon": "strength"
             }
           ],
           "abilities": [
@@ -1542,11 +1537,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "(Agility): No longer grant bonus Agility, even with Aghanim's Shard"
+              "note": "(Agility): No longer grant bonus Agility, even with Aghanim's Shard",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "(Strength): No longer grant bonus Strength, even with Aghanim's Shard"
+              "note": "(Strength): No longer grant bonus Strength, even with Aghanim's Shard",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -1559,7 +1556,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard now additionally reduces mana cost by 50%"
+              "note": "Aghanim's Shard now additionally reduces mana cost by 50%",
+              "aghanims": "shard"
             }
           ]
         },
@@ -1568,7 +1566,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard now additionally reduces mana cost by 50%"
+              "note": "Aghanim's Shard now additionally reduces mana cost by 50%",
+              "aghanims": "shard"
             }
           ]
         },
@@ -1614,11 +1613,13 @@
                 },
                 {
                   "indent_level": 1,
-                  "note": "Aghanim's Scepter increases Max Souls by 5"
+                  "note": "Aghanim's Scepter increases Max Souls by 5",
+                  "aghanims": "scepter"
                 },
                 {
                   "indent_level": 1,
-                  "note": "No longer upgraded by Aghanim's Shard"
+                  "note": "No longer upgraded by Aghanim's Shard",
+                  "aghanims": "shard"
                 }
               ]
             }
@@ -1697,7 +1698,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Now upgraded with Aghanim's Shard"
+              "note": "Now upgraded with Aghanim's Shard",
+              "aghanims": "shard"
             },
             {
               "indent_level": 2,
@@ -1806,15 +1808,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
-          "note": "Base Health Regen decreased from 2 to 1.5"
+          "note": "Base Health Regen decreased from 2 to 1.5",
+          "icon": "health_regen"
         },
         {
           "indent_level": 1,
-          "note": "Base Attack Speed increased from 100 to 110"
+          "note": "Base Attack Speed increased from 100 to 110",
+          "icon": "attack_speed"
         }
       ],
       "talent_notes": [
@@ -1894,11 +1899,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 3"
+          "note": "Base Armor increased by 3",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
-          "note": "Base Agility decreased from 22 to 14"
+          "note": "Base Agility decreased from 22 to 14",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -2027,15 +2034,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Agility decreased from 14 to 11"
+          "note": "Base Agility decreased from 14 to 11",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 1.75 to 2.5"
+          "note": "Base Health Regen increased from 1.75 to 2.5",
+          "icon": "health_regen"
         },
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -2126,7 +2136,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Razor gains 1% spell amplification for every 20 points of attack damage"
+              "note": "Razor gains 1% spell amplification for every 20 points of attack damage",
+              "icon": "damage"
             }
           ]
         }
@@ -2143,7 +2154,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Pull Speed decreased from 100 to 75"
+              "note": "Aghanim's Shard Pull Speed decreased from 100 to 75",
+              "aghanims": "shard"
             }
           ]
         },
@@ -2419,19 +2431,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1232,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Sven's attacks deals 15% more damage to stunned enemies"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Sven's attacks deals 15% more damage to stunned enemies"
             }
           ]
         },
@@ -2462,11 +2469,13 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Base Damage decreased by 25"
+              "note": "Base Damage decreased by 25",
+              "icon": "damage"
             },
             {
               "indent_level": 1,
-              "note": "Sven passively receives an additional 0.4/0.5/0.6/0.7 damage per point of Strength, depending on the current level of God's Strength"
+              "note": "Sven passively receives an additional 0.4/0.5/0.6/0.7 damage per point of Strength, depending on the current level of God's Strength",
+              "icon": "strength"
             }
           ]
         }
@@ -2481,19 +2490,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 296,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "Ability returns as an Innate. Passive, levels up with Grow"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Enemies that attack Tiny get a stacking debuff that decreases their attack damage by 2/3/4/5% per stack. Max Stacks 10. Debuff Duration: 5s. Each stack refreshes duration. Debuff Immune enemies aren't affected and don't receive stacks"
-                }
-              ]
+              "indent_level": 1,
+              "note": "Ability returns as an Innate. Passive, levels up with Grow"
+            },
+            {
+              "indent_level": 1,
+              "note": "Enemies that attack Tiny get a stacking debuff that decreases their attack damage by 2/3/4/5% per stack. Max Stacks 10. Debuff Duration: 5s. Each stack refreshes duration. Debuff Immune enemies aren't affected and don't receive stacks"
             }
           ]
         },
@@ -2524,7 +2528,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Tiny receives 25% of his Strength as Slow Resistance and 10% of his Strength as Status Resistance"
+              "note": "Tiny receives 25% of his Strength as Slow Resistance and 10% of his Strength as Status Resistance",
+              "icon": "strength"
             }
           ]
         }
@@ -2532,7 +2537,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 1.5 to 2.0"
+          "note": "Base Health Regen increased from 1.5 to 2.0",
+          "icon": "health_regen"
         }
       ],
       "talent_notes": [
@@ -2612,7 +2618,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Base Attack Time is 1.7s"
+              "note": "Base Attack Time is 1.7s",
+              "icon": "attack_time"
             }
           ],
           "abilities": [
@@ -2636,7 +2643,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Base Attack Time is 1.5s"
+              "note": "Base Attack Time is 1.5s",
+              "icon": "attack_time"
             },
             {
               "indent_level": 1,
@@ -2674,19 +2682,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1239,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Windranger's movement speed is always as fast as the wind, and cannot be lower than 240. Max Movement Speed increased from 550 to 600"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Windranger's movement speed is always as fast as the wind, and cannot be lower than 240. Max Movement Speed increased from 550 to 600"
             }
           ]
         },
@@ -2943,7 +2946,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 3.8 to 3.6"
+          "note": "Strength gain decreased from 3.8 to 3.6",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -3046,7 +3050,8 @@
             {
               "indent_level": 1,
               "note": "Impact damage from Lina's abilities is decreased to 60%, but each ability applies a stackable 3s debuff that deals burn damage every second, which sums up into 65% of the original ability damage ",
-              "info": "This effectively increases each ability damage by 25%, but deals it over time"
+              "info": "This effectively increases each ability damage by 25%, but deals it over time",
+              "icon": "damage"
             }
           ]
         }
@@ -3173,11 +3178,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 2.2 to 2.4"
+          "note": "Strength gain increased from 2.2 to 2.4",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 1.5 to 1.7"
+          "note": "Agility gain increased from 1.5 to 1.7",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -3303,7 +3310,8 @@
                 },
                 {
                   "indent_level": 1,
-                  "note": "Aghanim's Scepter increases Health Regen by 22, Bonus Armor by 11 and provides 40% Status Resistance"
+                  "note": "Aghanim's Scepter increases Health Regen by 22, Bonus Armor by 11 and provides 40% Status Resistance",
+                  "aghanims": "scepter"
                 }
               ]
             }
@@ -3352,7 +3360,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "River-based bonuses and Aghanim's Scepter upgrade moved to Innate ability"
+              "note": "River-based bonuses and Aghanim's Scepter upgrade moved to Innate ability",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -3361,11 +3370,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard no longer increases AoE by 75"
+              "note": "Aghanim's Shard no longer increases AoE by 75",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Puddle Duration decreased from 25s to 15s"
+              "note": "Aghanim's Scepter Puddle Duration decreased from 25s to 15s",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -3389,19 +3400,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1255,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Tidehunter removes negative status effects if he takes more than 500 damage from player-controlled sources. Dispel type: Strong. Damage counter resets after 7s"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Tidehunter removes negative status effects if he takes more than 500 damage from player-controlled sources. Dispel type: Strong. Damage counter resets after 7s"
             }
           ]
         },
@@ -3414,11 +3420,13 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Base Strength is 27"
+              "note": "Base Strength is 27",
+              "icon": "strength"
             },
             {
               "indent_level": 1,
-              "note": "Strength Gain is 3.5"
+              "note": "Strength Gain is 3.5",
+              "icon": "strength"
             }
           ],
           "abilities": [
@@ -3442,19 +3450,23 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Base Strength is 22"
+              "note": "Base Strength is 22",
+              "icon": "strength"
             },
             {
               "indent_level": 1,
-              "note": "Strength Gain is 4"
+              "note": "Strength Gain is 4",
+              "icon": "strength"
             },
             {
               "indent_level": 1,
-              "note": "Base Attack Range decreased by 50"
+              "note": "Base Attack Range decreased by 50",
+              "icon": "attack_range"
             },
             {
               "indent_level": 1,
-              "note": "Attack Range is increased by 5 every hero level"
+              "note": "Attack Range is increased by 5 every hero level",
+              "icon": "attack_range"
             }
           ],
           "abilities": [
@@ -3663,19 +3675,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1245,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Lich's max mana regeneration is 0. Whenever any unit dies nearby, Lich restores a portion of his Max Mana. Dying heroes restore a bigger portion. Works with deaths of both allies, enemies, and neutrals. Lich can regenerate mana only under effect of a Fountain. Radius: 1200, Max Mana Restored (Creep): 2.5%, Max Mana Restored (Hero): 15%"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Lich's max mana regeneration is 0. Whenever any unit dies nearby, Lich restores a portion of his Max Mana. Dying heroes restore a bigger portion. Works with deaths of both allies, enemies, and neutrals. Lich can regenerate mana only under effect of a Fountain. Radius: 1200, Max Mana Restored (Creep): 2.5%, Max Mana Restored (Hero): 15%"
             }
           ]
         },
@@ -3756,7 +3763,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "No longer requires Aghanim's Scepter to use other abilities while channeling Sinister Gaze"
+              "note": "No longer requires Aghanim's Scepter to use other abilities while channeling Sinister Gaze",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -3828,7 +3836,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Damage decreased by 5"
+          "note": "Base Attack Damage decreased by 5",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -3880,20 +3889,15 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1259,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Allies near Enigma have an Incoming Damage Reduction buff that gradually increases with proximity to Enigma. Effect starts with 0% at 500 distance and increases up to 15% at 200 distance ",
-                  "info": "Doesn't affect Enigma itself"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Allies near Enigma have an Incoming Damage Reduction buff that gradually increases with proximity to Enigma. Effect starts with 0% at 500 distance and increases up to 15% at 200 distance ",
+              "info": "Doesn't affect Enigma itself"
             }
           ]
         },
@@ -3954,7 +3958,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Max HP as Damage increased from 3.5% to 4%"
+              "note": "Aghanim's Scepter Max HP as Damage increased from 3.5% to 4%",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -4009,16 +4014,11 @@
           "facet": "tinker_translocator",
           "facet_icon": "movement",
           "facet_color": "Yellow2",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 650,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "When the barrier is fully absorbed on Tinker, he blinks in a random forward direction for 300 range ",
-                  "info": "Random direction is selected within 120 degrees of the direction Tinker is currently facing"
-                }
-              ]
+              "indent_level": 1,
+              "note": "Defense Matrix: When the barrier is fully absorbed on Tinker, he blinks in a random forward direction for 300 range ",
+              "info": "Random direction is selected within 120 degrees of the direction Tinker is currently facing"
             }
           ]
         }
@@ -4026,11 +4026,16 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed increased from 290 to 310"
+          "note": "Base Movement Speed increased from 290 to 310",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
           "note": "Heat-Seeking Missile ability replaced by March of the Machines"
+        },
+        {
+          "indent_level": 1,
+          "note": "Defense Matrix: Cooldown increased from 12s to 20s"
         }
       ],
       "talent_notes": [
@@ -4077,11 +4082,13 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter no longer provides bonus cast range"
+              "note": "Aghanim's Scepter no longer provides bonus cast range",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter now can shrink creeps"
+              "note": "Aghanim's Scepter now can shrink creeps",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -4095,15 +4102,6 @@
             {
               "indent_level": 2,
               "note": "Calls for an army of robotic minions to damage enemy units in an area around Tinker. Damage: 16/24/32/40, Duration: 6s, Radius: 900, Cast Range: 300, Mana Cost: 110/130/150/170, Cooldown: 35s"
-            }
-          ]
-        },
-        {
-          "ability_id": 650,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Cooldown increased from 12s to 20s"
             }
           ]
         },
@@ -4380,7 +4378,8 @@
                 },
                 {
                   "indent_level": 1,
-                  "note": "Aghanim's Shard improves values by 1 level"
+                  "note": "Aghanim's Shard improves values by 1 level",
+                  "aghanims": "shard"
                 }
               ]
             }
@@ -4423,7 +4422,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 2.8 to 2.4"
+          "note": "Strength gain decreased from 2.8 to 2.4",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -4505,11 +4505,13 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Golem's Damage decreased from 80/125/170 to 80/120/160"
+              "note": "Aghanim's Scepter Golem's Damage decreased from 80/125/170 to 80/120/160",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Golems no longer have reduced Health or Bounty"
+              "note": "Aghanim's Scepter Golems no longer have reduced Health or Bounty",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -4584,7 +4586,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Agility increased from 18 to 22"
+          "note": "Base Agility increased from 18 to 22",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -4653,7 +4656,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Spell amplification increased by 15%. 22% of spell damage (including items) dealt to heroes is also inflicted upon Queen of Pain. Damage to illusions is not reflected. Damage reflected is before reduction. Damage reflected is non-lethal. Reflected damage can be negated by the Debuff Immunity"
+              "note": "Spell amplification increased by 15%. 22% of spell damage (including items) dealt to heroes is also inflicted upon Queen of Pain. Damage to illusions is not reflected. Damage reflected is before reduction. Damage reflected is non-lethal. Reflected damage can be negated by the Debuff Immunity",
+              "icon": "damage"
             }
           ]
         }
@@ -4733,7 +4737,8 @@
                 },
                 {
                   "indent_level": 1,
-                  "note": "Now upgraded by Aghanim's Scepter. Venomancer's Attacks deal 15% damage of his base damage per each of his debuffs on the target"
+                  "note": "Now upgraded by Aghanim's Scepter. Venomancer's Attacks deal 15% damage of his base damage per each of his debuffs on the target",
+                  "aghanims": "scepter"
                 }
               ]
             }
@@ -4811,7 +4816,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Now upgraded with Aghanim's Shard"
+              "note": "Now upgraded with Aghanim's Shard",
+              "aghanims": "shard"
             },
             {
               "indent_level": 2,
@@ -4922,7 +4928,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 3.0 to 3.3"
+          "note": "Agility gain increased from 3.0 to 3.3",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -4964,7 +4971,8 @@
                 },
                 {
                   "indent_level": 1,
-                  "note": "Aghanim's Scepter turns Vampiric Spirit in a 1200 range aura affecting allied heroes, increases Wraith Duration by 1s, and reduces Respawn Time by 10% for both Wraith King and allies that died as Wraiths"
+                  "note": "Aghanim's Scepter turns Vampiric Spirit in a 1200 range aura affecting allied heroes, increases Wraith Duration by 1s, and reduces Respawn Time by 10% for both Wraith King and allies that died as Wraiths",
+                  "aghanims": "scepter"
                 }
               ]
             }
@@ -5006,7 +5014,8 @@
                 },
                 {
                   "indent_level": 1,
-                  "note": "Aghanim's Shard no longer increases summoned skeleton count"
+                  "note": "Aghanim's Shard no longer increases summoned skeleton count",
+                  "aghanims": "shard"
                 }
               ]
             }
@@ -5070,7 +5079,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard now also grants +150% Critical Damage when in Wraith form"
+              "note": "Aghanim's Shard now also grants +150% Critical Damage when in Wraith form",
+              "aghanims": "shard"
             }
           ]
         },
@@ -5079,7 +5089,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Wraith Aura from Aghanim's Scepter moved to Innate ability"
+              "note": "Wraith Aura from Aghanim's Scepter moved to Innate ability",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -5269,11 +5280,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 2"
+          "note": "Base Damage increased by 2",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Base Attack Speed increased from 100 to 110"
+          "note": "Base Attack Speed increased from 100 to 110",
+          "icon": "attack_speed"
         }
       ],
       "talent_notes": [
@@ -5485,19 +5498,23 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 0.25 to 1"
+          "note": "Base Health Regen increased from 0.25 to 1",
+          "icon": "health_regen"
         },
         {
           "indent_level": 1,
-          "note": "Base Attack Time improved from 1.7s to 1.6s"
+          "note": "Base Attack Time improved from 1.7s to 1.6s",
+          "icon": "attack_time"
         },
         {
           "indent_level": 1,
-          "note": "Attack Range increased from 200 to 250"
+          "note": "Attack Range increased from 200 to 250",
+          "icon": "attack_range"
         },
         {
           "indent_level": 1,
-          "note": "Attack Projectile Speed increased from 900 to 1000"
+          "note": "Attack Projectile Speed increased from 900 to 1000",
+          "icon": "projectile_speed"
         }
       ],
       "talent_notes": [
@@ -5542,7 +5559,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter now increases total trap damage by 100"
+              "note": "Aghanim's Scepter now increases total trap damage by 100",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -5592,11 +5610,13 @@
                 },
                 {
                   "indent_level": 1,
-                  "note": "Aghanim's Scepter no longer multiplies damage"
+                  "note": "Aghanim's Scepter no longer multiplies damage",
+                  "aghanims": "scepter"
                 },
                 {
                   "indent_level": 1,
-                  "note": "Aghanim's Scepter Attack Slow Multiplier increased from 2x to 4x"
+                  "note": "Aghanim's Scepter Attack Slow Multiplier increased from 2x to 4x",
+                  "aghanims": "scepter"
                 }
               ]
             }
@@ -5773,11 +5793,13 @@
             },
             {
               "indent_level": 1,
-              "note": "Now can be activated without Aghanim's Shard. Damage on Collision is 20% of Luna's attack. Glaives Count decreased from 4 to 3. Duration is unchanged: 7s. Mana Cost increased from 25 to 75. Cooldown increased from 25s to 30s"
+              "note": "Now can be activated without Aghanim's Shard. Damage on Collision is 20% of Luna's attack. Glaives Count decreased from 4 to 3. Duration is unchanged: 7s. Mana Cost increased from 25 to 75. Cooldown increased from 25s to 30s",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard now increases rotating glaive count by 1 and damage on collision by 20%"
+              "note": "Aghanim's Shard now increases rotating glaive count by 1 and damage on collision by 20%",
+              "aghanims": "shard"
             }
           ]
         },
@@ -5803,7 +5825,7 @@
           "facet_color": "",
           "abilities": [
             {
-              "ability_id": 1292,
+              "ability_id": 5228,
               "ability_notes": [
                 {
                   "indent_level": 1,
@@ -5829,7 +5851,7 @@
           "facet_color": "Red1",
           "abilities": [
             {
-              "ability_id": 5228,
+              "ability_id": 1752,
               "ability_notes": [
                 {
                   "indent_level": 1,
@@ -5856,7 +5878,7 @@
           "facet_color": "Green0",
           "abilities": [
             {
-              "ability_id": 5228,
+              "ability_id": 1752,
               "ability_notes": [
                 {
                   "indent_level": 1,
@@ -5884,7 +5906,7 @@
           "facet_color": "Blue0",
           "abilities": [
             {
-              "ability_id": 5228,
+              "ability_id": 1752,
               "ability_notes": [
                 {
                   "indent_level": 1,
@@ -5922,7 +5944,7 @@
           ]
         },
         {
-          "ability_id": 5228,
+          "ability_id": 1752,
           "ability_notes": [
             {
               "indent_level": 1,
@@ -5930,7 +5952,8 @@
             },
             {
               "indent_level": 2,
-              "note": "Provides and improves attack modifiers of the chosen Facet for both human and dragon forms. Illusions can't apply Wyrm's Wrath's attack modifiers. Now upgradeable with Aghanim's Scepter. Improves attack modifiers of the chosen Facet"
+              "note": "Provides and improves attack modifiers of the chosen Facet for both human and dragon forms. Illusions can't apply Wyrm's Wrath's attack modifiers. Now upgradeable with Aghanim's Scepter. Improves attack modifiers of the chosen Facet",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -5947,7 +5970,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Black Dragon form no longer increases Magic Resistance"
+              "note": "Aghanim's Scepter Black Dragon form no longer increases Magic Resistance",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -5987,7 +6011,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Whenever Dazzle overheals himself or an ally, it grants that hero a physical damage barrier equal to the amount overhealed for 10s. If the target already has a larger barrier from Nothl Boon, it will be refreshed instead of being added onto"
+              "note": "Whenever Dazzle overheals himself or an ally, it grants that hero a physical damage barrier equal to the amount overhealed for 10s. If the target already has a larger barrier from Nothl Boon, it will be refreshed instead of being added onto",
+              "icon": "damage"
             }
           ]
         },
@@ -6014,7 +6039,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Bad Juju: No longer applies armor gain/loss on its own"
+          "note": "Bad Juju: No longer applies armor gain/loss on its own",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -6141,7 +6167,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Leshrac's attacks restore mana equal to 10/14/18/22% of the damage dealt. Improves with Pulse Nova's level. Only restores mana when attacking units that have mana"
+              "note": "Leshrac's attacks restore mana equal to 10/14/18/22% of the damage dealt. Improves with Pulse Nova's level. Only restores mana when attacking units that have mana",
+              "icon": "damage"
             }
           ],
           "abilities": [
@@ -6178,15 +6205,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Agility decreased from 23 to 17"
+          "note": "Base Agility decreased from 23 to 17",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 2.8 to 2.5"
+          "note": "Agility gain decreased from 2.8 to 2.5",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -6321,7 +6351,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 6"
+          "note": "Base Damage decreased by 6",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -6473,15 +6504,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 6"
+          "note": "Base Damage decreased by 6",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Base Attack Speed decreased from 120 to 100"
+          "note": "Base Attack Speed decreased from 120 to 100",
+          "icon": "attack_speed"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 2.6 to 1.9"
+          "note": "Agility gain decreased from 2.6 to 1.9",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -6567,7 +6601,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now upgradable by Aghanim's Shard"
+              "note": "Now upgradable by Aghanim's Shard",
+              "aghanims": "shard"
             },
             {
               "indent_level": 2,
@@ -6606,7 +6641,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Dark Seer gains 0.5 Attack Speed per each point of Intelligence"
+              "note": "Dark Seer gains 0.5 Attack Speed per each point of Intelligence",
+              "icon": "intelligence"
             }
           ]
         },
@@ -6619,7 +6655,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Base Movement Speed decreased to 275. Dark Seer gains 8% of the movement speed of all heroes within 900 radius"
+              "note": "Base Movement Speed decreased to 275. Dark Seer gains 8% of the movement speed of all heroes within 900 radius",
+              "icon": "movement"
             }
           ]
         }
@@ -6636,7 +6673,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Damage per second from Trail increased from 35 to 40"
+              "note": "Aghanim's Shard Damage per second from Trail increased from 35 to 40",
+              "aghanims": "shard"
             }
           ]
         },
@@ -6791,7 +6829,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Whenever Omniknight's abilities deal damage an enemy hero, Omniknight gains a heal over time for 5 seconds equal to 30% of the damage dealt"
+              "note": "Whenever Omniknight's abilities deal damage an enemy hero, Omniknight gains a heal over time for 5 seconds equal to 30% of the damage dealt",
+              "icon": "damage"
             }
           ]
         }
@@ -6808,11 +6847,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now upgraded with Aghanim's Shard. Grants 60% Magic Resistance to the target"
+              "note": "Now upgraded with Aghanim's Shard. Grants 60% Magic Resistance to the target",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard upgrade removed"
+              "note": "Aghanim's Shard upgrade removed",
+              "aghanims": "shard"
             }
           ]
         },
@@ -7061,19 +7102,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1310,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "At night, Night Stalker's Health Regen is increased by 40%, but during the day it is decreased by 20%"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "At night, Night Stalker's Health Regen is increased by 40%, but during the day it is decreased by 20%"
             }
           ]
         },
@@ -7141,7 +7177,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter upgrade removed"
+              "note": "Aghanim's Scepter upgrade removed",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
@@ -7154,7 +7191,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now upgraded with Aghanim's Scepter. Decreases cooldown by 5 seconds and makes it a toggled ability. Costs the regular mana cost to activate, then 6/4% of Night Stalker's max mana per second for day/night. Still has a regular cooldown, but can be toggled off at any point"
+              "note": "Now upgraded with Aghanim's Scepter. Decreases cooldown by 5 seconds and makes it a toggled ability. Costs the regular mana cost to activate, then 6/4% of Night Stalker's max mana per second for day/night. Still has a regular cooldown, but can be toggled off at any point",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -7318,7 +7356,7 @@
           ]
         },
         {
-          "title": "Through and Through",
+          "title": "NO FACET TITLE",
           "style": "hero_facet",
           "facet": "bounty_hunter_shuriken",
           "facet_icon": "nuke",
@@ -7490,7 +7528,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 3.1 to 3.3"
+          "note": "Agility gain increased from 3.1 to 3.3",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -7564,7 +7603,8 @@
                 },
                 {
                   "indent_level": 1,
-                  "note": "Facet: Aghanim's Shard now adds 2.5% of target's max HP to each tick of damage. Doesn't affect buildings"
+                  "note": "Facet: Aghanim's Shard now adds 2.5% of target's max HP to each tick of damage. Doesn't affect buildings",
+                  "aghanims": "shard"
                 }
               ]
             }
@@ -7600,7 +7640,8 @@
                 },
                 {
                   "indent_level": 1,
-                  "note": "Facet: Aghanim's Shard now adds damage over time, dealing 2.5% of target's max Health per second. Doesn't affect buildings"
+                  "note": "Facet: Aghanim's Shard now adds damage over time, dealing 2.5% of target's max Health per second. Doesn't affect buildings",
+                  "aghanims": "shard"
                 }
               ]
             }
@@ -7699,7 +7740,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "After using an ability or item on an enemy hero that applies a forced movement effect, gain +10% Movement Speed and +8% Spell Amplification for 7s. Does not stack"
+              "note": "After using an ability or item on an enemy hero that applies a forced movement effect, gain +10% Movement Speed and +8% Spell Amplification for 7s. Does not stack",
+              "icon": "movement"
             }
           ]
         },
@@ -7778,24 +7820,19 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1321,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Active, levels up with Holy Persuasion and improves with Chen's level"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Chen summons a convert to fight for him. The convert gains bonuses from Holy Persuasion, with the exception of Health, which is set to 200 + 80 x Chen's Level. Only one convert can be summoned at a time, and it dies if Chen dies. Mana Cost: 50, Cooldown: 30s. Cooldown starts once the convert dies and automatically refreshes on Chen's respawn ",
-                  "info": "Summoned convert counts towards Holy Persuasion's Max Units limit"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Which creature is summoned is dependent on the chosen Facet"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Active, levels up with Holy Persuasion and improves with Chen's level"
+            },
+            {
+              "indent_level": 1,
+              "note": "Chen summons a convert to fight for him. The convert gains bonuses from Holy Persuasion, with the exception of Health, which is set to 200 + 80 x Chen's Level. Only one convert can be summoned at a time, and it dies if Chen dies. Mana Cost: 50, Cooldown: 30s. Cooldown starts once the convert dies and automatically refreshes on Chen's respawn ",
+              "info": "Summoned convert counts towards Holy Persuasion's Max Units limit"
+            },
+            {
+              "indent_level": 1,
+              "note": "Which creature is summoned is dependent on the chosen Facet"
             }
           ]
         },
@@ -7891,7 +7928,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter's Martyrdom ability now has a global cast range"
+              "note": "Aghanim's Scepter's Martyrdom ability now has a global cast range",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -7913,7 +7951,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Now upgradable by Aghanim's Scepter. Makes Health Regen Aura global and affects all allied units"
+              "note": "Now upgradable by Aghanim's Scepter. Makes Health Regen Aura global and affects all allied units",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -8014,7 +8053,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard changed from increasing Reflected Damage by 100% to increasing Absorbed and Reflected by 50%"
+              "note": "Aghanim's Shard changed from increasing Reflected Damage by 100% to increasing Absorbed and Reflected by 50%",
+              "aghanims": "shard"
             }
           ]
         },
@@ -8038,19 +8078,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1326,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Ancient Apparition's abilities now apply frost stacks that deal 10 damage per second and 1.5% movement slow for each stack on the enemy"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Ancient Apparition's abilities now apply frost stacks that deal 10 damage per second and 1.5% movement slow for each stack on the enemy"
             }
           ]
         },
@@ -8060,15 +8095,11 @@
           "facet": "ancient_apparition_bone_chill",
           "facet_icon": "debuff",
           "facet_color": "Gray3",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1326,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "Each stack also reduces target's Strength by 0.5/0.75/1/1.25. Improves with Ice Blast level"
-                }
-              ]
+              "indent_level": 1,
+              "note": "Death Rime: Each stack also reduces target's Strength by 0.5/0.75/1/1.25. Improves with Ice Blast level",
+              "icon": "strength"
             }
           ]
         },
@@ -8217,15 +8248,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 2"
+          "note": "Base Damage decreased by 2",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 0.25 to 1.25"
+          "note": "Base Health Regen increased from 0.25 to 1.25",
+          "icon": "health_regen"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 3.7 to 3.8"
+          "note": "Strength gain increased from 3.7 to 3.8",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -8324,7 +8358,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 2.6 to 2.4"
+          "note": "Strength gain decreased from 2.6 to 2.4",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -8348,19 +8383,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1330,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Provides the hero in your team with the least Experience points with a buff, that increases their Experience gain by 50% until they reach the level to match the second least. Can apply to Spirit Breaker as well"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Provides the hero in your team with the least Experience points with a buff, that increases their Experience gain by 50% until they reach the level to match the second least. Can apply to Spirit Breaker as well"
             }
           ]
         },
@@ -8404,7 +8434,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Range increased from 150 to 170"
+          "note": "Base Attack Range increased from 150 to 170",
+          "icon": "attack_range"
         }
       ],
       "talent_notes": [
@@ -8423,7 +8454,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard now grants +100 Movement Speed Bonus"
+              "note": "Aghanim's Shard now grants +100 Movement Speed Bonus",
+              "aghanims": "shard"
             }
           ]
         },
@@ -8450,7 +8482,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Is now granted by Aghanim's Scepter"
+              "note": "Is now granted by Aghanim's Scepter",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
@@ -8469,20 +8502,15 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1331,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Gyrocopter can disassemble most items at all times and sells any Recipe he has for a full cost ",
-                  "info": "Cannot disassemble Divine Rapier or Hand of Midas"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Gyrocopter can disassemble most items at all times and sells any Recipe he has for a full cost ",
+              "info": "Cannot disassemble Divine Rapier or Hand of Midas"
             }
           ]
         },
@@ -8602,7 +8630,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Speed increased from 100 to 110"
+          "note": "Base Attack Speed increased from 100 to 110",
+          "icon": "attack_speed"
         }
       ],
       "abilities": [
@@ -8863,23 +8892,19 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1335,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Silencer permanently steals Intelligence from enemy heroes he kills or that die nearby. Intelligence Stolen: 2, Steal Radius: 925"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Aghanim's Shard increases Intelligence Stolen to 4"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Silencer permanently steals Intelligence from enemy heroes he kills or that die nearby. Intelligence Stolen: 2, Steal Radius: 925"
+            },
+            {
+              "indent_level": 1,
+              "note": "Aghanim's Shard increases Intelligence Stolen to 4",
+              "aghanims": "shard"
             }
           ]
         },
@@ -8962,7 +8987,8 @@
             },
             {
               "indent_level": 2,
-              "note": "Aghanim's Shard increases temporary Intelligence Steal by 1 and Steal Duration by 50s"
+              "note": "Aghanim's Shard increases temporary Intelligence Steal by 1 and Steal Duration by 50s",
+              "aghanims": "shard"
             },
             {
               "indent_level": 2,
@@ -8988,7 +9014,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now upgraded with Aghanim's Scepter"
+              "note": "Now upgraded with Aghanim's Scepter",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 2,
@@ -9007,19 +9034,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1338,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Outworld Destroyer gains 2 extra mana per point of Intelligence"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Outworld Destroyer gains 2 extra mana per point of Intelligence"
             }
           ]
         },
@@ -9072,11 +9094,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed decreased from 320 to 315"
+          "note": "Base Movement Speed decreased from 320 to 315",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
-          "note": "Base Armor decreased by 0.5"
+          "note": "Base Armor decreased by 0.5",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -9108,7 +9132,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard now allows Astral Imprisonment to deal damage in a 300 AoE"
+              "note": "Aghanim's Shard now allows Astral Imprisonment to deal damage in a 300 AoE",
+              "aghanims": "shard"
             }
           ]
         },
@@ -9200,7 +9225,8 @@
                 },
                 {
                   "indent_level": 1,
-                  "note": "Decreases duration from 50s to 25s and mana cost from 110/115/120/125/130 to 60/65/70/75/80. Does not affect wolves from Aghanim's Shard"
+                  "note": "Decreases duration from 50s to 25s and mana cost from 110/115/120/125/130 to 60/65/70/75/80. Does not affect wolves from Aghanim's Shard",
+                  "aghanims": "shard"
                 }
               ]
             }
@@ -9348,7 +9374,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Primal Companion: Brewlings no longer have any movement, cooldown or casting penalties"
+          "note": "Primal Companion: Brewlings no longer have any movement, cooldown or casting penalties",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -9445,7 +9472,7 @@
           ]
         },
         {
-          "title": "Shadow Servant",
+          "title": "Soul Catcher",
           "style": "hero_facet",
           "facet": "shadow_demon_facet_soul_mastery",
           "facet_icon": "illusion",
@@ -9454,7 +9481,8 @@
             {
               "indent_level": 1,
               "note": "If an enemy hero is killed by Shadow Demon or dies within 1500 range from him, an illusion of that hero is created. Illusion deals 20/25/30/35/40% damage, depending on the current level of Disruption  The illusion disappears when the hero it was created from respawns or when Shadow Demon dies. No illusions are created if killed by Shadow Demon after his death",
-              "info": "20% is used when Disruption is not learned"
+              "info": "20% is used when Disruption is not learned",
+              "icon": "damage"
             }
           ]
         }
@@ -9610,19 +9638,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1353,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Whenever illusions of Chaos Knight are created, there is a 50% chance that an additional 1 illusion will spawn"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Whenever illusions of Chaos Knight are created, there is a 50% chance that an additional 1 illusion will spawn"
             }
           ]
         },
@@ -9636,7 +9659,9 @@
             {
               "indent_level": 1,
               "note": "All illusions created by or of Chaos Knight are Strong Illusions. This includes Phantasm, illusions of allies created with Aghanim's Scepter, items, Illusion Rune, and illusions of Chaos Knight by other players both allied and enemy (i.e. by Shadow Demon).  Additionally, Chaos Knight's Illusions within 1200 radius have 20% damage reduction",
-              "info": "Strong Illusions are not instantly killed by spells"
+              "info": "Strong Illusions are not instantly killed by spells",
+              "icon": "damage",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -9675,11 +9700,13 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard no longer increases cast range by 150"
+              "note": "Aghanim's Shard no longer increases cast range by 150",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard illusions deal 30% less damage"
+              "note": "Aghanim's Shard illusions deal 30% less damage",
+              "aghanims": "shard"
             }
           ]
         },
@@ -9712,19 +9739,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1356,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Meepo receives an additional choice when activating neutral item tokens"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Meepo receives an additional choice when activating neutral item tokens"
             }
           ]
         },
@@ -9814,7 +9836,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Treant gains +5 base attack damage per hero level"
+              "note": "Treant gains +5 base attack damage per hero level",
+              "icon": "damage"
             }
           ]
         },
@@ -9994,7 +10017,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard time restraint to leave or re-enter decreased from 3s to 2s"
+              "note": "Aghanim's Shard time restraint to leave or re-enter decreased from 3s to 2s",
+              "aghanims": "shard"
             }
           ]
         },
@@ -10018,19 +10042,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1361,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Spell Amplification also increases Rubick's base attack damage by 100% of its value and Magic Resistance by 50% of its value"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Spell Amplification also increases Rubick's base attack damage by 100% of its value and Magic Resistance by 50% of its value"
             }
           ]
         },
@@ -10186,15 +10205,18 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard bonus range decreased from 800 to 400"
+              "note": "Aghanim's Shard bonus range decreased from 800 to 400",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard bonus strikes decreased from 2 to 1"
+              "note": "Aghanim's Shard bonus strikes decreased from 2 to 1",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Duration on the ground decreased from 7s to 5s"
+              "note": "Aghanim's Shard Duration on the ground decreased from 7s to 5s",
+              "aghanims": "shard"
             }
           ]
         },
@@ -10227,19 +10249,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1365,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Nyx Assassin can sense invisible heroes in a 400 radius"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Nyx Assassin can sense invisible heroes in a 400 radius"
             }
           ]
         },
@@ -10252,7 +10269,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Nyx Assassin's Abilities and Items burn 15/20/25/30% of the current mana of affected enemies. Triggers only on spells that deal 100 damage or more before reductions. Effect scales with the level of Vendetta"
+              "note": "Nyx Assassin's Abilities and Items burn 15/20/25/30% of the current mana of affected enemies. Triggers only on spells that deal 100 damage or more before reductions. Effect scales with the level of Vendetta",
+              "icon": "damage"
             }
           ]
         },
@@ -10278,11 +10296,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 3"
+          "note": "Base Damage increased by 3",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 2.1 to 2.3"
+          "note": "Agility gain increased from 2.1 to 2.3",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -10346,7 +10366,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard no longer increases Vendetta's Movement Speed"
+              "note": "Aghanim's Shard no longer increases Vendetta's Movement Speed",
+              "aghanims": "shard"
             }
           ]
         },
@@ -10487,7 +10508,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter now allows Ensnare to affect Debuff Immune units"
+              "note": "Aghanim's Scepter now allows Ensnare to affect Debuff Immune units",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -10496,12 +10518,14 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "No longer granted by Aghanim's Scepter. Now it is acquired on leveling Ensnare for the first time"
+              "note": "No longer granted by Aghanim's Scepter. Now it is acquired on leveling Ensnare for the first time",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
               "note": "Now requires Aghanim's Scepter to affect Debuff Immune units ",
-              "info": "Can affect sleeping and invulnerable units even without Aghanim's Scepter, similarly to Ensnare"
+              "info": "Can affect sleeping and invulnerable units even without Aghanim's Scepter, similarly to Ensnare",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
@@ -10522,19 +10546,23 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now heals allies for 2/4/6% of Max Health per second even without Aghanim's Shard"
+              "note": "Now heals allies for 2/4/6% of Max Health per second even without Aghanim's Shard",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard now increases Max Health Regen by 4%"
+              "note": "Aghanim's Shard now increases Max Health Regen by 4%",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard no longer grants 1s extra duration"
+              "note": "Aghanim's Shard no longer grants 1s extra duration",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard now also restores 4% of allied max mana per second"
+              "note": "Aghanim's Shard now also restores 4% of allied max mana per second",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -10588,7 +10616,8 @@
                 },
                 {
                   "indent_level": 1,
-                  "note": "Aghanim's Shard replaces cooldown with 2 charges"
+                  "note": "Aghanim's Shard replaces cooldown with 2 charges",
+                  "aghanims": "shard"
                 },
                 {
                   "indent_level": 1,
@@ -10630,7 +10659,8 @@
                 },
                 {
                   "indent_level": 1,
-                  "note": "Aghanim's Shard replaces cooldown with 2 charges"
+                  "note": "Aghanim's Shard replaces cooldown with 2 charges",
+                  "aghanims": "shard"
                 }
               ]
             }
@@ -10653,7 +10683,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard now increases Spirit Form Illuminate heal by 30%"
+              "note": "Aghanim's Shard now increases Spirit Form Illuminate heal by 30%",
+              "aghanims": "shard"
             }
           ]
         },
@@ -10859,7 +10890,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -10947,7 +10979,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen decreased from 1.75 to 0.25"
+          "note": "Base Health Regen decreased from 1.75 to 0.25",
+          "icon": "health_regen"
         }
       ],
       "talent_notes": [
@@ -10966,7 +10999,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter range decreased from 1000 to 900"
+              "note": "Aghanim's Scepter range decreased from 1000 to 900",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -11051,7 +11085,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Can be activated, draining 4% of max mana per second, but increasing attack speed by 3% of Medusa's Attack Speed per second. Mana drain can last up to 15s but attack speed will stop increasing after 10s. Conversion can be stopped by deactivating Mana Shield, but it can't be done for the first 3 seconds of conversion. Attack speed buff will disappear after 15s since the conversion has started. Cooldown is 35s and starts once the conversion is stopped"
+              "note": "Can be activated, draining 4% of max mana per second, but increasing attack speed by 3% of Medusa's Attack Speed per second. Mana drain can last up to 15s but attack speed will stop increasing after 10s. Conversion can be stopped by deactivating Mana Shield, but it can't be done for the first 3 seconds of conversion. Attack speed buff will disappear after 15s since the conversion has started. Cooldown is 35s and starts once the conversion is stopped",
+              "icon": "attack_speed"
             }
           ]
         }
@@ -11059,7 +11094,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain increased from 3.4 to 3.6"
+          "note": "Intelligence gain increased from 3.4 to 3.6",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [
@@ -11191,7 +11227,8 @@
             {
               "indent_level": 1,
               "note": "Aghanim's Scepter Dispel now always pierces Debuff Immunity ",
-              "info": "Regular effect still requires level 25 talent"
+              "info": "Regular effect still requires level 25 talent",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -11201,7 +11238,8 @@
             {
               "indent_level": 1,
               "note": "Aghanim's Scepter Dispel now always pierces Debuff Immunity ",
-              "info": "Regular effect still requires level 25 talent"
+              "info": "Regular effect still requires level 25 talent",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -11210,7 +11248,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Base Proc chance decreased from 20% to 18%"
+              "note": "Aghanim's Shard Base Proc chance decreased from 20% to 18%",
+              "aghanims": "shard"
             }
           ]
         }
@@ -11225,19 +11264,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1380,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Centaur Warrunner permanently gain +40 max health every 120s"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Centaur Warrunner permanently gain +40 max health every 120s"
             }
           ]
         },
@@ -11268,7 +11302,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Centaur Warrunner gains 40% of his Strength as bonus movement speed. Does not stack with movement speed bonuses from boots. Max movement speed cap increased from 550 to 600"
+              "note": "Centaur Warrunner gains 40% of his Strength as bonus movement speed. Does not stack with movement speed bonuses from boots. Max movement speed cap increased from 550 to 600",
+              "icon": "strength"
             }
           ]
         }
@@ -11276,11 +11311,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen decreased from 5 to 4"
+          "note": "Base Health Regen decreased from 5 to 4",
+          "icon": "health_regen"
         },
         {
           "indent_level": 1,
-          "note": "Base Movement Speed decreased from 310 to 305"
+          "note": "Base Movement Speed decreased from 310 to 305",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -11384,7 +11421,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Projectile Speed Bonus increased from 300 to 400"
+              "note": "Aghanim's Shard Projectile Speed Bonus increased from 300 to 400",
+              "aghanims": "shard"
             }
           ]
         },
@@ -11510,23 +11548,28 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Now is a Strength Hero"
+          "note": "Now is a Strength Hero",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Base Damage increased from 4-8 to 23-27"
+          "note": "Base Damage increased from 4-8 to 23-27",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 1.3 to 1.6"
+          "note": "Agility gain increased from 1.3 to 1.6",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 not changed: 50-54"
+          "note": "Damage on level 1 not changed: 50-54",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level decreased from +5.25 to +3.5"
+          "note": "Damage gain per level decreased from +5.25 to +3.5",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -11649,7 +11692,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 8"
+          "note": "Base Damage decreased by 8",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -11658,7 +11702,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard no longer increases Stack Limit"
+              "note": "Aghanim's Shard no longer increases Stack Limit",
+              "aghanims": "shard"
             }
           ]
         },
@@ -11676,7 +11721,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Spray interval increased from 0.35s to 0.4s"
+              "note": "Aghanim's Scepter Spray interval increased from 0.35s to 0.4s",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -11799,20 +11845,15 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1388,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, levels up with Mystic Flare"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Passively provides Skywrath Mage with 20/30/40/50% Spell Lifesteal ",
-                  "info": "Has 80% penalty against creeps, similarly to other sources of Spell Lifesteal"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, levels up with Mystic Flare"
+            },
+            {
+              "indent_level": 1,
+              "note": "Passively provides Skywrath Mage with 20/30/40/50% Spell Lifesteal ",
+              "info": "Has 80% penalty against creeps, similarly to other sources of Spell Lifesteal"
             }
           ]
         },
@@ -11868,7 +11909,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Mana Regen increased from 0 to 0.25"
+          "note": "Base Mana Regen increased from 0 to 0.25",
+          "icon": "mana_regen"
         }
       ],
       "talent_notes": [
@@ -11895,7 +11937,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Upgrade moved from Aghanim's Scepter to Aghanim's Shard and decreased from +2 to +1"
+              "note": "Upgrade moved from Aghanim's Scepter to Aghanim's Shard and decreased from +2 to +1",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -11931,7 +11974,7 @@
           ]
         },
         {
-          "title": "The Quickening",
+          "title": "NO FACET TITLE",
           "style": "hero_facet",
           "facet": "abaddon_death_dude",
           "facet_icon": "cooldown",
@@ -11965,7 +12008,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 6"
+          "note": "Base Damage decreased by 6",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -12012,7 +12056,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard no longer improves slow"
+              "note": "Aghanim's Shard no longer improves slow",
+              "aghanims": "shard"
             }
           ]
         }
@@ -12091,7 +12136,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Elder Titan's attack speed is decreased by 75, but he receives 20% of his movement speed as bonus attack speed"
+              "note": "Elder Titan's attack speed is decreased by 75, but he receives 20% of his movement speed as bonus attack speed",
+              "icon": "movement"
             }
           ]
         }
@@ -12212,11 +12258,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter no longer provides Duel damage reduction. Now it provides Legion Commander with Debuff Immunity for the duration of the Duel"
+              "note": "Aghanim's Scepter no longer provides Duel damage reduction. Now it provides Legion Commander with Debuff Immunity for the duration of the Duel",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
-              "note": "Duration with Aghanim's Scepter increased from 5.5/6.5/7.5s to 6.25/6.75/7.5s"
+              "note": "Duration with Aghanim's Scepter increased from 5.5/6.5/7.5s to 6.25/6.75/7.5s",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -12252,7 +12300,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Techies gains 1 attack range for each point of attack speed"
+              "note": "Techies gains 1 attack range for each point of attack speed",
+              "icon": "attack_range"
             }
           ]
         },
@@ -12291,7 +12340,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Range decreased from 700 to 550"
+          "note": "Base Attack Range decreased from 700 to 550",
+          "icon": "attack_range"
         }
       ]
     },
@@ -12640,7 +12690,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter now also reduces Cooldown by 20 seconds"
+              "note": "Aghanim's Scepter now also reduces Cooldown by 20 seconds",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -12751,19 +12802,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1398,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Debuffs from Icarus Dive, Fire Spirits, Sun Ray, and Supernova apply a stackable 2% miss chance per second. Lasts 5 seconds. Applying new stack refreshes the duration"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Debuffs from Icarus Dive, Fire Spirits, Sun Ray, and Supernova apply a stackable 2% miss chance per second. Lasts 5 seconds. Applying new stack refreshes the duration"
             }
           ]
         },
@@ -12926,19 +12972,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1404,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "When an allied hero picks up a Wisdom Rune, the 3 heroes that would not benefit from will gain 20% of the experience instead"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "When an allied hero picks up a Wisdom Rune, the 3 heroes that would not benefit from will gain 20% of the experience instead"
             }
           ]
         },
@@ -12964,7 +13005,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Winter Wyvern gains 0.4/0.5/0.66/1 bonus damage for each 10 attack range over 400. Scales with Winter's Curse Levels"
+              "note": "Winter Wyvern gains 0.4/0.5/0.66/1 bonus damage for each 10 attack range over 400. Scales with Winter's Curse Levels",
+              "icon": "damage"
             }
           ]
         }
@@ -12972,7 +13014,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 3"
+          "note": "Base Damage increased by 3",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
@@ -13131,15 +13174,18 @@
             },
             {
               "indent_level": 1,
-              "note": "Now always pushes all enemies away from the bubble when created, even without Aghanim's Shard"
+              "note": "Now always pushes all enemies away from the bubble when created, even without Aghanim's Shard",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard no longer provides Magic Resistance"
+              "note": "Aghanim's Shard no longer provides Magic Resistance",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard now increases radius by 75 and changes speed of attack projectiles that are inside the bubble: enemy ones are slowed by 75% and allied ones are sped up by 75%"
+              "note": "Aghanim's Shard now increases radius by 75 and changes speed of attack projectiles that are inside the bubble: enemy ones are slowed by 75% and allied ones are sped up by 75%",
+              "aghanims": "shard"
             }
           ]
         },
@@ -13439,15 +13485,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain increased from 1.9 to 2.2"
+          "note": "Intelligence gain increased from 1.9 to 2.2",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 2.5 to 2.8"
+          "note": "Agility gain increased from 2.5 to 2.8",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 0.75 to 1.25"
+          "note": "Base Health Regen increased from 0.75 to 1.25",
+          "icon": "health_regen"
         }
       ],
       "talent_notes": [
@@ -13778,7 +13827,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Void Spirit gains a physical damage shield equal to 40% of magic damage dealt to enemy heroes, Buff duration 20s"
+              "note": "Void Spirit gains a physical damage shield equal to 40% of magic damage dealt to enemy heroes, Buff duration 20s",
+              "icon": "damage"
             }
           ],
           "abilities": [
@@ -13815,19 +13865,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1421,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, can't be leveled up"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Snapfire's attacks deal 25% more damage, but they have a 25% chance of making a glancing shot that will deal 50% less damage"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, can't be leveled up"
+            },
+            {
+              "indent_level": 1,
+              "note": "Snapfire's attacks deal 25% more damage, but they have a 25% chance of making a glancing shot that will deal 50% less damage"
             }
           ]
         },
@@ -13840,7 +13885,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Whenever Snapfire's attack misses or glances, 2 ricochet attacks that can't miss and deal 75% of the damage will bounce towards nearby enemies"
+              "note": "Whenever Snapfire's attack misses or glances, 2 ricochet attacks that can't miss and deal 75% of the damage will bounce towards nearby enemies",
+              "icon": "damage"
             }
           ]
         },
@@ -13866,15 +13912,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 4"
+          "note": "Base Damage increased by 4",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Base Attack Range decreased from 500 to 400"
+          "note": "Base Attack Range decreased from 500 to 400",
+          "icon": "attack_range"
         },
         {
           "indent_level": 1,
-          "note": "Base Attack Time increased from 1.6s to 1.8s"
+          "note": "Base Attack Time increased from 1.6s to 1.8s",
+          "icon": "attack_time"
         }
       ],
       "talent_notes": [
@@ -13889,11 +13938,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard no longer increases jump distance and air time"
+              "note": "Aghanim's Shard no longer increases jump distance and air time",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard now heals target by 200 Health"
+              "note": "Aghanim's Shard now heals target by 200 Health",
+              "aghanims": "shard"
             }
           ]
         },
@@ -13996,7 +14047,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter soldiers can no longer knock enemies out of leashes (such as Arena of Blood)"
+              "note": "Aghanim's Scepter soldiers can no longer knock enemies out of leashes (such as Arena of Blood)",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -14132,7 +14184,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Sidekick: Bonus Damage changed from flat 6/12/24/48 to 12/18/24/30% of base damage"
+              "note": "Sidekick: Bonus Damage changed from flat 6/12/24/48 to 12/18/24/30% of base damage",
+              "icon": "damage"
             }
           ],
           "talent_notes": [
@@ -14363,11 +14416,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Time increased from 1.6s to 1.7s"
+          "note": "Base Attack Time increased from 1.6s to 1.7s",
+          "icon": "attack_time"
         },
         {
           "indent_level": 1,
-          "note": "Base Attack Speed increased from 100 to 115"
+          "note": "Base Attack Speed increased from 100 to 115",
+          "icon": "attack_speed"
         }
       ],
       "talent_notes": [

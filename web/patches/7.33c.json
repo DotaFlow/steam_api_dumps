@@ -380,7 +380,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 7 (Level 1 damage unchanged)"
+          "note": "Base Damage decreased by 7 (Level 1 damage unchanged)",
+          "icon": "damage"
         }
       ]
     },
@@ -452,7 +453,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 11 (Level 1 damage decreased by 4)"
+          "note": "Base Damage decreased by 11 (Level 1 damage decreased by 4)",
+          "icon": "damage"
         }
       ]
     },
@@ -484,11 +486,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 2.6 to 2.8"
+          "note": "Agility gain increased from 2.6 to 2.8",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -508,7 +512,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 6 (Level 1 damage unchanged)"
+          "note": "Base Damage decreased by 6 (Level 1 damage unchanged)",
+          "icon": "damage"
         }
       ]
     },
@@ -517,7 +522,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 3 (Level 1 damage increased by 3)"
+          "note": "Base Damage decreased by 3 (Level 1 damage increased by 3)",
+          "icon": "damage"
         }
       ]
     },
@@ -526,7 +532,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 6 (Level 1 damage unchanged)"
+          "note": "Base Damage decreased by 6 (Level 1 damage unchanged)",
+          "icon": "damage"
         }
       ]
     },
@@ -601,7 +608,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Intelligence increased from 18 to 20"
+          "note": "Base Intelligence increased from 18 to 20",
+          "icon": "intelligence"
         }
       ],
       "abilities": [
@@ -623,7 +631,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Magic Resistance increased from 50% to 80%"
+              "note": "Aghanim's Shard Magic Resistance increased from 50% to 80%",
+              "aghanims": "shard"
             }
           ]
         }
@@ -634,7 +643,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor decreased by 1"
+          "note": "Base Armor decreased by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -643,7 +653,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Armor Reduction decreased from 6 to 5"
+              "note": "Aghanim's Shard Armor Reduction decreased from 6 to 5",
+              "aghanims": "shard"
             }
           ]
         },
@@ -691,18 +702,12 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 9 (Level 1 damage decreased by 3)"
-        }
-      ],
-      "abilities": [
+          "note": "Base Damage decreased by 9 (Level 1 damage decreased by 3)",
+          "icon": "damage"
+        },
         {
-          "ability_id": 7231,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Hawk Vision decreased from 750/800/850/900 to 600/700/800/900"
-            }
-          ]
+          "indent_level": 1,
+          "note": "Call of the Wild Hawk Hawk Vision decreased from 750/800/850/900 to 600/700/800/900"
         }
       ]
     },
@@ -711,7 +716,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 10 (Level 1 damage decreased by 4)"
+          "note": "Base Damage decreased by 10 (Level 1 damage decreased by 4)",
+          "icon": "damage"
         }
       ]
     },
@@ -766,7 +772,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed increased from 305 to 310"
+          "note": "Base Movement Speed increased from 305 to 310",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -786,11 +793,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed increased from 310 to 315"
+          "note": "Base Movement Speed increased from 310 to 315",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
-          "note": "Base Attack Time improved from 1.7s to 1.6s"
+          "note": "Base Attack Time improved from 1.7s to 1.6s",
+          "icon": "attack_time"
         }
       ]
     },
@@ -799,7 +808,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 7 (Level 1 damage unchanged)"
+          "note": "Base Damage decreased by 7 (Level 1 damage unchanged)",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -818,15 +828,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 4 (Level 1 damage increased by 2)"
+          "note": "Base Damage decreased by 4 (Level 1 damage increased by 2)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 1.8 to 2.1"
+          "note": "Agility gain increased from 1.8 to 2.1",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain increased from 1.3 to 1.7"
+          "note": "Intelligence gain increased from 1.3 to 1.7",
+          "icon": "intelligence"
         }
       ]
     },
@@ -894,7 +907,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 6 (Level 1 damage unchanged)"
+          "note": "Base Damage decreased by 6 (Level 1 damage unchanged)",
+          "icon": "damage"
         }
       ]
     },
@@ -903,7 +917,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength increased from 20 to 23"
+          "note": "Base Strength increased from 20 to 23",
+          "icon": "strength"
         }
       ]
     },
@@ -912,7 +927,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 5 (Level 1 damage unchanged)"
+          "note": "Base Damage decreased by 5 (Level 1 damage unchanged)",
+          "icon": "damage"
         }
       ]
     },
@@ -921,7 +937,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen decreased from 1.25 to 0.75"
+          "note": "Base Health Regen decreased from 1.25 to 0.75",
+          "icon": "health_regen"
         }
       ],
       "abilities": [
@@ -941,7 +958,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 4 (Level 1 damage increased by 2)"
+          "note": "Base Damage decreased by 4 (Level 1 damage increased by 2)",
+          "icon": "damage"
         }
       ]
     },
@@ -950,7 +968,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 5 (Level 1 damage unchanged)"
+          "note": "Base Damage decreased by 5 (Level 1 damage unchanged)",
+          "icon": "damage"
         }
       ]
     },
@@ -959,7 +978,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 3.4 to 3.1"
+          "note": "Intelligence gain decreased from 3.4 to 3.1",
+          "icon": "intelligence"
         }
       ]
     },
@@ -980,7 +1000,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Bonus Damage decreased from 150 to 125"
+              "note": "Aghanim's Shard Bonus Damage decreased from 150 to 125",
+              "aghanims": "shard"
             }
           ]
         }
@@ -991,7 +1012,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 3.0 to 3.3"
+          "note": "Strength gain increased from 3.0 to 3.3",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -1004,7 +1026,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Can no longer target debuff immune enemies without Aghanim's Scepter"
+              "note": "Can no longer target debuff immune enemies without Aghanim's Scepter",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -1046,7 +1069,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed increased from 315 to 320"
+          "note": "Base Movement Speed increased from 315 to 320",
+          "icon": "movement"
         }
       ]
     },
@@ -1055,7 +1079,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed decreased from 300 to 295"
+          "note": "Base Movement Speed decreased from 300 to 295",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -1103,7 +1128,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength increased from 18 to 19"
+          "note": "Base Strength increased from 18 to 19",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -1134,7 +1160,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Pull Speed increased from 100 to 175"
+              "note": "Aghanim's Shard Pull Speed increased from 100 to 175",
+              "aghanims": "shard"
             }
           ]
         },
@@ -1172,7 +1199,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 4 (Level 1 damage increased by 2)"
+          "note": "Base Damage decreased by 4 (Level 1 damage increased by 2)",
+          "icon": "damage"
         }
       ]
     },
@@ -1181,7 +1209,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 5 (Level 1 damage unchanged)"
+          "note": "Base Damage decreased by 5 (Level 1 damage unchanged)",
+          "icon": "damage"
         }
       ]
     },
@@ -1190,7 +1219,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 3 (Level 1 damage increased by 2)"
+          "note": "Base Damage decreased by 3 (Level 1 damage increased by 2)",
+          "icon": "damage"
         }
       ]
     },
@@ -1199,7 +1229,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength increased from 22 to 24"
+          "note": "Base Strength increased from 22 to 24",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -1238,7 +1269,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 6 (Level 1 damage unchanged)"
+          "note": "Base Damage decreased by 6 (Level 1 damage unchanged)",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -1294,7 +1326,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 3 (Level 1 damage increased by 2)"
+          "note": "Base Damage decreased by 3 (Level 1 damage increased by 2)",
+          "icon": "damage"
         }
       ]
     },
@@ -1303,7 +1336,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 3 (Level 1 damage increased by 2)"
+          "note": "Base Damage decreased by 3 (Level 1 damage increased by 2)",
+          "icon": "damage"
         }
       ]
     },
@@ -1315,7 +1349,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Distance decreased from 1100 to 1000"
+              "note": "Aghanim's Scepter Distance decreased from 1100 to 1000",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -1357,7 +1392,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 8 (Level 1 damage decreased by 2)"
+          "note": "Base Damage decreased by 8 (Level 1 damage decreased by 2)",
+          "icon": "damage"
         }
       ]
     },
@@ -1366,7 +1402,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 3 (Level 1 damage increased by 3)"
+          "note": "Base Damage decreased by 3 (Level 1 damage increased by 3)",
+          "icon": "damage"
         }
       ]
     },
@@ -1375,7 +1412,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Intelligence decreased from 25 to 23"
+          "note": "Base Intelligence decreased from 25 to 23",
+          "icon": "intelligence"
         }
       ]
     },
@@ -1384,7 +1422,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 7 (Level 1 damage unchanged)"
+          "note": "Base Damage decreased by 7 (Level 1 damage unchanged)",
+          "icon": "damage"
         }
       ]
     },
@@ -1393,7 +1432,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 3.3 to 3.1"
+          "note": "Strength gain decreased from 3.3 to 3.1",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -1422,7 +1462,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 6 (Level 1 damage unchanged)"
+          "note": "Base Damage decreased by 6 (Level 1 damage unchanged)",
+          "icon": "damage"
         }
       ]
     },
@@ -1469,7 +1510,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 5 (Level 1 damage unchanged)"
+          "note": "Base Damage decreased by 5 (Level 1 damage unchanged)",
+          "icon": "damage"
         }
       ]
     },
@@ -1501,7 +1543,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 2 (Level 1 damage increased by 4)"
+          "note": "Base Damage decreased by 2 (Level 1 damage increased by 4)",
+          "icon": "damage"
         }
       ]
     },
@@ -1510,7 +1553,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 4 (Level 1 damage increased by 2)"
+          "note": "Base Damage decreased by 4 (Level 1 damage increased by 2)",
+          "icon": "damage"
         }
       ]
     },
@@ -1519,7 +1563,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 10 (Level 1 damage decreased by 4)"
+          "note": "Base Damage decreased by 10 (Level 1 damage decreased by 4)",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -1575,7 +1620,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 11 (Level 1 damage decreased by 5)"
+          "note": "Base Damage decreased by 11 (Level 1 damage decreased by 5)",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -1614,7 +1660,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 4 (Level 1 damage increased by 2)"
+          "note": "Base Damage decreased by 4 (Level 1 damage increased by 2)",
+          "icon": "damage"
         }
       ]
     },
@@ -1630,7 +1677,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Damage per second increased from 35 to 40"
+              "note": "Aghanim's Shard Damage per second increased from 35 to 40",
+              "aghanims": "shard"
             }
           ]
         },
@@ -1664,7 +1712,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 8 (Level 1 damage decreased by 2)"
+          "note": "Base Damage decreased by 8 (Level 1 damage decreased by 2)",
+          "icon": "damage"
         }
       ]
     },
@@ -1673,7 +1722,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain increased from 1.4 to 1.7"
+          "note": "Intelligence gain increased from 1.4 to 1.7",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [

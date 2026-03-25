@@ -43,7 +43,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Roshan no longer drops Aghanim's Shard on the second death"
+          "note": "Roshan no longer drops Aghanim's Shard on the second death",
+          "aghanims": "shard"
         },
         {
           "indent_level": 1,
@@ -51,7 +52,8 @@
         },
         {
           "indent_level": 1,
-          "note": "On the third death onwards, Roshan now drops Aghanim's Scepter when killed on the Radiant side and a Refresher Shard when killed on the Dire side"
+          "note": "On the third death onwards, Roshan now drops Aghanim's Scepter when killed on the Radiant side and a Refresher Shard when killed on the Dire side",
+          "aghanims": "scepter"
         },
         {
           "indent_level": 1,
@@ -80,11 +82,13 @@
         },
         {
           "indent_level": 1,
-          "note": "Destroying a Tormentor grants an Aghanim's Shard buff to one of the two lowest networth allied heroes that still do not have the Shard when it dies"
+          "note": "Destroying a Tormentor grants an Aghanim's Shard buff to one of the two lowest networth allied heroes that still do not have the Shard when it dies",
+          "aghanims": "shard"
         },
         {
           "indent_level": 1,
-          "note": "If all heroes have an Aghanim's Shard, then destroying a Tormentor gives 280 gold and 280 experience to each hero"
+          "note": "If all heroes have an Aghanim's Shard, then destroying a Tormentor gives 280 gold and 280 experience to each hero",
+          "aghanims": "shard"
         },
         {
           "indent_level": 1,
@@ -2162,11 +2166,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength decreased from 21 to 19"
+          "note": "Base Strength decreased from 21 to 19",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 0.25 to 0.75"
+          "note": "Base Health Regen increased from 0.25 to 0.75",
+          "icon": "health_regen"
         }
       ],
       "talent_notes": [
@@ -2230,7 +2236,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard no longer increases proc chance. Now reduces the cooldown of Counter Helix to 0 seconds"
+              "note": "Aghanim's Shard no longer increases proc chance. Now reduces the cooldown of Counter Helix to 0 seconds",
+              "aghanims": "shard"
             }
           ]
         }
@@ -2245,15 +2252,18 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 33-39 to 4-10"
+          "note": "Base Damage decreased from 33-39 to 4-10",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 11 (from 56-62 to 45-51)"
+          "note": "Damage on level 1 decreased by 11 (from 56-62 to 45-51)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +2.5 to +4.5"
+          "note": "Damage gain per level increased from +2.5 to +4.5",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -2331,11 +2341,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Blood Mist Now passively turns all your overheal from your own abilities into a damage barrier up to 50% of Bloodseeker's Max Health in addition to its active effect. Barrier decays by 0.5% of Max Health per second"
+          "note": "Blood Mist Now passively turns all your overheal from your own abilities into a damage barrier up to 50% of Bloodseeker's Max Health in addition to its active effect. Barrier decays by 0.5% of Max Health per second",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Blood Mist Damage no longer counts as HP Loss (it burns barrier if it's available and can be decreased by sources that reduce damage)"
+          "note": "Blood Mist Damage no longer counts as HP Loss (it burns barrier if it's available and can be decreased by sources that reduce damage)",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -2348,7 +2360,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Pure damage from Aghanim's Shard is now dealt as a separate instance of damage"
+              "note": "Pure damage from Aghanim's Shard is now dealt as a separate instance of damage",
+              "aghanims": "shard"
             }
           ]
         },
@@ -2372,7 +2385,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 2"
+          "note": "Base Damage increased by 2",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -2410,7 +2424,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Hypothermia effect is now granted by Aghanim's Scepter instead of Aghanim's Shard"
+              "note": "Hypothermia effect is now granted by Aghanim's Scepter instead of Aghanim's Shard",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
@@ -2423,7 +2438,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "New ability granted by Aghanim's Shard"
+              "note": "New ability granted by Aghanim's Shard",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -2482,7 +2498,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 1"
+          "note": "Base Damage increased by 1",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -2530,31 +2547,38 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 24-30 to 6-10"
+          "note": "Base Damage decreased from 24-30 to 6-10",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Base Strength increased from 18 to 20"
+          "note": "Base Strength increased from 18 to 20",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 2.2 to 1.7"
+          "note": "Strength gain decreased from 2.2 to 1.7",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 3.1 to 2.5"
+          "note": "Agility gain decreased from 3.1 to 2.5",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 1.9 to 1.2"
+          "note": "Intelligence gain decreased from 1.9 to 1.2",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 3-5 (from 48-54 to 45-49)"
+          "note": "Damage on level 1 decreased by 3-5 (from 48-54 to 45-49)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +3.1 to +3.24"
+          "note": "Damage gain per level increased from +3.1 to +3.24",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -2581,11 +2605,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard now does not break Moonlight Shadow invisibility"
+              "note": "Aghanim's Shard now does not break Moonlight Shadow invisibility",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "With Aghanim's Shard the ability can now be put on auto-cast to make it ground- and vector targeted, allowing you to choose the distance and the resulting blast direction of the jump"
+              "note": "With Aghanim's Shard the ability can now be put on auto-cast to make it ground- and vector targeted, allowing you to choose the distance and the resulting blast direction of the jump",
+              "aghanims": "shard"
             }
           ]
         }
@@ -2596,7 +2622,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength increased by 1"
+          "note": "Base Strength increased by 1",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -2615,7 +2642,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard bonus Agility moved to Adaptive Strike"
+              "note": "Aghanim's Shard bonus Agility moved to Adaptive Strike",
+              "aghanims": "shard"
             }
           ]
         },
@@ -2628,7 +2656,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard bonus Strength moved to Adaptive Strike"
+              "note": "Aghanim's Shard bonus Strength moved to Adaptive Strike",
+              "aghanims": "shard"
             }
           ]
         },
@@ -2655,7 +2684,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter effect now steals an additional 20% of all stats when targeting Universal Heroes"
+              "note": "Aghanim's Scepter effect now steals an additional 20% of all stats when targeting Universal Heroes",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -2689,7 +2719,8 @@
             {
               "indent_level": 1,
               "note": "Aghanim's Shard Fear Duration decreased from 0.5s to 0.4s ",
-              "info": "Duration decreased as a part of the comprehensive Disables Reduction"
+              "info": "Duration decreased as a part of the comprehensive Disables Reduction",
+              "aghanims": "shard"
             }
           ]
         },
@@ -2724,7 +2755,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Range increased from 150 to 225"
+          "note": "Base Attack Range increased from 150 to 225",
+          "icon": "attack_range"
         }
       ],
       "abilities": [
@@ -2733,7 +2765,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Upgrade moved to Aghanim's Scepter"
+              "note": "Aghanim's Shard Upgrade moved to Aghanim's Scepter",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
@@ -2747,7 +2780,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now upgradable by Aghanim's Shard"
+              "note": "Now upgradable by Aghanim's Shard",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -2763,11 +2797,14 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain increased from 3.5 to 3.8"
+          "note": "Intelligence gain increased from 3.5 to 3.8",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Aghanim's Shard now also passively adds 20 bonus magic damage to Puck's attacks"
+          "note": "Aghanim's Shard now also passively adds 20 bonus magic damage to Puck's attacks",
+          "icon": "damage",
+          "aghanims": "shard"
         }
       ],
       "abilities": [
@@ -2785,7 +2822,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Upgrade removed"
+              "note": "Aghanim's Scepter Upgrade removed",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -2799,7 +2837,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Now upgradable by Aghanim's Scepter"
+              "note": "Now upgradable by Aghanim's Scepter",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
@@ -2837,11 +2876,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Bonus Damage decreased from 95 to 90"
+              "note": "Aghanim's Scepter Bonus Damage decreased from 95 to 90",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Regen Reduction decreased from 25% to 20%"
+              "note": "Aghanim's Scepter Regen Reduction decreased from 25% to 20%",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -2894,15 +2935,18 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 23-33 to 9-17"
+          "note": "Base Damage decreased from 23-33 to 9-17",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 2 (from 45-55 to 45-53)"
+          "note": "Damage on level 1 decreased by 2 (from 45-55 to 45-53)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +2.7 to +3.78"
+          "note": "Damage gain per level increased from +2.7 to +3.78",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -2922,11 +2966,13 @@
             },
             {
               "indent_level": 1,
-              "note": "Now always applies the current level of Caustic Finale to enemy heroes even without Aghanim's Scepter"
+              "note": "Now always applies the current level of Caustic Finale to enemy heroes even without Aghanim's Scepter",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Upgrade removed"
+              "note": "Aghanim's Scepter Upgrade removed",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -2935,7 +2981,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now upgradable by Aghanim's Scepter"
+              "note": "Now upgradable by Aghanim's Scepter",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
@@ -3085,27 +3132,33 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 26-32 to 12-18"
+          "note": "Base Damage decreased from 26-32 to 12-18",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 2.6 to 2.0"
+          "note": "Strength gain decreased from 2.6 to 2.0",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 3.2 to 2.0"
+          "note": "Agility gain decreased from 3.2 to 2.0",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 1.5 to 1.2"
+          "note": "Intelligence gain decreased from 1.5 to 1.2",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 unchanged (46-52)"
+          "note": "Damage on level 1 unchanged (46-52)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level decreased from +3.2 to +3.12"
+          "note": "Damage gain per level decreased from +3.2 to +3.12",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -3145,27 +3198,33 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 26-38 to 11-17"
+          "note": "Base Damage decreased from 26-38 to 11-17",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 2.6 to 2.4"
+          "note": "Strength gain decreased from 2.6 to 2.4",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 3.6 to 2.4"
+          "note": "Intelligence gain decreased from 3.6 to 2.4",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 2-8 (from 44-56 to 42-48)"
+          "note": "Damage on level 1 decreased by 2-8 (from 44-56 to 42-48)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +3.6 to +3.72"
+          "note": "Damage gain per level increased from +3.6 to +3.72",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -3212,11 +3271,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter no longer blinds enemies (used to apply 40% miss chance)"
+              "note": "Aghanim's Scepter no longer blinds enemies (used to apply 40% miss chance)",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter now also reduces physical damage taken by Windranger by 50%"
+              "note": "Aghanim's Scepter now also reduces physical damage taken by Windranger by 50%",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -3288,7 +3349,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "New passive ability granted by Aghanim's Shard"
+              "note": "New passive ability granted by Aghanim's Shard",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -3347,7 +3409,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -3420,7 +3483,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Spell Immunity with Aghanim's Shard replaced with Debuff Immunity with 50% Magic Resistance"
+              "note": "Spell Immunity with Aghanim's Shard replaced with Debuff Immunity with 50% Magic Resistance",
+              "aghanims": "shard"
             }
           ]
         }
@@ -3489,7 +3553,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter no longer increases Serpent Wards' attack range"
+              "note": "Aghanim's Scepter no longer increases Serpent Wards' attack range",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -3645,7 +3710,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now upgradable by Aghanim's Shard"
+              "note": "Now upgradable by Aghanim's Shard",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -3674,19 +3740,23 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 24-30 to 7-13"
+          "note": "Base Damage decreased from 24-30 to 7-13",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 4 (from 43-49 to 39-45)"
+          "note": "Damage on level 1 decreased by 4 (from 43-49 to 39-45)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +3.6 to +4.26"
+          "note": "Damage gain per level increased from +3.6 to +4.26",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Base Mana Regen increased from 0 to 0.5"
+          "note": "Base Mana Regen increased from 0 to 0.5",
+          "icon": "mana_regen"
         }
       ],
       "abilities": [
@@ -3700,7 +3770,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Stun Duration decreased from +0.35s to +0.3s"
+              "note": "Aghanim's Shard Stun Duration decreased from +0.35s to +0.3s",
+              "aghanims": "shard"
             }
           ]
         }
@@ -3711,11 +3782,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Agility increased by 4"
+          "note": "Base Agility increased by 4",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 1.2 to 1.4"
+          "note": "Agility gain increased from 1.2 to 1.4",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
@@ -3723,7 +3796,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Heat-Seeking Missile Damage increased from 115/190/265/340 to 120/200/280/360"
+          "note": "Heat-Seeking Missile Damage increased from 115/190/265/340 to 120/200/280/360",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -3761,7 +3835,8 @@
             {
               "indent_level": 1,
               "note": "Aghanim's Scepter Stun Duration decreased from 1/1.25/1.5s to 0.8/1/1.2s ",
-              "info": "Duration decreased as a part of the comprehensive Disables Reduction"
+              "info": "Duration decreased as a part of the comprehensive Disables Reduction",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -3836,7 +3911,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Upgrade removed"
+              "note": "Aghanim's Shard Upgrade removed",
+              "aghanims": "shard"
             }
           ]
         },
@@ -3845,7 +3921,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now upgradable by Aghanim's Shard"
+              "note": "Now upgradable by Aghanim's Shard",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -3875,23 +3952,33 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 31-35 to 12-16"
+          "note": "Base Damage decreased from 31-35 to 12-16",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 1.9 to 1.4"
+          "note": "Agility gain decreased from 1.9 to 1.4",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 1.9 to 1.2"
+          "note": "Intelligence gain decreased from 1.9 to 1.2",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 8 (from 54-58 to 46-50)"
+          "note": "Damage on level 1 decreased by 8 (from 54-58 to 46-50)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +2.9 to +3.3"
+          "note": "Damage gain per level increased from +2.9 to +3.3",
+          "icon": "damage"
+        },
+        {
+          "indent_level": 1,
+          "note": "Call of the Wild Hawk Dive Bomb (Aghanim's Shard) Root Duration decreased from 2.5s to 2s",
+          "aghanims": "shard"
         }
       ],
       "abilities": [
@@ -3901,15 +3988,6 @@
             {
               "indent_level": 1,
               "note": "Mana Cost decreased from 65 to 50"
-            }
-          ]
-        },
-        {
-          "ability_id": 7231,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Dive Bomb (Aghanim's Shard) Root Duration decreased from 2.5s to 2s"
             }
           ]
         },
@@ -3951,7 +4029,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Scream of Pain emitted from Shadow Strike expiring now also damages the target"
+              "note": "Aghanim's Scepter Scream of Pain emitted from Shadow Strike expiring now also damages the target",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -3966,36 +4045,44 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 22-25 to 9-12"
+          "note": "Base Damage decreased from 22-25 to 9-12",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 2.1 to 2.0"
+          "note": "Strength gain decreased from 2.1 to 2.0",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 2.8 to 2.0"
+          "note": "Agility gain decreased from 2.8 to 2.0",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 1.8 to 1.4"
+          "note": "Intelligence gain decreased from 1.8 to 1.4",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 unchanged (46-49)"
+          "note": "Damage on level 1 unchanged (46-49)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +2.8 to +3.24"
+          "note": "Damage gain per level increased from +2.8 to +3.24",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Poison Nova Now a passive ability granted by Aghanim's Scepter"
+          "note": "Poison Nova Now a passive ability granted by Aghanim's Scepter",
+          "aghanims": "scepter"
         },
         {
           "indent_level": 1,
           "hide_dot": true,
-          "note": "Poison Nova: Creates a ring of poison upon death of Venomancer or an enemy hero infected with Venomous Gale. Also triggers if Venomous Gale is dispelled from an enemy hero. Enemies hit by the Poison Nova take non-lethal damage over time and have their magic resistance reduced. Radius: 900. Duration: 10s. Max HP as Damage: 3%. Magic Resistance Reduction: 30%. Travel Speed: 550. Cooldown: 10s"
+          "note": "Poison Nova: Creates a ring of poison upon death of Venomancer or an enemy hero infected with Venomous Gale. Also triggers if Venomous Gale is dispelled from an enemy hero. Enemies hit by the Poison Nova take non-lethal damage over time and have their magic resistance reduced. Radius: 900. Duration: 10s. Max HP as Damage: 3%. Magic Resistance Reduction: 30%. Travel Speed: 550. Cooldown: 10s",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
@@ -4116,11 +4203,13 @@
             },
             {
               "indent_level": 1,
-              "note": "Now always spawns 1/2/3 skeletons to attack each nearby hero when Reincarnation triggers (Aghanim's Shard still adds 3 skeletons resulting in 4/5/6 in total)"
+              "note": "Now always spawns 1/2/3 skeletons to attack each nearby hero when Reincarnation triggers (Aghanim's Shard still adds 3 skeletons resulting in 4/5/6 in total)",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter now also reduces cooldown by 40 seconds and respawn time of every hero dying under its effect by 10%"
+              "note": "Aghanim's Scepter now also reduces cooldown by 40 seconds and respawn time of every hero dying under its effect by 10%",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -4145,7 +4234,8 @@
             {
               "indent_level": 1,
               "note": "Aghanim's Shard Fear Duration decreased from 1.5s to 1.2s ",
-              "info": "Duration decreased as a part of the comprehensive Disables Reduction"
+              "info": "Duration decreased as a part of the comprehensive Disables Reduction",
+              "aghanims": "shard"
             }
           ]
         }
@@ -4179,7 +4269,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Range increased from 160 to 200"
+          "note": "Base Attack Range increased from 160 to 200",
+          "icon": "attack_range"
         }
       ],
       "abilities": [
@@ -4264,7 +4355,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 3.4 to 3.6"
+          "note": "Strength gain increased from 3.4 to 3.6",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -4308,27 +4400,33 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 22-28 to 10-16"
+          "note": "Base Damage decreased from 22-28 to 10-16",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 2.3 to 2.0"
+          "note": "Strength gain decreased from 2.3 to 2.0",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 1.7 to 1.4"
+          "note": "Agility gain decreased from 1.7 to 1.4",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 3.7 to 2.5"
+          "note": "Intelligence gain decreased from 3.7 to 2.5",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 unchanged (47-53)"
+          "note": "Damage on level 1 unchanged (47-53)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level decreased from +3.7 to +3.54"
+          "note": "Damage gain per level decreased from +3.7 to +3.54",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
@@ -4341,12 +4439,14 @@
         {
           "indent_level": 1,
           "hide_dot": true,
-          "note": "Bad Juju: Whenever a unit is affected by Dazzle's spells they temporarily gain/lose 1/2/3 armor for 8/10/12 seconds. Can be activated to decrease the remaining cooldown of all other abilities by 4/5/6 seconds and items by 3/4/5 seconds. Casting Bad Juju costs 75/100/125 health. Each cast increases health cost by 50% for 30/25/20 seconds. Bad Juju cannot kill Dazzle but still can be cast without the sufficient HP. Cooldown: 3s"
+          "note": "Bad Juju: Whenever a unit is affected by Dazzle's spells they temporarily gain/lose 1/2/3 armor for 8/10/12 seconds. Can be activated to decrease the remaining cooldown of all other abilities by 4/5/6 seconds and items by 3/4/5 seconds. Casting Bad Juju costs 75/100/125 health. Each cast increases health cost by 50% for 30/25/20 seconds. Bad Juju cannot kill Dazzle but still can be cast without the sufficient HP. Cooldown: 3s",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
           "hide_dot": true,
-          "note": "Bad Juju: Dazzle also gets Bad Juju's armor buff for casting Bad Juju"
+          "note": "Bad Juju: Dazzle also gets Bad Juju's armor buff for casting Bad Juju",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -4362,7 +4462,8 @@
             {
               "indent_level": 1,
               "note": "Aghanim's Shard Hex Duration decreased from 2s to 1.6s ",
-              "info": "Duration decreased as a part of the comprehensive Disables Reduction"
+              "info": "Duration decreased as a part of the comprehensive Disables Reduction",
+              "aghanims": "shard"
             }
           ]
         },
@@ -4371,7 +4472,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now upgradable by Aghanim's Scepter"
+              "note": "Now upgradable by Aghanim's Scepter",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
@@ -4391,27 +4493,33 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 24-26 to 12-14"
+          "note": "Base Damage decreased from 24-26 to 12-14",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 3.5 to 2.8"
+          "note": "Strength gain decreased from 3.5 to 2.8",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 2.3 to 1.8"
+          "note": "Agility gain decreased from 2.3 to 1.8",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 1.5 to 1.3"
+          "note": "Intelligence gain decreased from 1.5 to 1.3",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 4 (from 50-52 to 46-58)"
+          "note": "Damage on level 1 decreased by 4 (from 50-52 to 46-58)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +3.5 to +3.54"
+          "note": "Damage gain per level increased from +3.5 to +3.54",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -4571,19 +4679,23 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 33-39 to 13-19"
+          "note": "Base Damage decreased from 33-39 to 13-19",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 4 (from 54-60 to 50-56)"
+          "note": "Damage on level 1 decreased by 4 (from 54-60 to 50-56)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +2.7 to +4.26"
+          "note": "Damage gain per level increased from +2.7 to +4.26",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 0.25 to 1"
+          "note": "Base Health Regen increased from 0.25 to 1",
+          "icon": "health_regen"
         }
       ],
       "abilities": [
@@ -4614,11 +4726,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased from 15-21 to 19-25"
+          "note": "Base Damage increased from 15-21 to 19-25",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Base Strength increased from 16 to 17"
+          "note": "Base Strength increased from 16 to 17",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
@@ -4627,7 +4741,8 @@
         {
           "indent_level": 1,
           "hide_dot": true,
-          "note": "Tar Bomb: Unit targeted. Clinkz throws a projectile that deals 40/60/80/100 magic damage on impact, commanding Clinkz and all Burning Skeleton Archers in range to attack the target. The 275 radius area around the target is also covered in tar for 5 seconds. Any enemy that walks across the tar gets slowed by 16/19/22/25% and receives additional 15/25/35/45 physical damage from all attacks by Clinkz or his Burning Skeleton Archers. Effect persists for 2.5 seconds after leaving the area. Affects buildings. Cast Range: 1000. Cooldown: 7/6/5/4s. Mana Cost: 40/45/50/55"
+          "note": "Tar Bomb: Unit targeted. Clinkz throws a projectile that deals 40/60/80/100 magic damage on impact, commanding Clinkz and all Burning Skeleton Archers in range to attack the target. The 275 radius area around the target is also covered in tar for 5 seconds. Any enemy that walks across the tar gets slowed by 16/19/22/25% and receives additional 15/25/35/45 physical damage from all attacks by Clinkz or his Burning Skeleton Archers. Effect persists for 2.5 seconds after leaving the area. Affects buildings. Cast Range: 1000. Cooldown: 7/6/5/4s. Mana Cost: 40/45/50/55",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -4747,7 +4862,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now granted by Aghanim's Shard. Also douses enemies in Tar Bomb slow. Cooldown: 22s. Range: 850. Damage per arrow: 65%"
+              "note": "Now granted by Aghanim's Shard. Also douses enemies in Tar Bomb slow. Cooldown: 22s. Range: 850. Damage per arrow: 65%",
+              "aghanims": "shard"
             }
           ]
         }
@@ -4770,7 +4886,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now upgradable by Aghanim's Shard."
+              "note": "Now upgradable by Aghanim's Shard.",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -4784,7 +4901,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter additional duration decreased from +3s to +1s"
+              "note": "Aghanim's Scepter additional duration decreased from +3s to +1s",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -4808,7 +4926,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard now also increases the maximum number of enchanted units from 1 to 2"
+              "note": "Aghanim's Shard now also increases the maximum number of enchanted units from 1 to 2",
+              "aghanims": "shard"
             }
           ]
         }
@@ -4828,7 +4947,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard no longer allows to cast Inner Fire while disabled"
+              "note": "Aghanim's Shard no longer allows to cast Inner Fire while disabled",
+              "aghanims": "shard"
             }
           ]
         },
@@ -4851,7 +4971,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Upgrade reworked"
+              "note": "Aghanim's Scepter Upgrade reworked",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
@@ -4871,31 +4992,38 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 29-35 to 11-17"
+          "note": "Base Damage decreased from 29-35 to 11-17",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 3.2 to 2.0"
+          "note": "Strength gain decreased from 3.2 to 2.0",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Base Agility decreased by 1"
+          "note": "Base Agility decreased by 1",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 3.4 to 2.4"
+          "note": "Agility gain decreased from 3.4 to 2.4",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 2.0 to 1.4"
+          "note": "Intelligence gain decreased from 2.0 to 1.4",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 5 (from 48-54 to 43-49)"
+          "note": "Damage on level 1 decreased by 5 (from 48-54 to 43-49)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +3.4 to +3.48"
+          "note": "Damage gain per level increased from +3.4 to +3.48",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -4918,7 +5046,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Base Attack Damage Bonus Increase per second rescaled from +12 flat Damage to +4% Base Damage"
+              "note": "Aghanim's Shard Base Attack Damage Bonus Increase per second rescaled from +12 flat Damage to +4% Base Damage",
+              "aghanims": "shard"
             }
           ]
         },
@@ -4990,7 +5119,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard no longer grants charges. Now lowers Shadow Walk cooldown by 5s"
+              "note": "Aghanim's Shard no longer grants charges. Now lowers Shadow Walk cooldown by 5s",
+              "aghanims": "shard"
             }
           ]
         }
@@ -5001,7 +5131,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -5016,7 +5147,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard mark duration increased from 6s to 12s"
+              "note": "Aghanim's Shard mark duration increased from 6s to 12s",
+              "aghanims": "shard"
             }
           ]
         },
@@ -5100,31 +5232,38 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 17-21 to 0-4"
+          "note": "Base Damage decreased from 17-21 to 0-4",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 2.9 to 2.0"
+          "note": "Strength gain decreased from 2.9 to 2.0",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 1.8 to 1.4"
+          "note": "Agility gain decreased from 1.8 to 1.4",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 2.9 to 2.0"
+          "note": "Intelligence gain decreased from 2.9 to 2.0",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 unchanged (39-43)"
+          "note": "Damage on level 1 unchanged (39-43)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +2.0 to +3.24"
+          "note": "Damage gain per level increased from +2.0 to +3.24",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Base Movement Speed increased from 310 to 330"
+          "note": "Base Movement Speed increased from 310 to 330",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -5220,15 +5359,18 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 27-37 to 14-21"
+          "note": "Base Damage decreased from 27-37 to 14-21",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 increased from 46-56 to 49-56"
+          "note": "Damage on level 1 increased from 46-56 to 49-56",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +3.2 to +4.38"
+          "note": "Damage gain per level increased from +3.2 to +4.38",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -5247,7 +5389,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard now also adds one level to upgradable abilities of persuaded creeps"
+              "note": "Aghanim's Shard now also adds one level to upgradable abilities of persuaded creeps",
+              "aghanims": "shard"
             }
           ]
         }
@@ -5280,7 +5423,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Upgrade reworked."
+              "note": "Aghanim's Shard Upgrade reworked.",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -5309,7 +5453,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Upgrade removed"
+              "note": "Aghanim's Shard Upgrade removed",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -5330,7 +5475,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now upgradable by Aghanim's Shard"
+              "note": "Now upgradable by Aghanim's Shard",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -5361,12 +5507,14 @@
             {
               "indent_level": 1,
               "note": "Aghanim's Shard Base Stun Duration decreased from 1.2s to 1s ",
-              "info": "Duration decreased as a part of the comprehensive Disables Reduction"
+              "info": "Duration decreased as a part of the comprehensive Disables Reduction",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
               "note": "Aghanim's Shard Bonus Stun Duration decreased from 1.8s to 1.45s ",
-              "info": "Duration decreased as a part of the comprehensive Disables Reduction"
+              "info": "Duration decreased as a part of the comprehensive Disables Reduction",
+              "aghanims": "shard"
             }
           ]
         },
@@ -5375,7 +5523,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Radius decreased from 325 to 300"
+              "note": "Aghanim's Scepter Radius decreased from 325 to 300",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -5452,7 +5601,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Area of Effect decreased from 725 to 700"
+              "note": "Aghanim's Shard Area of Effect decreased from 725 to 700",
+              "aghanims": "shard"
             }
           ]
         },
@@ -5585,7 +5735,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Upgrade removed. Effect moved to level 20 talent"
+              "note": "Aghanim's Shard Upgrade removed. Effect moved to level 20 talent",
+              "aghanims": "shard"
             }
           ]
         },
@@ -5594,7 +5745,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now upgradable by Aghanim's Shard. Multiplies Burn Damage by 1.5x and makes it pull enemy units into its center at 100 units per second"
+              "note": "Now upgradable by Aghanim's Shard. Multiplies Burn Damage by 1.5x and makes it pull enemy units into its center at 100 units per second",
+              "aghanims": "shard"
             }
           ]
         }
@@ -5608,7 +5760,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Upgrade removed"
+              "note": "Aghanim's Scepter Upgrade removed",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -5617,7 +5770,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now upgradable by Aghanim's Scepter."
+              "note": "Now upgradable by Aghanim's Scepter.",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
@@ -5646,27 +5800,33 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 24-29 to 8-13"
+          "note": "Base Damage decreased from 24-29 to 8-13",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 3.4 to 3.0"
+          "note": "Strength gain decreased from 3.4 to 3.0",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 1.7 to 1.4"
+          "note": "Agility gain decreased from 1.7 to 1.4",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 1.7 to 1.2"
+          "note": "Intelligence gain decreased from 1.7 to 1.2",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 3 (from 50-55 to 47-52)"
+          "note": "Damage on level 1 decreased by 3 (from 50-55 to 47-52)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level decreased from +3.4 to +3.36"
+          "note": "Damage gain per level decreased from +3.4 to +3.36",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -5704,15 +5864,18 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 29-36 to 14-21"
+          "note": "Base Damage decreased from 29-36 to 14-21",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 4 (from 52-59 to 48-55)"
+          "note": "Damage on level 1 decreased by 4 (from 52-59 to 48-55)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +3.7 to +4.38"
+          "note": "Damage gain per level increased from +3.7 to +4.38",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -5773,7 +5936,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard now extends Primal Split duration by 12s and grants Brewlings the Primal Split Cancel ability"
+              "note": "Aghanim's Shard now extends Primal Split duration by 12s and grants Brewlings the Primal Split Cancel ability",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -5814,7 +5978,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Cleanse Aghanim's Scepter Max Charges decreased from 3 to 2"
+              "note": "Cleanse Aghanim's Scepter Max Charges decreased from 3 to 2",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -5838,27 +6003,33 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 18-22 to 4-8"
+          "note": "Base Damage decreased from 18-22 to 4-8",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 2.5 to 2.0"
+          "note": "Strength gain decreased from 2.5 to 2.0",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 2.8 to 2.0"
+          "note": "Agility gain decreased from 2.8 to 2.0",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain increased from 1.4 to 2.0"
+          "note": "Intelligence gain increased from 1.4 to 2.0",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 4 (from 38-42 to 34-38)"
+          "note": "Damage on level 1 decreased by 4 (from 38-42 to 34-38)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +2.5 to +3.6"
+          "note": "Damage gain per level increased from +2.5 to +3.6",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -5872,11 +6043,13 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Ally Bonus Attack Speed decreased from 60 to 40"
+              "note": "Aghanim's Shard Ally Bonus Attack Speed decreased from 60 to 40",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Ally Bonus Movement Speed decreased from 20% to 15%"
+              "note": "Aghanim's Shard Ally Bonus Movement Speed decreased from 20% to 15%",
+              "aghanims": "shard"
             }
           ]
         }
@@ -5942,7 +6115,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Upgrade removed"
+              "note": "Aghanim's Shard Upgrade removed",
+              "aghanims": "shard"
             }
           ]
         },
@@ -5951,7 +6125,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now granted by Aghanim's Shard"
+              "note": "Now granted by Aghanim's Shard",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -5968,7 +6143,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "New ability granted by Aghanim's Scepter"
+              "note": "New ability granted by Aghanim's Scepter",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
@@ -6001,23 +6177,28 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Primary Attribute changed to Strength"
+          "note": "Primary Attribute changed to Strength",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 3.3 to 4.2"
+          "note": "Strength gain increased from 3.3 to 4.2",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Base Intelligence decreased from 15 to 0"
+          "note": "Base Intelligence decreased from 15 to 0",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 2.5 to 0"
+          "note": "Intelligence gain decreased from 2.5 to 0",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Always has 0 Intelligence. Always."
+          "note": "Always has 0 Intelligence. Always.",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
@@ -6025,7 +6206,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 54-60 to 44-50"
+          "note": "Base Damage decreased from 54-60 to 44-50",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -6079,7 +6261,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now upgradable by Aghanim's Shard"
+              "note": "Now upgradable by Aghanim's Shard",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -6093,7 +6276,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Upgrade removed"
+              "note": "Aghanim's Shard Upgrade removed",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -6151,12 +6335,14 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Upgrade reworked"
+              "note": "Aghanim's Shard Upgrade reworked",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
               "hide_dot": true,
-              "note": "When cast on ground, Thunder Strike now lies dormant (not striking) for up to 5 seconds. If an enemy comes within range during that time, Thunder Strike attaches to it. If no enemy comes within range, it strikes the ground. Aghanim's Shard also increases the number of strikes by 2 and cast range to 1600"
+              "note": "When cast on ground, Thunder Strike now lies dormant (not striking) for up to 5 seconds. If an enemy comes within range during that time, Thunder Strike attaches to it. If no enemy comes within range, it strikes the ground. Aghanim's Shard also increases the number of strikes by 2 and cast range to 1600",
+              "aghanims": "shard"
             }
           ]
         },
@@ -6193,27 +6379,28 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 27-31 to 15-19"
+          "note": "Base Damage decreased from 27-31 to 15-19",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 2.5 to 2.1"
+          "note": "Agility gain decreased from 2.5 to 2.1",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain increased from 2.1 to 2.5"
+          "note": "Intelligence gain increased from 2.1 to 2.5",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 increased by 3 (from 45-49 to 48-52)"
+          "note": "Damage on level 1 increased by 3 (from 45-49 to 48-52)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +2.5 to +4.26"
-        },
-        {
-          "indent_level": 1,
-          "note": "Mana Burn Ability removed"
+          "note": "Damage gain per level increased from +2.5 to +4.26",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -6246,6 +6433,15 @@
               "indent_level": 1,
               "note": "Stun Duration decreased from 1.4/1.8/2.2/2.6s to 1.1/1.4/1.7/2.0s ",
               "info": "Duration decreased as a part of the comprehensive Disables Reduction"
+            }
+          ]
+        },
+        {
+          "ability_id": 1767,
+          "ability_notes": [
+            {
+              "indent_level": 1,
+              "note": "Ability removed"
             }
           ]
         },
@@ -6297,7 +6493,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen decreased from 1.5 to 1.25"
+          "note": "Base Health Regen decreased from 1.5 to 1.25",
+          "icon": "health_regen"
         }
       ],
       "talent_notes": [
@@ -6316,7 +6513,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Can now target sleeping/invulnerable units even without Aghanim's Scepter (not Debuff Immune targets)"
+              "note": "Can now target sleeping/invulnerable units even without Aghanim's Scepter (not Debuff Immune targets)",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -6426,19 +6624,23 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 13-19 to 7-13"
+          "note": "Base Damage decreased from 13-19 to 7-13",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 3.0 to 2.7"
+          "note": "Strength gain decreased from 3.0 to 2.7",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 6 (from 45-51 to 39-45)"
+          "note": "Damage on level 1 decreased by 6 (from 45-51 to 39-45)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +2.7 to +3.6"
+          "note": "Damage gain per level increased from +2.7 to +3.6",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -6447,7 +6649,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "With Aghanim's Scepter the ability can now be activated to explode the spirits, after which they begin spawning again. Cooldown is decreased by 50%. Cannot be activated if the ability is on cooldown"
+              "note": "With Aghanim's Scepter the ability can now be activated to explode the spirits, after which they begin spawning again. Cooldown is decreased by 50%. Cannot be activated if the ability is on cooldown",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -6462,27 +6665,33 @@
         },
         {
           "indent_level": 1,
-          "note": "Base damage decreased from 23-33 to 7-17"
+          "note": "Base damage decreased from 23-33 to 7-17",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 2.8 to 2.4"
+          "note": "Strength gain decreased from 2.8 to 2.4",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 1.3 to 1.0"
+          "note": "Agility gain decreased from 1.3 to 1.0",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 2.9 to 2.4"
+          "note": "Intelligence gain decreased from 2.9 to 2.4",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 5 (from 45-55 to 40-50)"
+          "note": "Damage on level 1 decreased by 5 (from 45-55 to 40-50)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +2.9 to +3.48"
+          "note": "Damage gain per level increased from +2.9 to +3.48",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -6550,15 +6759,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength decreased from 17 to 0"
+          "note": "Base Strength decreased from 17 to 0",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 1.5 to 0"
+          "note": "Strength gain decreased from 1.5 to 0",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain increased from 3.4 to 3.7"
+          "note": "Intelligence gain increased from 3.4 to 3.7",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [
@@ -6682,27 +6894,33 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 32-40 to 17-25"
+          "note": "Base Damage decreased from 32-40 to 17-25",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 3.5 to 3.0"
+          "note": "Strength gain decreased from 3.5 to 3.0",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 2.5 to 1.9"
+          "note": "Agility gain decreased from 2.5 to 1.9",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 2.1 to 1.6"
+          "note": "Intelligence gain decreased from 2.1 to 1.6",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 5 (from 57-65 to 52-60)"
+          "note": "Damage on level 1 decreased by 5 (from 57-65 to 52-60)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +3.5 to +3.9"
+          "note": "Damage gain per level increased from +3.5 to +3.9",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -6734,11 +6952,13 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Upgrade removed"
+              "note": "Aghanim's Scepter Upgrade removed",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
-              "note": "Now upgradable by Aghanim's Shard"
+              "note": "Now upgradable by Aghanim's Shard",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -6762,7 +6982,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now granted by Aghanim's Scepter"
+              "note": "Now granted by Aghanim's Scepter",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
@@ -6785,23 +7006,28 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 27-31 to 10-14"
+          "note": "Base Damage decreased from 27-31 to 10-14",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 3.5 to 2.9"
+          "note": "Strength gain decreased from 3.5 to 2.9",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 1.6 to 1.0"
+          "note": "Agility gain decreased from 1.6 to 1.0",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 4 (from 52-56 to 48-52)"
+          "note": "Damage on level 1 decreased by 4 (from 52-56 to 48-52)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +3.5 to +3.96"
+          "note": "Damage gain per level increased from +3.5 to +3.96",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -6820,7 +7046,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now upgradable by Aghanim's Scepter"
+              "note": "Now upgradable by Aghanim's Scepter",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
@@ -6834,7 +7061,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Upgrade removed"
+              "note": "Aghanim's Scepter Upgrade removed",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -6941,27 +7169,33 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 28-38 to 9-19"
+          "note": "Base Damage decreased from 28-38 to 9-19",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 2.6 to 2.2"
+          "note": "Strength gain decreased from 2.6 to 2.2",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 1.5 to 1.3"
+          "note": "Agility gain decreased from 1.5 to 1.3",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 2.0 to 1.2"
+          "note": "Intelligence gain decreased from 2.0 to 1.2",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 4 (from 50-60 to 46-56)"
+          "note": "Damage on level 1 decreased by 4 (from 50-60 to 46-56)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +2.6 to +2.82"
+          "note": "Damage gain per level increased from +2.6 to +2.82",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -6996,7 +7230,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen increased from 0.25 to 0.75"
+          "note": "Base Health Regen increased from 0.25 to 0.75",
+          "icon": "health_regen"
         }
       ],
       "abilities": [
@@ -7014,7 +7249,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Spell Immunity with Aghanim's Scepter replaced with Debuff Immunity with 50% Magic Resistance"
+              "note": "Spell Immunity with Aghanim's Scepter replaced with Debuff Immunity with 50% Magic Resistance",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -7058,7 +7294,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Duration decreased from 15s to 8s"
+              "note": "Aghanim's Shard Duration decreased from 15s to 8s",
+              "aghanims": "shard"
             }
           ]
         },
@@ -7080,7 +7317,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Duration decreased from 6/7/8s to 5.5/6.5/7.5s"
+              "note": "Aghanim's Scepter Duration decreased from 6/7/8s to 5.5/6.5/7.5s",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -7095,15 +7333,18 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 21-23 to 12-14"
+          "note": "Base Damage decreased from 21-23 to 12-14",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 unchanged (46-48)"
+          "note": "Damage on level 1 unchanged (46-48)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +3 to +4.08"
+          "note": "Damage gain per level increased from +3 to +4.08",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -7112,7 +7353,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Upgrade moved to Aghanim's Shard (effect is unchanged)"
+              "note": "Aghanim's Scepter Upgrade moved to Aghanim's Shard (effect is unchanged)",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -7121,7 +7363,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Upgrade removed"
+              "note": "Aghanim's Shard Upgrade removed",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -7151,7 +7394,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Now upgradable by Aghanim's Scepter"
+              "note": "Now upgradable by Aghanim's Scepter",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
@@ -7167,7 +7411,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -7220,7 +7465,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Upgrade removed"
+              "note": "Aghanim's Shard Upgrade removed",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -7257,7 +7503,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now upgradable by Aghanim's Shard. Can now target allies"
+              "note": "Now upgradable by Aghanim's Shard. Can now target allies",
+              "aghanims": "shard"
             }
           ]
         },
@@ -7356,19 +7603,23 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 26-36 to 14-24"
+          "note": "Base Damage decreased from 26-36 to 14-24",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 3.6 to 3.3"
+          "note": "Strength gain decreased from 3.6 to 3.3",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 5 (from 49-59 to 44-54)"
+          "note": "Damage on level 1 decreased by 5 (from 49-59 to 44-54)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +3.6 to +3.96"
+          "note": "Damage gain per level increased from +3.6 to +3.96",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -7415,7 +7666,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Upgrade moved to Aghanim's Scepter. Grants 0.15s fade time invisibility to the target as well as 0.25s improved BAT and +25% Spell Amplification"
+              "note": "Aghanim's Shard Upgrade moved to Aghanim's Scepter. Grants 0.15s fade time invisibility to the target as well as 0.25s improved BAT and +25% Spell Amplification",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -7424,7 +7676,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now granted by Aghanim's Shard"
+              "note": "Now granted by Aghanim's Shard",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -7443,27 +7696,33 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 14-21 to 0-5"
+          "note": "Base Damage decreased from 14-21 to 0-5",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 2.5 to 2.2"
+          "note": "Strength gain decreased from 2.5 to 2.2",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 1.7 to 1.5"
+          "note": "Agility gain decreased from 1.7 to 1.5",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 3.6 to 2.8"
+          "note": "Intelligence gain decreased from 3.6 to 2.8",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 2-4 (from 40-47 to 38-43)"
+          "note": "Damage on level 1 decreased by 2-4 (from 40-47 to 38-43)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +3.6 to +3.9"
+          "note": "Damage gain per level increased from +3.6 to +3.9",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -7619,23 +7878,28 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 27-35 to 9-17"
+          "note": "Base Damage decreased from 27-35 to 9-17",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 1.6 to 1.3"
+          "note": "Agility gain decreased from 1.6 to 1.3",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 3.5 to 2.6"
+          "note": "Intelligence gain decreased from 3.5 to 2.6",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 4 (from 48-56 to 44-52)"
+          "note": "Damage on level 1 decreased by 4 (from 48-56 to 44-52)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +3.5 to +3.54"
+          "note": "Damage gain per level increased from +3.5 to +3.54",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -7683,23 +7947,28 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 33-39 to 18-24"
+          "note": "Base Damage decreased from 33-39 to 18-24",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 3.2 to 2.5"
+          "note": "Agility gain decreased from 3.2 to 2.5",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 3 (from 51-57 to 48-54)"
+          "note": "Damage on level 1 decreased by 3 (from 51-57 to 48-54)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +3.2 to +4.14"
+          "note": "Damage gain per level increased from +3.2 to +4.14",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -7839,15 +8108,18 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 30-34 to 15-19"
+          "note": "Base Damage decreased from 30-34 to 15-19",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 unchanged (54-58)"
+          "note": "Damage on level 1 unchanged (54-58)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +3.1 to +4.74"
+          "note": "Damage gain per level increased from +3.1 to +4.74",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -7881,27 +8153,33 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 26-32 to 8-14"
+          "note": "Base Damage decreased from 26-32 to 8-14",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 3.5 to 3.2"
+          "note": "Strength gain decreased from 3.5 to 3.2",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 1.9 to 1.2"
+          "note": "Agility gain decreased from 1.9 to 1.2",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 2.2 to 2.1"
+          "note": "Intelligence gain decreased from 2.2 to 2.1",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 4 (from 46-52 to 42-48)"
+          "note": "Damage on level 1 decreased by 4 (from 46-52 to 42-48)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +3.5 to +3.9"
+          "note": "Damage gain per level increased from +3.5 to +3.9",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -7975,7 +8253,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Spell Immunity with Aghanim's Shard replaced with Debuff Immunity with 50% Magic Resistance"
+              "note": "Spell Immunity with Aghanim's Shard replaced with Debuff Immunity with 50% Magic Resistance",
+              "aghanims": "shard"
             }
           ]
         },
@@ -8000,27 +8279,33 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Damage decreased from 33-37 to 15-21"
+          "note": "Base Damage decreased from 33-37 to 15-21",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 3.6 to 3.0"
+          "note": "Strength gain decreased from 3.6 to 3.0",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain decreased from 2.4 to 2.0"
+          "note": "Agility gain decreased from 2.4 to 2.0",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 1.9 to 1.5"
+          "note": "Intelligence gain decreased from 1.9 to 1.5",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Damage on level 1 decreased by 4-2 (from 56-60 to 52-58)"
+          "note": "Damage on level 1 decreased by 4-2 (from 56-60 to 52-58)",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Damage gain per level increased from +3.6 to +3.9"
+          "note": "Damage gain per level increased from +3.6 to +3.9",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -8073,7 +8358,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard no longer allows setting the ability on autocast. Now allows Marci to jump off enemies and provides her with movement speed bonus"
+              "note": "Aghanim's Shard no longer allows setting the ability on autocast. Now allows Marci to jump off enemies and provides her with movement speed bonus",
+              "aghanims": "shard"
             }
           ]
         },
@@ -8082,7 +8368,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter pulses now also silence for 1.5 seconds"
+              "note": "Aghanim's Scepter pulses now also silence for 1.5 seconds",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -8174,12 +8461,14 @@
         },
         {
           "indent_level": 1,
-          "note": "Parting Shot New ability granted by Aghanim's Scepter"
+          "note": "Parting Shot New ability granted by Aghanim's Scepter",
+          "aghanims": "scepter"
         },
         {
           "indent_level": 1,
           "hide_dot": true,
-          "note": "Parting Shot: Muerta shoots an allied or enemy hero in their soul, separating it from the physical body for 4 seconds. The soul is pushed 150 units on separation and is untargetable, muted, disarmed, and invulnerable. The body is stunned for the duration and has 50% damage reduction. After this effect the soul is forcefully returned to the body which applies a strong dispel removing negative debuffs and stuns. The soul survives until the end of the effect even if the body dies. Does not deal damage to allies and Muerta can't target herself. Damage: 300. Mana Cost: 250. Cooldown: 45s"
+          "note": "Parting Shot: Muerta shoots an allied or enemy hero in their soul, separating it from the physical body for 4 seconds. The soul is pushed 150 units on separation and is untargetable, muted, disarmed, and invulnerable. The body is stunned for the duration and has 50% damage reduction. After this effect the soul is forcefully returned to the body which applies a strong dispel removing negative debuffs and stuns. The soul survives until the end of the effect even if the body dies. Does not deal damage to allies and Muerta can't target herself. Damage: 300. Mana Cost: 250. Cooldown: 45s",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -8217,7 +8506,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now upgradable by Aghanim's Shard"
+              "note": "Now upgradable by Aghanim's Shard",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
@@ -8245,7 +8535,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Chen's Aghanim's Shard increases the level of the following abilities by one, allowing them to reach level 4"
+          "note": "Chen's Aghanim's Shard increases the level of the following abilities by one, allowing them to reach level 4",
+          "aghanims": "shard"
         }
       ]
     },

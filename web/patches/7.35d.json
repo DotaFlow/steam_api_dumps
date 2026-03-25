@@ -290,7 +290,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Agility increased by 2"
+          "note": "Base Agility increased by 2",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -344,7 +345,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed decreased from 290 to 285"
+          "note": "Base Movement Speed decreased from 290 to 285",
+          "icon": "movement"
         }
       ]
     },
@@ -370,7 +372,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard no longer increases enemy search range by 200"
+              "note": "Aghanim's Shard no longer increases enemy search range by 200",
+              "aghanims": "shard"
             }
           ]
         },
@@ -379,7 +382,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter attack speed decreased from 100% of Puck's attack speed to 90%"
+              "note": "Aghanim's Scepter attack speed decreased from 100% of Puck's attack speed to 90%",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -390,11 +394,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 6"
+          "note": "Base Damage increased by 6",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 2.7 to 2.3"
+          "note": "Strength gain decreased from 2.7 to 2.3",
+          "icon": "strength"
         }
       ]
     },
@@ -403,7 +409,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor decreased by 1"
+          "note": "Base Armor decreased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -458,18 +465,12 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 2"
-        }
-      ],
-      "abilities": [
+          "note": "Base Armor increased by 2",
+          "icon": "armor"
+        },
         {
-          "ability_id": 650,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Cast Range increased from 650 to 700/750/800/850"
-            }
-          ]
+          "indent_level": 1,
+          "note": "Defense Matrix Cast Range increased from 650 to 700/750/800/850"
         }
       ]
     },
@@ -600,7 +601,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Cast Range bonus decreased from 350 to 250"
+              "note": "Aghanim's Scepter Cast Range bonus decreased from 350 to 250",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -781,7 +783,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Max Stacks Bonus decreased from +4 to +3"
+              "note": "Aghanim's Shard Max Stacks Bonus decreased from +4 to +3",
+              "aghanims": "shard"
             }
           ]
         }
@@ -886,11 +889,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter no longer slows enemy movement by 40%"
+              "note": "Aghanim's Scepter no longer slows enemy movement by 40%",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter now increases radius by 100"
+              "note": "Aghanim's Scepter now increases radius by 100",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -1051,7 +1056,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Damage per line decreased from 100 to 85"
+              "note": "Aghanim's Scepter Damage per line decreased from 100 to 85",
+              "aghanims": "scepter"
             }
           ]
         }

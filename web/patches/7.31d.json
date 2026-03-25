@@ -199,7 +199,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength reduced from 18 to 17"
+          "note": "Base Strength reduced from 18 to 17",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -285,7 +286,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 3"
+          "note": "Base damage increased by 3",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -311,7 +313,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Speed increased from 100 to 110"
+          "note": "Base Attack Speed increased from 100 to 110",
+          "icon": "attack_speed"
         }
       ]
     },
@@ -320,7 +323,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 2"
+          "note": "Base Damage increased by 2",
+          "icon": "damage"
         }
       ]
     },
@@ -452,16 +456,13 @@
     },
     {
       "hero_id": 34,
-      "abilities": [
+      "hero_notes": [
         {
-          "ability_id": 650,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Cast range increased from 600 to 650"
-            }
-          ]
-        },
+          "indent_level": 1,
+          "note": "Defense Matrix cast range increased from 600 to 650"
+        }
+      ],
+      "abilities": [
         {
           "ability_id": 909,
           "ability_notes": [
@@ -492,7 +493,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement speed increased from 290 to 300"
+          "note": "Movement speed increased from 290 to 300",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -524,7 +526,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter radius increased from 350 to 400"
+              "note": "Aghanim's Scepter radius increased from 350 to 400",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -582,7 +585,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base agility reduced by 3"
+          "note": "Base agility reduced by 3",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -606,7 +610,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Bad Juju Damage/Heal per stack increased from 30/40/50 to 40/50/60"
+          "note": "Bad Juju Damage/Heal per stack increased from 30/40/50 to 40/50/60",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -672,7 +677,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base agility increased from 18 to 19"
+          "note": "Base agility increased from 18 to 19",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -804,7 +810,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength Growth reduced from 2.4 to 2.2"
+          "note": "Strength Growth reduced from 2.4 to 2.2",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -937,7 +944,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased from 53-61 to 55-61"
+          "note": "Base damage increased from 53-61 to 55-61",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -1002,7 +1010,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength increased from 24 to 25"
+          "note": "Base Strength increased from 24 to 25",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -1135,7 +1144,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength increased from 21 to 22"
+          "note": "Base Strength increased from 21 to 22",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -1224,7 +1234,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 3"
+          "note": "Base damage reduced by 3",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -1244,7 +1255,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength Growth reduced from 3.6 to 3.4"
+          "note": "Strength Growth reduced from 3.6 to 3.4",
+          "icon": "strength"
         }
       ],
       "abilities": [

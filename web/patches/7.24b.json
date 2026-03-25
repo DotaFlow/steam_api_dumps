@@ -128,11 +128,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base attack speed reduced from 140 to 130"
+          "note": "Base attack speed reduced from 140 to 130",
+          "icon": "attack_speed"
         },
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 3"
+          "note": "Base damage reduced by 3",
+          "icon": "damage"
         }
       ]
     },
@@ -155,7 +157,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 3.4 to 3.2"
+          "note": "Strength gain reduced from 3.4 to 3.2",
+          "icon": "strength"
         }
       ]
     },
@@ -220,7 +223,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement speed reduced from 305 to 300"
+          "note": "Movement speed reduced from 305 to 300",
+          "icon": "movement"
         }
       ]
     },

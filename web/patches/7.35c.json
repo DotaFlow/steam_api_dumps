@@ -655,15 +655,18 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Magic Resistance decreased from 80% to 60%"
+              "note": "Aghanim's Shard Magic Resistance decreased from 80% to 60%",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Bonus Break Distance decreased from 400 to 200"
+              "note": "Aghanim's Shard Bonus Break Distance decreased from 400 to 200",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard now breaks on secondary targets if Lion loses vision of them"
+              "note": "Aghanim's Shard now breaks on secondary targets if Lion loses vision of them",
+              "aghanims": "shard"
             }
           ]
         }
@@ -677,7 +680,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter no longer grants True Strike"
+              "note": "Aghanim's Scepter no longer grants True Strike",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -702,7 +706,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor decreased by 1"
+          "note": "Base Armor decreased by 1",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -755,7 +760,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 3.2 to 3.4"
+          "note": "Agility gain increased from 3.2 to 3.4",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -809,7 +815,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Black Dragon Magic Resistance bonus decreased from 25% to 20%"
+              "note": "Aghanim's Scepter Black Dragon Magic Resistance bonus decreased from 25% to 20%",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -843,7 +850,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage decreased by 3"
+          "note": "Base Damage decreased by 3",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -956,7 +964,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Max Mana as damage barrier decreased from 75% to 70%"
+              "note": "Aghanim's Scepter Max Mana as damage barrier decreased from 75% to 70%",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -1112,7 +1121,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength increased from 16 to 18"
+          "note": "Base Strength increased from 16 to 18",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -1132,11 +1142,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength decreased from 22 to 20"
+          "note": "Base Strength decreased from 22 to 20",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 2.6 to 2.4"
+          "note": "Strength gain decreased from 2.6 to 2.4",
+          "icon": "strength"
         }
       ],
       "abilities": [

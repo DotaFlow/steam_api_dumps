@@ -252,7 +252,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain reduced from 3.2 to 3.0"
+          "note": "Agility gain reduced from 3.2 to 3.0",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -272,7 +273,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base mana regen from 1 to 1.5"
+          "note": "Base mana regen from 1 to 1.5",
+          "icon": "mana_regen"
         }
       ],
       "abilities": [
@@ -323,11 +325,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence from 13 + 1.1 to 15 + 1.5"
+          "note": "Intelligence from 13 + 1.1 to 15 + 1.5",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Base strength increased from 20 to 22"
+          "note": "Base strength increased from 20 to 22",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
@@ -346,7 +350,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Level 10 Agility reduced from 15 to 10"
+          "note": "Level 10 Agility reduced from 15 to 10",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -366,7 +371,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base agility reduced from 27 to 20 (base damage unchanged)"
+          "note": "Base agility reduced from 27 to 20 (base damage unchanged)",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -400,7 +406,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor reduced by 1"
+          "note": "Base armor reduced by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -429,11 +436,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence increased from 28 + 3.5 to 30 + 4.2"
+          "note": "Intelligence increased from 28 + 3.5 to 30 + 4.2",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Strength increased from 19 + 2.6 to 21 + 2.9"
+          "note": "Strength increased from 19 + 2.6 to 21 + 2.9",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -457,7 +466,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Spirit Bear base attack time increased from 1.65/1.55/1.45/1.35 to 1.7/1.6/1.5/1.4"
+          "note": "Spirit Bear base attack time increased from 1.65/1.55/1.45/1.35 to 1.7/1.6/1.5/1.4",
+          "icon": "attack_time"
         }
       ],
       "talent_notes": [

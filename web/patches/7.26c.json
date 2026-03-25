@@ -49,7 +49,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 3.6 to 3.4"
+          "note": "Strength gain reduced from 3.6 to 3.4",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -303,7 +304,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -385,11 +387,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 2.8 to 2.6"
+          "note": "Strength gain reduced from 2.8 to 2.6",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain reduced from 2.9 to 2.7"
+          "note": "Intelligence gain reduced from 2.9 to 2.7",
+          "icon": "intelligence"
         }
       ]
     },
@@ -398,7 +402,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 4"
+          "note": "Base damage reduced by 4",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -430,7 +435,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 3.2 to 3.0"
+          "note": "Strength gain reduced from 3.2 to 3.0",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -713,7 +719,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 2.8 to 2.6"
+          "note": "Strength gain reduced from 2.8 to 2.6",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -740,7 +747,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased from 285 to 290"
+          "note": "Base movement speed increased from 285 to 290",
+          "icon": "movement"
         }
       ]
     },
@@ -854,7 +862,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed reduced from 315 to 305"
+          "note": "Base movement speed reduced from 315 to 305",
+          "icon": "movement"
         }
       ]
     },
@@ -981,7 +990,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 2"
+          "note": "Base damage reduced by 2",
+          "icon": "damage"
         }
       ]
     },
@@ -1109,7 +1119,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 3.3 to 3.0"
+          "note": "Strength gain reduced from 3.3 to 3.0",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -1141,7 +1152,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base intelligence reduced from 18 to 16"
+          "note": "Base intelligence reduced from 18 to 16",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [
@@ -1245,7 +1257,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement speed reduced from 300 to 295"
+          "note": "Movement speed reduced from 300 to 295",
+          "icon": "movement"
         }
       ],
       "talent_notes": [

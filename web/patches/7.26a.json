@@ -325,7 +325,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 2"
+          "note": "Base armor increased by 2",
+          "icon": "armor"
         }
       ]
     },
@@ -335,7 +336,8 @@
         {
           "indent_level": 1,
           "note": "Base movement speed reduced from 285 to 280 ",
-          "info": "Part of the boots changes"
+          "info": "Part of the boots changes",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -371,7 +373,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Vampiric Aura damage reduced from 6/12/18/24 to 4/10/16/22"
+          "note": "Vampiric Aura damage reduced from 6/12/18/24 to 4/10/16/22",
+          "icon": "damage"
         }
       ]
     },
@@ -381,7 +384,8 @@
         {
           "indent_level": 1,
           "note": "Base movement speed reduced from 315 to 310 ",
-          "info": "Part of the boots changes"
+          "info": "Part of the boots changes",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -438,7 +442,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 3.6 to 3.4"
+          "note": "Strength gain reduced from 3.6 to 3.4",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -491,7 +496,8 @@
         {
           "indent_level": 1,
           "note": "Base movement speed reduced from 300 to 295 ",
-          "info": "Part of the boots changes"
+          "info": "Part of the boots changes",
+          "icon": "movement"
         }
       ]
     },

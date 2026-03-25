@@ -220,7 +220,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Fixed Silencer's Aghanim's Shard not increasing INT steal properly"
+          "note": "Fixed Silencer's Aghanim's Shard not increasing INT steal properly",
+          "aghanims": "shard"
         },
         {
           "indent_level": 1,
@@ -331,19 +332,15 @@
   "heroes": [
     {
       "hero_id": 2,
-      "subsections": [
+      "hero_notes": [
         {
-          "title": "One Man Army",
-          "style": "hero_facet",
-          "facet": "axe_one_man_army",
-          "facet_icon": "strength",
-          "facet_color": "Red0",
-          "general_notes": [
-            {
-              "indent_level": 1,
-              "note": "Strength bonus decreased from 60% to 50% of Axe's armor"
-            }
-          ]
+          "indent_level": 1,
+          "note": "Coat of Blood: Now levels with Culling Blade"
+        },
+        {
+          "indent_level": 1,
+          "note": "Coat of Blood: Armor gain per kill decreased from 1 to 0.4/0.6/0.8/1.0",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -358,15 +355,11 @@
       ],
       "abilities": [
         {
-          "ability_id": 1201,
+          "ability_id": 1166,
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Now levels with Culling Blade"
-            },
-            {
-              "indent_level": 1,
-              "note": "Armor gain per kill decreased from 1 to 0.4/0.6/0.8/1.0"
+              "note": "Strength bonus decreased from 60% to 50% of Axe's armor"
             }
           ]
         }
@@ -404,14 +397,16 @@
     },
     {
       "hero_id": 8,
-      "subsections": [
+      "talent_notes": [
         {
-          "title": "Bladeform",
-          "style": "hero_facet",
-          "facet": "juggernaut_agigain",
-          "facet_icon": "agility",
-          "facet_color": "Red2",
-          "general_notes": [
+          "indent_level": 1,
+          "note": "Level 20 Talent Blade Dance Lifesteal decreased from +60% to +50%"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": 1210,
+          "ability_notes": [
             {
               "indent_level": 1,
               "note": "Linger duration decreased from 3s to 2s"
@@ -421,15 +416,7 @@
               "note": "Agility per stack decreased from 3% to 2%"
             }
           ]
-        }
-      ],
-      "talent_notes": [
-        {
-          "indent_level": 1,
-          "note": "Level 20 Talent Blade Dance Lifesteal decreased from +60% to +50%"
-        }
-      ],
-      "abilities": [
+        },
         {
           "ability_id": 5028,
           "ability_notes": [
@@ -600,7 +587,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Mana Regen decreased from 0.6 to 0.2"
+          "note": "Base Mana Regen decreased from 0.6 to 0.2",
+          "icon": "mana_regen"
         }
       ]
     },
@@ -609,7 +597,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength increased by 4"
+          "note": "Base Strength increased by 4",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -626,22 +615,16 @@
     },
     {
       "hero_id": 19,
-      "subsections": [
+      "abilities": [
         {
-          "title": "Insurmountable",
-          "style": "hero_facet",
-          "facet": "tiny_insurmountable",
-          "facet_icon": "armor",
-          "facet_color": "Green4",
-          "general_notes": [
+          "ability_id": 1236,
+          "ability_notes": [
             {
               "indent_level": 1,
               "note": "Strength to Slow Resistance decreased from 25% to 20%"
             }
           ]
-        }
-      ],
-      "abilities": [
+        },
         {
           "ability_id": 5106,
           "ability_notes": [
@@ -704,23 +687,18 @@
           "facet": "tinker_translocator",
           "facet_icon": "movement",
           "facet_color": "Yellow2",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 650,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "Now applies a Strong Dispel on Tinker before blinking"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Blink random direction angle decreased from 120 to 90 degrees"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Blink distance increased from 300 to 350"
-                }
-              ]
+              "indent_level": 1,
+              "note": "Defense Matrix: Now applies a Strong Dispel on Tinker before blinking"
+            },
+            {
+              "indent_level": 1,
+              "note": "Defense Matrix: Blink random direction angle decreased from 120 to 90 degrees"
+            },
+            {
+              "indent_level": 1,
+              "note": "Defense Matrix: Blink distance increased from 300 to 350"
             }
           ]
         }
@@ -850,7 +828,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Wraith Duration rescaled from 4/5/6/7s to 4.5/5/5.5/6s"
+              "note": "Aghanim's Scepter Wraith Duration rescaled from 4/5/6/7s to 4.5/5/5.5/6s",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -958,7 +937,7 @@
           "facet_color": "Red1",
           "abilities": [
             {
-              "ability_id": 5228,
+              "ability_id": 1752,
               "ability_notes": [
                 {
                   "indent_level": 1,
@@ -976,7 +955,7 @@
           "facet_color": "Green0",
           "abilities": [
             {
-              "ability_id": 5228,
+              "ability_id": 1752,
               "ability_notes": [
                 {
                   "indent_level": 1,
@@ -1022,7 +1001,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Treant Max Damage increased from 22/34/46/58 to 30/46/62/78"
+              "note": "Treant Max Damage increased from 22/34/46/58 to 30/46/62/78",
+              "icon": "damage"
             }
           ]
         }
@@ -1103,7 +1083,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -1123,7 +1104,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health Regen decreased by 0.5"
+          "note": "Base Health Regen decreased by 0.5",
+          "icon": "health_regen"
         }
       ],
       "talent_notes": [
@@ -1153,7 +1135,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Movement Speed rescaled from 10% to 4/6/8/10%"
+              "note": "Movement Speed rescaled from 10% to 4/6/8/10%",
+              "icon": "movement"
             }
           ]
         }
@@ -1181,15 +1164,10 @@
     },
     {
       "hero_id": 66,
-      "abilities": [
+      "hero_notes": [
         {
-          "ability_id": 1321,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Creep maximum health increased from 200+80 per Chen level to 220+80 per Chen level"
-            }
-          ]
+          "indent_level": 1,
+          "note": "Summon Convert: Creep maximum health increased from 200+80 per Chen level to 220+80 per Chen level"
         }
       ]
     },
@@ -1258,7 +1236,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor decreased by 1"
+          "note": "Base Armor decreased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -1289,7 +1268,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed decreased from 330 to 320"
+          "note": "Base Movement Speed decreased from 330 to 320",
+          "icon": "movement"
         }
       ]
     },
@@ -1356,7 +1336,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Barracuda: Bonus Movement Speed increased from 4/24/36/48% to 6/24/36/48%"
+          "note": "Barracuda: Bonus Movement Speed increased from 4/24/36/48% to 6/24/36/48%",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
@@ -1436,7 +1417,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter threshold damage is now reset after Mist Coil is fired"
+              "note": "Aghanim's Scepter threshold damage is now reset after Mist Coil is fired",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -1444,14 +1426,10 @@
     },
     {
       "hero_id": 103,
-      "subsections": [
+      "abilities": [
         {
-          "title": "Momentum",
-          "style": "hero_facet",
-          "facet": "elder_titan_boost_atkspd",
-          "facet_icon": "damage",
-          "facet_color": "Yellow0",
-          "general_notes": [
+          "ability_id": 1393,
+          "ability_notes": [
             {
               "indent_level": 1,
               "note": "Movement Speed as Attack Speed increased from 20% to 30%"
@@ -1492,7 +1470,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Bonus Radius during Duel decreased from 250 to 200"
+              "note": "Aghanim's Shard Bonus Radius during Duel decreased from 250 to 200",
+              "aghanims": "shard"
             }
           ]
         },
@@ -1501,7 +1480,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Cooldown increased from 40/35/30s to 50/45/40s"
+              "note": "Aghanim's Scepter Cooldown increased from 40/35/30s to 50/45/40s",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -1512,7 +1492,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Health Regen increased from 0.25 to 1.0"
+          "note": "Health Regen increased from 0.25 to 1.0",
+          "icon": "health_regen"
         }
       ]
     },
@@ -1583,7 +1564,8 @@
           "general_notes": [
             {
               "indent_level": 1,
-              "note": "Damage per 10 attack range rescaled from 0.4/0.5/0.66/1.0 to 0.25/0.33/0.5/1.0"
+              "note": "Damage per 10 attack range rescaled from 0.4/0.5/0.66/1.0 to 0.25/0.33/0.5/1.0",
+              "icon": "damage"
             }
           ]
         }
@@ -1704,7 +1686,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased from 48-54 to 51-57"
+          "note": "Base Damage increased from 48-54 to 51-57",
+          "icon": "damage"
         }
       ],
       "abilities": [

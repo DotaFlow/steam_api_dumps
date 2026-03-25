@@ -105,11 +105,13 @@
         },
         {
           "indent_level": 1,
-          "note": "Aghanim's Scepter: Roshan drop now requires you to activate it to consume it (has no effect until consumed)"
+          "note": "Aghanim's Scepter: Roshan drop now requires you to activate it to consume it (has no effect until consumed)",
+          "aghanims": "scepter"
         },
         {
           "indent_level": 1,
-          "note": "Aghanim's Shard: Now drops on the second Roshan kill, and only that one (has same activation mechanics as the Scepter drop)"
+          "note": "Aghanim's Shard: Now drops on the second Roshan kill, and only that one (has same activation mechanics as the Scepter drop)",
+          "aghanims": "shard"
         },
         {
           "indent_level": 1,
@@ -1470,7 +1472,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Reworked Scepter upgrade. Reduces Fiend's Grip cooldown by 45 seconds and causes Fiend's Grip to create two uncontrollable illusions that channel Fiend's Grip on the target. Illusions take 700% damage."
+          "note": "Reworked Scepter upgrade. Reduces Fiend's Grip cooldown by 45 seconds and causes Fiend's Grip to create two uncontrollable illusions that channel Fiend's Grip on the target. Illusions take 700% damage.",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -1562,7 +1565,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Reworked Shard. Now allows you to move, cast, and attack during Freezing Field. Your movement speed is reduced by 75% during this and the Freezing Field follows your movement. Interruptions and Silences will still interrupt the spell."
+          "note": "Reworked Shard. Now allows you to move, cast, and attack during Freezing Field. Your movement speed is reduced by 75% during this and the Freezing Field follows your movement. Interruptions and Silences will still interrupt the spell.",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -1679,7 +1683,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence increased from 15 + 1.5 to 19 + 1.8"
+          "note": "Intelligence increased from 15 + 1.5 to 19 + 1.8",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
@@ -1746,11 +1751,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base attack time reduced from 1.7 to 1.6"
+          "note": "Base attack time reduced from 1.7 to 1.6",
+          "icon": "attack_time"
         },
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
@@ -1774,7 +1781,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage range rescaled from 52-66 to 54-64"
+          "note": "Base damage range rescaled from 52-66 to 54-64",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -1863,11 +1871,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
-          "note": "Attack range increased from 150 to 175"
+          "note": "Attack range increased from 150 to 175",
+          "icon": "attack_range"
         }
       ],
       "abilities": [
@@ -2165,11 +2175,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased from 41-49 to 44-50"
+          "note": "Base damage increased from 41-49 to 44-50",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Base movement speed increased from 290 to 295"
+          "note": "Base movement speed increased from 290 to 295",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -2264,7 +2276,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -2302,7 +2315,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 1.3 to 1.6"
+          "note": "Agility gain increased from 1.3 to 1.6",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -2449,7 +2463,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Sprint no longer unlocks max movement speed"
+          "note": "Sprint no longer unlocks max movement speed",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
@@ -2600,7 +2615,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Sleeping Dart Shard sleep no longer makes the target invulnerable to damage. They now wake up after taking 200 damage."
+          "note": "Sleeping Dart Shard sleep no longer makes the target invulnerable to damage. They now wake up after taking 200 damage.",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -2666,6 +2682,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
+          "note": "Defense Matrix Shard status resistance increased from 40% to 50%"
+        },
+        {
+          "indent_level": 1,
+          "note": "Defense Matrix Shard health increased from 275 to 350"
+        },
+        {
+          "indent_level": 1,
+          "note": "Defense Matrix Shard duration increased from 12 to 15"
+        },
+        {
+          "indent_level": 1,
           "note": "Heat-Seeking Missile mana cost reduced from 80/100/120/140 to 80/95/110/125"
         }
       ],
@@ -2680,23 +2708,6 @@
         }
       ],
       "abilities": [
-        {
-          "ability_id": 650,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Shard status resistance increased from 40% to 50%"
-            },
-            {
-              "indent_level": 1,
-              "note": "Shard health increased from 275 to 350"
-            },
-            {
-              "indent_level": 1,
-              "note": "Shard duration increased from 12 to 15"
-            }
-          ]
-        },
         {
           "ability_id": 5150,
           "ability_notes": [
@@ -2767,7 +2778,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Attack projectile speed increased from 900 to 1200"
+          "note": "Attack projectile speed increased from 900 to 1200",
+          "icon": "projectile_speed"
         }
       ],
       "abilities": [
@@ -2818,7 +2830,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Shadow Ward Shard movement speed/slow reduced from 20% to 10%"
+          "note": "Shadow Ward Shard movement speed/slow reduced from 20% to 10%",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -2890,7 +2903,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
@@ -2906,7 +2920,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Divebomb Shard damage increased from 175 to 250"
+          "note": "Divebomb Shard damage increased from 175 to 250",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
@@ -2969,7 +2984,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base attack damage changed from 45-53 to 46-52"
+          "note": "Base attack damage changed from 45-53 to 46-52",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -3016,7 +3032,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased from 42-44 to 44-47"
+          "note": "Base damage increased from 42-44 to 44-47",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
@@ -3062,7 +3079,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -3184,11 +3202,13 @@
         },
         {
           "indent_level": 1,
-          "note": "Base damage reduced from 51-63 to 47-57"
+          "note": "Base damage reduced from 51-63 to 47-57",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Movement speed reduced from 335 to 320"
+          "note": "Movement speed reduced from 335 to 320",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
@@ -3263,7 +3283,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased from 43-51 to 45-52"
+          "note": "Base damage increased from 43-51 to 45-52",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -3511,7 +3532,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Level 15 increased from +35 Attack Speed to +60"
+          "note": "Level 15 increased from +35 Attack Speed to +60",
+          "icon": "attack_speed"
         }
       ],
       "talent_notes": [
@@ -3687,7 +3709,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 3"
+          "note": "Base damage reduced by 3",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -3813,7 +3836,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength changed from 14 + 2.2 to 16 + 2.0"
+          "note": "Strength changed from 14 + 2.2 to 16 + 2.0",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -3861,15 +3885,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength increased by 2"
+          "note": "Base strength increased by 2",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Base movement speed increased from 310 to 315"
+          "note": "Base movement speed increased from 310 to 315",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
-          "note": "Heavenly Grace strength bonus increased from 7/14/21/28 to 8/16/24/32"
+          "note": "Heavenly Grace strength bonus increased from 7/14/21/28 to 8/16/24/32",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -3934,7 +3961,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 3.2 to 3.4"
+          "note": "Strength gain increased from 3.2 to 3.4",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -4005,7 +4033,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility increased by 4"
+          "note": "Agility increased by 4",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
@@ -4029,11 +4058,13 @@
         },
         {
           "indent_level": 1,
-          "note": "Silken Bola deals 100/120/140/160 impact damage"
+          "note": "Silken Bola deals 100/120/140/160 impact damage",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Silken Bola causes attacks on the target to deal +5/6/7/8 magical damage per hit"
+          "note": "Silken Bola causes attacks on the target to deal +5/6/7/8 magical damage per hit",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
@@ -4136,7 +4167,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Reworked Shard. Shadow Walk now grants you 40% reduced incoming damage while invisible. Attacking out of invisibility stuns the target for 1 second. Lowers cooldown by 5 seconds."
+          "note": "Reworked Shard. Shadow Walk now grants you 40% reduced incoming damage while invisible. Attacking out of invisibility stuns the target for 1 second. Lowers cooldown by 5 seconds.",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -4192,7 +4224,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility increased from 10 to 15"
+          "note": "Agility increased from 10 to 15",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -4315,7 +4348,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base mana regen increased from 0 to 0.5"
+          "note": "Base mana regen increased from 0 to 0.5",
+          "icon": "mana_regen"
         }
       ],
       "talent_notes": [
@@ -4366,7 +4400,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -4444,15 +4479,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased from 0 to 3"
+          "note": "Base armor increased from 0 to 3",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
-          "note": "Base damage increased from 54-70 to 58-68"
+          "note": "Base damage increased from 54-70 to 58-68",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Base attack time improved from 2.0 to 1.9"
+          "note": "Base attack time improved from 2.0 to 1.9",
+          "icon": "attack_time"
         }
       ],
       "talent_notes": [
@@ -4745,7 +4783,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 1 to 1.4"
+          "note": "Agility gain increased from 1 to 1.4",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
@@ -4818,7 +4857,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased from 305 to 310"
+          "note": "Base movement speed increased from 305 to 310",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -4881,7 +4921,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence increased from 21 + 3.3 to 22 + 3.6"
+          "note": "Intelligence increased from 21 + 3.3 to 22 + 3.6",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [
@@ -4916,7 +4957,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Ranged base attack time improved from 1.7 to 1.6"
+          "note": "Ranged base attack time improved from 1.7 to 1.6",
+          "icon": "attack_time"
         }
       ],
       "abilities": [
@@ -5131,7 +5173,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 0.8 to 1.2"
+          "note": "Agility gain increased from 0.8 to 1.2",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -5341,7 +5384,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength increased from 16 to 18"
+          "note": "Base strength increased from 16 to 18",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
@@ -5458,7 +5502,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -5497,7 +5542,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Reworked Shard upgrade. Grants Depth Shroud. Creates a 300 AoE cloud at the target location for 3 seconds. All allies inside the radius are hidden and have increased regeneration and movement speed. Cast Range: 800. Cooldown: 75. Manacost: 75"
+          "note": "Reworked Shard upgrade. Grants Depth Shroud. Creates a 300 AoE cloud at the target location for 3 seconds. All allies inside the radius are hidden and have increased regeneration and movement speed. Cast Range: 800. Cooldown: 75. Manacost: 75",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -5531,7 +5577,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain reduced from 4 to 3.6"
+          "note": "Intelligence gain reduced from 4 to 3.6",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [
@@ -5574,7 +5621,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Reworked Shard upgrade. Grants Rampage. Globally causes all allied heroes to gain +70 Attack Speed or +25% Status resistance for 5 seconds based on whichever stance Troll is currently in. Ranged provides attack speed and melee provides status resistance. Cooldown: 80. Manacost: 75."
+          "note": "Reworked Shard upgrade. Grants Rampage. Globally causes all allied heroes to gain +70 Attack Speed or +25% Status resistance for 5 seconds based on whichever stance Troll is currently in. Ranged provides attack speed and melee provides status resistance. Cooldown: 80. Manacost: 75.",
+          "icon": "attack_speed"
         }
       ],
       "talent_notes": [
@@ -5752,7 +5800,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -5826,7 +5875,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base mana regen increased from 0 to 0.25"
+          "note": "Base mana regen increased from 0 to 0.25",
+          "icon": "mana_regen"
         }
       ],
       "talent_notes": [
@@ -5881,7 +5931,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Frozen Sigil Shard no longer reduces attack speed"
+          "note": "Frozen Sigil Shard no longer reduces attack speed",
+          "icon": "attack_speed"
         },
         {
           "indent_level": 1,
@@ -5893,7 +5944,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Frozen Sigil Shard movement speed increased from 340 to 375"
+          "note": "Frozen Sigil Shard movement speed increased from 340 to 375",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
@@ -5947,11 +5999,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 2"
+          "note": "Base damage increased by 2",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Reworked Shard upgrade. Every time you cast abilities you gain +5 Intelligence and +1 Armor for 35 seconds. Stacks independently."
+          "note": "Reworked Shard upgrade. Every time you cast abilities you gain +5 Intelligence and +1 Armor for 35 seconds. Stacks independently.",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [
@@ -5994,7 +6048,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base health regen increased from 0.5 to 1"
+          "note": "Base health regen increased from 0.5 to 1",
+          "icon": "health_regen"
         },
         {
           "indent_level": 1,
@@ -6132,7 +6187,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement speed increased from 310 to 320"
+          "note": "Movement speed increased from 310 to 320",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
@@ -6309,7 +6365,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Attack range increased from 175 to 200"
+          "note": "Attack range increased from 175 to 200",
+          "icon": "attack_range"
         },
         {
           "indent_level": 1,
@@ -6367,11 +6424,13 @@
         },
         {
           "indent_level": 1,
-          "note": "Base damage increased by 4"
+          "note": "Base damage increased by 4",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Base armor reduced by 2"
+          "note": "Base armor reduced by 2",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -6469,7 +6528,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain reduced from 4.0 to 3.8"
+          "note": "Intelligence gain reduced from 4.0 to 3.8",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [
@@ -6520,7 +6580,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -6616,7 +6677,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base health regen reduced from 1.5 to 1"
+          "note": "Base health regen reduced from 1.5 to 1",
+          "icon": "health_regen"
         },
         {
           "indent_level": 1,
@@ -6676,7 +6738,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base health regen increased from 0 to 0.5"
+          "note": "Base health regen increased from 0 to 0.5",
+          "icon": "health_regen"
         }
       ],
       "talent_notes": [
@@ -6783,7 +6846,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Reworked Shard upgrade. Causes Ink Swell to deal 50% more damage and heal the target for 50% of the damage Ink Swell deals. Upon expiration, the target will receive a strong dispel."
+          "note": "Reworked Shard upgrade. Causes Ink Swell to deal 50% more damage and heal the target for 50% of the damage Ink Swell deals. Upon expiration, the target will receive a strong dispel.",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -6822,11 +6886,14 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Added Aghanim's Scepter. Grants new active ability - Hunter's Boomerang.  Tosses a boomerang in an arc at the target enemy. Upon contact, it returns to Hoodwink.  The boomerang will deal 350 damage as it passes through or hits enemies, and apply a Hunter's Mark that causes affected enemies to be slowed by 20% and take 25% more spell damage and have 25% reduced status resistance for 7 seconds.  Cooldown: 18. Manacost: 125"
+          "note": "Added Aghanim's Scepter. Grants new active ability - Hunter's Boomerang.  Tosses a boomerang in an arc at the target enemy. Upon contact, it returns to Hoodwink.  The boomerang will deal 350 damage as it passes through or hits enemies, and apply a Hunter's Mark that causes affected enemies to be slowed by 20% and take 25% more spell damage and have 25% reduced status resistance for 7 seconds.  Cooldown: 18. Manacost: 125",
+          "icon": "damage",
+          "aghanims": "scepter"
         },
         {
           "indent_level": 1,
-          "note": "Added Aghanim's Shard. Grants new active ability - Decoy.  Hoodwink sends a decoy illusion with Scurry to the target location.  When the illusion is attacked or hit by a targeted ability, it is destroyed and plants a tree in its place that applies a lesser Bushwhack to enemy heroes around it. The Illusion lasts 12 seconds. Cooldown: 60. Manacost: 50"
+          "note": "Added Aghanim's Shard. Grants new active ability - Decoy.  Hoodwink sends a decoy illusion with Scurry to the target location.  When the illusion is attacked or hit by a targeted ability, it is destroyed and plants a tree in its place that applies a lesser Bushwhack to enemy heroes around it. The Illusion lasts 12 seconds. Cooldown: 60. Manacost: 50",
+          "aghanims": "shard"
         }
       ],
       "abilities": [
@@ -6976,11 +7043,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence increased from 18 to 21"
+          "note": "Intelligence increased from 18 to 21",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [
@@ -7036,11 +7105,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain increased from 1.6 to 2.2"
+          "note": "Intelligence gain increased from 1.6 to 2.2",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Agility gain reduced from 1.9 to 1.7"
+          "note": "Agility gain reduced from 1.9 to 1.7",
+          "icon": "agility"
         }
       ],
       "talent_notes": [

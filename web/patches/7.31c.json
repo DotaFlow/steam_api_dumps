@@ -117,7 +117,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Health regeneration reduced from 2.75 to 2.5"
+          "note": "Base Health regeneration reduced from 2.75 to 2.5",
+          "icon": "health_regen"
         }
       ],
       "abilities": [
@@ -151,11 +152,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Blood Mist self damage is now magical instead of Pure"
+          "note": "Blood Mist self damage is now magical instead of Pure",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Blood Mist damage to enemies increased from 5% to 7%"
+          "note": "Blood Mist damage to enemies increased from 5% to 7%",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
@@ -259,11 +262,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor reduced by 1"
+          "note": "Base armor reduced by 1",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
-          "note": "Level 10 mana regeneration talent reduced from +1.75 to +1.5"
+          "note": "Level 10 mana regeneration talent reduced from +1.75 to +1.5",
+          "icon": "mana_regen"
         }
       ],
       "abilities": [
@@ -419,7 +424,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength increased from 18 to 19"
+          "note": "Base Strength increased from 18 to 19",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -628,7 +634,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed increased from 300 to 305"
+          "note": "Base Movement Speed increased from 300 to 305",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -652,7 +659,8 @@
         },
         {
           "indent_level": 1,
-          "note": "Base Agility increased from 23 to 25"
+          "note": "Base Agility increased from 23 to 25",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -672,7 +680,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Speed increased from 100 to 110"
+          "note": "Base Attack Speed increased from 100 to 110",
+          "icon": "attack_speed"
         }
       ],
       "abilities": [
@@ -769,7 +778,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed reduced from 330 to 320"
+          "note": "Base movement speed reduced from 330 to 320",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -931,7 +941,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased from 47-57 to 51-57"
+          "note": "Base damage increased from 47-57 to 51-57",
+          "icon": "damage"
         }
       ]
     },

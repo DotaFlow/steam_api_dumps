@@ -65,7 +65,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain reduced from 4.3 to 4.1"
+          "note": "Agility gain reduced from 4.3 to 4.1",
+          "icon": "agility"
         }
       ]
     },
@@ -92,7 +93,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased from 305 to 315"
+          "note": "Base movement speed increased from 305 to 315",
+          "icon": "movement"
         }
       ]
     },
@@ -176,11 +178,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement speed increased from 295 to 300"
+          "note": "Movement speed increased from 295 to 300",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
-          "note": "Attack range increased from 375 to 400"
+          "note": "Attack range increased from 375 to 400",
+          "icon": "attack_range"
         }
       ]
     },
@@ -203,7 +207,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement speed increased from 305 to 315"
+          "note": "Movement speed increased from 305 to 315",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -270,7 +275,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain increased from 1.7 to 2.1"
+          "note": "Intelligence gain increased from 1.7 to 2.1",
+          "icon": "intelligence"
         }
       ]
     },
@@ -293,7 +299,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength increased from 15 to 16"
+          "note": "Base strength increased from 15 to 16",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -409,7 +416,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility reduced from 20 + 2.4 to 14 + 1.7"
+          "note": "Agility reduced from 20 + 2.4 to 14 + 1.7",
+          "icon": "agility"
         }
       ],
       "talent_notes": [

@@ -8,7 +8,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 3.2 to 3"
+          "note": "Strength gain reduced from 3.2 to 3",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -47,7 +48,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement speed reduced by 5"
+          "note": "Movement speed reduced by 5",
+          "icon": "movement"
         }
       ],
       "abilities": [

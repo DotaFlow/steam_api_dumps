@@ -49,7 +49,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "XP Talent is now replaced with +5 Armor"
+          "note": "XP Talent is now replaced with +5 Armor",
+          "icon": "armor"
         }
       ]
     },
@@ -58,7 +59,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 2.6 to 2.4"
+          "note": "Strength gain reduced from 2.6 to 2.4",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -96,7 +98,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "XP Talent is now replaced with +4 Mana Regen"
+          "note": "XP Talent is now replaced with +4 Mana Regen",
+          "icon": "mana_regen"
         }
       ]
     },
@@ -105,7 +108,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "XP Talent is now replaced with +10 Armor"
+          "note": "XP Talent is now replaced with +10 Armor",
+          "icon": "armor"
         }
       ]
     },
@@ -114,7 +118,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "XP Talent is now replaced with +30 Damage"
+          "note": "XP Talent is now replaced with +30 Damage",
+          "icon": "damage"
         }
       ]
     },
@@ -123,7 +128,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "XP Talent is now replaced with +2 Mana Regen"
+          "note": "XP Talent is now replaced with +2 Mana Regen",
+          "icon": "mana_regen"
         }
       ]
     },
@@ -132,7 +138,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "XP Talent is now replaced with +30 Movement Speed"
+          "note": "XP Talent is now replaced with +30 Movement Speed",
+          "icon": "movement"
         }
       ]
     },
@@ -141,7 +148,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "XP Talent is now replaced with +25 Damage"
+          "note": "XP Talent is now replaced with +25 Damage",
+          "icon": "damage"
         }
       ]
     },
@@ -150,7 +158,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "XP Talent is now replaced with +8 Agility"
+          "note": "XP Talent is now replaced with +8 Agility",
+          "icon": "agility"
         }
       ]
     },
@@ -168,7 +177,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 3.1 to 2.8"
+          "note": "Strength gain reduced from 3.1 to 2.8",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -197,7 +207,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 4.1 to 3.7"
+          "note": "Strength gain reduced from 4.1 to 3.7",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -232,7 +243,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "XP Talent is now replaced with -3 Armor Corruption"
+          "note": "XP Talent is now replaced with -3 Armor Corruption",
+          "icon": "armor"
         }
       ]
     },
@@ -241,7 +253,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "XP Talent is now replaced with +10 Health Regen"
+          "note": "XP Talent is now replaced with +10 Health Regen",
+          "icon": "health_regen"
         }
       ]
     },
@@ -259,7 +272,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "XP Talent is now replaced with +10 Strength"
+          "note": "XP Talent is now replaced with +10 Strength",
+          "icon": "strength"
         }
       ]
     },
@@ -268,7 +282,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "XP Talent is now replaced with +2 Mana Regen"
+          "note": "XP Talent is now replaced with +2 Mana Regen",
+          "icon": "mana_regen"
         }
       ]
     },
@@ -286,7 +301,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "XP Talent is now replaced with +15 Intelligence"
+          "note": "XP Talent is now replaced with +15 Intelligence",
+          "icon": "intelligence"
         }
       ]
     },
@@ -295,11 +311,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 2.8 to 2.6"
+          "note": "Strength gain reduced from 2.8 to 2.6",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Base armor reduced by 1"
+          "note": "Base armor reduced by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [

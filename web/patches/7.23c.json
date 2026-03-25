@@ -306,7 +306,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base attack speed increased from 100 to 110"
+          "note": "Base attack speed increased from 100 to 110",
+          "icon": "attack_speed"
         }
       ],
       "talent_notes": [
@@ -321,7 +322,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain increased from 2.5 to 2.7"
+          "note": "Strength gain increased from 2.5 to 2.7",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -345,7 +347,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor reduced by 2"
+          "note": "Base armor reduced by 2",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -434,7 +437,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased from 315 to 320"
+          "note": "Base movement speed increased from 315 to 320",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
@@ -458,7 +462,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility gain increased from 3.1 to 3.4"
+          "note": "Agility gain increased from 3.1 to 3.4",
+          "icon": "agility"
         }
       ]
     },
@@ -498,7 +503,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Max base damage reduced by 4"
+          "note": "Max base damage reduced by 4",
+          "icon": "damage"
         }
       ]
     },
@@ -521,11 +527,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base movement speed increased from 315 to 320"
+          "note": "Base movement speed increased from 315 to 320",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
-          "note": "Base intelligence increased by 3 (base damage unaffected)"
+          "note": "Base intelligence increased by 3 (base damage unaffected)",
+          "icon": "intelligence"
         }
       ],
       "abilities": [
@@ -545,7 +553,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength gain reduced from 3.3 to 3.1"
+          "note": "Strength gain reduced from 3.3 to 3.1",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -574,7 +583,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Now has an innate Nature's Guise passive ability. Whenever you haven't taken damage in the last 3 seconds, you gain the ability to path through trees. While in trees you gain 25% more regeneration and heal as well as a 15% Movement Speed bonus. (Once you have the ability to walk through trees, you don't lose it until you aren't near trees.)"
+          "note": "Now has an innate Nature's Guise passive ability. Whenever you haven't taken damage in the last 3 seconds, you gain the ability to path through trees. While in trees you gain 25% more regeneration and heal as well as a 15% Movement Speed bonus. (Once you have the ability to walk through trees, you don't lose it until you aren't near trees.)",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
@@ -692,11 +702,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base intelligence reduced by 3"
+          "note": "Base intelligence reduced by 3",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Base damage reduced by 2"
+          "note": "Base damage reduced by 2",
+          "icon": "damage"
         }
       ]
     },
@@ -705,7 +717,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ]
     },
@@ -714,7 +727,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base intelligence increased by 5 (base damage unchanged)"
+          "note": "Base intelligence increased by 5 (base damage unchanged)",
+          "icon": "intelligence"
         }
       ]
     },
@@ -723,7 +737,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base armor increased by 1"
+          "note": "Base armor increased by 1",
+          "icon": "armor"
         }
       ],
       "talent_notes": [

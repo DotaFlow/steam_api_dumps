@@ -666,11 +666,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength Gain increased from 1.3 to 1.6"
+          "note": "Strength Gain increased from 1.3 to 1.6",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Reworked Shard: Counterspell now also passively grants a 900 range offensive aura reducing enemies' magic damage by 10%. Grants triple the effect to enemies within 300 range"
+          "note": "Reworked Shard: Counterspell now also passively grants a 900 range offensive aura reducing enemies' magic damage by 10%. Grants triple the effect to enemies within 300 range",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -704,7 +706,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Reworked Shard: Now causes Counter Helix to apply a 6s stacking debuff that reduces attack damage by 20% and increases Counter Helix chance by 10%"
+          "note": "Reworked Shard: Now causes Counter Helix to apply a 6s stacking debuff that reduces attack damage by 20% and increases Counter Helix chance by 10%",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -787,7 +790,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Speed reduced from 115 to 100"
+          "note": "Base Attack Speed reduced from 115 to 100",
+          "icon": "attack_speed"
         }
       ],
       "abilities": [
@@ -857,11 +861,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement Speed increased from 310 to 315"
+          "note": "Movement Speed increased from 310 to 315",
+          "icon": "movement"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence increased from 16 + 1.8 to 18 + 2.1"
+          "note": "Intelligence increased from 16 + 1.8 to 18 + 2.1",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [
@@ -1037,11 +1043,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter's cooldown reduced from 60s to 40s"
+              "note": "Aghanim's Scepter's cooldown reduced from 60s to 40s",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter also increases max illusion count by 2"
+              "note": "Aghanim's Scepter also increases max illusion count by 2",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -1052,7 +1060,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage reduced by 1"
+          "note": "Base Damage reduced by 1",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -1138,7 +1147,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength Gain reduced from 3.0 to 2.7"
+          "note": "Strength Gain reduced from 3.0 to 2.7",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -1380,7 +1390,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Damage increased by 2"
+          "note": "Base Attack Damage increased by 2",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -1400,7 +1411,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Armor reduced by 1"
+          "note": "Armor reduced by 1",
+          "icon": "armor"
         }
       ],
       "talent_notes": [
@@ -1512,7 +1524,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Mana Regen increased from 0 to 0.5"
+          "note": "Base Mana Regen increased from 0 to 0.5",
+          "icon": "mana_regen"
         }
       ],
       "talent_notes": [
@@ -1717,6 +1730,33 @@
     },
     {
       "hero_id": 34,
+      "hero_notes": [
+        {
+          "indent_level": 1,
+          "note": "Defense Matrix Defense Matrix is now a basic skill"
+        },
+        {
+          "indent_level": 1,
+          "note": "Defense Matrix Mana Cost reduced from 100 to 70/80/90/100"
+        },
+        {
+          "indent_level": 1,
+          "note": "Defense Matrix Damage Absorbed reduced from 350 to 100/180/240/320",
+          "icon": "damage"
+        },
+        {
+          "indent_level": 1,
+          "note": "Defense Matrix Status Resistance reduced from 50 to 20/30/40/50"
+        },
+        {
+          "indent_level": 1,
+          "note": "Defense Matrix cast range increased from 400 to 600"
+        },
+        {
+          "indent_level": 1,
+          "note": "Defense Matrix Cooldown reduced from 30 to 12"
+        }
+      ],
       "talent_notes": [
         {
           "indent_level": 1,
@@ -1750,35 +1790,6 @@
             {
               "indent_level": 1,
               "note": "Shrink Ray HP Reduction reduced from 15% to 10%"
-            }
-          ]
-        },
-        {
-          "ability_id": 650,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Defense Matrix is now a basic skill"
-            },
-            {
-              "indent_level": 1,
-              "note": "Mana Cost reduced from 100 to 70/80/90/100"
-            },
-            {
-              "indent_level": 1,
-              "note": "Damage Absorbed reduced from 350 to 100/180/240/320"
-            },
-            {
-              "indent_level": 1,
-              "note": "Status Resistance reduced from 50 to 20/30/40/50"
-            },
-            {
-              "indent_level": 1,
-              "note": "Cast range increased from 400 to 600"
-            },
-            {
-              "indent_level": 1,
-              "note": "Cooldown reduced from 30 to 12"
             }
           ]
         },
@@ -1886,7 +1897,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength Gain reduced from 2.6 to 2.3"
+          "note": "Strength Gain reduced from 2.6 to 2.3",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -1934,27 +1946,17 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Aghanim's Shard Call of the Wild Hawk can now be unit targeted, which will cause the hawk to move in the direction of the target and cast dive when/if in range"
-        }
-      ],
-      "abilities": [
-        {
-          "ability_id": 7230,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Attack damage increased from 16/32/48/64 to 20/35/50/65"
-            }
-          ]
+          "note": "Call of the Wild Boar attack damage increased from 16/32/48/64 to 20/35/50/65",
+          "icon": "damage"
         },
         {
-          "ability_id": 7231,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Vision increased from 600/700/800/900 to 750/800/850/900"
-            }
-          ]
+          "indent_level": 1,
+          "note": "Call of the Wild Hawk vision increased from 600/700/800/900 to 750/800/850/900"
+        },
+        {
+          "indent_level": 1,
+          "note": "Aghanim's Shard Call of the Wild Hawk can now be unit targeted, which will cause the hawk to move in the direction of the target and cast dive when/if in range",
+          "aghanims": "shard"
         }
       ]
     },
@@ -1963,7 +1965,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base damage increased by 3"
+          "note": "Base damage increased by 3",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -1997,15 +2000,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility reduced from 26 + 3.2 to 24 + 3.0"
+          "note": "Agility reduced from 26 + 3.2 to 24 + 3.0",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Poison Nova damage rescaled from 40/65/90 to 20/30/40 + 2/2.75/3.5% Max Health in damage"
+          "note": "Poison Nova damage rescaled from 40/65/90 to 20/30/40 + 2/2.75/3.5% Max Health in damage",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Poison Nova Scepter damage rescaled from 75/100/125 to 20/30/40 + 3/3.75/4.5% Max Health in damage per second"
+          "note": "Poison Nova Scepter damage rescaled from 75/100/125 to 20/30/40 + 3/3.75/4.5% Max Health in damage per second",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -2088,7 +2094,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength increased from 19 to 21"
+          "note": "Base Strength increased from 19 to 21",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -2302,7 +2309,7 @@
           ]
         },
         {
-          "ability_id": 1292,
+          "ability_id": 5228,
           "ability_notes": [
             {
               "indent_level": 1,
@@ -2343,7 +2350,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Agility reduced from 21 to 20"
+          "note": "Base Agility reduced from 21 to 20",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -2446,7 +2454,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Mana Regen increased from 0 to 0.5"
+          "note": "Base Mana Regen increased from 0 to 0.5",
+          "icon": "mana_regen"
         }
       ],
       "talent_notes": [
@@ -2494,7 +2503,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement Speed reduced from 325 to 320"
+          "note": "Movement Speed reduced from 325 to 320",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -2654,15 +2664,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength reduced from 24 + 3.4 to 23 + 3.1"
+          "note": "Strength reduced from 24 + 3.4 to 23 + 3.1",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility Gain increased from 1.8 to 2.0"
+          "note": "Agility Gain increased from 1.8 to 2.0",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Heavenly Grace Bonus Strength increased from 8/16/24/32 to 8/18/28/38"
+          "note": "Heavenly Grace Bonus Strength increased from 8/16/24/32 to 8/18/28/38",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -2735,7 +2748,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement Speed increased from 290 to 295"
+          "note": "Movement Speed increased from 290 to 295",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -2773,7 +2787,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased by 2"
+          "note": "Base Damage increased by 2",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -3059,7 +3074,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Reworked Shard: Causes dispersion to fire a spectral dagger every 300 damage absorbed in the direction of the last source of damage. Can fire a maximum of one dagger every 7 seconds and only triggers off player based damage within 700 range"
+          "note": "Reworked Shard: Causes dispersion to fire a spectral dagger every 300 damage absorbed in the direction of the last source of damage. Can fire a maximum of one dagger every 7 seconds and only triggers off player based damage within 700 range",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -3127,7 +3143,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence Gain reduced from 2.1 to 1.7"
+          "note": "Intelligence Gain reduced from 2.1 to 1.7",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [
@@ -3183,7 +3200,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength increased from 24 to 25"
+          "note": "Base Strength increased from 24 to 25",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -3207,7 +3225,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength reduced from 29 + 3.1 to 27 + 3.0"
+          "note": "Strength reduced from 29 + 3.1 to 27 + 3.0",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -3262,11 +3281,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility Gain reduced from 3.6 to 3.3"
+          "note": "Agility Gain reduced from 3.6 to 3.3",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence Gain increased from 2.1 to 2.4"
+          "note": "Intelligence Gain increased from 2.1 to 2.4",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [
@@ -3355,7 +3376,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed reduced from 280 to 275"
+          "note": "Base Movement Speed reduced from 280 to 275",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -3411,7 +3433,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength Gain reduced from 2.7 to 2.4"
+          "note": "Strength Gain reduced from 2.7 to 2.4",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -3526,11 +3549,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Void Brewling Base Attack Damage reduced from 45-55/65-75/85-95 to 45-55/55-65/65-75"
+          "note": "Void Brewling Base Attack Damage reduced from 45-55/65-75/85-95 to 45-55/55-65/65-75",
+          "icon": "damage"
         },
         {
           "indent_level": 1,
-          "note": "Void Brewling Base Attack Time improved from 1.35 to 1.2/1.0/0.8"
+          "note": "Void Brewling Base Attack Time improved from 1.35 to 1.2/1.0/0.8",
+          "icon": "attack_time"
         },
         {
           "indent_level": 1,
@@ -3551,12 +3576,6 @@
     },
     {
       "hero_id": 79,
-      "hero_notes": [
-        {
-          "indent_level": 1,
-          "note": "Soul Catcher now temporarily gives Shadow Demon 5/7/9/11% Spell Amplification for each hero debuffed"
-        }
-      ],
       "abilities": [
         {
           "ability_id": 5421,
@@ -3573,6 +3592,15 @@
             {
               "indent_level": 1,
               "note": "Stack damage rescaled from 20/35/50/65 to 24/36/48/60"
+            }
+          ]
+        },
+        {
+          "ability_id": 1340,
+          "ability_notes": [
+            {
+              "indent_level": 1,
+              "note": "Now temporarily gives Shadow Demon 5/7/9/11% Spell Amplification for each hero debuffed"
             }
           ]
         }
@@ -3619,7 +3647,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength Gain reduced from 3.4 to 3.2"
+          "note": "Strength Gain reduced from 3.4 to 3.2",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -3675,11 +3704,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength Gain reduced from 1.8 to 1.6"
+          "note": "Strength Gain reduced from 1.8 to 1.6",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Agility Gain reduced from 1.8 to 1.6"
+          "note": "Agility Gain reduced from 1.8 to 1.6",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -3718,7 +3749,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed increased from 280 to 285"
+          "note": "Base Movement Speed increased from 280 to 285",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -3748,7 +3780,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength Gain reduced from 3.5 to 3.3"
+          "note": "Strength Gain reduced from 3.5 to 3.3",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
@@ -3889,15 +3922,18 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength reduced from 18 to 17"
+          "note": "Base Strength reduced from 18 to 17",
+          "icon": "strength"
         },
         {
           "indent_level": 1,
-          "note": "Base Agility reduced from 19 to 18"
+          "note": "Base Agility reduced from 19 to 18",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Base Health Regen reduced from 2.5 to 2.0"
+          "note": "Base Health Regen reduced from 2.5 to 2.0",
+          "icon": "health_regen"
         }
       ],
       "abilities": [
@@ -3917,7 +3953,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility Gain reduced from 3.5 to 3.3"
+          "note": "Agility Gain reduced from 3.5 to 3.3",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
@@ -3963,7 +4000,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -4338,7 +4376,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength changed from 23 + 3.0 to 22 + 2.8"
+          "note": "Strength changed from 23 + 3.0 to 22 + 2.8",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -4464,7 +4503,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Maximum Travel Distance reduced from 3500 to 3000"
+              "note": "Aghanim's Scepter Maximum Travel Distance reduced from 3500 to 3000",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -4499,7 +4539,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement speed reduced from 295 to 290"
+          "note": "Base Movement speed reduced from 295 to 290",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -4542,7 +4583,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility Gain reduced from 4.8 to 4.4"
+          "note": "Agility Gain reduced from 4.8 to 4.4",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -4613,7 +4655,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Armor increased by 1"
+          "note": "Armor increased by 1",
+          "icon": "armor"
         }
       ],
       "abilities": [
@@ -4642,7 +4685,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility Gain reduced from 1.9 to 1.7"
+          "note": "Agility Gain reduced from 1.9 to 1.7",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -4866,7 +4910,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement Speed reduced from 320 to 310"
+          "note": "Movement Speed reduced from 320 to 310",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -4955,7 +5000,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Strength Gain increased from 3.3 to 3.5"
+          "note": "Strength Gain increased from 3.3 to 3.5",
+          "icon": "strength"
         }
       ],
       "talent_notes": [

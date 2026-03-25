@@ -6,26 +6,7 @@
   "bio_loc": "When Verodicia, Goddess of the Woods, had finished filling in the green places, having planted the coiled-up spirit in the seed, having lured the twining waters from deep within the rock, having sworn the sun its full attention to the growing things, she realized that her own time had reached its end, and like one of the leaves whose fate she had imprinted in the seed, she would fall without seeing the fruiting of her dream. It pained her to leave the world bereft, for the sprouts had not yet broken through the soil--and they would be tender and vulnerable to every sort of harm. She found in her seed pouch one last seed that she had missed in the sowing. She spoke a single word into the seed and swallowed it as she fell. Her vast body decomposed throughout the long winter, becoming the humus that would feed the seedlings in the spring. And on the morning of the vernal equinox, before the rest of the forest had begun to wake, that last seed ripened and burst in an instant. From it stepped Nature's Prophet, in full leaf, strong and wise, possessing Verodicia's power to foresee where he would be needed most in defense of the green places--and any who might be fortunate enough to call him an ally.",
   "hype_loc": "Whether in the thick of battle or gathering resources for his next assault, Nature's Prophet seems to be everywhere. <b>Teleporting</b> at will to any location and instantly creating an <b>army of violent trees</b> to fight for him, he attacks where enemies least expect.",
   "npe_desc_loc": "Able to teleport to any location on the map at will",
-  "facets": [
-    {
-      "color": 2,
-      "title_loc": "Soothing Saplings",
-      "description_loc": "After Sprout is cast, all trees in a {s:bonus_healing_radius} radius heal nearby allies.",
-      "name": "furion_soothing_saplings",
-      "icon": "healing",
-      "gradient_id": 0,
-      "index": 0
-    },
-    {
-      "color": 1,
-      "title_loc": "Nature's Profit",
-      "description_loc": "Whenever Nature's Prophet kills an enemy hero or one dies nearby, a money tree is created in their place that drops gold bags to be collected.",
-      "name": "furion_natures_profit",
-      "icon": "gold",
-      "gradient_id": 2,
-      "index": 2
-    }
-  ],
+  "facets": [],
   "str_base": 19,
   "str_gain": 2.6,
   "agi_base": 14,
@@ -46,7 +27,7 @@
     3,
     0
   ],
-  "damage_min": 16,
+  "damage_min": 20,
   "damage_max": 26,
   "attack_rate": 1.5,
   "attack_range": 600,
@@ -127,7 +108,7 @@
         {
           "name": "vision_range",
           "values_float": [
-            250
+            400
           ],
           "is_percentage": false,
           "heading_loc": "",
@@ -203,94 +184,6 @@
             "operation": 0
           },
           "required_facet": ""
-        },
-        {
-          "name": "sprout_heal_interval",
-          "values_float": [
-            0
-          ],
-          "is_percentage": false,
-          "heading_loc": "",
-          "bonuses": [],
-          "values_shard": [],
-          "values_scepter": [],
-          "facet_bonus": {
-            "name": "furion_soothing_saplings",
-            "values": [
-              0.5
-            ],
-            "operation": 5
-          },
-          "required_facet": "furion_soothing_saplings"
-        },
-        {
-          "name": "sprout_heal_per_second",
-          "values_float": [
-            0,
-            0,
-            0,
-            0
-          ],
-          "is_percentage": false,
-          "heading_loc": "HEAL PER SECOND:",
-          "bonuses": [
-            {
-              "name": "special_bonus_unique_furion_8",
-              "value": 20,
-              "operation": 3
-            }
-          ],
-          "values_shard": [],
-          "values_scepter": [],
-          "facet_bonus": {
-            "name": "furion_soothing_saplings",
-            "values": [
-              10,
-              15,
-              20,
-              25
-            ],
-            "operation": 5
-          },
-          "required_facet": "furion_soothing_saplings"
-        },
-        {
-          "name": "healing_tree_proximity",
-          "values_float": [
-            0
-          ],
-          "is_percentage": false,
-          "heading_loc": "",
-          "bonuses": [],
-          "values_shard": [],
-          "values_scepter": [],
-          "facet_bonus": {
-            "name": "furion_soothing_saplings",
-            "values": [
-              175
-            ],
-            "operation": 0
-          },
-          "required_facet": "furion_soothing_saplings"
-        },
-        {
-          "name": "healing_radius",
-          "values_float": [
-            0
-          ],
-          "is_percentage": false,
-          "heading_loc": "",
-          "bonuses": [],
-          "values_shard": [],
-          "values_scepter": [],
-          "facet_bonus": {
-            "name": "furion_soothing_saplings",
-            "values": [
-              900
-            ],
-            "operation": 0
-          },
-          "required_facet": "furion_soothing_saplings"
         },
         {
           "name": "AbilityCastRange",
@@ -637,14 +530,9 @@
           "values_shard": [],
           "values_scepter": [],
           "facet_bonus": {
-            "name": "furion_ironwood_treant",
-            "values": [
-              100,
-              100,
-              100,
-              100
-            ],
-            "operation": 5
+            "name": "",
+            "values": [],
+            "operation": 0
           },
           "required_facet": ""
         },
@@ -662,35 +550,11 @@
           "values_shard": [],
           "values_scepter": [],
           "facet_bonus": {
-            "name": "furion_ironwood_treant",
-            "values": [
-              1,
-              1,
-              1,
-              1
-            ],
-            "operation": 5
-          },
-          "required_facet": ""
-        },
-        {
-          "name": "siege_treants",
-          "values_float": [
-            0
-          ],
-          "is_percentage": false,
-          "heading_loc": "",
-          "bonuses": [],
-          "values_shard": [],
-          "values_scepter": [],
-          "facet_bonus": {
-            "name": "furion_ironwood_treant",
-            "values": [
-              1
-            ],
+            "name": "",
+            "values": [],
             "operation": 0
           },
-          "required_facet": "furion_ironwood_treant"
+          "required_facet": ""
         },
         {
           "name": "treant_duration",
@@ -712,10 +576,7 @@
         {
           "name": "treant_health",
           "values_float": [
-            550,
-            550,
-            550,
-            550
+            450
           ],
           "is_percentage": false,
           "heading_loc": "TREANT HEALTH:",
@@ -729,14 +590,9 @@
           "values_shard": [],
           "values_scepter": [],
           "facet_bonus": {
-            "name": "furion_ironwood_treant",
-            "values": [
-              750,
-              950,
-              1150,
-              1350
-            ],
-            "operation": 5
+            "name": "",
+            "values": [],
+            "operation": 0
           },
           "required_facet": ""
         },
@@ -760,24 +616,45 @@
           "values_shard": [],
           "values_scepter": [],
           "facet_bonus": {
-            "name": "furion_ironwood_treant",
-            "values": [
-              26,
-              44,
-              62,
-              80
-            ],
-            "operation": 5
+            "name": "",
+            "values": [],
+            "operation": 0
+          },
+          "required_facet": ""
+        },
+        {
+          "name": "treant_bonus_hero_damage",
+          "values_float": [
+            4,
+            8,
+            12,
+            16
+          ],
+          "is_percentage": false,
+          "heading_loc": "TREANT BONUS HERO DAMAGE:",
+          "bonuses": [
+            {
+              "name": "special_bonus_unique_furion",
+              "value": 3,
+              "operation": 1
+            }
+          ],
+          "values_shard": [],
+          "values_scepter": [],
+          "facet_bonus": {
+            "name": "",
+            "values": [],
+            "operation": 0
           },
           "required_facet": ""
         },
         {
           "name": "treant_movespeed",
           "values_float": [
-            305,
-            310,
+            300,
             315,
-            320
+            330,
+            345
           ],
           "is_percentage": false,
           "heading_loc": "TREANT MOVESPEED:",
@@ -791,14 +668,9 @@
           "values_shard": [],
           "values_scepter": [],
           "facet_bonus": {
-            "name": "furion_ironwood_treant",
-            "values": [
-              335,
-              340,
-              345,
-              350
-            ],
-            "operation": 5
+            "name": "",
+            "values": [],
+            "operation": 0
           },
           "required_facet": ""
         },
@@ -813,10 +685,8 @@
           "values_shard": [],
           "values_scepter": [],
           "facet_bonus": {
-            "name": "furion_ironwood_treant",
-            "values": [
-              700
-            ],
+            "name": "",
+            "values": [],
             "operation": 0
           },
           "required_facet": ""
@@ -832,10 +702,8 @@
           "values_shard": [],
           "values_scepter": [],
           "facet_bonus": {
-            "name": "furion_ironwood_treant",
-            "values": [
-              300
-            ],
+            "name": "",
+            "values": [],
             "operation": 0
           },
           "required_facet": ""
@@ -843,9 +711,6 @@
         {
           "name": "treant_gold_bounty_min",
           "values_float": [
-            18,
-            18,
-            18,
             18
           ],
           "is_percentage": false,
@@ -854,23 +719,15 @@
           "values_shard": [],
           "values_scepter": [],
           "facet_bonus": {
-            "name": "furion_ironwood_treant",
-            "values": [
-              16,
-              24,
-              32,
-              40
-            ],
-            "operation": 5
+            "name": "",
+            "values": [],
+            "operation": 0
           },
           "required_facet": ""
         },
         {
           "name": "treant_gold_bounty_max",
           "values_float": [
-            24,
-            24,
-            24,
             24
           ],
           "is_percentage": false,
@@ -879,23 +736,15 @@
           "values_shard": [],
           "values_scepter": [],
           "facet_bonus": {
-            "name": "furion_ironwood_treant",
-            "values": [
-              16,
-              24,
-              32,
-              40
-            ],
-            "operation": 5
+            "name": "",
+            "values": [],
+            "operation": 0
           },
           "required_facet": ""
         },
         {
           "name": "treant_xp_bounty",
           "values_float": [
-            30,
-            30,
-            30,
             30
           ],
           "is_percentage": false,
@@ -904,14 +753,26 @@
           "values_shard": [],
           "values_scepter": [],
           "facet_bonus": {
-            "name": "furion_ironwood_treant",
-            "values": [
-              30,
-              40,
-              50,
-              60
-            ],
-            "operation": 5
+            "name": "",
+            "values": [],
+            "operation": 0
+          },
+          "required_facet": ""
+        },
+        {
+          "name": "treewalking",
+          "values_float": [
+            1
+          ],
+          "is_percentage": false,
+          "heading_loc": "",
+          "bonuses": [],
+          "values_shard": [],
+          "values_scepter": [],
+          "facet_bonus": {
+            "name": "",
+            "values": [],
+            "operation": 0
           },
           "required_facet": ""
         },
@@ -1210,9 +1071,12 @@
       "id": 1298,
       "name": "furion_spirit_of_the_forest",
       "name_loc": "Spirit of the Forest",
-      "desc_loc": "Nature's Prophet gains %damage_per_tree_pct%%% bonus damage for each tree within %radius% and a multiplier of that same bonus for each treant within %radius_treant% distance of him.",
+      "desc_loc": "Nature's Prophet gains %damage_per_tree_pct%%% bonus damage for each nearby tree. Treants also provide this bonus with multiplied values and with larger radius. Treants also possess this ability.",
       "lore_loc": "",
-      "notes_loc": [],
+      "notes_loc": [
+        "Treants gain bonuses from trees and other treants around them.",
+        "Treant Protector does not provide any bonuses."
+      ],
       "shard_loc": "",
       "scepter_loc": "",
       "facets_loc": [
@@ -1221,14 +1085,14 @@
         ""
       ],
       "type": 0,
-      "behavior": "8796093022275",
+      "behavior": "562949953421379",
       "target_team": 0,
       "target_type": 0,
       "flags": 0,
       "damage": 0,
       "immunity": 0,
       "dispellable": 3,
-      "max_level": 4,
+      "max_level": 1,
       "cast_ranges": [
         0
       ],
@@ -1274,15 +1138,29 @@
           "required_facet": ""
         },
         {
-          "name": "radius",
+          "name": "radius_base",
           "values_float": [
-            300,
-            400,
-            500,
-            600
+            300
           ],
           "is_percentage": false,
-          "heading_loc": "",
+          "heading_loc": "TREE RADIUS:",
+          "bonuses": [],
+          "values_shard": [],
+          "values_scepter": [],
+          "facet_bonus": {
+            "name": "",
+            "values": [],
+            "operation": 0
+          },
+          "required_facet": ""
+        },
+        {
+          "name": "multiplier",
+          "values_float": [
+            2
+          ],
+          "is_percentage": false,
+          "heading_loc": "TREANT MULTIPLIER:",
           "bonuses": [],
           "values_shard": [],
           "values_scepter": [],
@@ -1299,7 +1177,7 @@
             1200
           ],
           "is_percentage": false,
-          "heading_loc": "",
+          "heading_loc": "TREANT RADIUS:",
           "bonuses": [],
           "values_shard": [],
           "values_scepter": [],
@@ -1307,31 +1185,6 @@
             "name": "",
             "values": [],
             "operation": 0
-          },
-          "required_facet": ""
-        },
-        {
-          "name": "multiplier",
-          "values_float": [
-            1
-          ],
-          "is_percentage": false,
-          "heading_loc": "MULTIPLIER:",
-          "bonuses": [
-            {
-              "name": "special_bonus_unique_furion",
-              "value": 3,
-              "operation": 1
-            }
-          ],
-          "values_shard": [],
-          "values_scepter": [],
-          "facet_bonus": {
-            "name": "furion_ironwood_treant",
-            "values": [
-              4
-            ],
-            "operation": 1
           },
           "required_facet": ""
         }
@@ -1785,18 +1638,18 @@
       "item_quality": 0
     },
     {
-      "id": 1620,
-      "name": "special_bonus_unique_furion_8",
-      "name_loc": "",
+      "id": 1300,
+      "name": "special_bonus_unique_furion_teleportation_barrier",
+      "name_loc": "+{s:bonus_barrier} Teleportation Barrier",
       "desc_loc": "",
       "lore_loc": "",
       "notes_loc": [],
       "shard_loc": "",
       "scepter_loc": "",
       "facets_loc": [
-        "+{s:bonus_sprout_heal_per_second}% Sprout Heal Per Second",
         "",
-        "+{s:bonus_bags_per_tick} Nature's Profit Gold Bags Per Tick"
+        "",
+        ""
       ],
       "type": 2,
       "behavior": "2",
@@ -2100,219 +1953,5 @@
       "item_quality": 0
     }
   ],
-  "facet_abilities": [
-    {
-      "abilities": []
-    },
-    {
-      "abilities": [
-        {
-          "id": 1619,
-          "name": "furion_natures_profit",
-          "name_loc": "Nature's Profit",
-          "desc_loc": "Whenever Nature's Prophet kills an enemy hero or one dies within a %radius% radius, a money tree is created in their place. Every tick, several bags of gold are dropped that can be picked up by nearby heroes. The amount of gold is equal to a multiplier of the slain hero level.",
-          "lore_loc": "",
-          "notes_loc": [],
-          "shard_loc": "",
-          "scepter_loc": "",
-          "facets_loc": [
-            "",
-            "",
-            ""
-          ],
-          "type": 0,
-          "behavior": "8796093022275",
-          "target_team": 0,
-          "target_type": 0,
-          "flags": 0,
-          "damage": 0,
-          "immunity": 0,
-          "dispellable": 3,
-          "max_level": 1,
-          "cast_ranges": [
-            0
-          ],
-          "cast_points": [
-            0
-          ],
-          "channel_times": [
-            0
-          ],
-          "cooldowns": [
-            0
-          ],
-          "durations": [
-            0
-          ],
-          "damages": [
-            0,
-            0,
-            0,
-            0
-          ],
-          "mana_costs": [
-            0
-          ],
-          "gold_costs": [],
-          "health_costs": [],
-          "special_values": [
-            {
-              "name": "tick_interval",
-              "values_float": [
-                1
-              ],
-              "is_percentage": false,
-              "heading_loc": "TICK INTERVAL:",
-              "bonuses": [],
-              "values_shard": [],
-              "values_scepter": [],
-              "facet_bonus": {
-                "name": "",
-                "values": [],
-                "operation": 0
-              },
-              "required_facet": ""
-            },
-            {
-              "name": "initial_spawn_time",
-              "values_float": [
-                2
-              ],
-              "is_percentage": false,
-              "heading_loc": "TREE SPAWN DELAY:",
-              "bonuses": [],
-              "values_shard": [],
-              "values_scepter": [],
-              "facet_bonus": {
-                "name": "",
-                "values": [],
-                "operation": 0
-              },
-              "required_facet": ""
-            },
-            {
-              "name": "radius",
-              "values_float": [
-                750
-              ],
-              "is_percentage": false,
-              "heading_loc": "",
-              "bonuses": [],
-              "values_shard": [],
-              "values_scepter": [],
-              "facet_bonus": {
-                "name": "",
-                "values": [],
-                "operation": 0
-              },
-              "required_facet": ""
-            },
-            {
-              "name": "bags_per_tick",
-              "values_float": [
-                2
-              ],
-              "is_percentage": false,
-              "heading_loc": "GOLD BAGS PER TICK:",
-              "bonuses": [
-                {
-                  "name": "special_bonus_unique_furion_8",
-                  "value": 1,
-                  "operation": 0
-                }
-              ],
-              "values_shard": [],
-              "values_scepter": [],
-              "facet_bonus": {
-                "name": "",
-                "values": [],
-                "operation": 0
-              },
-              "required_facet": ""
-            },
-            {
-              "name": "tree_duration",
-              "values_float": [
-                3
-              ],
-              "is_percentage": false,
-              "heading_loc": "TREE DURATION:",
-              "bonuses": [],
-              "values_shard": [],
-              "values_scepter": [],
-              "facet_bonus": {
-                "name": "",
-                "values": [],
-                "operation": 0
-              },
-              "required_facet": ""
-            },
-            {
-              "name": "min_throw_range",
-              "values_float": [
-                200
-              ],
-              "is_percentage": false,
-              "heading_loc": "",
-              "bonuses": [],
-              "values_shard": [],
-              "values_scepter": [],
-              "facet_bonus": {
-                "name": "",
-                "values": [],
-                "operation": 0
-              },
-              "required_facet": ""
-            },
-            {
-              "name": "max_throw_range",
-              "values_float": [
-                250
-              ],
-              "is_percentage": false,
-              "heading_loc": "",
-              "bonuses": [],
-              "values_shard": [],
-              "values_scepter": [],
-              "facet_bonus": {
-                "name": "",
-                "values": [],
-                "operation": 0
-              },
-              "required_facet": ""
-            },
-            {
-              "name": "hero_level_gold_multiplier",
-              "values_float": [
-                2
-              ],
-              "is_percentage": false,
-              "heading_loc": "GOLD PER HERO LEVEL:",
-              "bonuses": [],
-              "values_shard": [],
-              "values_scepter": [],
-              "facet_bonus": {
-                "name": "",
-                "values": [],
-                "operation": 0
-              },
-              "required_facet": ""
-            }
-          ],
-          "is_item": false,
-          "ability_has_scepter": false,
-          "ability_has_shard": false,
-          "ability_is_granted_by_scepter": false,
-          "ability_is_granted_by_shard": false,
-          "ability_is_innate": false,
-          "item_cost": 0,
-          "item_initial_charges": 0,
-          "item_neutral_tier": 4294967295,
-          "item_stock_max": 0,
-          "item_stock_time": 0,
-          "item_quality": 0
-        }
-      ]
-    }
-  ]
+  "facet_abilities": []
 }

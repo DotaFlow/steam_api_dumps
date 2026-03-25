@@ -79,7 +79,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Avalance damage decreased from 90/160/230/300 to 75/150/225/300"
+          "note": "Avalance damage decreased from 90/160/230/300 to 75/150/225/300",
+          "icon": "damage"
         }
       ],
       "abilities": [

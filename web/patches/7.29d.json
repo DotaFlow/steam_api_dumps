@@ -97,7 +97,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement speed reduced from 300 to 295"
+          "note": "Movement speed reduced from 300 to 295",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -117,7 +118,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength reduced from 26 to 24"
+          "note": "Base strength reduced from 26 to 24",
+          "icon": "strength"
         }
       ],
       "abilities": [
@@ -141,7 +143,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base strength reduced from 22 to 20"
+          "note": "Base strength reduced from 22 to 20",
+          "icon": "strength"
         }
       ]
     },
@@ -186,7 +189,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard no longer reduces web charge time"
+              "note": "Aghanim's Shard no longer reduces web charge time",
+              "aghanims": "shard"
             }
           ]
         },
@@ -276,7 +280,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Speed reduced from 100 to 90"
+          "note": "Base Attack Speed reduced from 100 to 90",
+          "icon": "attack_speed"
         }
       ],
       "talent_notes": [
@@ -349,7 +354,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Cooldown Reduction from 3s to 2s"
+              "note": "Aghanim's Shard Cooldown Reduction from 3s to 2s",
+              "aghanims": "shard"
             }
           ]
         }

@@ -62,7 +62,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Mana Regen increased from 0 to 0.5"
+          "note": "Base Mana Regen increased from 0 to 0.5",
+          "icon": "mana_regen"
         },
         {
           "indent_level": 1,
@@ -174,11 +175,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility Growth increased from 2.1 to 2.4"
+          "note": "Agility Growth increased from 2.1 to 2.4",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence Growth increased from 3.7 to 3.8"
+          "note": "Intelligence Growth increased from 3.7 to 3.8",
+          "icon": "intelligence"
         }
       ],
       "abilities": [
@@ -231,7 +234,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility reduced from 13 + 1.6 to 10 + 1.5"
+          "note": "Agility reduced from 13 + 1.6 to 10 + 1.5",
+          "icon": "agility"
         }
       ],
       "talent_notes": [
@@ -257,7 +261,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Movement Speed increased from 300 to 310"
+          "note": "Movement Speed increased from 300 to 310",
+          "icon": "movement"
         }
       ],
       "talent_notes": [
@@ -334,7 +339,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility Growth decreased from 2.4 to 2.2"
+          "note": "Agility Growth decreased from 2.4 to 2.2",
+          "icon": "agility"
         }
       ],
       "talent_notes": [

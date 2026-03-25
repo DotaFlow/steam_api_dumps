@@ -265,7 +265,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Movement Speed increased from 310 to 315"
+          "note": "Base Movement Speed increased from 310 to 315",
+          "icon": "movement"
         }
       ],
       "abilities": [
@@ -294,7 +295,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Healing from secondary targets increased from 25% to 30%"
+              "note": "Aghanim's Shard Healing from secondary targets increased from 25% to 30%",
+              "aghanims": "shard"
             }
           ]
         }
@@ -328,7 +330,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Damage increased from 50-54 to 53-55"
+          "note": "Base Damage increased from 50-54 to 53-55",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -366,11 +369,13 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Damage increased from 150 to 170"
+              "note": "Aghanim's Shard Damage increased from 150 to 170",
+              "aghanims": "shard"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Wave Distance increased from 600 to 800"
+              "note": "Aghanim's Shard Wave Distance increased from 600 to 800",
+              "aghanims": "shard"
             }
           ]
         }
@@ -398,7 +403,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Bonus Damage per Second deceased from 100 to 95"
+              "note": "Aghanim's Scepter Bonus Damage per Second deceased from 100 to 95",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -451,7 +457,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Time improved from 1.7s to 1.6s"
+          "note": "Base Attack Time improved from 1.7s to 1.6s",
+          "icon": "attack_time"
         }
       ]
     },
@@ -561,11 +568,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Armor increased by 1"
+          "note": "Base Armor increased by 1",
+          "icon": "armor"
         },
         {
           "indent_level": 1,
-          "note": "Base Agility decreased from 18 to 15"
+          "note": "Base Agility decreased from 18 to 15",
+          "icon": "agility"
         }
       ],
       "abilities": [
@@ -645,7 +654,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain increased from 3.6 to 3.8"
+          "note": "Intelligence gain increased from 3.6 to 3.8",
+          "icon": "intelligence"
         }
       ],
       "abilities": [
@@ -709,11 +719,13 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Golem Damage increased from 75/110/150 to 80/125/170"
+              "note": "Aghanim's Scepter Golem Damage increased from 75/110/150 to 80/125/170",
+              "aghanims": "scepter"
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter Second Golem delay increased from 0.2s to 0.5s"
+              "note": "Aghanim's Scepter Second Golem delay increased from 0.2s to 0.5s",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -744,7 +756,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Damage increased by 2"
+          "note": "Base Attack Damage increased by 2",
+          "icon": "damage"
         }
       ]
     },
@@ -753,11 +766,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 3.3 to 3.0"
+          "note": "Intelligence gain decreased from 3.3 to 3.0",
+          "icon": "intelligence"
         },
         {
           "indent_level": 1,
-          "note": "Strength gain decreased from 3.1 to 2.9"
+          "note": "Strength gain decreased from 3.1 to 2.9",
+          "icon": "strength"
         }
       ],
       "talent_notes": [
@@ -806,7 +821,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard Refracted Drain percentage increased from 70% to 75%"
+              "note": "Aghanim's Shard Refracted Drain percentage increased from 70% to 75%",
+              "aghanims": "shard"
             }
           ]
         }
@@ -817,7 +833,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Strength increased by 2"
+          "note": "Base Strength increased by 2",
+          "icon": "strength"
         }
       ]
     },
@@ -851,7 +868,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter no longer reduces cooldown by 5s"
+              "note": "Aghanim's Scepter no longer reduces cooldown by 5s",
+              "aghanims": "scepter"
             }
           ]
         },
@@ -894,11 +912,13 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Agility decreased from 22+3.6 to 20+3.4"
+          "note": "Agility decreased from 22+3.6 to 20+3.4",
+          "icon": "agility"
         },
         {
           "indent_level": 1,
-          "note": "Intelligence gain decreased from 3.7 to 3.5"
+          "note": "Intelligence gain decreased from 3.7 to 3.5",
+          "icon": "intelligence"
         }
       ],
       "talent_notes": [
@@ -945,7 +965,8 @@
             },
             {
               "indent_level": 1,
-              "note": "Aghanim's Shard bonus skeletons decreased from 2 to 1 (total count with Shard is unchanged)"
+              "note": "Aghanim's Shard bonus skeletons decreased from 2 to 1 (total count with Shard is unchanged)",
+              "aghanims": "shard"
             }
           ]
         }
@@ -1106,7 +1127,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter secondary target Range increased from 600 to 650"
+              "note": "Aghanim's Scepter secondary target Range increased from 600 to 650",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -1443,7 +1465,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Attack Time improved from 1.7s to 1.5s"
+          "note": "Base Attack Time improved from 1.7s to 1.5s",
+          "icon": "attack_time"
         }
       ]
     },
@@ -1523,7 +1546,8 @@
           "ability_notes": [
             {
               "indent_level": 1,
-              "note": "Aghanim's Scepter secondary Spark Wraith Search Radius decreased from 375 to 225"
+              "note": "Aghanim's Scepter secondary Spark Wraith Search Radius decreased from 375 to 225",
+              "aghanims": "scepter"
             }
           ]
         }
@@ -1534,7 +1558,8 @@
       "hero_notes": [
         {
           "indent_level": 1,
-          "note": "Base Agility increased by 1"
+          "note": "Base Agility increased by 1",
+          "icon": "agility"
         }
       ],
       "abilities": [
