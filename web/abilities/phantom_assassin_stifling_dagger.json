@@ -188,7 +188,9 @@
       "is_percentage": false,
       "heading_loc": "",
       "bonuses": [],
-      "values_shard": [],
+      "values_shard": [
+        0
+      ],
       "values_scepter": [],
       "facet_bonus": {
         "name": "",
@@ -205,7 +207,9 @@
       "is_percentage": false,
       "heading_loc": "",
       "bonuses": [],
-      "values_shard": [],
+      "values_shard": [
+        0
+      ],
       "values_scepter": [],
       "facet_bonus": {
         "name": "",

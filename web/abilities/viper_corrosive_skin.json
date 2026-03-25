@@ -6,10 +6,11 @@
   "lore_loc": "It is not unusual for sword and shield alike to corrode in the very hands of those who attack the Netherdrake.",
   "notes_loc": [
     "Stacks multiplicatively with other magic damage resistance sources.",
-    "Break prevents the application of Corrosive Skin. Does not disable Corrosive Skin application from Nosedive."
+    "Break prevents the application of Corrosive Skin. Does not disable Corrosive Skin application from Nosedive.",
+    "Damage done by this ability is considered reflected damage. Reflected damage does not provide any lifesteal and cannot be reflected."
   ],
   "shard_loc": "",
-  "scepter_loc": "Corrosive Skin applies %effect_multiplier%x the attack speed slow to enemies that are within %effect_multiplier_distance% distance of Viper.",
+  "scepter_loc": "Corrosive Skin applies %effect_multiplier%x the attack speed slow to enemies that are within %effect_multiplier_distance% distance of Viper.  Viper's Corrosive Skin Magic Resistance and Damage per Second are gradually increased while he is in Nethertoxin, up to %nethertoxin_bonus_pct%%% increased effect after %nethertoxin_bonus_pct_max_duration_tooltip%s.",
   "facets_loc": [],
   "type": 0,
   "behavior": "2",
@@ -92,7 +93,7 @@
         20,
         25
       ],
-      "is_percentage": true,
+      "is_percentage": false,
       "heading_loc": "MAGIC RESISTANCE:",
       "bonuses": [],
       "values_shard": [],
@@ -117,7 +118,7 @@
       "bonuses": [
         {
           "name": "special_bonus_unique_viper_1",
-          "value": 20,
+          "value": 15,
           "operation": 0
         }
       ],
@@ -194,7 +195,9 @@
       "heading_loc": "",
       "bonuses": [],
       "values_shard": [],
-      "values_scepter": [],
+      "values_scepter": [
+        50
+      ],
       "facet_bonus": {
         "name": "",
         "values": [],
@@ -211,7 +214,9 @@
       "heading_loc": "",
       "bonuses": [],
       "values_shard": [],
-      "values_scepter": [],
+      "values_scepter": [
+        4
+      ],
       "facet_bonus": {
         "name": "",
         "values": [],

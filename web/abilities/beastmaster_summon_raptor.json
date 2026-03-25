@@ -1,36 +1,33 @@
 {
-  "id": 5222,
-  "name": "luna_lucent_beam",
-  "name_loc": "Lucent Beam",
-  "desc_loc": "Calls a beam of lunar energy down upon an enemy, damaging and briefly stunning them.",
-  "lore_loc": "Selemene smites those who encroach upon the Nightsilver Woods.",
+  "id": 7231,
+  "name": "beastmaster_summon_raptor",
+  "name_loc": "Summon Raptors",
+  "desc_loc": "Beastmaster summons %hawk_count% hawks that circle around Beastmaster and dive-bombs at enemies with a base attack rate of every %hawk_base_attack_interval%s, damaging and rooting them. Attack rate increases with the Hawk's attack speed. Prioritizes heroes. ",
+  "lore_loc": "After befriending the strange beast of his childhood, Beastmaster has learned to call to animals in times of need.",
   "notes_loc": [],
-  "shard_loc": "Grants Luna an attack damage bonus buff every time an enemy hero is hit by Lucent Beam. Lucent Beams created by Eclipse grant %damage_buff_from_eclipse_pct%%% of the damage amount.",
+  "shard_loc": "Increases Hawk duration by %bonus_duration%s and summons an additional Hawk.",
   "scepter_loc": "",
   "facets_loc": [],
   "type": 0,
-  "behavior": "8",
+  "behavior": "4",
   "target_team": 2,
   "target_type": 19,
   "flags": 0,
   "damage": 2,
-  "immunity": 4,
-  "dispellable": 1,
+  "immunity": 0,
+  "dispellable": 0,
   "max_level": 4,
   "cast_ranges": [
-    800
+    0
   ],
   "cast_points": [
-    0.4
+    0.3
   ],
   "channel_times": [
     0
   ],
   "cooldowns": [
-    9,
-    8,
-    7,
-    6
+    30
   ],
   "durations": [
     0
@@ -42,112 +39,18 @@
     0
   ],
   "mana_costs": [
-    90,
-    100,
-    110,
-    120
+    50
   ],
   "gold_costs": [],
   "health_costs": [],
   "special_values": [
     {
-      "name": "beam_damage",
+      "name": "duration",
       "values_float": [
-        75,
-        150,
-        225,
-        300
+        25
       ],
       "is_percentage": false,
-      "heading_loc": "BEAM DAMAGE:",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_luna_1",
-          "value": 80,
-          "operation": 0
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "glaives_fired",
-      "values_float": [],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_luna_8",
-          "value": 2,
-          "operation": 0
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "glaives_attack_radius",
-      "values_float": [],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_luna_8",
-          "value": 500,
-          "operation": 0
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "stun_duration",
-      "values_float": [
-        0.6
-      ],
-      "is_percentage": false,
-      "heading_loc": "STUN DURATION:",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_luna_4",
-          "value": 0.5,
-          "operation": 0
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "damage_buff_duration",
-      "values_float": [
-        0
-      ],
-      "is_percentage": false,
-      "heading_loc": "DAMAGE BUFF DURATION:",
+      "heading_loc": "SUMMON DURATION:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -159,50 +62,9 @@
       "required_facet": ""
     },
     {
-      "name": "damage_buff_per_beam",
+      "name": "hawk_spawn_interval",
       "values_float": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "is_percentage": false,
-      "heading_loc": "DAMAGE BUFF PER BEAM:",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "lucent_beam_bounce_range",
-      "values_float": [],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_luna_5",
-          "value": 500,
-          "operation": 0
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "damage_buff_from_eclipse_pct",
-      "values_float": [
-        0
+        0.75
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -217,9 +79,257 @@
       "required_facet": ""
     },
     {
-      "name": "AbilityCastRange",
+      "name": "hawk_base_max_health",
       "values_float": [
-        800
+        200,
+        325,
+        450,
+        625
+      ],
+      "is_percentage": false,
+      "heading_loc": "HAWK BASE HEALTH:",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "hawk_base_gold_bounty",
+      "values_float": [
+        30,
+        40,
+        50,
+        60
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "hawk_base_vision_range",
+      "values_float": [
+        600,
+        650,
+        700,
+        750
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "hawk_base_xp_bounty",
+      "values_float": [
+        40,
+        50,
+        60,
+        70
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "hawk_base_magic_resist",
+      "values_float": [
+        30,
+        40,
+        50,
+        60
+      ],
+      "is_percentage": true,
+      "heading_loc": "HAWK BASE MAGIC RESISTANCE:",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "attack_radius",
+      "values_float": [
+        500
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "hawk_count",
+      "values_float": [
+        2
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "dive_damage",
+      "values_float": [
+        60,
+        95,
+        130,
+        165
+      ],
+      "is_percentage": false,
+      "heading_loc": "DIVE DAMAGE:",
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_beastmaster_2",
+          "value": 30,
+          "operation": 0
+        }
+      ],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "dive_root_duration",
+      "values_float": [
+        0.4,
+        0.6,
+        0.8,
+        1
+      ],
+      "is_percentage": false,
+      "heading_loc": "ROOT DURATION:",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "roaming_radius",
+      "values_float": [
+        280
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "roaming_seconds_per_rotation",
+      "values_float": [
+        4
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "hawk_base_attack_interval",
+      "values_float": [
+        4
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "min_move_speed",
+      "values_float": [
+        455
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "max_move_speed",
+      "values_float": [
+        1100
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -236,7 +346,7 @@
     {
       "name": "AbilityCastPoint",
       "values_float": [
-        0.4
+        0.3
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -253,10 +363,7 @@
     {
       "name": "AbilityManaCost",
       "values_float": [
-        90,
-        100,
-        110,
-        120
+        50
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -273,17 +380,14 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
-        9,
-        8,
-        7,
-        6
+        30
       ],
       "is_percentage": false,
       "heading_loc": "",
       "bonuses": [
         {
-          "name": "special_bonus_unique_luna_2",
-          "value": 2,
+          "name": "special_bonus_unique_beastmaster_3",
+          "value": 5,
           "operation": 2
         }
       ],

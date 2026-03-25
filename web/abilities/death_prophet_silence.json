@@ -65,7 +65,7 @@
       "bonuses": [
         {
           "name": "special_bonus_unique_death_prophet_silence_aoe",
-          "value": 100,
+          "value": 75,
           "operation": 0
         }
       ],
@@ -81,30 +81,10 @@
     {
       "name": "projectile_speed",
       "values_float": [
-        1400
+        1750
       ],
       "is_percentage": false,
       "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "movement_slow",
-      "values_float": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "is_percentage": true,
-      "heading_loc": "MOVEMENT SLOW:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],

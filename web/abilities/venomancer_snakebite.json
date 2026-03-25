@@ -1,36 +1,36 @@
 {
-  "id": 1462,
-  "name": "luna_lunar_orbit",
-  "name_loc": "Lunar Orbit",
-  "desc_loc": "Creates %rotating_glaives% glaives that rotate %rotating_glaives_movement_radius% radius around Luna. Any enemy unit that collides with a glaive will take a percentage of Luna's Attack Damage.",
-  "lore_loc": "None may approach Selemene's chosen without favor from the goddess herself.",
+  "id": 1749,
+  "name": "venomancer_snakebite",
+  "name_loc": "Snakebite",
+  "desc_loc": "Venomancer summons a Spawn of Aktok to sink its fangs into a target, dealing magic damage and applying a toxin that does damage every second. When the target attacks while infected, they take the initial damage again.",
+  "lore_loc": "",
   "notes_loc": [],
-  "shard_loc": "Increases damage reduction. While active, Luna gains %bonus_movement_speed%%% bonus movement speed.",
+  "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
   "type": 0,
-  "behavior": "8390660",
-  "target_team": 0,
-  "target_type": 0,
+  "behavior": "8",
+  "target_team": 2,
+  "target_type": 19,
   "flags": 0,
-  "damage": 1,
-  "immunity": 3,
-  "dispellable": 3,
+  "damage": 2,
+  "immunity": 0,
+  "dispellable": 2,
   "max_level": 4,
   "cast_ranges": [
-    0
+    600
   ],
   "cast_points": [
-    0
+    0.2
   ],
   "channel_times": [
     0
   ],
   "cooldowns": [
-    40,
-    35,
-    30,
-    25
+    20,
+    18,
+    16,
+    14
   ],
   "durations": [
     0
@@ -42,21 +42,70 @@
     0
   ],
   "mana_costs": [
-    65,
     70,
-    75,
-    80
+    80,
+    90,
+    100
   ],
   "gold_costs": [],
   "health_costs": [],
   "special_values": [
     {
-      "name": "rotating_glaives_duration",
+      "name": "base_damage",
       "values_float": [
-        5,
-        6,
-        7,
-        8
+        40,
+        60,
+        80,
+        100
+      ],
+      "is_percentage": false,
+      "heading_loc": "INITIAL DAMAGE:",
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_venomancer_4",
+          "value": 40,
+          "operation": 3
+        }
+      ],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "tick_damage",
+      "values_float": [
+        20,
+        25,
+        30,
+        35
+      ],
+      "is_percentage": false,
+      "heading_loc": "DAMAGE PER SECOND:",
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_venomancer_4",
+          "value": 40,
+          "operation": 3
+        }
+      ],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "duration",
+      "values_float": [
+        6
       ],
       "is_percentage": false,
       "heading_loc": "DURATION:",
@@ -71,32 +120,9 @@
       "required_facet": ""
     },
     {
-      "name": "rotating_glaives",
+      "name": "damage_interval",
       "values_float": [
-        4
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_luna_lunar_orbit_glaive_count",
-          "value": 1,
-          "operation": 0
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "rotating_glaives_movement_radius",
-      "values_float": [
-        225
+        0.5
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -111,98 +137,15 @@
       "required_facet": ""
     },
     {
-      "name": "rotating_glaives_movement_radius_expand_speed_scale",
-      "values_float": [
-        4
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "rotating_glaives_hit_radius",
-      "values_float": [
-        200
-      ],
-      "is_percentage": false,
-      "heading_loc": "COLLISION RADIUS:",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "rotating_glaives_collision_damage",
-      "values_float": [
-        28,
-        32,
-        36,
-        40
-      ],
-      "is_percentage": true,
-      "heading_loc": "COLLISION DAMAGE:",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_luna_lunar_orbit_speed_damage",
-          "value": 50,
-          "operation": 3
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "rotating_glaives_speed",
-      "values_float": [
-        160
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_luna_lunar_orbit_speed_damage",
-          "value": 50,
-          "operation": 3
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "rotating_glaive_collision_speed_damage_tooltip",
+      "name": "undispellable",
       "values_float": [],
       "is_percentage": false,
       "heading_loc": "",
       "bonuses": [
         {
-          "name": "special_bonus_unique_luna_lunar_orbit_speed_damage",
-          "value": 1.5,
-          "operation": 0
+          "name": "special_bonus_unique_venomancer_5",
+          "value": 1,
+          "operation": 5
         }
       ],
       "values_shard": [],
@@ -215,19 +158,14 @@
       "required_facet": ""
     },
     {
-      "name": "rotating_glaives_damage_reduction",
+      "name": "AbilityCastRange",
       "values_float": [
-        8,
-        12,
-        16,
-        20
+        600
       ],
-      "is_percentage": true,
-      "heading_loc": "DAMAGE REDUCTION:",
+      "is_percentage": false,
+      "heading_loc": "",
       "bonuses": [],
-      "values_shard": [
-        10
-      ],
+      "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
         "name": "",
@@ -237,16 +175,14 @@
       "required_facet": ""
     },
     {
-      "name": "bonus_movement_speed",
+      "name": "AbilityCastPoint",
       "values_float": [
-        0
+        0.2
       ],
       "is_percentage": false,
       "heading_loc": "",
       "bonuses": [],
-      "values_shard": [
-        20
-      ],
+      "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
         "name": "",
@@ -258,10 +194,10 @@
     {
       "name": "AbilityManaCost",
       "values_float": [
-        65,
         70,
-        75,
-        80
+        80,
+        90,
+        100
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -278,10 +214,10 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
-        40,
-        35,
-        30,
-        25
+        20,
+        18,
+        16,
+        14
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -298,7 +234,7 @@
   ],
   "is_item": false,
   "ability_has_scepter": false,
-  "ability_has_shard": true,
+  "ability_has_shard": false,
   "ability_is_granted_by_scepter": false,
   "ability_is_granted_by_shard": false,
   "ability_is_innate": false,
