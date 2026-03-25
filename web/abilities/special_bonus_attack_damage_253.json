@@ -1,7 +1,7 @@
 {
-  "id": 1445,
-  "name": "special_bonus_spell_aoe_75",
-  "name_loc": "+{s:value} Spell Area of Effect",
+  "id": 1724,
+  "name": "special_bonus_attack_damage_253",
+  "name_loc": "+{s:value} Damage",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],
@@ -47,7 +47,7 @@
     {
       "name": "value",
       "values_float": [
-        75
+        253
       ],
       "is_percentage": false,
       "heading_loc": "",
