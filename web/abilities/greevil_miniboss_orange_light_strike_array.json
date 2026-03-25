@@ -119,7 +119,7 @@
       "required_facet": ""
     },
     {
-      "name": "#AbilityDamage",
+      "name": "AbilityDamage",
       "values_float": [
         150
       ],
