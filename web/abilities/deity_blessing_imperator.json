@@ -1,15 +1,15 @@
 {
-  "id": 1209,
-  "name": "juggernaut_duelist",
-  "name_loc": "Duelist",
-  "desc_loc": "Juggernaut deals %front_damage_increase%%% more damage to targets that are facing him. Damage bonus always applies during Omnislash.",
+  "id": 1728,
+  "name": "deity_blessing_imperator",
+  "name_loc": "",
+  "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],
   "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
-  "type": 0,
-  "behavior": "8796093022210",
+  "type": 3,
+  "behavior": "67",
   "target_team": 0,
   "target_type": 0,
   "flags": 0,
@@ -45,9 +45,9 @@
   "health_costs": [],
   "special_values": [
     {
-      "name": "front_angle",
+      "name": "slow_resist",
       "values_float": [
-        55
+        35
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -62,19 +62,13 @@
       "required_facet": ""
     },
     {
-      "name": "front_damage_increase",
+      "name": "enemy_decrease",
       "values_float": [
-        12
+        7
       ],
       "is_percentage": false,
       "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_juggernaut_3",
-          "value": 4,
-          "operation": 0
-        }
-      ],
+      "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {

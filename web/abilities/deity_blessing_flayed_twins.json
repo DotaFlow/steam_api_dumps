@@ -1,25 +1,22 @@
 {
-  "id": 5055,
-  "name": "morphling_morph_agi",
-  "name_loc": "Attribute Shift (Agility Gain)",
-  "desc_loc": "Morphling shifts its form, pulling points from Strength and pouring them into Agility at a rate of %morph_rate%. The process is reversible.",
-  "lore_loc": "Shifting water makes it difficult to discern the nature of Morphling.",
-  "notes_loc": [
-    "Attribute Shift can't convert stats from items.",
-    "Leveling up Agility Gain will also level up Strength Gain."
-  ],
-  "shard_loc": "Morphling can shift attributes while stunned. Reduces mana cost.",
+  "id": 1732,
+  "name": "deity_blessing_flayed_twins",
+  "name_loc": "",
+  "desc_loc": "",
+  "lore_loc": "",
+  "notes_loc": [],
+  "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
-  "type": 0,
-  "behavior": "516",
+  "type": 3,
+  "behavior": "67",
   "target_team": 0,
   "target_type": 0,
   "flags": 0,
   "damage": 0,
   "immunity": 0,
   "dispellable": 0,
-  "max_level": 4,
+  "max_level": 1,
   "cast_ranges": [
     0
   ],
@@ -48,9 +45,9 @@
   "health_costs": [],
   "special_values": [
     {
-      "name": "points_per_tick",
+      "name": "debuff_self",
       "values_float": [
-        1
+        8
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -65,12 +62,9 @@
       "required_facet": ""
     },
     {
-      "name": "morph_rate",
+      "name": "debuff_enemy",
       "values_float": [
-        4,
-        8,
-        12,
-        16
+        12
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -85,35 +79,14 @@
       "required_facet": ""
     },
     {
-      "name": "mana_cost",
+      "name": "debuff_enemy_duration",
       "values_float": [
-        10
-      ],
-      "is_percentage": false,
-      "heading_loc": "MANA COST PER SECOND:",
-      "bonuses": [],
-      "values_shard": [
-        50
-      ],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "castable_while_stunned",
-      "values_float": [
-        0
+        5
       ],
       "is_percentage": false,
       "heading_loc": "",
       "bonuses": [],
-      "values_shard": [
-        1
-      ],
+      "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
         "name": "",
@@ -125,7 +98,7 @@
   ],
   "is_item": false,
   "ability_has_scepter": false,
-  "ability_has_shard": true,
+  "ability_has_shard": false,
   "ability_is_granted_by_scepter": false,
   "ability_is_granted_by_shard": false,
   "ability_is_innate": false,

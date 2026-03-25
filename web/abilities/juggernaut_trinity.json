@@ -1,39 +1,33 @@
 {
-  "id": 343,
-  "name": "drow_ranger_multishot",
-  "name_loc": "Multishot",
-  "desc_loc": "CHANNELED - Drow releases a flurry of arrows in continuous salvos, hitting enemies for extra damage and applying Frost Arrows. Lasts up to %abilitychanneltime% seconds.<br><br>Drow can move slowly and use items while casting Multishot.",
-  "lore_loc": "In the ranger's youth, learning to fire multiple arrows at once was considered a distracting frivolity. In the war of the Ancients, such technique has become strange necessity.",
-  "notes_loc": [
-    "Arrow base damage pierces magic immunity.",
-    "Frost Arrows' damage and slow do not pierce magic immunity."
-  ],
+  "id": 1736,
+  "name": "juggernaut_trinity",
+  "name_loc": "",
+  "desc_loc": "",
+  "lore_loc": "",
+  "notes_loc": [],
   "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
   "type": 0,
-  "behavior": "1168",
+  "behavior": "283468365829",
   "target_team": 2,
   "target_type": 19,
-  "flags": 0,
+  "flags": 16,
   "damage": 1,
   "immunity": 3,
-  "dispellable": 0,
-  "max_level": 4,
+  "dispellable": 3,
+  "max_level": 1,
   "cast_ranges": [
-    0
+    475
   ],
   "cast_points": [
-    0
+    0.05
   ],
   "channel_times": [
-    1.75
+    0
   ],
   "cooldowns": [
-    24,
-    21,
-    18,
-    15
+    12
   ],
   "durations": [
     0
@@ -45,90 +39,15 @@
     0
   ],
   "mana_costs": [
-    50,
-    70,
-    90,
-    110
+    60
   ],
   "gold_costs": [],
   "health_costs": [],
   "special_values": [
     {
-      "name": "wave_count",
+      "name": "max_jumps",
       "values_float": [
         3
-      ],
-      "is_percentage": false,
-      "heading_loc": "WAVE COUNT:",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_drow_ranger_8",
-          "value": 1,
-          "operation": 0
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "arrow_count_per_wave",
-      "values_float": [
-        4
-      ],
-      "is_percentage": false,
-      "heading_loc": "ARROWS PER WAVE:",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_drow_ranger_2",
-          "value": 1,
-          "operation": 0
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "arrow_damage_pct",
-      "values_float": [
-        100,
-        120,
-        140,
-        160
-      ],
-      "is_percentage": true,
-      "heading_loc": "ARROW BASE DAMAGE BONUS:",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_drow_ranger_1",
-          "value": 25,
-          "operation": 0
-        }
-      ],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "arrow_width",
-      "values_float": [
-        90
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -143,7 +62,7 @@
       "required_facet": ""
     },
     {
-      "name": "arrow_speed",
+      "name": "jump_speed",
       "values_float": [
         1300
       ],
@@ -160,26 +79,9 @@
       "required_facet": ""
     },
     {
-      "name": "arrow_range_multiplier",
+      "name": "jump_attack_radius",
       "values_float": [
-        1.75
-      ],
-      "is_percentage": false,
-      "heading_loc": "ARROW RANGE MULTIPLIER:",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "arrow_angle",
-      "values_float": [
-        50
+        150
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -194,7 +96,24 @@
       "required_facet": ""
     },
     {
-      "name": "bypass_block",
+      "name": "amplitude",
+      "values_float": [
+        75
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "attack_count",
       "values_float": [
         1
       ],
@@ -211,12 +130,12 @@
       "required_facet": ""
     },
     {
-      "name": "multishot_movespeed",
+      "name": "damage_pct",
       "values_float": [
-        35
+        80
       ],
-      "is_percentage": true,
-      "heading_loc": "MOVEMENT SPEED PENALTY:",
+      "is_percentage": false,
+      "heading_loc": "",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -228,9 +147,43 @@
       "required_facet": ""
     },
     {
-      "name": "AbilityChannelTime",
+      "name": "bladeform_stacks_granted",
       "values_float": [
-        1.75
+        5
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "AbilityCastRange",
+      "values_float": [
+        475
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "AbilityCastPoint",
+      "values_float": [
+        0.05
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -247,10 +200,7 @@
     {
       "name": "AbilityManaCost",
       "values_float": [
-        50,
-        70,
-        90,
-        110
+        60
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -267,20 +217,11 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
-        24,
-        21,
-        18,
-        15
+        12
       ],
       "is_percentage": false,
       "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_drow_ranger_6",
-          "value": 6,
-          "operation": 2
-        }
-      ],
+      "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
       "facet_bonus": {
@@ -295,7 +236,7 @@
   "ability_has_scepter": false,
   "ability_has_shard": false,
   "ability_is_granted_by_scepter": false,
-  "ability_is_granted_by_shard": false,
+  "ability_is_granted_by_shard": true,
   "ability_is_innate": false,
   "item_cost": 0,
   "item_initial_charges": 0,
