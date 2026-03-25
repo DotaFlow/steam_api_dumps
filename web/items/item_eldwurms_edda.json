@@ -1,15 +1,15 @@
 {
-  "id": 67,
-  "name": "item_oblivion_staff",
-  "name_loc": "Oblivion Staff",
-  "desc_loc": "",
-  "lore_loc": "Deceptively hidden as an ordinary staff, it is actually very powerful, much like the Eldritch who originally possessed it.",
+  "id": 1850,
+  "name": "item_eldwurms_edda",
+  "name_loc": "Eldwurm's Edda",
+  "desc_loc": "<h1>Passive: Forbidden Knowledge</h1>When consumed, increases Winter Wyvern's base intelligence by %intellect_pct%%% of its current value at the time of consumption, and increases the current and maximum level of a basic ability by one. All values except for Mana Cost scale by 50% of the difference between their existing levels for the additional level",
+  "lore_loc": "",
   "notes_loc": [],
   "shard_loc": "",
   "scepter_loc": "",
   "facets_loc": [],
   "type": 0,
-  "behavior": "2",
+  "behavior": "17592186044418",
   "target_team": 0,
   "target_type": 0,
   "flags": 0,
@@ -27,7 +27,7 @@
     0
   ],
   "cooldowns": [
-    0
+    600
   ],
   "durations": [
     0
@@ -45,12 +45,12 @@
   "health_costs": [],
   "special_values": [
     {
-      "name": "bonus_intellect",
+      "name": "intellect_pct",
       "values_float": [
-        10
+        25
       ],
       "is_percentage": false,
-      "heading_loc": "+$int",
+      "heading_loc": "",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -62,29 +62,12 @@
       "required_facet": ""
     },
     {
-      "name": "bonus_attack_speed",
+      "name": "AbilityCooldown",
       "values_float": [
-        35
+        600
       ],
       "is_percentage": false,
-      "heading_loc": "+$attack",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
-      "required_facet": ""
-    },
-    {
-      "name": "bonus_mana_regen",
-      "values_float": [
-        1.25
-      ],
-      "is_percentage": false,
-      "heading_loc": "+$mana_regen",
+      "heading_loc": "",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -102,10 +85,10 @@
   "ability_is_granted_by_scepter": false,
   "ability_is_granted_by_shard": false,
   "ability_is_innate": false,
-  "item_cost": 1625,
+  "item_cost": 0,
   "item_initial_charges": 0,
   "item_neutral_tier": 4294967295,
   "item_stock_max": 0,
   "item_stock_time": 0,
-  "item_quality": 2
+  "item_quality": 1
 }
