@@ -1,7 +1,7 @@
 {
   "id": 529,
   "name": "special_bonus_unique_chen_8",
-  "name_loc": "-{s:bonus_bonus_movement_speed}% Penitence Slow",
+  "name_loc": "+{s:bonus_bonus_movement_speed}% Penitence Slow",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],
