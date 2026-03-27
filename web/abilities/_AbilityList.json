@@ -17787,6 +17787,18 @@
           "is_innate": false
         },
         {
+          "id": 1876,
+          "name": "rubick_hidden5",
+          "name_loc": "",
+          "name_english_loc": "",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
           "id": 5458,
           "name": "disruptor_thunder_strike",
           "name_loc": "Thunder Strike",
@@ -28061,8 +28073,8 @@
         {
           "id": 529,
           "name": "special_bonus_unique_chen_8",
-          "name_loc": "-{s:bonus_bonus_movement_speed}% Penitence Slow",
-          "name_english_loc": "-{s:bonus_bonus_movement_speed}% Penitence Slow",
+          "name_loc": "+{s:bonus_bonus_movement_speed}% Penitence Slow",
+          "name_english_loc": "+{s:bonus_bonus_movement_speed}% Penitence Slow",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -30159,10 +30171,10 @@
           "is_innate": false
         },
         {
-          "id": 814,
-          "name": "special_bonus_unique_slark_5",
-          "name_loc": "+{s:bonus_agi_gain} Agility gain/stolen per Essence Shift Stack",
-          "name_english_loc": "+{s:bonus_agi_gain} Agility gain/stolen per Essence Shift Stack",
+          "id": 6894,
+          "name": "special_bonus_unique_slark_4",
+          "name_loc": "+{s:bonus_duration}s Essence Shift Duration",
+          "name_english_loc": "+{s:bonus_duration}s Essence Shift Duration",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -30195,10 +30207,10 @@
           "is_innate": false
         },
         {
-          "id": 6894,
-          "name": "special_bonus_unique_slark_4",
-          "name_loc": "+{s:bonus_duration}s Essence Shift Duration",
-          "name_english_loc": "+{s:bonus_duration}s Essence Shift Duration",
+          "id": 814,
+          "name": "special_bonus_unique_slark_5",
+          "name_loc": "+{s:bonus_agi_gain} Agility gain/stolen per Essence Shift Stack",
+          "name_english_loc": "+{s:bonus_agi_gain} Agility gain/stolen per Essence Shift Stack",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
