@@ -85,9 +85,9 @@
     {
       "name": "buff_duration",
       "values_float": [
-        7,
         8,
-        9
+        10,
+        12
       ],
       "is_percentage": false,
       "heading_loc": "",
