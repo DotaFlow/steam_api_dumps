@@ -1,0 +1,13 @@
+/**** (c) Valve Corporation. Use is governed by the terms of the Steam Subscriber Agreement http://store.steampowered.com/subscriber_agreement/.
+ ****/
+'use strict';
+(self.webpackChunkdota_react = self.webpackChunkdota_react || []).push([
+  [3147],
+  {
+    3147: (a) => {
+      a.exports = JSON.parse(
+        '{"crownfallcomic_title_cover":"Koninginnedag – Titelpagina","crownfallcomic_title":"Koninginnedag – Pagina %1$s","crownfallcomic_help_text":"Klik op de afbeelding of gebruik de spatiebalk om verder te gaan","crownfallcomic_return_button":"Terug naar de titelpagina","crownfallcomic_act1_intro_title_cover":"Koninginnedag – Titelpagina","crownfallcomic_act1_intro_title":"Koninginnedag – Pagina %1$s","crownfallcomic_act2_intro_title_cover":"De slag bij het Hellebekken – Titelpagina","crownfallcomic_act2_intro_title":"De slag bij het Hellebekken – Pagina %1$s","crownfallcomic_act3_intro_title_cover":"De draak – Titelpagina","crownfallcomic_act3_intro_title":"De draak – Pagina %1$s"}',
+      );
+    },
+  },
+]);

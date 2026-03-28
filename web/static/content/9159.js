@@ -1,0 +1,13 @@
+/**** (c) Valve Corporation. Use is governed by the terms of the Steam Subscriber Agreement http://store.steampowered.com/subscriber_agreement/.
+ ****/
+'use strict';
+(self.webpackChunkdota_react = self.webpackChunkdota_react || []).push([
+  [9159],
+  {
+    19159: (e) => {
+      e.exports = JSON.parse(
+        '{"language":"french","kez_website_title":"Kez : nouveau héros de Dota 2","kez_newhero_section_subheader":"Nouveau héros","kez_newhero_name":"Kez (Falco)","kez_newhero_description":"En matière de stratégie, Kez a tendance à improviser : il peut alterner entre son Katana et ses Sais pour trancher, charger, fondre sur ses proies et bloquer les attaques en fonction de la situation.<br><br>Ça ne l\'empêche pas d\'être capable de parer à toutes les éventualités : il a un outil pour toutes les situations (du moins, s\'il a le temps de se souvenir comment l\'utiliser). Avec un peu de préparation, il peut s\'échapper, attaquer, ou simplement se montrer plus malin que ses adversaires.","kez_abilities_heading":"Plus d\'armes, plus de capacités, plus d\'options","kez_hero_detail_button":"Voir la page du héros","kez_play_trailer_button":"Voir la bande-annonce","kez_wallpapers":"Fonds d\'écran","kez_comic_section_catchup":"Précédemment…","kez_comic_section_comic_title":"Nuit de l\'ascension","kez_comic_section_comic_blub":"Avant de devenir chef des Kazuraïs, Kez était un jeune oiseau rebelle avec un talent inouï pour s\'attirer des ennuis et concocter des plans bancals. Un soir que la ville était en émoi pour célébrer la fête la plus importante de l\'année, il entreprit de partir à la rescousse de son ami.","kez_comic_section_read_comic":"Lire la BD","kez_ability_description":"Kez maitrise deux d\'armes, il est donc tout à fait normal qu\'il dispose de deux ensembles de capacités : l\'un pour son Katana, l\'autre pour ses Sais. Chaque arme s\'accompagne également d\'effets uniques lors des attaques, mais comme une vidéo vaut bien mille mots, nous vous invitons à jeter un œil ci-dessous pour avoir un aperçu de Kez en action.","kez_ability_switch_weapons":"Switch Discipline","kez_ability_set_katana":"Katana","kez_ability_set_sai":"Sai","kez_details_more_info":"Statistiques détaillées de Kez"}',
+      );
+    },
+  },
+]);

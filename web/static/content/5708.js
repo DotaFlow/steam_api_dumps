@@ -1,0 +1,13 @@
+/**** (c) Valve Corporation. Use is governed by the terms of the Steam Subscriber Agreement http://store.steampowered.com/subscriber_agreement/.
+ ****/
+'use strict';
+(self.webpackChunkdota_react = self.webpackChunkdota_react || []).push([
+  [5708],
+  {
+    35708: (e) => {
+      e.exports = JSON.parse(
+        '{"language":"russian","kez_website_title":"Kez — новый герой Dota 2","kez_newhero_section_subheader":"Представляем","kez_newhero_name":"Kez","kez_newhero_description":"Обычно в бою Кеза окрыляет фантазия: он на лету меняет катану на саи и обратно, чтобы при надобности нападать, рубить, парировать и отступать.<br><br>Но когда Кез берётся за дело всерьёз, он может заранее приготовиться к любому развитию событий и верно распорядиться своим богатым арсеналом (если вовремя вспомнит о нужном орудии), чтобы атаковать, избежать или попросту перехитрить противников.","kez_abilities_heading":"Больше оружия, больше способностей, больше возможностей","kez_hero_detail_button":"Информация о герое","kez_play_trailer_button":"Трейлер","kez_wallpapers":"Обои","kez_comic_section_catchup":"Узнайте предысторию","kez_comic_section_comic_title":"Ночь вознесения","kez_comic_section_comic_blub":"Прежде чем стать лидером казураев, Кез был птенцом с подвешенным языком, талантом встревать в неприятности и не доведённым до ума планом по спасению друга посреди самой оживлённой ночи в году.","kez_comic_section_read_comic":"Комикс","kez_ability_description":"Кез владеет двумя стилями боя с разным оружием, так что у него есть сразу два набора способностей: один доступен при сражении казурайской катаной, а другой — когда в дело вступают клинки сай ордена Шодо. У каждого набора оружия также есть свои уникальные эффекты атаки, но мы не хотим портить ваши впечатления своими долгими россказнями, так что рекомендуем просто посмотреть ниже и увидеть Кеза в действии.","kez_ability_switch_weapons":"Смена стиля","kez_ability_set_katana":"Катана","kez_ability_set_sai":"Саи","kez_details_more_info":"Подробные характеристики героя"}',
+      );
+    },
+  },
+]);
