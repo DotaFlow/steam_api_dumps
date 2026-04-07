@@ -53,10 +53,10 @@
     {
       "name": "bonus_attack_speed",
       "values_float": [
-        100,
-        130,
+        80,
+        120,
         160,
-        190
+        200
       ],
       "is_percentage": false,
       "heading_loc": "BONUS ATTACK SPEED:",
@@ -79,7 +79,7 @@
     {
       "name": "duration",
       "values_float": [
-        2.5
+        3
       ],
       "is_percentage": false,
       "heading_loc": "DURATION:",
