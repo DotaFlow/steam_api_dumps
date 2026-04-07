@@ -163,27 +163,6 @@
           "required_facet": ""
         },
         {
-          "name": "magic_resist",
-          "values_float": [],
-          "is_percentage": false,
-          "heading_loc": "",
-          "bonuses": [
-            {
-              "name": "special_bonus_unique_doom_3",
-              "value": 15,
-              "operation": 0
-            }
-          ],
-          "values_shard": [],
-          "values_scepter": [],
-          "facet_bonus": {
-            "name": "",
-            "values": [],
-            "operation": 0
-          },
-          "required_facet": ""
-        },
-        {
           "name": "can_target_ancient",
           "values_float": [
             0
@@ -433,9 +412,9 @@
           "name": "damage_per_second",
           "values_float": [
             20,
-            35,
-            50,
-            65
+            30,
+            40,
+            50
           ],
           "is_percentage": false,
           "heading_loc": "DAMAGE:",
@@ -727,7 +706,7 @@
           "bonuses": [
             {
               "name": "special_bonus_unique_doom_1",
-              "value": 2.5,
+              "value": 1.5,
               "operation": 0
             }
           ],
@@ -930,8 +909,8 @@
         {
           "name": "damage",
           "values_float": [
-            25,
-            45,
+            22,
+            44,
             66
           ],
           "is_percentage": false,
@@ -1287,9 +1266,9 @@
   ],
   "talents": [
     {
-      "id": 6369,
-      "name": "special_bonus_unique_doom_3",
-      "name_loc": "Devour grants {s:bonus_magic_resist}% Magic Resistance",
+      "id": 5937,
+      "name": "special_bonus_magic_resistance_10",
+      "name_loc": "+{s:value}% Magic Resistance",
       "desc_loc": "",
       "lore_loc": "",
       "notes_loc": [],
@@ -1335,7 +1314,25 @@
       ],
       "gold_costs": [],
       "health_costs": [],
-      "special_values": [],
+      "special_values": [
+        {
+          "name": "value",
+          "values_float": [
+            10
+          ],
+          "is_percentage": false,
+          "heading_loc": "",
+          "bonuses": [],
+          "values_shard": [],
+          "values_scepter": [],
+          "facet_bonus": {
+            "name": "",
+            "values": [],
+            "operation": 0
+          },
+          "required_facet": ""
+        }
+      ],
       "is_item": false,
       "ability_has_scepter": false,
       "ability_has_shard": false,
@@ -1476,9 +1473,9 @@
       "item_quality": 0
     },
     {
-      "id": 1676,
-      "name": "special_bonus_attack_damage_66",
-      "name_loc": "+{s:value} Damage",
+      "id": 6073,
+      "name": "special_bonus_unique_doom_1",
+      "name_loc": "+{s:bonus_burn_damage_pct}% Infernal Blade Max HP As Damage",
       "desc_loc": "",
       "lore_loc": "",
       "notes_loc": [],
@@ -1524,25 +1521,7 @@
       ],
       "gold_costs": [],
       "health_costs": [],
-      "special_values": [
-        {
-          "name": "value",
-          "values_float": [
-            66
-          ],
-          "is_percentage": false,
-          "heading_loc": "",
-          "bonuses": [],
-          "values_shard": [],
-          "values_scepter": [],
-          "facet_bonus": {
-            "name": "",
-            "values": [],
-            "operation": 0
-          },
-          "required_facet": ""
-        }
-      ],
+      "special_values": [],
       "is_item": false,
       "ability_has_scepter": false,
       "ability_has_shard": false,
@@ -1620,9 +1599,9 @@
       "item_quality": 0
     },
     {
-      "id": 6073,
-      "name": "special_bonus_unique_doom_1",
-      "name_loc": "+{s:bonus_burn_damage_pct}% Infernal Blade Max HP As Damage",
+      "id": 1676,
+      "name": "special_bonus_attack_damage_66",
+      "name_loc": "+{s:value} Damage",
       "desc_loc": "",
       "lore_loc": "",
       "notes_loc": [],
@@ -1668,7 +1647,25 @@
       ],
       "gold_costs": [],
       "health_costs": [],
-      "special_values": [],
+      "special_values": [
+        {
+          "name": "value",
+          "values_float": [
+            66
+          ],
+          "is_percentage": false,
+          "heading_loc": "",
+          "bonuses": [],
+          "values_shard": [],
+          "values_scepter": [],
+          "facet_bonus": {
+            "name": "",
+            "values": [],
+            "operation": 0
+          },
+          "required_facet": ""
+        }
+      ],
       "is_item": false,
       "ability_has_scepter": false,
       "ability_has_shard": false,

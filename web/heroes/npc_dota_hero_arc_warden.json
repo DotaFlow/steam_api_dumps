@@ -603,7 +603,7 @@
           "bonuses": [
             {
               "name": "special_bonus_unique_arc_warden_9",
-              "value": 5,
+              "value": 4,
               "operation": 2
             }
           ],
@@ -773,7 +773,7 @@
           "bonuses": [
             {
               "name": "special_bonus_unique_arc_warden",
-              "value": 200,
+              "value": 240,
               "operation": 0
             }
           ],
@@ -1068,7 +1068,7 @@
           "bonuses": [
             {
               "name": "special_bonus_unique_arc_warden_8",
-              "value": 1.5,
+              "value": 1,
               "operation": 0
             }
           ],
@@ -1693,9 +1693,9 @@
       "item_quality": 0
     },
     {
-      "id": 6287,
-      "name": "special_bonus_unique_arc_warden",
-      "name_loc": "+{s:bonus_spark_damage_base} Spark Wraith Damage",
+      "id": 975,
+      "name": "special_bonus_unique_arc_warden_7",
+      "name_loc": "+{s:bonus_duration}s Spark Wraith Duration",
       "desc_loc": "",
       "lore_loc": "",
       "notes_loc": [],
@@ -1885,9 +1885,9 @@
       "item_quality": 0
     },
     {
-      "id": 975,
-      "name": "special_bonus_unique_arc_warden_7",
-      "name_loc": "+{s:bonus_duration}s Spark Wraith Duration",
+      "id": 6287,
+      "name": "special_bonus_unique_arc_warden",
+      "name_loc": "+{s:bonus_spark_damage_base} Spark Wraith Damage",
       "desc_loc": "",
       "lore_loc": "",
       "notes_loc": [],
