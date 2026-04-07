@@ -8489,8 +8489,8 @@
         {
           "id": 739,
           "name": "special_bonus_unique_drow_ranger_8",
-          "name_loc": "+{s:bonus_wave_count} Multishot Wave",
-          "name_english_loc": "+{s:bonus_wave_count} Multishot Wave",
+          "name_loc": "+{s:bonus_wave_count} Multishot Waves",
+          "name_english_loc": "+{s:bonus_wave_count} Multishot Waves",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -23705,8 +23705,8 @@
         {
           "id": 6809,
           "name": "special_bonus_unique_bloodseeker_4",
-          "name_loc": "+{s:bonus_bonus_movement_speed}% Max Thirst MS",
-          "name_english_loc": "+{s:bonus_bonus_movement_speed}% Max Thirst MS",
+          "name_loc": "+{s:bonus_bonus_movement_speed}% Max Thirst Move Speed",
+          "name_english_loc": "+{s:bonus_bonus_movement_speed}% Max Thirst Move Speed",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -23801,8 +23801,8 @@
         {
           "id": 6105,
           "name": "special_bonus_unique_juggernaut",
-          "name_loc": "+{s:bonus_blade_fury_damage} Blade Fury DPS",
-          "name_english_loc": "+{s:bonus_blade_fury_damage} Blade Fury DPS",
+          "name_loc": "+{s:bonus_blade_fury_damage} Blade Fury Damage Per Second",
+          "name_english_loc": "+{s:bonus_blade_fury_damage} Blade Fury Damage Per Second",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -28215,18 +28215,6 @@
           "is_innate": false
         },
         {
-          "id": 6369,
-          "name": "special_bonus_unique_doom_3",
-          "name_loc": "Devour grants {s:bonus_magic_resist}% Magic Resistance",
-          "name_english_loc": "Devour grants {s:bonus_magic_resist}% Magic Resistance",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": [],
-          "is_innate": false
-        },
-        {
           "id": 6370,
           "name": "special_bonus_unique_doom_4",
           "name_loc": "+{s:bonus_ministun_duration}s Infernal Blade Stun Duration",
@@ -28251,10 +28239,10 @@
           "is_innate": false
         },
         {
-          "id": 733,
-          "name": "special_bonus_unique_doom_9",
-          "name_loc": "-{s:bonus_AbilityCooldown}s Doom Cooldown",
-          "name_english_loc": "-{s:bonus_AbilityCooldown}s Doom Cooldown",
+          "id": 6073,
+          "name": "special_bonus_unique_doom_1",
+          "name_loc": "+{s:bonus_burn_damage_pct}% Infernal Blade Max HP As Damage",
+          "name_english_loc": "+{s:bonus_burn_damage_pct}% Infernal Blade Max HP As Damage",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -28263,10 +28251,10 @@
           "is_innate": false
         },
         {
-          "id": 6073,
-          "name": "special_bonus_unique_doom_1",
-          "name_loc": "+{s:bonus_burn_damage_pct}% Infernal Blade Max HP As Damage",
-          "name_english_loc": "+{s:bonus_burn_damage_pct}% Infernal Blade Max HP As Damage",
+          "id": 733,
+          "name": "special_bonus_unique_doom_9",
+          "name_loc": "-{s:bonus_AbilityCooldown}s Doom Cooldown",
+          "name_english_loc": "-{s:bonus_AbilityCooldown}s Doom Cooldown",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -28563,10 +28551,10 @@
           "is_innate": false
         },
         {
-          "id": 7144,
-          "name": "special_bonus_unique_alchemist_5",
-          "name_loc": "+{s:bonus_armor_reduction} Acid Spray Armor Reduction",
-          "name_english_loc": "+{s:bonus_armor_reduction} Acid Spray Armor Reduction",
+          "id": 1823,
+          "name": "special_bonus_unique_alchemist_weaponry_power",
+          "name_loc": "+{s:bonus_slow_per_stack}% Corrosive Weaponry Slow / Damage Reduction Per Stack",
+          "name_english_loc": "+{s:bonus_slow_per_stack}% Corrosive Weaponry Slow / Damage Reduction Per Stack",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -28587,10 +28575,10 @@
           "is_innate": false
         },
         {
-          "id": 1823,
-          "name": "special_bonus_unique_alchemist_weaponry_power",
-          "name_loc": "+{s:bonus_slow_per_stack}% Corrosive Weaponry Slow / Damage Reduction Per Stack",
-          "name_english_loc": "+{s:bonus_slow_per_stack}% Corrosive Weaponry Slow / Damage Reduction Per Stack",
+          "id": 7144,
+          "name": "special_bonus_unique_alchemist_5",
+          "name_loc": "+{s:bonus_armor_reduction} Acid Spray Armor Reduction",
+          "name_english_loc": "+{s:bonus_armor_reduction} Acid Spray Armor Reduction",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -28719,10 +28707,10 @@
           "is_innate": false
         },
         {
-          "id": 1634,
-          "name": "special_bonus_unique_invoker_orb_levels",
-          "name_loc": "+1 Orb Levels",
-          "name_english_loc": "+1 Orb Levels",
+          "id": 1747,
+          "name": "special_bonus_unique_invoker_forged_spirit_armor_reduction",
+          "name_loc": "+{s:bonus_armor_removed}% Forged Spirit Armor Reduction",
+          "name_english_loc": "+{s:bonus_armor_removed}% Forged Spirit Armor Reduction",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -29283,10 +29271,10 @@
           "is_innate": false
         },
         {
-          "id": 6689,
-          "name": "special_bonus_unique_meepo_2",
-          "name_loc": "+{s:bonus_poof_damage} Poof Damage",
-          "name_english_loc": "+{s:bonus_poof_damage} Poof Damage",
+          "id": 7027,
+          "name": "special_bonus_unique_meepo_3",
+          "name_loc": "-{s:bonus_AbilityCooldown}s Earthbind Cooldown",
+          "name_english_loc": "-{s:bonus_AbilityCooldown}s Earthbind Cooldown",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -29295,10 +29283,10 @@
           "is_innate": false
         },
         {
-          "id": 7027,
-          "name": "special_bonus_unique_meepo_3",
-          "name_loc": "-{s:bonus_AbilityCooldown}s Earthbind Cooldown",
-          "name_english_loc": "-{s:bonus_AbilityCooldown}s Earthbind Cooldown",
+          "id": 6689,
+          "name": "special_bonus_unique_meepo_2",
+          "name_loc": "+{s:bonus_poof_damage} Poof Damage",
+          "name_english_loc": "+{s:bonus_poof_damage} Poof Damage",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -32321,8 +32309,8 @@
         {
           "id": 1668,
           "name": "special_bonus_unique_largo_2",
-          "name_loc": "x{s:bonus_dispel_hp_regen} Catchy Lick Health Regen",
-          "name_english_loc": "x{s:bonus_dispel_hp_regen} Catchy Lick Health Regen",
+          "name_loc": "{s:bonus_dispel_hp_regen}x Catchy Lick Health Regen",
+          "name_english_loc": "{s:bonus_dispel_hp_regen}x Catchy Lick Health Regen",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
