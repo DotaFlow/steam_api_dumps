@@ -1,7 +1,7 @@
 {
   "id": 6809,
   "name": "special_bonus_unique_bloodseeker_4",
-  "name_loc": "+{s:bonus_bonus_movement_speed}% Max Thirst MS",
+  "name_loc": "+{s:bonus_bonus_movement_speed}% Max Thirst Move Speed",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],

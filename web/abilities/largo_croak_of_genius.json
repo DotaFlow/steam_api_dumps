@@ -42,10 +42,7 @@
     0
   ],
   "mana_costs": [
-    25,
-    35,
-    45,
-    55
+    40
   ],
   "gold_costs": [],
   "health_costs": [],
@@ -128,9 +125,9 @@
     {
       "name": "duration",
       "values_float": [
-        12,
-        18,
-        24,
+        15,
+        20,
+        25,
         30
       ],
       "is_percentage": false,
@@ -216,10 +213,7 @@
     {
       "name": "AbilityManaCost",
       "values_float": [
-        25,
-        35,
-        45,
-        55
+        40
       ],
       "is_percentage": false,
       "heading_loc": "",
