@@ -1,4 +1,4 @@
-# [DotaFlow](https://dotaflow.online)
+# [DotaFlow](https://dotaflow.com)
 
 ## Folders
 ### { Dota 2 | Deadlock | Counter-Strike 2 }/{ experimental | public | staging }
@@ -51,5 +51,5 @@ ____
 ## Links
 - Telegram with updates notifications: [t.me/dotaflowupdates](https://t.me/dotaflowupdates)
 - Telegram with news/datamine: [t.me/DotaFlowNews](https://t.me/DotaFlowNews)
-- Our website: [dotaflow.online](https://dotaflow.online)
-- Contact: contact@dotaflow.online (or [t.me/notrenuit](https://t.me/notrenuit) for some private staff)
+- Our website: [dotaflow.com](https://dotaflow.com)
+- Contact: contact@dotaflow.com (or [t.me/notrenuit](https://t.me/notrenuit) for some private staff)
