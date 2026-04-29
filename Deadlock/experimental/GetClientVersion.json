@@ -1,7 +1,7 @@
 {
   "result": {
     "success": true,
-    "min_allowed_version": 1624,
+    "min_allowed_version": 1626,
     "active_version": 1626
   }
 }
