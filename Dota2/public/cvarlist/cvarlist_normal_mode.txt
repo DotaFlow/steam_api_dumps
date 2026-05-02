@@ -1,3 +1,4 @@
+[Console] dota_crownfall_intro_state                                                       : 3                : cl, a                            :
 [Console] dota_crownfall_intro_state_act_2                                                 : 3                : cl, a                            :
 [Console] dota_crownfall_intro_state_act_3                                                 : 1                : cl, a                            :
 [Console] dota_crownfall_intro_state_act_4                                                 : 3                : cl, a                            :
@@ -11,7 +12,7 @@
 [Console] dota_custom_invoker_spell_keys                                                   : false            : cl, a                            :
 [Console] dota_damage_flash                                                                : true             : sv, a                            : Flash when enemies take damage from the player
 [Console] dota_dashboard_enable_mouse_history                                              : true             : cl, a, per_user                  : Enables Mouse4/Mouse5 to navigate dashboard history.
-[Console] dota_dashboard_launch_count                                                      : 879              : cl, a, per_user                  :
+[Console] dota_dashboard_launch_count                                                      : 910              : cl, a, per_user                  :
 [Console] dota_data_teams_max_network_changes                                              : 256              : sv, release                      :
 [Console] dota_daynightcycle_pause                                                         : false            : sv, cheat                        : 0 = resume day/night cycle; 1 = pause day/night cycle; default = 0;
 [Console] dota_daynightcycle_toggle                                                        : cmd              : sv, cheat                        : Toggle the day-night cycle.
@@ -170,7 +171,7 @@
 [Console] dota_hide_frontpage_video                                                        : false            : cl, a                            : Don't load the frontpage streaming video.
 [Console] dota_hide_tips_on_loading_screens                                                : false            : cl, a, per_user                  :
 [Console] dota_hide_wearables                                                              : false            : sv, cl, rep, cheat               : If set, wearables (default body parts) will be hidden. This is for the item icon editor.
-[Console] dota_highest_seen_item_id                                                        : 35080630581      : cl, a, per_user                  :
+[Console] dota_highest_seen_item_id                                                        : 35187971733      : cl, a, per_user                  :
 [Console] dota_highlight_reel_debug                                                        : false            : cl, cheat                        :
 [Console] dota_hud_colorblind                                                              : 0                : cl, a, per_user                  : Which color mode to use for HUD elements (name is legacy)
 [Console] dota_hud_contextual_tips_disable                                                 : false            : cl, a, per_user                  : Disable in-game contextual tips
@@ -214,10 +215,10 @@
 [Console] dota_kill_unit_by_name                                                           : cmd              : sv, cheat                        : Kill a specific unit by unit name.
 [Console] dota_lag_compensation_test                                                       : 0                : sv, cheat                        :
 [Console] dota_lane_selection_hard_support                                                 : true             : cl, a                            :
-[Console] dota_lane_selection_midlane                                                      : false            : cl, a                            :
-[Console] dota_lane_selection_offlane                                                      : false            : cl, a                            :
-[Console] dota_lane_selection_safelane                                                     : false            : cl, a                            :
-[Console] dota_lane_selection_soft_support                                                 : false            : cl, a                            :
+[Console] dota_lane_selection_midlane                                                      : true             : cl, a                            :
+[Console] dota_lane_selection_offlane                                                      : true             : cl, a                            :
+[Console] dota_lane_selection_safelane                                                     : true             : cl, a                            :
+[Console] dota_lane_selection_soft_support                                                 : true             : cl, a                            :
 [Console] dota_last_acknowledged_plus_status                                               : 1                : cl, a, per_user                  :
 [Console] dota_last_event_id                                                               : 0                : cl, a, per_user                  :
 [Console] dota_last_primary_event_id                                                       : 0                : cl, a                            :
@@ -374,14 +375,14 @@
 [Console] dota_poogie_distance_from_ancient_to_follow_hero                                 : 1500             : sv, cheat                        :
 [Console] dota_poogie_distance_from_effigy_in_demo_mode                                    : 450              : sv, cheat                        :
 [Console] dota_poogie_emote_animation_duration                                             : 3.8              : sv, cheat                        :
-[Console] dota_poogie_enemies_near_base_timer_duration                                     : 5                : sv, cheat                        :
+[Console] dota_poogie_enemies_near_base_timer_duration                                     : 15               : sv, cheat                        :
 [Console] dota_poogie_greet_hero_cooldown_duration                                         : 300              : sv, cheat                        :
 [Console] dota_poogie_high_five_acknowledge_range                                          : 230              : sv, cheat                        :
 [Console] dota_poogie_high_five_cooldown_duration                                          : 5                : sv, cheat                        :
 [Console] dota_poogie_high_five_distance_from_hero                                         : 550              : sv, cheat                        :
 [Console] dota_poogie_position_offsets_timer                                               : 9                : sv, cheat                        :
 [Console] dota_poogie_search_effigy_reference_duration                                     : 5                : sv, cheat                        :
-[Console] dota_poogie_search_radius_from_ancient_for_enemies                               : 3000             : sv, cheat                        :
+[Console] dota_poogie_search_radius_from_ancient_for_enemies                               : 3500             : sv, cheat                        :
 [Console] dota_poogie_stressed_position_offsets_timer                                      : 3.5              : sv, cheat                        :
 [Console] dota_poogie_vanish_animation_duration                                            : 1                : sv, cheat                        :
 [Console] dota_portrait_debug_item_def_index                                               : 0                : cl, cheat                        : Enables icon modification shader for specific item def index.
@@ -466,13 +467,13 @@
 [Console] dota_scenario_autosave_remotely                                                  : false            : cl, release                      : Allow autosaving while in HLTV/replay.  (Not saved in settings)
 [Console] dota_scenario_enable                                                             : false            : cl, a, release                   : Enable scenario ui in private lobbies
 [Console] dota_screen_shake                                                                : false            : cl, a, per_user                  :
-[Console] dota_seasonal_dialogue_mask                                                      : 263302           : cl, a, release                   :
+[Console] dota_seasonal_dialogue_mask                                                      : 394374           : cl, a, release                   :
 [Console] dota_selection_groups                                                            : true             : cl, a, per_user                  : If set, certain units like spiderlings, eidolons and treants are considered groups for selection.
 [Console] dota_send_poogie_fled_message                                                    : cmd              : sv, cheat                        :
 [Console] dota_settings_quick_move                                                         : false            : cl, a, per_user                  :
 [Console] dota_settings_quick_target_attack                                                : true             : cl, a, per_user                  :
 [Console] dota_settings_reborn_dismissed_new_settings                                      : 0                : cl, a                            : New Settings which have already been dismissed by the user
-[Console] dota_settings_reborn_seen_new_settings                                           : 16,              : cl, a                            : New Settings which have already been seen by the user
+[Console] dota_settings_reborn_seen_new_settings                                           : 0                : cl, a                            : New Settings which have already been seen by the user
 [Console] dota_settings_targeted_attack_move                                               : true             : cl, a, per_user                  :
 [Console] dota_settings_targeted_attack_move_radius                                        : 200              : cl, cheat                        :
 [Console] dota_settings_use_keybinder_v2                                                   : false            : cl, a                            :
@@ -570,7 +571,7 @@
 [Console] dota_trivia_autoplay_sounds                                                      : true             : cl, a                            : Determines whether or not to autoplay trivia sounds.
 [Console] dota_trivia_chat_enabled2                                                        : false            : cl, a                            :
 [Console] dota_turbo_courier_default_auto_deliver                                          : true             : cl, a, user, per_user, release   : Whether courier auto mode is on in Turbo.
-[Console] dota_turbo_matches_played                                                        : 761              : cl, a, per_user                  :
+[Console] dota_turbo_matches_played                                                        : 762              : cl, a, per_user                  :
 [Console] dota_tutorial_disable_bot_situational_items                                      : false            : sv, cheat                        :
 [Console] dota_tutorial_force_bot_defend                                                   : false            : sv, cheat                        :
 [Console] dota_tutorial_percent_bot_exp_decrease                                           : 0                : sv, cheat                        :
@@ -1318,7 +1319,7 @@
 [Console] particle_test_file                                                               : 0                : sv, cheat                        : Name of the particle system to dynamically spawn
 [Console] particle_test_start                                                              : cmd              : sv, cheat                        : Dispatches the test particle system with the parameters specified in particle_test_file,  particle_test_attach_mode and particle_test_attach_param on the entity the player is looking at.  Arguments:    {entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}
 [Console] particle_test_stop                                                               : cmd              : sv, cheat                        : Stops all particle systems on the selected entities.  Arguments:    {entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}
-[Console] password                                                                         : 223325690955277038 : a, norecord, server_cant_query   : Current server access password
+[Console] password                                                                         : 30461683234516735 : a, norecord, server_cant_query   : Current server access password
 [Console] pause                                                                            : cmd              : release                          : Toggle the server pause state.
 [Console] phys_dynamic_scaling                                                             : true             : sv, cl, rep, cheat               :
 [Console] phys_expensive_shape_threshold                                                   : 6                : cl, cheat                        :
@@ -1786,7 +1787,7 @@
 [Console] sv_alltalk                                                                       : false            : sv, nf, release                  : Players can hear all other players' voice communication, no team restrictions
 [Console] sv_banid_enabled                                                                 : true             : release                          : Whether server supports banid command
 [Console] sv_bounce                                                                        : 0                : sv, cl, nf, rep, release         : Bounce multiplier for when physically simulated objects collide with other objects.
-[Console] sv_cheats                                                                        : true             : nf, rep, release                 : Allow cheats on server
+[Console] sv_cheats                                                                        : false            : nf, rep, release                 : Allow cheats on server
 [Console] sv_clockcorrection_msecs                                                         : 60               : sv, release                      : The server tries to keep each player's m_nTickBase withing this many msecs of the server absolute tickcount
 [Console] sv_cluster                                                                       : 0                : release                          : Data center cluster this server lives in.
 [Console] sv_cq_trim_bloat_remainder                                                       : 1                : sv, release                      : When trimming a bloated CQ, leave at least N more commands than the minimum
@@ -1906,7 +1907,7 @@
 [Console] Test_ExitProcess                                                                 : cmd              : cheat                            : Test_ExitProcess <exit code> - immediately kill the process.
 [Console] test_list_entities                                                               : cmd              : sv, cheat                        : test-list entities
 [Console] test_shipping_assert                                                             : cmd              : release                          : Generate an assert to test shipping assertion code
-[Console] think_limit                                                                      : 10               : sv, cl, rep, release             : Maximum think time in milliseconds, warning is printed if this is exceeded.
+[Console] think_limit                                                                      : 0                : sv, cl, rep, release             : Maximum think time in milliseconds, warning is printed if this is exceeded.
 [Console] thirdperson                                                                      : cmd              : cl, cheat, execute_per_tick      : Switch to thirdperson camera.
 [Console] thirdperson_mayamode                                                             : cmd              : cl, cheat                        : Switch to thirdperson Maya-like camera controls.
 [Console] ti11_takeover_spoilers_blocked                                                   : false            : cl, a, per_user                  : Avoid spoilers for takeover matches
