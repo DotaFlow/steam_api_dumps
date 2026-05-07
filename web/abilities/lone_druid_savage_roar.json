@@ -155,7 +155,7 @@
       "heading_loc": "BONUS MOVEMENT SPEED:",
       "bonuses": [],
       "values_shard": [
-        15
+        10
       ],
       "values_scepter": [],
       "facet_bonus": {
@@ -193,7 +193,7 @@
       "heading_loc": "DURATION:",
       "bonuses": [],
       "values_shard": [
-        5
+        4
       ],
       "values_scepter": [],
       "facet_bonus": {
