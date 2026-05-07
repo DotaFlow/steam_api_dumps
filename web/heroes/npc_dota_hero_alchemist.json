@@ -76,10 +76,7 @@
         0
       ],
       "cooldowns": [
-        22,
-        21,
-        20,
-        19
+        21
       ],
       "durations": [
         0
@@ -271,10 +268,7 @@
         {
           "name": "AbilityCooldown",
           "values_float": [
-            22,
-            21,
-            20,
-            19
+            21
           ],
           "is_percentage": false,
           "heading_loc": "",
@@ -1090,7 +1084,7 @@
         {
           "name": "bonus_gold_per_scepter",
           "values_float": [
-            6
+            3
           ],
           "is_percentage": false,
           "heading_loc": "",
@@ -1380,8 +1374,8 @@
         {
           "name": "bonus_health_regen",
           "values_float": [
-            60,
-            90,
+            50,
+            85,
             120
           ],
           "is_percentage": false,

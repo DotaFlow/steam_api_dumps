@@ -109,13 +109,7 @@
           ],
           "is_percentage": false,
           "heading_loc": "DAMAGE:",
-          "bonuses": [
-            {
-              "name": "special_bonus_unique_largo_5",
-              "value": 200,
-              "operation": 0
-            }
-          ],
+          "bonuses": [],
           "values_shard": [],
           "values_scepter": [],
           "facet_bonus": {
@@ -439,7 +433,13 @@
           ],
           "is_percentage": false,
           "heading_loc": "NUMBER OF STOMPS:",
-          "bonuses": [],
+          "bonuses": [
+            {
+              "name": "special_bonus_unique_largo_5",
+              "value": 2,
+              "operation": 1
+            }
+          ],
           "values_shard": [],
           "values_scepter": [],
           "facet_bonus": {
@@ -510,7 +510,13 @@
           ],
           "is_percentage": false,
           "heading_loc": "",
-          "bonuses": [],
+          "bonuses": [
+            {
+              "name": "special_bonus_unique_largo_5",
+              "value": 0.5,
+              "operation": 1
+            }
+          ],
           "values_shard": [],
           "values_scepter": [],
           "facet_bonus": {
@@ -2163,9 +2169,9 @@
       "item_quality": 0
     },
     {
-      "id": 1671,
-      "name": "special_bonus_unique_largo_5",
-      "name_loc": "+{s:bonus_damage} Catchy Lick Damage",
+      "id": 1674,
+      "name": "special_bonus_unique_largo_8",
+      "name_loc": "2 Catchy Lick Charges",
       "desc_loc": "",
       "lore_loc": "",
       "notes_loc": [],
@@ -2346,9 +2352,9 @@
       "item_quality": 0
     },
     {
-      "id": 1674,
-      "name": "special_bonus_unique_largo_8",
-      "name_loc": "2 Catchy Lick Charges",
+      "id": 1671,
+      "name": "special_bonus_unique_largo_5",
+      "name_loc": "{s:bonus_total_ticks}x Frogstomp Stomps/Interval",
       "desc_loc": "",
       "lore_loc": "",
       "notes_loc": [],

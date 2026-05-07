@@ -258,7 +258,7 @@
         0
       ],
       "mana_costs": [
-        60
+        50
       ],
       "gold_costs": [],
       "health_costs": [],
@@ -475,7 +475,7 @@
         {
           "name": "AbilityManaCost",
           "values_float": [
-            60
+            50
           ],
           "is_percentage": false,
           "heading_loc": "MANA COST:",
@@ -578,10 +578,10 @@
         {
           "name": "damage",
           "values_float": [
-            50,
-            100,
-            150,
-            200
+            75,
+            120,
+            165,
+            210
           ],
           "is_percentage": false,
           "heading_loc": "DAMAGE:",
