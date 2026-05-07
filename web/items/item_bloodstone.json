@@ -29,7 +29,7 @@
     0
   ],
   "cooldowns": [
-    30
+    35
   ],
   "durations": [
     0
@@ -49,7 +49,7 @@
     {
       "name": "bonus_health",
       "values_float": [
-        650
+        625
       ],
       "is_percentage": false,
       "heading_loc": "+$health",
@@ -151,7 +151,7 @@
     {
       "name": "aura_spell_vulnerability",
       "values_float": [
-        12
+        10
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -185,7 +185,7 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
-        30
+        35
       ],
       "is_percentage": false,
       "heading_loc": "",
