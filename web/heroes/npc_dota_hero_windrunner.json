@@ -646,7 +646,7 @@
           "bonuses": [
             {
               "name": "special_bonus_unique_windranger_7",
-              "value": 15,
+              "value": 16,
               "operation": 0
             }
           ],
@@ -1314,7 +1314,7 @@
           "bonuses": [
             {
               "name": "special_bonus_unique_windranger_2",
-              "value": 18,
+              "value": 16,
               "operation": 0
             }
           ],
