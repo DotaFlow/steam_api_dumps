@@ -10,6 +10,7 @@
 - **GetAssetPrices.json**: latest response from ISteamEconomy/GetAssetPrices steam API (dota2 public, cs2 public)
 - **GetSDRConfig.json**: latest response from ISteamApps/GetSDRConfig steam API (dota2 public, deadlock public, cs2 public)
 - **GetAssetClassInfo** dir: parsed assets via GetAssetClassInfo (files asset%classId%.json in folder; dota, cs)
+- **_SteamAppInfo.json** latest dump from SteamCMD (app_info_print) (dota, cs; deadlock all apps)
 ____
 
 
