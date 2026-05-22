@@ -1,0 +1,81 @@
+{
+  "appid": "730",
+  "classid": "8490779453",
+  "instanceid": "0",
+  "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ",
+  "icon_url_large": "",
+  "icon_drag_url": "",
+  "name": "Cologne 2026 Tokens",
+  "market_hash_name": "Cologne 2026 Tokens",
+  "market_name": "Cologne 2026 Tokens",
+  "market_listing_bucket_id": "18BD293004",
+  "market_listing_bucket_group_id": "G18BD293004",
+  "market_listing_bucket_group_name": "Cologne 2026 Tokens",
+  "market_name_inside_group": "Normal",
+  "name_color": "b0c3d9",
+  "background_color": "393b3e",
+  "type": "Base Grade Pass",
+  "tradable": "0",
+  "marketable": "0",
+  "commodity": "1",
+  "market_tradable_restriction": "7",
+  "market_marketable_restriction": "7",
+  "descriptions": {
+    "0": {
+      "type": "html",
+      "value": "This item commemorates the IEM Cologne 2026 CS2 Major Championship.",
+      "color": "ffd700",
+      "name": "attribute"
+    },
+    "1": {
+      "type": "html",
+      "value": " ",
+      "name": "blank"
+    },
+    "2": {
+      "type": "html",
+      "value": "This is a stack of IEM Cologne 2026 CS2 Major Championship Tokens.\n\n50% of the proceeds from the sale of these tokens support the participating players and organizations.",
+      "name": "description"
+    },
+    "3": {
+      "type": "html",
+      "value": " ",
+      "name": "blank"
+    },
+    "4": {
+      "type": "html",
+      "value": "Number of Tokens: 100",
+      "color": "99ccff",
+      "name": "attribute"
+    }
+  },
+  "owner_descriptions": "",
+  "tags": {
+    "0": {
+      "internal_name": "CSGO_Type_Ticket",
+      "name": "Pass",
+      "category": "Type",
+      "category_name": "Type"
+    },
+    "1": {
+      "internal_name": "normal",
+      "name": "Normal",
+      "category": "Quality",
+      "category_name": "Category"
+    },
+    "2": {
+      "internal_name": "Rarity_Common",
+      "name": "Base Grade",
+      "category": "Rarity",
+      "color": "b0c3d9",
+      "category_name": "Quality"
+    },
+    "3": {
+      "internal_name": "Tournament26",
+      "name": "IEM Cologne 2026",
+      "category": "Tournament",
+      "category_name": "Tournament",
+      "escalate_to_parent": "1"
+    }
+  }
+}

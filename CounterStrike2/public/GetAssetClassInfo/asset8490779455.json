@@ -1,0 +1,89 @@
+{
+  "appid": "730",
+  "classid": "8490779455",
+  "instanceid": "0",
+  "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V7RsM-PdDGTIwu1wtbNoSnzkzBtz42nVw934IHuSZlIpDJFzF7UNuhTqxNDhYvSiuVJifxvo1Q",
+  "icon_url_large": "",
+  "icon_drag_url": "",
+  "name": "Cologne 2026 Viewer Pass",
+  "market_hash_name": "Cologne 2026 Viewer Pass",
+  "market_name": "Cologne 2026 Viewer Pass",
+  "market_listing_bucket_id": "18BE293004",
+  "market_listing_bucket_group_id": "G18BE293004",
+  "market_listing_bucket_group_name": "Cologne 2026 Viewer Pass",
+  "market_name_inside_group": "Normal",
+  "name_color": "b0c3d9",
+  "background_color": "393b3e",
+  "type": "Base Grade Pass",
+  "tradable": "1",
+  "marketable": "1",
+  "commodity": "1",
+  "market_tradable_restriction": "7",
+  "market_marketable_restriction": "7",
+  "descriptions": {
+    "0": {
+      "type": "html",
+      "value": "This item commemorates the IEM Cologne 2026 CS2 Major Championship.",
+      "color": "ffd700",
+      "name": "attribute"
+    },
+    "1": {
+      "type": "html",
+      "value": " ",
+      "name": "blank"
+    },
+    "2": {
+      "type": "html",
+      "value": "This is a sealed IEM Cologne 2026 CS2 Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Cologne 2026 Coin tracking your progress throughout the event, full access to the Cologne 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\n\nUpgrade your Cologne 2026 Coin by completing coin challenges. Earn 300 Cologne 2026 Tokens every time you upgrade your coin.\n\n50% of the proceeds from the sale of this pass support the participating players and organizations.",
+      "name": "description"
+    },
+    "3": {
+      "type": "html",
+      "value": " ",
+      "name": "blank"
+    }
+  },
+  "owner_descriptions": "",
+  "actions": {
+    "0": {
+      "type": "inspect",
+      "name": "Inspect in Game...",
+      "link": "steam://run/730//+csgo_econ_action_preview%205242524AEC7B72527A5362563A522252732E4E8E"
+    }
+  },
+  "market_actions": {
+    "0": {
+      "type": "inspect",
+      "name": "Inspect in Game...",
+      "link": "steam://run/730//+csgo_econ_action_preview%205242524AEC7B72527A5362563A522252732E4E8E"
+    }
+  },
+  "tags": {
+    "0": {
+      "internal_name": "CSGO_Type_Ticket",
+      "name": "Pass",
+      "category": "Type",
+      "category_name": "Type"
+    },
+    "1": {
+      "internal_name": "normal",
+      "name": "Normal",
+      "category": "Quality",
+      "category_name": "Category"
+    },
+    "2": {
+      "internal_name": "Rarity_Common",
+      "name": "Base Grade",
+      "category": "Rarity",
+      "color": "b0c3d9",
+      "category_name": "Quality"
+    },
+    "3": {
+      "internal_name": "Tournament26",
+      "name": "IEM Cologne 2026",
+      "category": "Tournament",
+      "category_name": "Tournament",
+      "escalate_to_parent": "1"
+    }
+  }
+}
