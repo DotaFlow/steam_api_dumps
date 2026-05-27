@@ -1,5 +1,5 @@
 {
-  "changenumber": 36144997,
+  "changenumber": 36145894,
   "missingToken": false,
   "appinfo": {
     "appid": "570",
@@ -449,7 +449,7 @@
       "373301": {
         "manifests": {
           "public": {
-            "gid": "656155928074443391",
+            "gid": "9086906016197511945",
             "size": "4322083916",
             "download": "2645857200"
           }
@@ -558,7 +558,7 @@
         "dlcappid": "313250",
         "manifests": {
           "public": {
-            "gid": "5910122389493513510",
+            "gid": "2674085317584804896",
             "size": "5876818564",
             "download": "1624679456"
           }
@@ -668,9 +668,9 @@
       "workshopdepot": "570",
       "branches": {
         "public": {
-          "buildid": "23436186",
-          "timeupdated": "1779901729",
-          "timebuildupdated": "1779900081"
+          "buildid": "23437019",
+          "timeupdated": "1779904719",
+          "timebuildupdated": "1779903483"
         }
       },
       "privatebranches": "1",
