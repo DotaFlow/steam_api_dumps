@@ -2,7 +2,7 @@
   {
     "gid": "668366713382765308",
     "clan_steamid": "103582791474686175",
-    "event_name": " Gameplay Update - 05-25-2026",
+    "event_name": "Minor Update - 05-25-2026",
     "event_type": 12,
     "appid": 1422450,
     "server_address": null,
@@ -430,7 +430,7 @@
       "valve_access_log": [
         {
           "strSteamID": "76561198014254115",
-          "rtUpdated": 1779985720
+          "rtUpdated": 1779986785
         }
       ],
       "clone_from_event_gid": "670617878982034052",
@@ -441,11 +441,11 @@
       "gid": "668366713382765309",
       "clanid": "45164767",
       "posterid": "0",
-      "headline": " Gameplay Update - 05-25-2026",
+      "headline": "Minor Update - 05-25-2026",
       "posttime": 1779985724,
-      "updatetime": 1779985724,
+      "updatetime": 1779986785,
       "body": "[p]- Urn drop off point is moved from the above bridge in the mid lane to under the bridge in the side lane\n- Urn timer extension when contested increased from 1.25s to 3s\n- Urn deposit timers for favored/neutral/unfavored increased from 3/5/10s to 5/10/15s\n- Urn comeback bullet and spirit resist auras reduced from 50% to 35%\n- Urn pickup spot is now where the old comeback drop off spots were for when your team is behind\n- Urn runner no longer has sprint disabled\n- Urn runner now has max sprint acceleration\n- Urn runner now gains +2m Sprint, +1 Stamina, +10% Dash Distance and +15% Stamina Regen\n- Urn runner for the team that is behind now gains an extra +4m Sprint\n- Urn collision radius increased by 20%\n- Various smaller urn holding timers and variables adjusted to account for the new location\n\nPlease continue to give feedback on the Urn as we work through iterations on it.[/p]",
-      "commentcount": 6,
+      "commentcount": 7,
       "tags": [
         "patchnotes"
       ],
@@ -453,8 +453,8 @@
       "hidden": 0,
       "forum_topic_id": "661611313944993002",
       "event_gid": "668366713382765308",
-      "voteupcount": 0,
-      "votedowncount": 0,
+      "voteupcount": 13,
+      "votedowncount": 1,
       "ban_check_result": 0,
       "banned": 0
     },
@@ -466,7 +466,7 @@
     "follower_count": 0,
     "ignore_count": 0,
     "forum_topic_id": "661611313944993002",
-    "rtime32_last_modified": 1779985725,
+    "rtime32_last_modified": 1779986785,
     "news_post_gid": "0",
     "rtime_mod_reviewed": 0,
     "featured_app_tagid": 0,
@@ -475,8 +475,8 @@
     "build_branch": "",
     "unlisted": 0,
     "rtime_created": 1779985712,
-    "votes_up": 0,
-    "votes_down": 0,
+    "votes_up": 12,
+    "votes_down": 1,
     "comment_type": "ForumTopic",
     "gidfeature": "4431066036850502634",
     "gidfeature2": "661611313944993002",
