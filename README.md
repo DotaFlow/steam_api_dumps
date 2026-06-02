@@ -36,6 +36,7 @@ ____
 ____
 - #### items
 - - **\_ItemsList.json**: latest response from /datafeed/itemlist dota2 API
+- - **\_NeutralItems.json**: latest response from /datafeed/neutralitems dota2 API
 - - ...All items passed through /datafeed/itemdata from the itemlist (**item_blink.json** for example)
 ____
 - #### patches

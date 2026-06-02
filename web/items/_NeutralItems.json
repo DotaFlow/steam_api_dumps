@@ -1,0 +1,501 @@
+{
+  "result": {
+    "data": {
+      "tier": [
+        {
+          "tier": 0,
+          "trinket_options": 4,
+          "enhancement_options": 4,
+          "trinkets": [
+            {
+              "ability_id": 947
+            },
+            {
+              "ability_id": 1637
+            },
+            {
+              "ability_id": 565
+            },
+            {
+              "ability_id": 1606
+            },
+            {
+              "ability_id": 1638
+            },
+            {
+              "ability_id": 2097
+            },
+            {
+              "ability_id": 1716
+            },
+            {
+              "ability_id": 1717
+            },
+            {
+              "ability_id": 1077
+            },
+            {
+              "ability_id": 1861
+            },
+            {
+              "ability_id": 577
+            },
+            {
+              "ability_id": 1868
+            }
+          ],
+          "enhancements": [
+            {
+              "attribute": 0,
+              "ability_id": 1585,
+              "ability_level": 1
+            },
+            {
+              "attribute": 0,
+              "ability_id": 1586,
+              "ability_level": 1
+            },
+            {
+              "attribute": 1,
+              "ability_id": 1584,
+              "ability_level": 1
+            },
+            {
+              "attribute": 1,
+              "ability_id": 1585,
+              "ability_level": 1
+            },
+            {
+              "attribute": 2,
+              "ability_id": 1583,
+              "ability_level": 1
+            },
+            {
+              "attribute": 2,
+              "ability_id": 1586,
+              "ability_level": 1
+            },
+            {
+              "attribute": 3,
+              "ability_id": 1584,
+              "ability_level": 1
+            },
+            {
+              "attribute": 3,
+              "ability_id": 1583,
+              "ability_level": 1
+            },
+            {
+              "attribute": 4,
+              "ability_id": 1577,
+              "ability_level": 1
+            },
+            {
+              "attribute": 4,
+              "ability_id": 1865,
+              "ability_level": 1
+            }
+          ]
+        },
+        {
+          "tier": 1,
+          "trinket_options": 5,
+          "enhancement_options": 5,
+          "trinkets": [
+            {
+              "ability_id": 359
+            },
+            {
+              "ability_id": 1599
+            },
+            {
+              "ability_id": 71
+            },
+            {
+              "ability_id": 1604
+            },
+            {
+              "ability_id": 840
+            },
+            {
+              "ability_id": 950
+            },
+            {
+              "ability_id": 1601
+            },
+            {
+              "ability_id": 187
+            },
+            {
+              "ability_id": 945
+            }
+          ],
+          "enhancements": [
+            {
+              "attribute": 0,
+              "ability_id": 1585,
+              "ability_level": 2
+            },
+            {
+              "attribute": 0,
+              "ability_id": 1586,
+              "ability_level": 2
+            },
+            {
+              "attribute": 0,
+              "ability_id": 1589,
+              "ability_level": 1
+            },
+            {
+              "attribute": 1,
+              "ability_id": 1584,
+              "ability_level": 2
+            },
+            {
+              "attribute": 1,
+              "ability_id": 1585,
+              "ability_level": 2
+            },
+            {
+              "attribute": 1,
+              "ability_id": 1874,
+              "ability_level": 1
+            },
+            {
+              "attribute": 2,
+              "ability_id": 1583,
+              "ability_level": 2
+            },
+            {
+              "attribute": 2,
+              "ability_id": 1586,
+              "ability_level": 2
+            },
+            {
+              "attribute": 2,
+              "ability_id": 1595,
+              "ability_level": 1
+            },
+            {
+              "attribute": 3,
+              "ability_id": 1584,
+              "ability_level": 2
+            },
+            {
+              "attribute": 3,
+              "ability_id": 1583,
+              "ability_level": 2
+            },
+            {
+              "attribute": 3,
+              "ability_id": 1597,
+              "ability_level": 1
+            },
+            {
+              "attribute": 4,
+              "ability_id": 1577,
+              "ability_level": 2
+            },
+            {
+              "attribute": 4,
+              "ability_id": 1593,
+              "ability_level": 1
+            }
+          ]
+        },
+        {
+          "tier": 2,
+          "trinket_options": 5,
+          "enhancement_options": 5,
+          "trinkets": [
+            {
+              "ability_id": 1605
+            },
+            {
+              "ability_id": 1603
+            },
+            {
+              "ability_id": 1640
+            },
+            {
+              "ability_id": 675
+            },
+            {
+              "ability_id": 1598
+            },
+            {
+              "ability_id": 574
+            },
+            {
+              "ability_id": 1859
+            },
+            {
+              "ability_id": 585
+            },
+            {
+              "ability_id": 1873
+            }
+          ],
+          "enhancements": [
+            {
+              "attribute": 0,
+              "ability_id": 1585,
+              "ability_level": 3
+            },
+            {
+              "attribute": 0,
+              "ability_id": 1586,
+              "ability_level": 3
+            },
+            {
+              "attribute": 0,
+              "ability_id": 1589,
+              "ability_level": 2
+            },
+            {
+              "attribute": 1,
+              "ability_id": 1584,
+              "ability_level": 3
+            },
+            {
+              "attribute": 1,
+              "ability_id": 1585,
+              "ability_level": 3
+            },
+            {
+              "attribute": 1,
+              "ability_id": 1874,
+              "ability_level": 2
+            },
+            {
+              "attribute": 2,
+              "ability_id": 1583,
+              "ability_level": 3
+            },
+            {
+              "attribute": 2,
+              "ability_id": 1586,
+              "ability_level": 3
+            },
+            {
+              "attribute": 2,
+              "ability_id": 1595,
+              "ability_level": 2
+            },
+            {
+              "attribute": 3,
+              "ability_id": 1584,
+              "ability_level": 3
+            },
+            {
+              "attribute": 3,
+              "ability_id": 1583,
+              "ability_level": 3
+            },
+            {
+              "attribute": 3,
+              "ability_id": 1597,
+              "ability_level": 2
+            },
+            {
+              "attribute": 4,
+              "ability_id": 1577,
+              "ability_level": 3
+            },
+            {
+              "attribute": 4,
+              "ability_id": 1593,
+              "ability_level": 2
+            }
+          ]
+        },
+        {
+          "tier": 3,
+          "trinket_options": 5,
+          "enhancement_options": 5,
+          "trinkets": [
+            {
+              "ability_id": 1643
+            },
+            {
+              "ability_id": 1168
+            },
+            {
+              "ability_id": 1720
+            },
+            {
+              "ability_id": 1721
+            },
+            {
+              "ability_id": 1719
+            },
+            {
+              "ability_id": 2190
+            },
+            {
+              "ability_id": 1862
+            },
+            {
+              "ability_id": 1860
+            },
+            {
+              "ability_id": 1864
+            }
+          ],
+          "enhancements": [
+            {
+              "attribute": 0,
+              "ability_id": 1585,
+              "ability_level": 4
+            },
+            {
+              "attribute": 0,
+              "ability_id": 1586,
+              "ability_level": 4
+            },
+            {
+              "attribute": 0,
+              "ability_id": 1589,
+              "ability_level": 3
+            },
+            {
+              "attribute": 1,
+              "ability_id": 1584,
+              "ability_level": 4
+            },
+            {
+              "attribute": 1,
+              "ability_id": 1585,
+              "ability_level": 4
+            },
+            {
+              "attribute": 1,
+              "ability_id": 1874,
+              "ability_level": 3
+            },
+            {
+              "attribute": 2,
+              "ability_id": 1583,
+              "ability_level": 4
+            },
+            {
+              "attribute": 2,
+              "ability_id": 1586,
+              "ability_level": 4
+            },
+            {
+              "attribute": 2,
+              "ability_id": 1595,
+              "ability_level": 3
+            },
+            {
+              "attribute": 3,
+              "ability_id": 1584,
+              "ability_level": 4
+            },
+            {
+              "attribute": 3,
+              "ability_id": 1583,
+              "ability_level": 4
+            },
+            {
+              "attribute": 3,
+              "ability_id": 1597,
+              "ability_level": 3
+            },
+            {
+              "attribute": 4,
+              "ability_id": 1577,
+              "ability_level": 4
+            },
+            {
+              "attribute": 4,
+              "ability_id": 1592,
+              "ability_level": 1
+            }
+          ]
+        },
+        {
+          "tier": 4,
+          "trinket_options": 5,
+          "enhancement_options": 5,
+          "trinkets": [
+            {
+              "ability_id": 292
+            },
+            {
+              "ability_id": 371
+            },
+            {
+              "ability_id": 370
+            },
+            {
+              "ability_id": 377
+            },
+            {
+              "ability_id": 326
+            },
+            {
+              "ability_id": 1718
+            },
+            {
+              "ability_id": 1642
+            },
+            {
+              "ability_id": 1644
+            },
+            {
+              "ability_id": 1863
+            },
+            {
+              "ability_id": 837
+            }
+          ],
+          "enhancements": [
+            {
+              "attribute": 0,
+              "ability_id": 1866,
+              "ability_level": 1
+            },
+            {
+              "attribute": 1,
+              "ability_id": 1581,
+              "ability_level": 1
+            },
+            {
+              "attribute": 2,
+              "ability_id": 1587,
+              "ability_level": 1
+            },
+            {
+              "attribute": 3,
+              "ability_id": 1867,
+              "ability_level": 1
+            },
+            {
+              "attribute": 4,
+              "ability_id": 1592,
+              "ability_level": 2
+            },
+            {
+              "attribute": 4,
+              "ability_id": 1596,
+              "ability_level": 1
+            },
+            {
+              "attribute": 4,
+              "ability_id": 1588,
+              "ability_level": 1
+            },
+            {
+              "attribute": 4,
+              "ability_id": 1594,
+              "ability_level": 1
+            }
+          ]
+        }
+      ]
+    },
+    "status": 1
+  }
+}
