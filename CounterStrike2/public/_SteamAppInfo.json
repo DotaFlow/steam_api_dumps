@@ -1,5 +1,5 @@
 {
-  "changenumber": 36263081,
+  "changenumber": 36287384,
   "missingToken": false,
   "appinfo": {
     "appid": "730",
@@ -108,12 +108,12 @@
       },
       "controllertagwizard": "1",
       "small_capsule": {
-        "english": "capsule_231x87.jpg",
+        "english": "942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_231x87.jpg",
         "sc_schinese": "capsule_231x87_sc_schinese.jpg",
         "schinese": "capsule_231x87_schinese.jpg"
       },
       "header_image": {
-        "english": "header.jpg",
+        "english": "162664aa5da85f418105350c5d67ca565f6c3713/header.jpg",
         "sc_schinese": "header_sc_schinese.jpg",
         "schinese": "header_schinese.jpg"
       },
@@ -164,7 +164,7 @@
           }
         }
       },
-      "store_asset_mtime": "1749053858",
+      "store_asset_mtime": "1780435164",
       "associations": {
         "0": {
           "type": "developer",
