@@ -129,7 +129,7 @@
       "bonuses": [
         {
           "name": "special_bonus_unique_brewmaster_2",
-          "value": 14,
+          "value": 13,
           "operation": 0
         }
       ],
@@ -181,7 +181,7 @@
       "bonuses": [
         {
           "name": "special_bonus_unique_brewmaster_2",
-          "value": 14,
+          "value": 13,
           "operation": 0
         }
       ],
@@ -233,7 +233,7 @@
       "bonuses": [
         {
           "name": "special_bonus_unique_brewmaster_2",
-          "value": 14,
+          "value": 13,
           "operation": 0
         }
       ],
@@ -275,7 +275,7 @@
       "bonuses": [
         {
           "name": "special_bonus_unique_brewmaster_2",
-          "value": 14,
+          "value": 13,
           "operation": 0
         }
       ],
@@ -447,7 +447,7 @@
       "bonuses": [
         {
           "name": "special_bonus_unique_brewmaster_primal_split_cooldown",
-          "value": 15,
+          "value": 12,
           "operation": 2
         }
       ],

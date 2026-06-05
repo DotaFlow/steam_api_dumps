@@ -42,8 +42,8 @@
   ],
   "mana_costs": [
     125,
-    150,
-    175
+    175,
+    225
   ],
   "gold_costs": [],
   "health_costs": [],
@@ -181,7 +181,7 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [
-        1.5
+        2
       ],
       "facet_bonus": {
         "name": "",
@@ -249,8 +249,8 @@
       "name": "AbilityManaCost",
       "values_float": [
         125,
-        150,
-        175
+        175,
+        225
       ],
       "is_percentage": false,
       "heading_loc": "",

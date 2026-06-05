@@ -29,7 +29,7 @@
     0
   ],
   "cooldowns": [
-    32
+    40
   ],
   "durations": [
     0
@@ -93,9 +93,7 @@
         -45,
         -50,
         -55,
-        -60,
-        -65,
-        -70
+        -60
       ],
       "is_percentage": true,
       "heading_loc": "ENEMY SLOW (<font color='#7998b5'>QUAS</font>):\n",
@@ -120,9 +118,7 @@
         5,
         10,
         15,
-        20,
-        25,
-        30
+        20
       ],
       "is_percentage": true,
       "heading_loc": "SELF SPEED (<font color='#d671a9'>WEX</font>):\n",
@@ -164,9 +160,7 @@
         12,
         14,
         16,
-        18,
-        20,
-        22
+        18
       ],
       "is_percentage": false,
       "heading_loc": "HEALTH REGENERATION (<font color='#7998b5'>QUAS</font>):",
@@ -191,9 +185,7 @@
         12,
         14,
         16,
-        18,
-        20,
-        22
+        18
       ],
       "is_percentage": false,
       "heading_loc": "MANA REGENERATION (<font color='#d671a9'>WEX</font>):\n",
@@ -263,7 +255,7 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
-        32
+        40
       ],
       "is_percentage": false,
       "heading_loc": "",

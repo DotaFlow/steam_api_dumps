@@ -90,8 +90,8 @@
     {
       "name": "outgoing_damage",
       "values_float": [
-        -50,
-        -25,
+        -40,
+        -20,
         0
       ],
       "is_percentage": false,
@@ -109,8 +109,8 @@
     {
       "name": "outgoing_damage_tooltip",
       "values_float": [
-        50,
-        75,
+        60,
+        80,
         100
       ],
       "is_percentage": true,
