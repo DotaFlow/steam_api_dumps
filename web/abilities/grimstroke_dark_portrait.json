@@ -149,7 +149,7 @@
     {
       "name": "immunity_resist",
       "values_float": [
-        95
+        90
       ],
       "is_percentage": false,
       "heading_loc": "",

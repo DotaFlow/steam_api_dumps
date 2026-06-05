@@ -18,10 +18,7 @@
   "dispellable": 2,
   "max_level": 4,
   "cast_ranges": [
-    600,
-    625,
-    650,
-    675
+    700
   ],
   "cast_points": [
     0.2
@@ -167,10 +164,7 @@
     {
       "name": "AbilityCastRange",
       "values_float": [
-        600,
-        625,
-        650,
-        675
+        700
       ],
       "is_percentage": false,
       "heading_loc": "",
