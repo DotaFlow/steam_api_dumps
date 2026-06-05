@@ -126,8 +126,7 @@
             6,
             7,
             8,
-            9,
-            10
+            9
           ],
           "is_percentage": false,
           "heading_loc": "HP REGEN PER INSTANCE:",
@@ -318,8 +317,7 @@
             3.6,
             4.2,
             4.8,
-            5.4,
-            6
+            5.4
           ],
           "is_percentage": true,
           "heading_loc": "MOVE SPEED PER INSTANCE:",
@@ -350,8 +348,7 @@
             6,
             7,
             8,
-            9,
-            10
+            9
           ],
           "is_percentage": false,
           "heading_loc": "ATTACK SPEED PER INSTANCE:",
@@ -542,8 +539,7 @@
             12,
             14,
             16,
-            18,
-            20
+            18
           ],
           "is_percentage": false,
           "heading_loc": "ATTACK DAMAGE PER INSTANCE:",
@@ -884,9 +880,7 @@
             5,
             5.4,
             5.8,
-            6.2,
-            6.6,
-            7
+            6.2
           ],
           "is_percentage": false,
           "heading_loc": "COLD SNAP DURATION (<font color='#7998b5'>QUAS</font>):\n",
@@ -928,9 +922,7 @@
             0.65,
             0.62,
             0.59,
-            0.56,
-            0.53,
-            0.5
+            0.56
           ],
           "is_percentage": false,
           "heading_loc": "FREEZE COOLDOWN (<font color='#7998b5'>QUAS</font>):",
@@ -955,9 +947,7 @@
             68,
             76,
             84,
-            92,
-            100,
-            108
+            92
           ],
           "is_percentage": false,
           "heading_loc": "FREEZE DAMAGE (<font color='#7998b5'>QUAS</font>):",
@@ -1132,7 +1122,7 @@
         0
       ],
       "cooldowns": [
-        32
+        40
       ],
       "durations": [
         0
@@ -1196,9 +1186,7 @@
             -45,
             -50,
             -55,
-            -60,
-            -65,
-            -70
+            -60
           ],
           "is_percentage": true,
           "heading_loc": "ENEMY SLOW (<font color='#7998b5'>QUAS</font>):\n",
@@ -1223,9 +1211,7 @@
             5,
             10,
             15,
-            20,
-            25,
-            30
+            20
           ],
           "is_percentage": true,
           "heading_loc": "SELF SPEED (<font color='#d671a9'>WEX</font>):\n",
@@ -1267,9 +1253,7 @@
             12,
             14,
             16,
-            18,
-            20,
-            22
+            18
           ],
           "is_percentage": false,
           "heading_loc": "HEALTH REGENERATION (<font color='#7998b5'>QUAS</font>):",
@@ -1294,9 +1278,7 @@
             12,
             14,
             16,
-            18,
-            20,
-            22
+            18
           ],
           "is_percentage": false,
           "heading_loc": "MANA REGENERATION (<font color='#d671a9'>WEX</font>):\n",
@@ -1366,7 +1348,7 @@
         {
           "name": "AbilityCooldown",
           "values_float": [
-            32
+            40
           ],
           "is_percentage": false,
           "heading_loc": "",
@@ -1457,9 +1439,7 @@
             3000,
             3300,
             3600,
-            3900,
-            4200,
-            4500
+            3900
           ],
           "is_percentage": false,
           "heading_loc": "TRAVEL DISTANCE (<font color='#d671a9'>WEX</font>):\n",
@@ -1552,9 +1532,7 @@
             2.2,
             2.4,
             2.6,
-            2.8,
-            3,
-            3.2
+            2.8
           ],
           "is_percentage": false,
           "heading_loc": "LIFT TIME (<font color='#7998b5'>QUAS</font>):\n",
@@ -1596,9 +1574,7 @@
             270,
             315,
             360,
-            405,
-            450,
-            495
+            405
           ],
           "is_percentage": false,
           "heading_loc": "ADDED DAMAGE (<font color='#d671a9'>WEX</font>):",
@@ -1666,8 +1642,7 @@
             100,
             110,
             120,
-            130,
-            140
+            130
           ],
           "facet_bonus": {
             "name": "",
@@ -1694,8 +1669,7 @@
             3.7,
             3.9,
             4.1,
-            4.3,
-            4.5
+            4.3
           ],
           "facet_bonus": {
             "name": "",
@@ -1906,9 +1880,7 @@
             475,
             550,
             625,
-            700,
-            775,
-            850
+            700
           ],
           "is_percentage": false,
           "heading_loc": "MAX MANA BURNED (<font color='#d671a9'>WEX</font>):\n",
@@ -2120,9 +2092,7 @@
             70,
             82,
             94,
-            106,
-            118,
-            130
+            106
           ],
           "is_percentage": false,
           "heading_loc": "BONUS ATTACK SPEED (<font color='#d671a9'>WEX</font>):\n",
@@ -2153,9 +2123,7 @@
             70,
             82,
             94,
-            106,
-            118,
-            130
+            106
           ],
           "is_percentage": false,
           "heading_loc": "BONUS DAMAGE (<font color='#cabe68'>EXORT</font>):\n",
@@ -2378,9 +2346,7 @@
             1245,
             1410,
             1575,
-            1725,
-            1890,
-            2055
+            1725
           ],
           "is_percentage": false,
           "heading_loc": "TRAVEL DISTANCE (<font color='#d671a9'>WEX</font>):\n",
@@ -2466,16 +2432,14 @@
           "name": "main_damage",
           "values_float": [
             55,
-            80,
-            105,
-            130,
+            75,
+            95,
+            115,
+            135,
             155,
-            180,
-            205,
-            220,
-            235,
-            250,
-            265
+            175,
+            195,
+            215
           ],
           "is_percentage": false,
           "heading_loc": "CONTACT DAMAGE (<font color='#cabe68'>EXORT</font>):\n",
@@ -2517,9 +2481,7 @@
             35,
             40,
             45,
-            50,
-            55,
-            60
+            50
           ],
           "is_percentage": false,
           "heading_loc": "BURN DAMAGE PER SECOND (<font color='#cabe68'>EXORT</font>):\n",
@@ -2736,9 +2698,7 @@
             425,
             475,
             525,
-            575,
-            625,
-            675
+            575
           ],
           "is_percentage": false,
           "heading_loc": "DAMAGE (<font color='#cabe68'>EXORT</font>):\n",
@@ -3026,9 +2986,7 @@
             70,
             80,
             90,
-            100,
-            110,
-            120
+            100
           ],
           "is_percentage": false,
           "heading_loc": "DAMAGE (<font color='#cabe68'>EXORT</font>):\n",
@@ -3053,9 +3011,7 @@
             350,
             400,
             450,
-            500,
-            550,
-            600
+            500
           ],
           "is_percentage": false,
           "heading_loc": "",
@@ -3080,8 +3036,7 @@
             5,
             6,
             7,
-            8,
-            9
+            8
           ],
           "is_percentage": false,
           "heading_loc": "ARMOR (<font color='#cabe68'>EXORT</font>):\n",
@@ -3106,9 +3061,7 @@
             580,
             635,
             690,
-            745,
-            800,
-            855
+            745
           ],
           "is_percentage": false,
           "heading_loc": "ATTACK RANGE (<font color='#7998b5'>QUAS</font>):\n",
@@ -3133,9 +3086,7 @@
             800,
             900,
             1000,
-            1100,
-            1200,
-            1300
+            1100
           ],
           "is_percentage": false,
           "heading_loc": "HEALTH (<font color='#7998b5'>QUAS</font>):\n",
@@ -3160,9 +3111,7 @@
             54,
             60,
             66,
-            72,
-            78,
-            84
+            72
           ],
           "is_percentage": false,
           "heading_loc": "DURATION (<font color='#7998b5'>QUAS</font>):\n",
@@ -3187,9 +3136,7 @@
             1.3,
             1.4,
             1.5,
-            1.6,
-            1.7,
-            1.8
+            1.6
           ],
           "is_percentage": false,
           "heading_loc": "",
@@ -3220,8 +3167,6 @@
             2,
             2,
             3,
-            3,
-            3,
             3
           ],
           "is_percentage": false,
@@ -3246,8 +3191,6 @@
             2,
             2,
             2,
-            3,
-            3,
             3,
             3
           ],
@@ -3389,9 +3332,7 @@
             8,
             9,
             10,
-            11,
-            12,
-            13
+            11
           ],
           "is_percentage": false,
           "heading_loc": "WALL DURATION (<font color='#7998b5'>QUAS</font>):\n",
@@ -3408,17 +3349,15 @@
         {
           "name": "slow",
           "values_float": [
-            -20,
-            -40,
+            -30,
+            -45,
             -60,
-            -80,
-            -100,
+            -75,
+            -90,
+            -105,
             -120,
-            -140,
-            -160,
-            -180,
-            -200,
-            -220
+            -135,
+            -150
           ],
           "is_percentage": true,
           "heading_loc": "MOVEMENT SLOW (<font color='#7998b5'>QUAS</font>):\n",
@@ -3460,8 +3399,7 @@
             60,
             66,
             72,
-            78,
-            84
+            78
           ],
           "is_percentage": false,
           "heading_loc": "DAMAGE PER SECOND (<font color='#cabe68'>EXORT</font>):\n",
@@ -3872,9 +3810,7 @@
             270,
             310,
             350,
-            390,
-            430,
-            470
+            390
           ],
           "is_percentage": false,
           "heading_loc": "DAMAGE (<font color='#cabe68'>EXORT</font>):\n",
@@ -3899,9 +3835,7 @@
             1.6,
             1.7,
             1.8,
-            1.9,
-            2,
-            2.1
+            1.9
           ],
           "is_percentage": false,
           "heading_loc": "KNOCKBACK DURATION (<font color='#7998b5'>QUAS</font>):\n",
@@ -3926,9 +3860,7 @@
             4,
             4.5,
             5,
-            5.5,
-            6,
-            6.5
+            5.5
           ],
           "is_percentage": false,
           "heading_loc": "DISARM DURATION (<font color='#d671a9'>WEX</font>):\n",

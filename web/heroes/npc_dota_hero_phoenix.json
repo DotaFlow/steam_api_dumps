@@ -464,9 +464,9 @@
         {
           "name": "attackspeed_slow",
           "values_float": [
-            -50,
-            -80,
-            -110,
+            -35,
+            -70,
+            -105,
             -140
           ],
           "is_percentage": false,
@@ -715,7 +715,7 @@
           "bonuses": [
             {
               "name": "special_bonus_unique_phoenix_5",
-              "value": 1.5,
+              "value": 1.25,
               "operation": 0
             }
           ],

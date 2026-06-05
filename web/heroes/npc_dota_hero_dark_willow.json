@@ -11,7 +11,7 @@
   "str_gain": 2,
   "agi_base": 18,
   "agi_gain": 1.6,
-  "int_base": 21,
+  "int_base": 22,
   "int_gain": 3.5,
   "primary_attr": 2,
   "complexity": 2,
@@ -27,8 +27,8 @@
     0,
     0
   ],
-  "damage_min": 48,
-  "damage_max": 56,
+  "damage_min": 49,
+  "damage_max": 57,
   "attack_rate": 1.5,
   "attack_range": 475,
   "projectile_speed": 1200,
@@ -40,8 +40,8 @@
   "sight_range_night": 800,
   "max_health": 560,
   "health_regen": 2.75,
-  "max_mana": 327,
-  "mana_regen": 1.0500001,
+  "max_mana": 339,
+  "mana_regen": 1.1,
   "abilities": [
     {
       "id": 6339,
@@ -612,10 +612,7 @@
       "dispellable": 2,
       "max_level": 4,
       "cast_ranges": [
-        600,
-        625,
-        650,
-        675
+        700
       ],
       "cast_points": [
         0.2
@@ -761,10 +758,7 @@
         {
           "name": "AbilityCastRange",
           "values_float": [
-            600,
-            625,
-            650,
-            675
+            700
           ],
           "is_percentage": false,
           "heading_loc": "",
