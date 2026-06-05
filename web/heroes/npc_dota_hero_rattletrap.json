@@ -322,9 +322,6 @@
         0
       ],
       "mana_costs": [
-        60,
-        65,
-        70,
         75
       ],
       "gold_costs": [],
@@ -353,10 +350,10 @@
         {
           "name": "damage",
           "values_float": [
-            50,
-            125,
-            200,
-            275
+            55,
+            110,
+            165,
+            220
           ],
           "is_percentage": false,
           "heading_loc": "DAMAGE:",
@@ -658,9 +655,6 @@
         {
           "name": "AbilityManaCost",
           "values_float": [
-            60,
-            65,
-            70,
             75
           ],
           "is_percentage": false,
@@ -1813,7 +1807,7 @@
           "bonuses": [
             {
               "name": "special_bonus_unique_clockwerk_5",
-              "value": 10,
+              "value": 8,
               "operation": 2
             }
           ],

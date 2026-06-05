@@ -1188,7 +1188,7 @@
         {
           "name": "slow_duration",
           "values_float": [
-            0.2
+            0.4
           ],
           "is_percentage": false,
           "heading_loc": "SLOW DURATION:",

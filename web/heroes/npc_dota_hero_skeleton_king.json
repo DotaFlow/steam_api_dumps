@@ -27,8 +27,8 @@
     0,
     1
   ],
-  "damage_min": 60,
-  "damage_max": 62,
+  "damage_min": 62,
+  "damage_max": 64,
   "attack_rate": 1.8,
   "attack_range": 150,
   "projectile_speed": 0,
@@ -889,14 +889,14 @@
         {
           "name": "vampiric_aura",
           "values_float": [
-            14
+            20
           ],
           "is_percentage": true,
           "heading_loc": "LIFESTEAL:",
           "bonuses": [
             {
               "name": "special_bonus_unique_wraith_king_2",
-              "value": 10,
+              "value": 8,
               "operation": 0
             }
           ],
@@ -1227,7 +1227,7 @@
           "bonuses": [],
           "values_shard": [],
           "values_scepter": [
-            15
+            10
           ],
           "facet_bonus": {
             "name": "",

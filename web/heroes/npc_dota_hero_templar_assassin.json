@@ -971,7 +971,7 @@
           "bonuses": [
             {
               "name": "special_bonus_unique_templar_assassin_3",
-              "value": 10,
+              "value": 15,
               "operation": 0
             }
           ],
@@ -994,7 +994,7 @@
           "bonuses": [
             {
               "name": "special_bonus_unique_templar_assassin_3",
-              "value": 10,
+              "value": 15,
               "operation": 0
             }
           ],
@@ -1305,7 +1305,7 @@
         {
           "name": "time_until_meditation",
           "values_float": [
-            0.25
+            0.2
           ],
           "is_percentage": false,
           "heading_loc": "",
@@ -1322,7 +1322,7 @@
         {
           "name": "time_until_max_bonus",
           "values_float": [
-            2.05
+            1.85
           ],
           "is_percentage": false,
           "heading_loc": "MEDITATION TIME UNTIL MAX BONUS:",
