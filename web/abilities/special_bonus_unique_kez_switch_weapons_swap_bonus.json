@@ -1,7 +1,7 @@
 {
-  "id": 8004,
-  "name": "special_bonus_unique_grimstroke_4",
-  "name_loc": "+{s:bonus_destroy_attacks} Attacks to Destroy Phantom",
+  "id": 1748,
+  "name": "special_bonus_unique_kez_switch_weapons_swap_bonus",
+  "name_loc": "+{s:bonus_katana_swap_bonus_damage}% Switch Discipline Swap Bonuses",
   "desc_loc": "",
   "lore_loc": "",
   "notes_loc": [],
