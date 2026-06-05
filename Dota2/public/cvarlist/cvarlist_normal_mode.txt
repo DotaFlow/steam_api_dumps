@@ -1,4 +1,3 @@
-[Console] dota_crownfall_intro_state                                                       : 3                : cl, a                            :
 [Console] dota_crownfall_intro_state_act_2                                                 : 3                : cl, a                            :
 [Console] dota_crownfall_intro_state_act_3                                                 : 1                : cl, a                            :
 [Console] dota_crownfall_intro_state_act_4                                                 : 3                : cl, a                            :
@@ -12,7 +11,7 @@
 [Console] dota_custom_invoker_spell_keys                                                   : false            : cl, a                            :
 [Console] dota_damage_flash                                                                : true             : sv, a                            : Flash when enemies take damage from the player
 [Console] dota_dashboard_enable_mouse_history                                              : true             : cl, a, per_user                  : Enables Mouse4/Mouse5 to navigate dashboard history.
-[Console] dota_dashboard_launch_count                                                      : 910              : cl, a, per_user                  :
+[Console] dota_dashboard_launch_count                                                      : 1022             : cl, a, per_user                  :
 [Console] dota_data_teams_max_network_changes                                              : 256              : sv, release                      :
 [Console] dota_daynightcycle_pause                                                         : false            : sv, cheat                        : 0 = resume day/night cycle; 1 = pause day/night cycle; default = 0;
 [Console] dota_daynightcycle_toggle                                                        : cmd              : sv, cheat                        : Toggle the day-night cycle.
@@ -142,7 +141,7 @@
 [Console] dota_hero_demo_default_enemy                                                     : npc_dota_hero_ogre_magi : cl, a                            :
 [Console] dota_hero_demo_default_enemy_variant                                             : 1                : cl, a                            :
 [Console] dota_hero_demo_join_permissions                                                  : 1                : cl, a, per_user                  : Determines how someone can join this demo mode session. 0 means invite only, 1 means any friend can join.
-[Console] dota_hero_demo_map                                                               : 0                : cl, a, per_user                  :
+[Console] dota_hero_demo_map                                                               : 1                : cl, a, per_user                  :
 [Console] dota_hero_demo_spawn_creeps_enabled                                              : true             : cl, a                            :
 [Console] dota_hero_demo_towers_enabled                                                    : true             : cl, a                            :
 [Console] dota_hero_god_mode                                                               : false            : sv, cheat                        :
@@ -171,7 +170,7 @@
 [Console] dota_hide_frontpage_video                                                        : false            : cl, a                            : Don't load the frontpage streaming video.
 [Console] dota_hide_tips_on_loading_screens                                                : false            : cl, a, per_user                  :
 [Console] dota_hide_wearables                                                              : false            : sv, cl, rep, cheat               : If set, wearables (default body parts) will be hidden. This is for the item icon editor.
-[Console] dota_highest_seen_item_id                                                        : 35187971733      : cl, a, per_user                  :
+[Console] dota_highest_seen_item_id                                                        : 35303934677      : cl, a, per_user                  :
 [Console] dota_highlight_reel_debug                                                        : false            : cl, cheat                        :
 [Console] dota_hud_colorblind                                                              : 0                : cl, a, per_user                  : Which color mode to use for HUD elements (name is legacy)
 [Console] dota_hud_contextual_tips_disable                                                 : false            : cl, a, per_user                  : Disable in-game contextual tips
@@ -256,7 +255,7 @@
 [Console] dota_minimap_hero_scalar                                                         : false            : cl, a, per_user                  :
 [Console] dota_minimap_hero_scalar_distance                                                : 30               : cl, a, per_user                  :
 [Console] dota_minimap_hero_scalar_minimum                                                 : 513              : cl, a, per_user                  :
-[Console] dota_minimap_hero_size                                                           : 748.668          : cl, a, per_user                  :
+[Console] dota_minimap_hero_size                                                           : 775.844          : cl, a, per_user                  :
 [Console] dota_minimap_hero_spread                                                         : false            : cl, a, per_user                  :
 [Console] dota_minimap_hero_spread_distance                                                : 500              : cl, a, per_user                  : Defined in world units.
 [Console] dota_minimap_hide_background                                                     : false            : cl, a, per_user                  : No longer used, please use dota_minimap_background_option instead.
@@ -361,7 +360,7 @@
 [Console] dota_player_cards_duplicate_display_ti10                                         : 1                : cl, cheat                        :
 [Console] dota_player_cards_duplicate_display_ti9                                          : 1                : cl, cheat                        :
 [Console] dota_player_channels_require_stop                                                : true             : cl, a, per_user                  :
-[Console] dota_player_interaction_channels_require_stop                                    : false            : cl, a, per_user                  :
+[Console] dota_player_interaction_channels_require_stop                                    : true             : cl, a, per_user                  :
 [Console] dota_player_item_label_alt_delay                                                 : 0.25             : cl, a, per_user                  :
 [Console] dota_player_multipler_orders                                                     : true             : cl, a, per_user                  : By setting this to 1, you will issue an order to all controllable units by holding down the CTRL key when you click
 [Console] dota_player_selection_cycle_ignores_groups                                       : false            : cl, a, per_user                  :
@@ -391,7 +390,7 @@
 [Console] dota_portrait_hide_hero                                                          : false            : cl, cheat                        :
 [Console] dota_portrait_reload                                                             : cmd              : cl, cheat                        : Reload portrait data
 [Console] dota_portrait_test_pet                                                           : false            : cl, cheat                        : Set to 1 to make the pet show up once.
-[Console] dota_post_game_show_kills_selection                                              : 2                : cl, a, per_user                  : Kills to show on post-game graph 0 = All, 1 = Units, 2 = Structures, 3 = None
+[Console] dota_post_game_show_kills_selection                                              : 1                : cl, a, per_user                  : Kills to show on post-game graph 0 = All, 1 = Units, 2 = Structures, 3 = None
 [Console] dota_preview_hero_pitch_offset                                                   : 0                : cl, cheat                        :
 [Console] dota_preview_hero_roll_offset                                                    : 0                : cl, cheat                        :
 [Console] dota_preview_hero_x_offset                                                       : 0                : cl, cheat                        :
@@ -571,7 +570,7 @@
 [Console] dota_trivia_autoplay_sounds                                                      : true             : cl, a                            : Determines whether or not to autoplay trivia sounds.
 [Console] dota_trivia_chat_enabled2                                                        : false            : cl, a                            :
 [Console] dota_turbo_courier_default_auto_deliver                                          : true             : cl, a, user, per_user, release   : Whether courier auto mode is on in Turbo.
-[Console] dota_turbo_matches_played                                                        : 762              : cl, a, per_user                  :
+[Console] dota_turbo_matches_played                                                        : 1016             : cl, a, per_user                  :
 [Console] dota_tutorial_disable_bot_situational_items                                      : false            : sv, cheat                        :
 [Console] dota_tutorial_force_bot_defend                                                   : false            : sv, cheat                        :
 [Console] dota_tutorial_percent_bot_exp_decrease                                           : 0                : sv, cheat                        :
@@ -822,7 +821,7 @@
 [Console] healme                                                                           : cmd              : sv, cheat                        : Heals the player.  Arguments: <health to gain>
 [Console] help                                                                             : cmd              : release                          : Find help about a convar/concommand.
 [Console] hero_grid_selected_config                                                        : 0:#DOTA_Armory_Attributes : cl, a, per_user                  :
-[Console] hero_grid_selected_rank_tier                                                     : 2                : cl, a, per_user                  :
+[Console] hero_grid_selected_rank_tier                                                     : 3                : cl, a, per_user                  :
 [Console] hideconsole                                                                      : cmd              : norecord, release                : Hide the console.
 [Console] host_framerate                                                                   : 0                : release                          : Set to lock per-frame time elapse.
 [Console] host_readconfig_ignore_userconfig                                                : false            : cheat                            : Whether we should ignore the user config file for reading/writing.
@@ -1319,7 +1318,7 @@
 [Console] particle_test_file                                                               : 0                : sv, cheat                        : Name of the particle system to dynamically spawn
 [Console] particle_test_start                                                              : cmd              : sv, cheat                        : Dispatches the test particle system with the parameters specified in particle_test_file,  particle_test_attach_mode and particle_test_attach_param on the entity the player is looking at.  Arguments:    {entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}
 [Console] particle_test_stop                                                               : cmd              : sv, cheat                        : Stops all particle systems on the selected entities.  Arguments:    {entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}
-[Console] password                                                                         : 30461683234516735 : a, norecord, server_cant_query   : Current server access password
+[Console] password                                                                         : 324664860785783316 : a, norecord, server_cant_query   : Current server access password
 [Console] pause                                                                            : cmd              : release                          : Toggle the server pause state.
 [Console] phys_dynamic_scaling                                                             : true             : sv, cl, rep, cheat               :
 [Console] phys_expensive_shape_threshold                                                   : 6                : cl, cheat                        :

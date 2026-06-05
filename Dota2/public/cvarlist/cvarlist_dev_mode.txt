@@ -231,7 +231,7 @@
 [Console] chat_wheel_emoticon_6                                                            : 72               : cl, a, per_user                  : 
 [Console] chat_wheel_emoticon_7                                                            : 257              : cl, a, per_user                  : 
 [Console] chat_wheel_emoticon_8                                                            : 410              : cl, a, per_user                  : 
-[Console] chat_wheel_emoticon_9                                                            : 0                : cl, a, per_user                  : 
+[Console] chat_wheel_emoticon_9                                                            : 260              : cl, a, per_user                  : 
 [Console] chat_wheel_phrase_0                                                              : 68               : cl, a, per_user                  : 
 [Console] chat_wheel_phrase_1                                                              : 142940           : cl, a, per_user                  : 
 [Console] chat_wheel_phrase_10                                                             : 131              : cl, a, per_user                  : 
@@ -240,14 +240,14 @@
 [Console] chat_wheel_phrase_13                                                             : 142936           : cl, a, per_user                  : 
 [Console] chat_wheel_phrase_14                                                             : 90               : cl, a, per_user                  : 
 [Console] chat_wheel_phrase_15                                                             : 76               : cl, a, per_user                  : 
-[Console] chat_wheel_phrase_2                                                              : 2                : cl, a, per_user                  : 
+[Console] chat_wheel_phrase_2                                                              : 167              : cl, a, per_user                  : 
 [Console] chat_wheel_phrase_3                                                              : 401764           : cl, a, per_user                  : 
 [Console] chat_wheel_phrase_4                                                              : 166              : cl, a, per_user                  : 
 [Console] chat_wheel_phrase_5                                                              : 142923           : cl, a, per_user                  : 
 [Console] chat_wheel_phrase_6                                                              : 401829           : cl, a, per_user                  : 
 [Console] chat_wheel_phrase_7                                                              : 7                : cl, a, per_user                  : 
 [Console] chat_wheel_phrase_8                                                              : 142922           : cl, a, per_user                  : 
-[Console] chat_wheel_phrase_9                                                              : 804              : cl, a, per_user                  : 
+[Console] chat_wheel_phrase_9                                                              : 17               : cl, a, per_user                  : 
 [Console] +chatwheel                                                                       : cmd              : cl                               : Opens chatwheel menu while held
 [Console] +chatwheel2                                                                      : cmd              : cl                               : Opens the second chatwheel menu while held
 [Console] chatwheel_say                                                                    : cmd              : cl                               : Send a chatwheel message. Usage: chatwheel_say <messagenum>
@@ -316,7 +316,7 @@
 [Console] cl_dota_mk_tree_shake_duration                                                   : 2                : cl                               : 
 [Console] cl_dota_mk_tree_shake_peak_time                                                  : 0.25             : cl                               : 
 [Console] cl_dota_mk_tree_shake_strength                                                   : 15               : cl                               : 
-[Console] cl_dota_preview_hero_vision                                                      : false            : cl, a                            : 
+[Console] cl_dota_preview_hero_vision                                                      : true             : cl, a                            : 
 [Console] cl_dota_preview_hero_vision_hold_time                                            : 0.25             : cl, a                            : 
 [Console] cl_dota_recent_games_include_custom_games                                        : true             : cl, a                            : 
 [Console] cl_dota_recent_games_include_event_games                                         : true             : cl, a                            : 
@@ -784,7 +784,7 @@
 [Console] dota_ability_draft_force_gamemode_flag                                           : false            : sv, cl, rep, cheat               : 
 [Console] dota_ability_draft_shuffle_players                                               : true             : cl, a                            : 
 [Console] dota_ability_dump_refcounts                                                      : cmd              : sv                               : Dumps the modifier refcounts of all hero abilities
-[Console] +dota_ability_execute                                                            : cmd              : cl                               : 
+[Console] dota_ability_execute                                                             : cmd              : cl                               : 
 [Console] dota_ability_frogrock_show_fixed_hud                                             : true             : cl, a, per_user                  : 
 [Console] dota_ability_frogrock_show_overhead_hud                                          : false            : cl, a, per_user                  : 
 [Console] dota_ability_learn_mode                                                          : cmd              : cl                               : Enter the mode where ability points can be spent
@@ -852,7 +852,7 @@
 [Console] dota_armory_CustomTagDisplayName_6                                               : Tag 6            : cl, a                            : 
 [Console] dota_armory_CustomTagDisplayName_7                                               : Tag 7            : cl, a                            : 
 [Console] dota_armory_CustomTagDisplayName_8                                               : Tag 8            : cl, a                            : 
-[Console] dota_armory_last_selected_hero_id                                                : 133              : cl, a                            : 
+[Console] dota_armory_last_selected_hero_id                                                : 125              : cl, a                            : 
 [Console] dota_armory_stickers_event_filter_option                                         : 0                : cl                               : 
 [Console] dota_armory_stickers_group_option                                                : 4                : cl                               : 
 [Console] dota_armory_stickers_quality_filter_option                                       : 0                : cl                               : 
@@ -1151,7 +1151,7 @@
 [Console] dota_compendium_2025_predictions_main_event_results_shown                        : true             : cl, a                            : 
 [Console] dota_compendium_2025_predictions_rtti_results_shown                              : true             : cl, a                            : 
 [Console] dota_competitive_game_modes                                                      : 4194304          : cl, a                            : Bit masks of game modes to search for in ranked matchmaking
-[Console] dota_conduct_scorecard_latest_ack_seq_num                                        : 1215             : cl, a, per_user                  : Sequence number of latest conduct summary that has been acknowledged.
+[Console] dota_conduct_scorecard_latest_ack_seq_num                                        : 1275             : cl, a, per_user                  : Sequence number of latest conduct summary that has been acknowledged.
 [Console] dota_contest_schema_do_contest_validation                                        : true             : cl                               : 
 [Console] dota_context_aware_voice_change_window_minutes                                   : 2                : sv, cl, rep, cheat               : 
 [Console] dota_context_aware_voice_networth_change_threshold                               : 0.025            : sv, cl, rep, cheat               : 
@@ -1197,7 +1197,7 @@
 [Console] dota_damage_flash                                                                : true             : sv, a                            : Flash when enemies take damage from the player
 [Console] dota_dashboard_enable_mouse_history                                              : true             : cl, a, per_user                  : Enables Mouse4/Mouse5 to navigate dashboard history.
 [Console] dota_dashboard_force_background                                                  : 0                : cl                               : 
-[Console] dota_dashboard_launch_count                                                      : 909              : cl, a, per_user                  : 
+[Console] dota_dashboard_launch_count                                                      : 1023             : cl, a, per_user                  : 
 [Console] dota_data_teams_max_network_changes                                              : 256              : sv, release                      : 
 [Console] dota_dawnbreaker_attack_combo_cooldown_time                                      : 5                : sv, cl, rep                      : Adjust the amount of time the combo animation state persists after an attack starts. Set to -1 to disable attack combos entirely.
 [Console] dota_dawnbreaker_attack_combo_step_time                                          : 0.3              : sv, cl, rep                      : We won't advance the combo state faster than this time, so stutter stepping doesn't advance the combo anim.
@@ -1457,7 +1457,7 @@
 [Console] dota_hero_demo_default_enemy_variant                                             : 1                : cl, a                            : 
 [Console] dota_hero_demo_is_hosting                                                        : false            : cl                               : 
 [Console] dota_hero_demo_join_permissions                                                  : 1                : cl, a, per_user                  : Determines how someone can join this demo mode session. 0 means invite only, 1 means any friend can join.
-[Console] dota_hero_demo_map                                                               : 0                : cl, a, per_user                  : 
+[Console] dota_hero_demo_map                                                               : 1                : cl, a, per_user                  : 
 [Console] dota_hero_demo_spawn_creeps_enabled                                              : true             : cl, a                            : 
 [Console] dota_hero_demo_towers_enabled                                                    : true             : cl, a                            : 
 [Console] dota_hero_god_mode                                                               : false            : sv, cheat                        : 
@@ -1498,7 +1498,7 @@
 [Console] dota_hide_spectator_player_names                                                 : false            : cl                               : 
 [Console] dota_hide_tips_on_loading_screens                                                : false            : cl, a, per_user                  : 
 [Console] dota_hide_wearables                                                              : false            : sv, cl, rep, cheat               : If set, wearables (default body parts) will be hidden. This is for the item icon editor.
-[Console] dota_highest_seen_item_id                                                        : 35187971733      : cl, a, per_user                  : 
+[Console] dota_highest_seen_item_id                                                        : 35303934677      : cl, a, per_user                  : 
 [Console] dota_highlight_reel                                                              : false            : cl                               : 
 [Console] dota_highlight_reel_debug                                                        : false            : cl, cheat                        : 
 [Console] dota_highlight_reel_leadin_seconds                                               : 13               : cl                               : 
@@ -1694,7 +1694,7 @@
 [Console] dota_minimap_hero_scalar                                                         : false            : cl, a, per_user                  : 
 [Console] dota_minimap_hero_scalar_distance                                                : 30               : cl, a, per_user                  : 
 [Console] dota_minimap_hero_scalar_minimum                                                 : 513              : cl, a, per_user                  : 
-[Console] dota_minimap_hero_size                                                           : 748.668          : cl, a, per_user                  : 
+[Console] dota_minimap_hero_size                                                           : 775.844          : cl, a, per_user                  : 
 [Console] dota_minimap_hero_spread                                                         : false            : cl, a, per_user                  : 
 [Console] dota_minimap_hero_spread_distance                                                : 500              : cl, a, per_user                  : Defined in world units.
 [Console] dota_minimap_hide_background                                                     : false            : cl, a, per_user                  : No longer used, please use dota_minimap_background_option instead.
@@ -1894,7 +1894,7 @@
 [Console] dota_player_draft_timebank_start                                                 : 60               : sv                               : 
 [Console] dota_player_graphs_hide_last_time_dist                                           : 80               : cl                               : 
 [Console] dota_player_info_batch_interval_s                                                : 1                : cl                               : 
-[Console] dota_player_interaction_channels_require_stop                                    : false            : cl, a, per_user                  : 
+[Console] dota_player_interaction_channels_require_stop                                    : true             : cl, a, per_user                  : 
 [Console] dota_player_item_label_alt_delay                                                 : 0.25             : cl, a, per_user                  : 
 [Console] dota_player_multipler_orders                                                     : true             : cl, a, per_user                  : By setting this to 1, you will issue an order to all controllable units by holding down the CTRL key when you click
 [Console] dota_player_profile_stats_cache_duration                                         : 120              : cl                               : 
@@ -1956,7 +1956,7 @@
 [Console] dota_post_game_quick_commend                                                     : true             : cl                               : 
 [Console] dota_post_game_report_time                                                       : 600              : sv                               : Time after the signout completes that we can still report and commend players, given the lobby id
 [Console] dota_post_game_reward_tracking_duration                                          : 10               : cl                               : 
-[Console] dota_post_game_show_kills_selection                                              : 2                : cl, a, per_user                  : Kills to show on post-game graph 0 = All, 1 = Units, 2 = Structures, 3 = None
+[Console] dota_post_game_show_kills_selection                                              : 1                : cl, a, per_user                  : Kills to show on post-game graph 0 = All, 1 = Units, 2 = Structures, 3 = None
 [Console] dota_postgame_finish_replay_time                                                 : 15               : sv                               : How long to wait after the end scoreboard panel to finish the replay
 [Console] dota_prediction_result_dev                                                       : false            : cl                               : 
 [Console] dota_preview_hero                                                                : cmd              : sv                               : Pick hero for previewing
@@ -2444,7 +2444,7 @@
 [Console] dota_trivia_chat_enabled2                                                        : false            : cl, a                            : 
 [Console] dota_trophies_cache_duration                                                     : 300              : cl                               : 
 [Console] dota_turbo_courier_default_auto_deliver                                          : true             : cl, a, user, per_user, release   : Whether courier auto mode is on in Turbo.
-[Console] dota_turbo_matches_played                                                        : 762              : cl, a, per_user                  : 
+[Console] dota_turbo_matches_played                                                        : 1016             : cl, a, per_user                  : 
 [Console] dota_tutorial_actionpanel                                                        : true             : sv, cl, rep                      : 
 [Console] dota_tutorial_camera_location_dist                                               : 500              : sv, rep                          : 
 [Console] dota_tutorial_debug                                                              : true             : sv, rep                          : 
@@ -2471,6 +2471,7 @@
 [Console] dota_ui_armory_is_category_view                                                  : true             : cl, a, per_user                  : 
 [Console] dota_ui_armory_item_duplicate                                                    : 1                : cl                               : 
 [Console] dota_ui_give_item_indicator_max_range                                            : 1200             : cl                               : 
+[Console] dota_ui_give_item_indicator_min_ping_distance                                    : 300              : cl                               : 
 [Console] dota_ui_give_item_indicator_no_destroy                                           : false            : cl                               : 
 [Console] dota_ui_give_item_indicator_receiver_animation_duration                          : 0.2              : cl                               : 
 [Console] dota_ui_give_item_indicator_receiver_animation_offset                            : 30               : cl                               : 
@@ -2991,7 +2992,7 @@
 [Console] healme                                                                           : cmd              : sv, cheat                        : Heals the player.  Arguments: <health to gain>
 [Console] help                                                                             : cmd              : release                          : Find help about a convar/concommand.
 [Console] hero_grid_selected_config                                                        : 0:#DOTA_Armory_Attributes : cl, a, per_user                  : 
-[Console] hero_grid_selected_rank_tier                                                     : 2                : cl, a, per_user                  : 
+[Console] hero_grid_selected_rank_tier                                                     : 3                : cl, a, per_user                  : 
 [Console] +herochatwheel                                                                   : cmd              : cl                               : Opens hero chatwheel menu while held
 [Console] hide_sf_shop                                                                     : cmd              : cl                               : hide shop
 [Console] hideconsole                                                                      : cmd              : norecord, release                : Hide the console.
@@ -3754,7 +3755,7 @@
 [Console] particle_test_file                                                               : 0                : sv, cheat                        : Name of the particle system to dynamically spawn
 [Console] particle_test_start                                                              : cmd              : sv, cheat                        : Dispatches the test particle system with the parameters specified in particle_test_file,  particle_test_attach_mode and particle_test_attach_param on the entity the player is looking at.  Arguments:    {entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}
 [Console] particle_test_stop                                                               : cmd              : sv, cheat                        : Stops all particle systems on the selected entities.  Arguments:    {entity_name} / {class_name} / {entity_index} / {no argument = pick what player is looking at}
-[Console] password                                                                         : 30461683234516735 : a, norecord, server_cant_query   : Current server access password
+[Console] password                                                                         : 324664860785783316 : a, norecord, server_cant_query   : Current server access password
 [Console] path                                                                             : cmd              :                                  : Show the filesystem path.
 [Console] pause                                                                            : cmd              : release                          : Toggle the server pause state.
 [Console] pet_preview_gravity                                                              : 0.000000 0.000000 -800.000000 :                                  : 
@@ -5225,4 +5226,4 @@
 [Console] writekeybindings                                                                 : cmd              : release                          : Saves current key bindings to disk.
 [Console] zoom_sensitivity_ratio                                                           : 1                : cl, a, per_user                  : Additional mouse sensitivity scale factor applied when FOV is zoomed in.
 [Console] --------------
-[Console] 5226 total convars/concommands
+[Console] 5227 total convars/concommands
