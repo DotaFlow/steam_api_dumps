@@ -50,10 +50,10 @@
     0
   ],
   "mana_costs": [
-    65,
     60,
     55,
-    50
+    50,
+    45
   ],
   "gold_costs": [],
   "health_costs": [],
@@ -178,10 +178,10 @@
     {
       "name": "AbilityManaCost",
       "values_float": [
-        65,
         60,
         55,
-        50
+        50,
+        45
       ],
       "is_percentage": false,
       "heading_loc": "",
