@@ -59,9 +59,9 @@
     {
       "name": "damage",
       "values_float": [
-        100,
-        175,
-        250,
+        85,
+        165,
+        245,
         325
       ],
       "is_percentage": false,
@@ -122,7 +122,7 @@
     {
       "name": "duration",
       "values_float": [
-        10
+        9
       ],
       "is_percentage": false,
       "heading_loc": "DEBUFF DURATION:",
