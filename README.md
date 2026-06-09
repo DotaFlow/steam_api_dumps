@@ -46,8 +46,11 @@ ____
 - #### other
 - - **_DotaUniqueUsers.json**: latest response from /datafeed/uniqueusers dota2 API
 ____
-- #### steamEvents
-- - **\_News%app_id%\_%language%.json**: all steam news events for cs, dota and deadlock apps (files for two languages: russian, english)
+- #### steamEvents (570, 730, 1422450 folders)
+- - **\_News\_russian.json**: latest response from ajaxgetpartnereventspageable (all news) for app on russian language
+- - **\_News\_english.json**: latest response from ajaxgetpartnereventspageable (all news) for app on russian language
+- - **\_News\_DumpWithValveEmployee.json**: saved dump from ajaxgetpartnereventspageable with valve_access_log field (now is deleted), valve authors of news
+- - **\_NewsValveAuthors.txt**: parsed valve authors of news with names and links
 ____
 
 ## Links
