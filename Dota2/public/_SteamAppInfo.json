@@ -1,5 +1,5 @@
 {
-  "changenumber": 36512436,
+  "changenumber": 36540204,
   "missingToken": false,
   "appinfo": {
     "appid": "570",
@@ -450,9 +450,9 @@
       "373301": {
         "manifests": {
           "public": {
-            "gid": "7970692178565879435",
+            "gid": "2360110223202835620",
             "size": "4297601023",
-            "download": "2569138512"
+            "download": "2569138496"
           }
         }
       },
@@ -475,9 +475,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "544059767206206755",
+            "gid": "677074431772460136",
             "size": "616897976",
-            "download": "179539600"
+            "download": "179540256"
           }
         }
       },
@@ -487,9 +487,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "3696997873989867640",
+            "gid": "7434053103665930197",
             "size": "636654491",
-            "download": "302644880"
+            "download": "302645824"
           }
         }
       },
@@ -508,9 +508,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "930390736549738968",
-            "size": "745550689",
-            "download": "321671216"
+            "gid": "4630344594611336930",
+            "size": "745550817",
+            "download": "321670752"
           }
         }
       },
@@ -559,9 +559,9 @@
         "dlcappid": "313250",
         "manifests": {
           "public": {
-            "gid": "2548657410355792798",
+            "gid": "1144244533665144448",
             "size": "5890357297",
-            "download": "1625339664"
+            "download": "1625339680"
           }
         }
       },
@@ -669,9 +669,9 @@
       "workshopdepot": "570",
       "branches": {
         "public": {
-          "buildid": "23689610",
-          "timeupdated": "1781213607",
-          "timebuildupdated": "1781212789"
+          "buildid": "23708831",
+          "timeupdated": "1781297206",
+          "timebuildupdated": "1781295725"
         }
       },
       "privatebranches": "1",
