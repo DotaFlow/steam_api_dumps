@@ -2,6 +2,7 @@
   "appid": "730",
   "classid": "8490779455",
   "instanceid": "0",
+  "is_currency": "0",
   "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V7RsM-PdDGTIwu1wtbNoSnzkzBtz42nVw934IHuSZlIpDJFzF7UNuhTqxNDhYvSiuVJifxvo1Q",
   "icon_url_large": "",
   "icon_drag_url": "",
@@ -48,14 +49,14 @@
     "0": {
       "type": "inspect",
       "name": "Inspect in Game...",
-      "link": "steam://run/730//+csgo_econ_action_preview%205242524AEC7B72527A5362563A522252732E4E8E"
+      "link": "steam://run/730//+csgo_econ_action_preview%20A0B0A0B81E8980A088A190A4C8A0D0A0C058F798"
     }
   },
   "market_actions": {
     "0": {
       "type": "inspect",
       "name": "Inspect in Game...",
-      "link": "steam://run/730//+csgo_econ_action_preview%205242524AEC7B72527A5362563A522252732E4E8E"
+      "link": "steam://run/730//+csgo_econ_action_preview%20A0B0A0B81E8980A088A190A4C8A0D0A0C058F798"
     }
   },
   "tags": {
