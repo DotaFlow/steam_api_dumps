@@ -1,5 +1,5 @@
 {
-  "changenumber": 36813892,
+  "changenumber": 36814799,
   "missingToken": false,
   "appinfo": {
     "appid": "570",
@@ -450,9 +450,9 @@
       "373301": {
         "manifests": {
           "public": {
-            "gid": "6640225550519304700",
+            "gid": "1691486159153777189",
             "size": "4374591465",
-            "download": "2620941856"
+            "download": "2620941872"
           }
         }
       },
@@ -475,9 +475,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "1407388258537908490",
+            "gid": "4971753967378855306",
             "size": "616917432",
-            "download": "179552416"
+            "download": "179561968"
           }
         }
       },
@@ -487,9 +487,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "841271549023385152",
+            "gid": "3023305300849145563",
             "size": "636671075",
-            "download": "302645568"
+            "download": "302644112"
           }
         }
       },
@@ -508,9 +508,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "3691077676349510172",
-            "size": "745591009",
-            "download": "321667040"
+            "gid": "6105249693356312282",
+            "size": "745590753",
+            "download": "321666208"
           }
         }
       },
@@ -559,9 +559,9 @@
         "dlcappid": "313250",
         "manifests": {
           "public": {
-            "gid": "3058057129266679461",
+            "gid": "4035627021822963277",
             "size": "5891340857",
-            "download": "1625442672"
+            "download": "1625442688"
           }
         }
       },
@@ -669,9 +669,9 @@
       "workshopdepot": "570",
       "branches": {
         "public": {
-          "buildid": "23899408",
-          "timeupdated": "1782329013",
-          "timebuildupdated": "1782327942"
+          "buildid": "23900335",
+          "timeupdated": "1782332250",
+          "timebuildupdated": "1782332175"
         }
       },
       "privatebranches": "1",
