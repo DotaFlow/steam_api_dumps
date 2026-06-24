@@ -4168,5 +4168,10 @@
     "date": 1782337747,
     "old_version": 1842,
     "new_version": 1857
+  },
+  {
+    "date": 1782340209,
+    "old_version": 1857,
+    "new_version": 1860
   }
 ]
