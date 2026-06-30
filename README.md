@@ -109,7 +109,7 @@ Cached Steam partner news (public apps **570**, **730**, **1422450**):
 
 ### `static/`
 
-Mirrors of dota2.com frontend bundles (`manifest.js`, `content/*.js`, `content/*.css`) — used for datamine / asset diff tracking.
+Mirrors of dota2.com frontend bundles (`manifest.js`, `content/*.json`, `content/*.css`) — used for datamine / asset diff tracking.
 
 ---
 
