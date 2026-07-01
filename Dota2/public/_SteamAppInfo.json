@@ -1,5 +1,5 @@
 {
-  "changenumber": 36954730,
+  "changenumber": 36971684,
   "missingToken": false,
   "appinfo": {
     "appid": "570",
@@ -450,7 +450,7 @@
       "373301": {
         "manifests": {
           "public": {
-            "gid": "3686210231500804888",
+            "gid": "5025604036157080699",
             "size": "4467635563",
             "download": "2782937120"
           }
@@ -475,9 +475,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "3361014878838126776",
+            "gid": "1009089235856859769",
             "size": "649418904",
-            "download": "192556912"
+            "download": "192556848"
           }
         }
       },
@@ -487,9 +487,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "2700412827256664859",
+            "gid": "3311046822971297375",
             "size": "633134385",
-            "download": "293369824"
+            "download": "293370112"
           }
         }
       },
@@ -508,9 +508,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "8981748342632904819",
-            "size": "750558111",
-            "download": "314118784"
+            "gid": "7359344343228380158",
+            "size": "750558175",
+            "download": "314118688"
           }
         }
       },
@@ -559,9 +559,9 @@
         "dlcappid": "313250",
         "manifests": {
           "public": {
-            "gid": "1916252242167640700",
+            "gid": "7713136999176980097",
             "size": "5916796108",
-            "download": "1628404592"
+            "download": "1628404576"
           }
         }
       },
@@ -669,9 +669,9 @@
       "workshopdepot": "570",
       "branches": {
         "public": {
-          "buildid": "23993834",
-          "timeupdated": "1782877891",
-          "timebuildupdated": "1782866862"
+          "buildid": "24007277",
+          "timeupdated": "1782930498",
+          "timebuildupdated": "1782930082"
         }
       },
       "privatebranches": "1",
