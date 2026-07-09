@@ -1,5 +1,5 @@
 {
-  "changenumber": 37154415,
+  "changenumber": 37155792,
   "missingToken": false,
   "appinfo": {
     "appid": "570",
@@ -40,6 +40,7 @@
       "steam_deck_compatibility": {
         "category": "2",
         "steamos_compatibility": "2",
+        "steam_machine_compatibility": "2",
         "test_timestamp": "1665619200",
         "tested_build_id": "8226293",
         "tests": {
@@ -66,6 +67,24 @@
           "5": {
             "display": "1",
             "token": "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+          }
+        },
+        "steam_machine_tests": {
+          "0": {
+            "display": "3",
+            "token": "#SteamMachine_TestResult_ControllerGlyphsDoNotMatchDevice"
+          },
+          "1": {
+            "display": "3",
+            "token": "#SteamMachine_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+          },
+          "2": {
+            "display": "4",
+            "token": "#SteamMachine_TestResult_DefaultControllerConfigFullyFunctional"
+          },
+          "3": {
+            "display": "4",
+            "token": "#SteamMachine_TestResult_DefaultConfigurationIsPerformant"
           }
         },
         "steamos_tests": {
