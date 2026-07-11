@@ -4373,5 +4373,10 @@
     "date": 1783790110,
     "old_version": 1937,
     "new_version": 1941
+  },
+  {
+    "date": 1783800486,
+    "old_version": 1941,
+    "new_version": 1942
   }
 ]
