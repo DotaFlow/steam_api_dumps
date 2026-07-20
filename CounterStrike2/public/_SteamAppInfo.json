@@ -1,5 +1,5 @@
 {
-  "changenumber": 37322823,
+  "changenumber": 37395521,
   "missingToken": false,
   "appinfo": {
     "appid": "730",
@@ -216,7 +216,8 @@
         "category_68": "1",
         "category_69": "1",
         "category_70": "1",
-        "category_74": "1"
+        "category_74": "1",
+        "category_51": "1"
       },
       "supported_languages": {
         "czech": {
