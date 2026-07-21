@@ -1,5 +1,5 @@
 {
-  "changenumber": 37427362,
+  "changenumber": 37431479,
   "missingToken": false,
   "appinfo": {
     "appid": "730",
@@ -118,7 +118,8 @@
           "requires_h264": "0",
           "requires_voice_files": "0",
           "gamescope_frame_limiter_not_supported": "0",
-          "hdr_support": "0"
+          "hdr_support": "0",
+          "requires_proton_soundfonts": "0"
         }
       },
       "controllertagwizard": "1",
