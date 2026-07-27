@@ -3,5 +3,10 @@
     "date": 0,
     "old_version": 0,
     "new_version": 24
+  },
+  {
+    "date": 1785163088,
+    "old_version": 24,
+    "new_version": 27
   }
 ]
