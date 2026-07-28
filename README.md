@@ -15,7 +15,9 @@ parsing/
 │   └── experimental/
 ├── Deadlock/           Steam API + SteamCMD
 │   ├── public/
-│   └── experimental/
+│   ├── experimental/
+│   ├── experimental2/
+│   └── experimental3/
 ├── CounterStrike2/     Steam API + SteamCMD
 │   └── public/
 └── web/                dota2.com datafeed + site static mirrors
@@ -29,7 +31,9 @@ parsing/
 ```
 
 **Path pattern (Steam):** `parsing/{Game}/{env}/{file}`  
-`Game` = `Dota2` | `Deadlock` | `CounterStrike2`, `env` = `public` | `staging` | `experimental`.
+`Game` = `Dota2` | `Deadlock` | `CounterStrike2`  
+`env` = `public` | `staging` | `experimental` | `experimental2` | `experimental3`  
+(`staging` — Dota 2 only; `experimental2` / `experimental3` — Deadlock only.)
 
 **Path pattern (web):** `parsing/web/{section}/…` — Dota 2 only.
 
@@ -44,6 +48,8 @@ parsing/
 | Dota 2 | experimental | 247040 |
 | Deadlock | public | 1422450 |
 | Deadlock | experimental | 3488080 |
+| Deadlock | experimental2 | 3781850 |
+| Deadlock | experimental3 | 3125160 |
 | Counter-Strike 2 | public | 730 |
 
 ---
