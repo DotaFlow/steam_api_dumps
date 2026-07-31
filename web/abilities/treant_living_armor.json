@@ -44,9 +44,6 @@
     0
   ],
   "mana_costs": [
-    65,
-    70,
-    75,
     80
   ],
   "gold_costs": [],
@@ -215,9 +212,6 @@
     {
       "name": "AbilityManaCost",
       "values_float": [
-        65,
-        70,
-        75,
         80
       ],
       "is_percentage": false,
