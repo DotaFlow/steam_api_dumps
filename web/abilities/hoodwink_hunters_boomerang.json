@@ -27,7 +27,7 @@
     0
   ],
   "cooldowns": [
-    18
+    20
   ],
   "durations": [
     0
@@ -251,7 +251,7 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
-        18
+        20
       ],
       "is_percentage": false,
       "heading_loc": "",
