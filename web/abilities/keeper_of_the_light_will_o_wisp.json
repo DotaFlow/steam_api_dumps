@@ -120,7 +120,7 @@
         1.85
       ],
       "is_percentage": false,
-      "heading_loc": "",
+      "heading_loc": "OFF INTERVAL:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -137,7 +137,7 @@
         1
       ],
       "is_percentage": false,
-      "heading_loc": "",
+      "heading_loc": "ON INTERVAL:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -172,6 +172,23 @@
       ],
       "is_percentage": false,
       "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "facet_bonus": {
+        "name": "",
+        "values": [],
+        "operation": 0
+      },
+      "required_facet": ""
+    },
+    {
+      "name": "wisp_duration_tooltip",
+      "values_float": [
+        13.4
+      ],
+      "is_percentage": false,
+      "heading_loc": "TOTAL DURATION:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
