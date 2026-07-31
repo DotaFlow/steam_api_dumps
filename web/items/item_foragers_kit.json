@@ -24,7 +24,7 @@
     0
   ],
   "channel_times": [
-    1
+    0.75
   ],
   "cooldowns": [
     60
@@ -149,7 +149,7 @@
     {
       "name": "AbilityChannelTime",
       "values_float": [
-        1
+        0.75
       ],
       "is_percentage": false,
       "heading_loc": "",
