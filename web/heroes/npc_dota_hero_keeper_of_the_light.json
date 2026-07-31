@@ -668,7 +668,7 @@
       "desc_loc": "Restores mana to the target unit and reduces cooldowns of all basic abilities currently on cooldown by a fixed amount. Is %self_bonus%%% more effective when used on himself.",
       "lore_loc": "In the same vein, Ezalor bestows his harmony among others.",
       "notes_loc": [
-        "Chakra Magic does not reduce the cooldown of Ultimate abilities"
+        "Chakra Magic does not reduce the cooldown of Ultimate abilities."
       ],
       "shard_loc": "",
       "scepter_loc": "",
@@ -701,10 +701,10 @@
         0
       ],
       "cooldowns": [
-        19,
-        16,
-        13,
-        10
+        20,
+        17,
+        14,
+        11
       ],
       "durations": [
         0
@@ -873,10 +873,10 @@
         {
           "name": "AbilityCooldown",
           "values_float": [
-            19,
-            16,
-            13,
-            10
+            20,
+            17,
+            14,
+            11
           ],
           "is_percentage": false,
           "heading_loc": "",
@@ -927,7 +927,7 @@
       "dispellable": 2,
       "max_level": 1,
       "cast_ranges": [
-        850
+        750
       ],
       "cast_points": [
         0.2
@@ -1015,7 +1015,7 @@
         {
           "name": "AbilityCastRange",
           "values_float": [
-            850
+            750
           ],
           "is_percentage": false,
           "heading_loc": "",
@@ -1259,7 +1259,7 @@
             1.85
           ],
           "is_percentage": false,
-          "heading_loc": "",
+          "heading_loc": "OFF INTERVAL:",
           "bonuses": [],
           "values_shard": [],
           "values_scepter": [],
@@ -1276,7 +1276,7 @@
             1
           ],
           "is_percentage": false,
-          "heading_loc": "",
+          "heading_loc": "ON INTERVAL:",
           "bonuses": [],
           "values_shard": [],
           "values_scepter": [],
@@ -1311,6 +1311,23 @@
           ],
           "is_percentage": false,
           "heading_loc": "",
+          "bonuses": [],
+          "values_shard": [],
+          "values_scepter": [],
+          "facet_bonus": {
+            "name": "",
+            "values": [],
+            "operation": 0
+          },
+          "required_facet": ""
+        },
+        {
+          "name": "wisp_duration_tooltip",
+          "values_float": [
+            13.4
+          ],
+          "is_percentage": false,
+          "heading_loc": "TOTAL DURATION:",
           "bonuses": [],
           "values_shard": [],
           "values_scepter": [],

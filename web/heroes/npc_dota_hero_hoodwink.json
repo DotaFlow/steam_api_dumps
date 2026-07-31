@@ -1176,7 +1176,7 @@
         0
       ],
       "cooldowns": [
-        18
+        20
       ],
       "durations": [
         0
@@ -1400,7 +1400,7 @@
         {
           "name": "AbilityCooldown",
           "values_float": [
-            18
+            20
           ],
           "is_percentage": false,
           "heading_loc": "",
@@ -1473,9 +1473,9 @@
         0
       ],
       "mana_costs": [
-        100,
         150,
-        200
+        200,
+        250
       ],
       "gold_costs": [],
       "health_costs": [],
@@ -1882,9 +1882,9 @@
         {
           "name": "AbilityManaCost",
           "values_float": [
-            100,
             150,
-            200
+            200,
+            250
           ],
           "is_percentage": false,
           "heading_loc": "",
@@ -2003,7 +2003,7 @@
         {
           "name": "redirect_chance",
           "values_float": [
-            14
+            14.25
           ],
           "is_percentage": true,
           "heading_loc": "REDIRECT CHANCE:",
