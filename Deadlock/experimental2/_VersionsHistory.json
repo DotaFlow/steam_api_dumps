@@ -8,5 +8,10 @@
     "date": 1785163088,
     "old_version": 24,
     "new_version": 27
+  },
+  {
+    "date": 1785779710,
+    "old_version": 27,
+    "new_version": 28
   }
 ]
