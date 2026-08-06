@@ -1,5 +1,5 @@
 {
-  "changenumber": 37806121,
+  "changenumber": 37809013,
   "missingToken": false,
   "appinfo": {
     "appid": "570",
@@ -470,7 +470,7 @@
       "373301": {
         "manifests": {
           "public": {
-            "gid": "5492894406627633425",
+            "gid": "9171957925156789017",
             "size": "5079756248",
             "download": "3219652032"
           }
@@ -495,9 +495,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "742349161832075741",
+            "gid": "1989850196356746997",
             "size": "650403992",
-            "download": "192861280"
+            "download": "192857376"
           }
         }
       },
@@ -507,9 +507,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "3746976240151064652",
+            "gid": "4503852766864528556",
             "size": "634124793",
-            "download": "293659552"
+            "download": "293659760"
           }
         }
       },
@@ -528,7 +528,7 @@
         },
         "manifests": {
           "public": {
-            "gid": "5760298483034446124",
+            "gid": "3984960193629223465",
             "size": "751690367",
             "download": "314430960"
           }
@@ -579,9 +579,9 @@
         "dlcappid": "313250",
         "manifests": {
           "public": {
-            "gid": "1024002940887756637",
+            "gid": "2385671247904260348",
             "size": "5927310847",
-            "download": "1629646544"
+            "download": "1629646528"
           }
         }
       },
@@ -689,9 +689,9 @@
       "workshopdepot": "570",
       "branches": {
         "public": {
-          "buildid": "24583246",
-          "timeupdated": "1785978219",
-          "timebuildupdated": "1785976207"
+          "buildid": "24585913",
+          "timeupdated": "1785989777",
+          "timebuildupdated": "1785989699"
         }
       },
       "privatebranches": "1",
