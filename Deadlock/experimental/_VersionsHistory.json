@@ -4528,5 +4528,10 @@
     "date": 1786890788,
     "old_version": 2017,
     "new_version": 2018
+  },
+  {
+    "date": 1786893968,
+    "old_version": 2018,
+    "new_version": 2019
   }
 ]
