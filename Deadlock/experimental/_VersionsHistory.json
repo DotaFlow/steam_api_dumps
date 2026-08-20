@@ -4548,5 +4548,10 @@
     "date": 1787186228,
     "old_version": 2021,
     "new_version": 2023
+  },
+  {
+    "date": 1787187187,
+    "old_version": 2023,
+    "new_version": 2024
   }
 ]
