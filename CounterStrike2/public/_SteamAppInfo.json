@@ -1,5 +1,5 @@
 {
-  "changenumber": 38326889,
+  "changenumber": 38359822,
   "missingToken": false,
   "appinfo": {
     "appid": "730",
@@ -54,7 +54,7 @@
         "sc_schinese": "反恐精英：全球攻势"
       },
       "releasestatesteamchina": "released",
-      "timeline_marker_updated": "1787614725",
+      "timeline_marker_updated": "1787778938",
       "timeline_marker_svg": "0eeacc724c77e1f5abeeba4fb542f45bad894470/markers.svg",
       "market_presence": "1",
       "content_descriptors": {
@@ -558,7 +558,7 @@
         "systemdefined": "1",
         "manifests": {
           "public": {
-            "gid": "1581182079707516933",
+            "gid": "7230638700296504345",
             "size": "8",
             "download": "64"
           },
@@ -631,7 +631,7 @@
         "systemdefined": "1",
         "manifests": {
           "public": {
-            "gid": "7699226777476141357",
+            "gid": "4583774826268207272",
             "size": "8",
             "download": "64"
           },
@@ -704,7 +704,7 @@
         "systemdefined": "1",
         "manifests": {
           "public": {
-            "gid": "7529733009167799247",
+            "gid": "4411786091889859121",
             "size": "8",
             "download": "64"
           },
@@ -776,7 +776,7 @@
         },
         "manifests": {
           "public": {
-            "gid": "5479429415550172776",
+            "gid": "5367452975134587943",
             "size": "8",
             "download": "64"
           },
@@ -840,7 +840,7 @@
       "735": {
         "manifests": {
           "public": {
-            "gid": "2988302937233157666",
+            "gid": "7824196858708483519",
             "size": "8",
             "download": "64"
           },
@@ -904,7 +904,7 @@
       "736": {
         "manifests": {
           "public": {
-            "gid": "6544260201068256645",
+            "gid": "8165835529728875119",
             "size": "8",
             "download": "64"
           },
@@ -968,7 +968,7 @@
       "737": {
         "manifests": {
           "public": {
-            "gid": "6156929751706301237",
+            "gid": "4928377218150151803",
             "size": "8",
             "download": "64"
           },
@@ -1032,7 +1032,7 @@
       "738": {
         "manifests": {
           "public": {
-            "gid": "2376299309500640110",
+            "gid": "3985552264983778572",
             "size": "8",
             "download": "64"
           },
@@ -1113,9 +1113,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "4322456088840983890",
+            "gid": "2844536608884402770",
             "size": "62725603852",
-            "download": "53895453216"
+            "download": "53895453200"
           },
           "1.40.8.8": {
             "gid": "5023020258185551340",
@@ -1170,9 +1170,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "3075687913968839709",
-            "size": "7712182438",
-            "download": "4994968752"
+            "gid": "6581019893274903321",
+            "size": "7712179366",
+            "download": "4994943616"
           },
           "1.40.8.8": {
             "gid": "366892905078765270",
@@ -1285,9 +1285,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "4438670448538289168",
+            "gid": "5543898279197610779",
             "size": "7221895518",
-            "download": "4604187072"
+            "download": "4604180080"
           },
           "1.40.8.8": {
             "gid": "6261982168194353241",
@@ -1398,9 +1398,9 @@
       "2347777": {
         "manifests": {
           "public": {
-            "gid": "5388529158246295000",
-            "size": "88096400",
-            "download": "26911600"
+            "gid": "4770686874990024407",
+            "size": "88096848",
+            "download": "26909888"
           },
           "1.41.4.1": {
             "gid": "6520292090232515075",
@@ -1448,9 +1448,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "492033267890921851",
-            "size": "2170749182",
-            "download": "582148624"
+            "gid": "7205094395767562851",
+            "size": "2170750040",
+            "download": "582148944"
           },
           "1.40.8.8": {
             "gid": "1936241813406914436",
@@ -1506,9 +1506,9 @@
       "hasdepotsindlc": "1",
       "branches": {
         "public": {
-          "buildid": "24934554",
-          "timeupdated": "1787687563",
-          "timebuildupdated": "1787682956"
+          "buildid": "24957633",
+          "timeupdated": "1787778914",
+          "timebuildupdated": "1787777941"
         },
         "csgo_legacy": {
           "buildid": "12426195",
