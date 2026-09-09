@@ -1,0 +1,14 @@
+{
+  "game": {
+    "gameName": "[STAGING] DotA 2",
+    "gameVersion": "11",
+    "availableGameStats": {
+      "stats": {
+        "DOTA_SHOW_FULL_UI": {
+          "defaultvalue": 0,
+          "displayName": ""
+        }
+      }
+    }
+  }
+}

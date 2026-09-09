@@ -64,6 +64,7 @@ Files in each `{Game}/{env}/` folder. Availability per game:
 | `GetServerVersion.json` | ✓ | ✓ | — | `IGCVersion_*/GetServerVersion` |
 | `GetHeroes.json` | ✓ | — | — | `IEconDOTA2_*/GetHeroes` |
 | `GetStoreMetaData.json` | ✓ | — | ✓ | `IEconItems_*/GetStoreMetaData` |
+| `GetSchemaForGame.json` | ✓ | ✓ | ✓ | `ISteamUserStats/GetSchemaForGame` |
 | `GetAssetPrices.json` | public | — | public | `ISteamEconomy/GetAssetPrices` |
 | `GetSDRConfig.json` | public | public | public | `ISteamApps/GetSDRConfig` |
 | `GetAssetClassInfo/` | ✓ | — | ✓ | one file per class: `asset{classId}.json` |
