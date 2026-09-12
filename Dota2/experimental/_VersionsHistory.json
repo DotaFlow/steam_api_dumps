@@ -2553,5 +2553,10 @@
     "date": 1789175946,
     "old_version": 7405,
     "new_version": 7406
+  },
+  {
+    "date": 1789228866,
+    "old_version": 7406,
+    "new_version": 7407
   }
 ]
