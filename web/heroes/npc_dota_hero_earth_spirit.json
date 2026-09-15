@@ -598,7 +598,7 @@
           "bonuses": [
             {
               "name": "special_bonus_unique_earth_spirit",
-              "value": 175,
+              "value": 250,
               "operation": 0
             }
           ],
@@ -783,7 +783,7 @@
           "bonuses": [
             {
               "name": "special_bonus_unique_earth_spirit_5",
-              "value": 250,
+              "value": 200,
               "operation": 0
             }
           ],
@@ -1481,8 +1481,8 @@
           "bonuses": [
             {
               "name": "special_bonus_unique_earth_spirit_8",
-              "value": 25,
-              "operation": 3
+              "value": 35,
+              "operation": 0
             }
           ],
           "values_shard": [],
@@ -1501,13 +1501,7 @@
           ],
           "is_percentage": false,
           "heading_loc": "MAGNETIZE DURATION:",
-          "bonuses": [
-            {
-              "name": "special_bonus_unique_earth_spirit_8",
-              "value": 25,
-              "operation": 3
-            }
-          ],
+          "bonuses": [],
           "values_shard": [],
           "values_scepter": [],
           "facet_bonus": {
@@ -1985,7 +1979,7 @@
     {
       "id": 977,
       "name": "special_bonus_unique_earth_spirit_8",
-      "name_loc": "+{s:bonus_damage_duration}% Magnetize Damage & Duration",
+      "name_loc": "+{s:bonus_damage_per_second} Magnetize Damage Per Second",
       "desc_loc": "",
       "lore_loc": "",
       "notes_loc": [],
@@ -2047,9 +2041,9 @@
       "item_quality": 0
     },
     {
-      "id": 6203,
-      "name": "special_bonus_unique_earth_spirit",
-      "name_loc": "+{s:bonus_damage_str}% Rolling Boulder Damage from Strength",
+      "id": 7657,
+      "name": "special_bonus_unique_earth_spirit_5",
+      "name_loc": "+{s:bonus_rock_damage} Geomagnetic Grip Remnant Damage",
       "desc_loc": "",
       "lore_loc": "",
       "notes_loc": [],
@@ -2175,9 +2169,9 @@
       "item_quality": 0
     },
     {
-      "id": 7657,
-      "name": "special_bonus_unique_earth_spirit_5",
-      "name_loc": "+{s:bonus_rock_damage} Geomagnetic Grip Remnant Damage",
+      "id": 6203,
+      "name": "special_bonus_unique_earth_spirit",
+      "name_loc": "+{s:bonus_damage_str}% Rolling Boulder Damage from Strength",
       "desc_loc": "",
       "lore_loc": "",
       "notes_loc": [],
