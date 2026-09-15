@@ -27,7 +27,7 @@
     0
   ],
   "cooldowns": [
-    22
+    23
   ],
   "durations": [
     0
@@ -98,7 +98,7 @@
     {
       "name": "windwalk_movement_speed",
       "values_float": [
-        22
+        20
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -217,7 +217,7 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
-        22
+        23
       ],
       "is_percentage": false,
       "heading_loc": "",
