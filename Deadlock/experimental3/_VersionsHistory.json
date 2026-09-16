@@ -268,5 +268,10 @@
     "date": 1789534090,
     "old_version": 5939,
     "new_version": 5940
+  },
+  {
+    "date": 1789572310,
+    "old_version": 5940,
+    "new_version": 5941
   }
 ]
