@@ -10,33 +10,45 @@ to [github.com/DotaFlow/steam_api_dumps](https://github.com/DotaFlow/steam_api_d
 
 ```
 parsing/
-├── Dota2/              Steam API + SteamCMD (Dota 2)
+├── Dota2/                    # Steam API + SteamCMD (Dota 2)
 │   ├── public/
 │   ├── staging/
 │   └── experimental/
-├── Deadlock/           Steam API + SteamCMD
+├── Deadlock/                 # Steam API + SteamCMD (Deadlock)
 │   ├── public/
 │   ├── experimental/
 │   ├── experimental2/
 │   └── experimental3/
-├── CounterStrike2/     Steam API + SteamCMD
+├── CounterStrike2/           # Steam API + SteamCMD (Counter-Strike 2)
 │   └── public/
-└── web/                dota2.com datafeed + site static mirrors
-    ├── abilities/
-    ├── heroes/
-    ├── items/
-    ├── patches/
-    ├── other/
-    ├── steamEvents/
-    └── static/
+└── web/             
+    ├── dota2.com/            # dota2.com datafeed + site static mirrors
+    │   ├── abilities/
+    │   ├── heroes/
+    │   ├── items/
+    │   ├── other/
+    │   ├── patches/
+    │   └── static/
+    ├── playdeadlock.com/     # playdealock.com site static mirrors
+    │   └── static/
+    └── steamEvents/          # steam news dumps
+        ├── 570 (Dota 2)
+        ├── 730 (Counter-Strike 2)
+        └── 1422450 (Deadlock)
 ```
 
 **Path pattern (Steam):** `parsing/{Game}/{env}/{file}`  
-`Game` = `Dota2` | `Deadlock` | `CounterStrike2`  
-`env` = `public` | `staging` | `experimental` | `experimental2` | `experimental3`  
+`Game` = `Dota2` | `Deadlock` | `CounterStrike2`
+
+`env` = `public` | `staging` | `experimental` | `experimental2` | `experimental3`
+
 (`staging` — Dota 2 only; `experimental2` / `experimental3` — Deadlock only.)
 
-**Path pattern (web):** `parsing/web/{section}/…` — Dota 2 only.
+**Path pattern (web):**
+
+`parsing/web/dota2.com/{section}/…` — Dota2 web data
+
+`parsing/web/playdeadlock.com/{section}/…` — Deadlock Web data
 
 ---
 
@@ -59,33 +71,46 @@ parsing/
 
 Files in each `{Game}/{env}/` folder. Availability per game:
 
-| File / dir              |  Dota 2  | Deadlock |  CS2   | Notes                                                                  |
-|-------------------------|:--------:|:--------:|:------:|------------------------------------------------------------------------|
-| `GetClientVersion.json` |    ✓     |    ✓     |   —    | `IGCVersion_*/GetClientVersion`                                        |
-| `GetServerVersion.json` |    ✓     |    ✓     |   —    | `IGCVersion_*/GetServerVersion`                                        |
-| `GetHeroes.json`        |    ✓     |    —     |   —    | `IEconDOTA2_*/GetHeroes`                                               |
-| `GetStoreMetaData.json` |    ✓     |    —     |   ✓    | `IEconItems_*/GetStoreMetaData`                                        |
-| `GetSchemaForGame.json` |    ✓     |    ✓     |   ✓    | `ISteamUserStats/GetSchemaForGame`                                     |
-| `GetAssetPrices.json`   |  public  |    —     | public | `ISteamEconomy/GetAssetPrices`                                         |
-| `GetSDRConfig.json`     |  public  |  public  | public | `ISteamApps/GetSDRConfig`                                              |
-| `GetAssetClassInfo/`    |    ✓     |    —     |   ✓    | one file per class: `asset{classId}.json`                              |
-| `_SteamAppInfo.json`    |    ✓     |    ✓     |   ✓    | SteamCMD `app_info_print` dump                                         |
-| `_VersionsHistory.json` |    ✓     |    ✓     |   —    | append-only client version changelog (derived)                         |
-| `cvarlist/`             |  public  |    —     |   —    | deprecated; you can check commands and convars from dota client files* |
+| File / dir              | Dota 2 | Deadlock |  CS2   | Notes                                                                  |
+|-------------------------|:------:|:--------:|:------:|------------------------------------------------------------------------|
+| `GetClientVersion.json` |   ✓    |    ✓     |   —    | `IGCVersion_*/GetClientVersion`                                        |
+| `GetServerVersion.json` |   ✓    |    ✓     |   —    | `IGCVersion_*/GetServerVersion`                                        |
+| `GetHeroes.json`        |   ✓    |    —     |   —    | `IEconDOTA2_*/GetHeroes`                                               |
+| `GetStoreMetaData.json` |   ✓    |    —     |   ✓    | `IEconItems_*/GetStoreMetaData`                                        |
+| `GetSchemaForGame.json` |   ✓    |    ✓     |   ✓    | `ISteamUserStats/GetSchemaForGame`                                     |
+| `GetAssetPrices.json`   | public |    —     | public | `ISteamEconomy/GetAssetPrices`                                         |
+| `GetSDRConfig.json`     | public |  public  | public | `ISteamApps/GetSDRConfig`                                              |
+| `GetAssetClassInfo/`    |   ✓    |    —     |   ✓    | one file per class: `asset{classId}.json`                              |
+| `_SteamAppInfo.json`    |   ✓    |    ✓     |   ✓    | SteamCMD `app_info_print` dump                                         |
+| `_VersionsHistory.json` |   ✓    |    ✓     |   —    | append-only client version changelog (derived)                         |
+| `cvarlist/`             | public |    —     |   —    | deprecated; you can check commands and convars from dota client files* |
 
-`GetClientVersion` / `GetServerVersion` / `_VersionsHistory` — Dota 2 and Deadlock only.  
-CS2 and economy files — public env only where marked.
+`GetClientVersion` / `GetServerVersion` / `_VersionsHistory` — Dota 2 and Deadlock only. CS2 and economy files — public
+env only where marked.
 
 \* [commands.txt](https://github.com/DotaFlow/dota2_client_dump/blob/master/sdk/commands.txt)
 and [convars.txt](https://github.com/DotaFlow/dota2_client_dump/blob/master/sdk/convars.txt)
 
 ---
 
-## Web branch (`web/`)
+## Web branch (`web`)
 
-Dota 2 [datafeed](https://www.dota2.com/datafeed/) responses and related assets. Updated by `web_parser` (~hourly).
+### `steamEvents/{app_id}/`
 
-### Index files (`_*.json`)
+Cached Steam partner news (public apps **570**, **730**, **1422450**):
+
+| File                               | Content                                                                                |
+|------------------------------------|----------------------------------------------------------------------------------------|
+| `_News_russian.json`               | Full news dump, `lang=russian`                                                         |
+| `_News_english.json`               | Full news dump, `lang=english`                                                         |
+| `_News_DumpWithValveEmployee.json` | Historical dump with Valve employee metadata                                           |
+| `_NewsValveAuthors.txt`            | Historical dump with Valve employee metadata (aggregated with employee names and links |
+
+### dota2.com dir (dota2.com web data)
+
+Dota 2 [datafeed](https://www.dota2.com/datafeed/) responses and related assets. Updates ~hourly
+
+#### Index files (`_*.json`)
 
 | Path                          | Source                     |
 |-------------------------------|----------------------------|
@@ -96,7 +121,7 @@ Dota 2 [datafeed](https://www.dota2.com/datafeed/) responses and related assets.
 | `patches/_PatchesList.json`   | `/datafeed/patchnoteslist` |
 | `other/_DotaUniqueUsers.json` | `/datafeed/uniqueusers`    |
 
-### Per-entity files
+#### Per-entity files
 
 Built from list endpoints + detail fetches:
 
@@ -107,21 +132,17 @@ Built from list endpoints + detail fetches:
 | `items/`     | `_ItemsList.json`   | `/datafeed/itemdata`    | `item_blink.json`        |
 | `patches/`   | `_PatchesList.json` | `/datafeed/patchnotes`  | `7.38.json`              |
 
-### `steamEvents/{app_id}/`
-
-Cached Steam partner news (public apps **570**, **730**, **1422450**):
-
-| File                               | Content                                      |
-|------------------------------------|----------------------------------------------|
-| `_News_russian.json`               | Full news dump, `lang=russian`               |
-| `_News_english.json`               | Full news dump, `lang=english`               |
-| `_News_DumpWithValveEmployee.json` | Historical dump with Valve employee metadata |
-| `_NewsValveAuthors.txt`            | Parsed author names + profile links          |
-
-### `static/`
+#### `static/`
 
 Mirrors of dota2.com frontend bundles (`manifest.js`, `content/*.json`, `content/*.css`) — used for datamine / asset
 diff tracking.
+
+### playdeadlock.com dir (playdeadlock.com web data)
+
+#### `static/`
+
+Mirrors of playdeadlock.com frontend bundles (`manifest.js`, `content/*.json`, `content/*.css`) — used for datamine /
+asset diff tracking.
 
 ---
 
