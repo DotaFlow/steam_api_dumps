@@ -1,5 +1,5 @@
 {
-  "changenumber": 39110739,
+  "changenumber": 39110778,
   "missingToken": false,
   "appinfo": {
     "appid": "730",
@@ -1652,7 +1652,7 @@
         },
         "1.41.8.1": {
           "buildid": "25218825",
-          "description": "1.41.8.1",
+          "description": "Game version 1.41.8.1 (21-Sep-2026)",
           "timeupdated": "1788994172",
           "timebuildupdated": "1788993120"
         },
