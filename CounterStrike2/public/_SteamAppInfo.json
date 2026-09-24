@@ -1,5 +1,5 @@
 {
-  "changenumber": 39178277,
+  "changenumber": 39178580,
   "missingToken": false,
   "appinfo": {
     "appid": "730",
@@ -1073,7 +1073,7 @@
         },
         "manifests": {
           "public": {
-            "gid": "2689453599344445176",
+            "gid": "4218289832790841850",
             "size": "65118013636",
             "download": "55619613536"
           },
@@ -1378,7 +1378,7 @@
         },
         "manifests": {
           "public": {
-            "gid": "2544902492561926208",
+            "gid": "8731220205552954634",
             "size": "2108113189",
             "download": "576642288"
           },
@@ -1431,9 +1431,9 @@
       "hasdepotsindlc": "1",
       "branches": {
         "public": {
-          "buildid": "25515054",
-          "timeupdated": "1790286656",
-          "timebuildupdated": "1790284289"
+          "buildid": "25515854",
+          "timeupdated": "1790287799",
+          "timebuildupdated": "1790287736"
         },
         "csgo_legacy": {
           "buildid": "12426195",
