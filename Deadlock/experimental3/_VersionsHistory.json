@@ -448,5 +448,10 @@
     "date": 1790663469,
     "old_version": 6001,
     "new_version": 6002
+  },
+  {
+    "date": 1790688248,
+    "old_version": 6002,
+    "new_version": 6006
   }
 ]

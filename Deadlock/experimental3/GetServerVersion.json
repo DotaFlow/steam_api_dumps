@@ -2,8 +2,8 @@
   "result": {
     "success": true,
     "engine": 1,
-    "deploy_version": 6002,
-    "active_version": 6002,
-    "response_time": 1790663468
+    "deploy_version": 6006,
+    "active_version": 6006,
+    "response_time": 1790688247
   }
 }
