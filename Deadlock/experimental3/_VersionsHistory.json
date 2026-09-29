@@ -503,5 +503,10 @@
     "date": 1790704269,
     "old_version": 6021,
     "new_version": 6022
+  },
+  {
+    "date": 1790707329,
+    "old_version": 6022,
+    "new_version": 6024
   }
 ]
