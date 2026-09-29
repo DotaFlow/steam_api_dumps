@@ -1,5 +1,5 @@
 {
-  "changenumber": 39320751,
+  "changenumber": 39321773,
   "missingToken": true,
   "appinfo": {
     "appid": "1422450",
@@ -47,15 +47,15 @@
         },
         "library_hero": {
           "image": {
-            "english": "12351fd67b63a03971952ca142dba8b58d811b18/library_hero.jpg"
+            "english": "e38dad54f59519e592896c889bbfa7c90fd52270/library_hero.jpg"
           },
           "image2x": {
-            "english": "12351fd67b63a03971952ca142dba8b58d811b18/library_hero_2x.jpg"
+            "english": "e38dad54f59519e592896c889bbfa7c90fd52270/library_hero_2x.jpg"
           }
         },
         "library_hero_blur": {
           "image": {
-            "english": "12351fd67b63a03971952ca142dba8b58d811b18/library_hero_blur.jpg"
+            "english": "e38dad54f59519e592896c889bbfa7c90fd52270/library_hero_blur.jpg"
           }
         },
         "library_logo": {
@@ -80,7 +80,7 @@
           }
         }
       },
-      "store_asset_mtime": "1769123110",
+      "store_asset_mtime": "1790716148",
       "associations": {
         "0": {
           "type": "developer",
