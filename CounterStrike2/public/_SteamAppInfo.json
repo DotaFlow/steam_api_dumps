@@ -1,5 +1,5 @@
 {
-  "changenumber": 39518331,
+  "changenumber": 39518353,
   "missingToken": false,
   "appinfo": {
     "appid": "730",
@@ -54,7 +54,7 @@
         "sc_schinese": "反恐精英：全球攻势"
       },
       "releasestatesteamchina": "released",
-      "timeline_marker_updated": "1790812297",
+      "timeline_marker_updated": "1791243642",
       "timeline_marker_svg": "0eeacc724c77e1f5abeeba4fb542f45bad894470/markers.svg",
       "market_presence": "1",
       "content_descriptors": {
@@ -351,8 +351,8 @@
       "icon": "",
       "languages_macos": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,brazilian,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,bulgarian,ukrainian",
       "loadallbeforelaunch": "1",
-      "minclientversion": "1694466342",
-      "minclientversion_pw_csgo": "1694466342",
+      "minclientversion": "1781330461",
+      "minclientversion_pw_csgo": "1781330461",
       "noservers": "0",
       "primarycache": "731",
       "primarycache_macos": "733",
