@@ -59,11 +59,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -76,11 +71,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -93,11 +83,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -110,11 +95,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -127,11 +107,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -147,11 +122,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -173,11 +143,6 @@
       ],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -190,11 +155,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -207,11 +167,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -224,11 +179,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -241,11 +191,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -261,11 +206,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     }
   ],
