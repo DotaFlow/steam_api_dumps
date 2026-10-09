@@ -1403,7 +1403,7 @@
         ""
       ],
       "type": 0,
-      "behavior": "8724154373",
+      "behavior": "9007207978895365",
       "target_team": 2,
       "target_type": 0,
       "flags": 0,
@@ -1669,7 +1669,7 @@
         ""
       ],
       "type": 0,
-      "behavior": "8724152361",
+      "behavior": "9007207978893353",
       "target_team": 2,
       "target_type": 19,
       "flags": 0,
@@ -1875,7 +1875,7 @@
         ""
       ],
       "type": 0,
-      "behavior": "8732542993",
+      "behavior": "9007207987283985",
       "target_team": 0,
       "target_type": 0,
       "flags": 0,
@@ -2187,7 +2187,7 @@
         "Increases Raven's Veil invisibility duration."
       ],
       "type": 1,
-      "behavior": "8724152325",
+      "behavior": "9007207978893317",
       "target_team": 2,
       "target_type": 1,
       "flags": 16,
