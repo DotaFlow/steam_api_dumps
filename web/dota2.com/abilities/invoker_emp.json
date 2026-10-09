@@ -11,7 +11,7 @@
   "scepter_loc": "",
   "facets_loc": [],
   "type": 0,
-  "behavior": "8724152433",
+  "behavior": "9007207978893425",
   "target_team": 0,
   "target_type": 0,
   "flags": 0,
@@ -56,11 +56,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -73,11 +68,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -98,11 +88,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -117,11 +102,6 @@
         50
       ],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -136,11 +116,6 @@
         125
       ],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -153,11 +128,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -170,11 +140,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -187,11 +152,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -204,11 +164,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -221,11 +176,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     }
   ],
