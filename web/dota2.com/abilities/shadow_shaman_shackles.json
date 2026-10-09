@@ -66,11 +66,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -92,11 +87,6 @@
       ],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -118,11 +108,6 @@
       ],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -137,11 +122,6 @@
       "values_scepter": [
         2.5
       ],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -154,11 +134,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -173,11 +148,6 @@
       "values_scepter": [
         100
       ],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -192,11 +162,6 @@
       "values_scepter": [
         600
       ],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -211,11 +176,6 @@
       "values_scepter": [
         0.9
       ],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -230,11 +190,6 @@
       "values_scepter": [
         1
       ],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -249,11 +204,6 @@
       "values_scepter": [
         2000
       ],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -268,11 +218,6 @@
       "values_scepter": [
         150
       ],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -288,11 +233,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -305,11 +245,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -325,11 +260,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     },
     {
@@ -345,11 +275,6 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
-      "facet_bonus": {
-        "name": "",
-        "values": [],
-        "operation": 0
-      },
       "required_facet": ""
     }
   ],
