@@ -5253,5 +5253,10 @@
     "date": 1793226961,
     "old_version": 2304,
     "new_version": 2305
+  },
+  {
+    "date": 1793230217,
+    "old_version": 2305,
+    "new_version": 2306
   }
 ]
