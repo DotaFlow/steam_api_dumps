@@ -1,5 +1,5 @@
 {
-  "changenumber": 40531315,
+  "changenumber": 40561111,
   "missingToken": false,
   "appinfo": {
     "appid": "730",
@@ -120,6 +120,36 @@
           "gamescope_frame_limiter_not_supported": "0",
           "hdr_support": "0",
           "requires_proton_soundfonts": "0"
+        }
+      },
+      "steam_frame_compatibility": {
+        "category": "1",
+        "test_timestamp": "1793126942",
+        "tested_build_id": "26144732",
+        "tests": {
+          "0": {
+            "display": "2",
+            "token": "#SteamFrame_TestResult_SteamOSDoesNotSupport"
+          }
+        },
+        "configuration": {
+          "supported_input": "other",
+          "requires_manual_keyboard_invoke": "0",
+          "requires_non_controller_launcher_nav": "0",
+          "primary_player_is_controller_slot_0": "0",
+          "non_deck_display_glyphs": "1",
+          "small_text": "0",
+          "requires_internet_for_setup": "0",
+          "requires_internet_for_singleplayer": "0",
+          "recommended_runtime": "proton-experimental",
+          "requires_h264": "0",
+          "requires_voice_files": "0",
+          "gamescope_frame_limiter_not_supported": "0",
+          "hdr_support": "0",
+          "requires_proton_soundfonts": "0",
+          "rpo_debug": "",
+          "fdm_debug": "",
+          "tso_enable": "0"
         }
       },
       "controllertagwizard": "1",
