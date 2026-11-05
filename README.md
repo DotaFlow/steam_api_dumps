@@ -54,16 +54,16 @@ parsing/
 
 ## App IDs
 
-| Game             | Env           | Steam app ID |
-|------------------|---------------|--------------|
-| Dota 2           | public        | 570          |
-| Dota 2           | staging       | 2305270      |
-| Dota 2           | experimental  | 247040       |
-| Deadlock         | public        | 1422450      |
-| Deadlock         | experimental  | 3488080      |
-| Deadlock         | experimental2 | 3781850      |
-| Deadlock         | experimental3 | 3125160      |
-| Counter-Strike 2 | public        | 730          |
+| Game             | Env           | Steam app ID | Server app ID |
+|------------------|---------------|--------------|---------------|
+| Dota 2           | public        | 570          | 373310        |
+| Dota 2           | staging       | 2305270      | 2305290       |
+| Dota 2           | experimental  | 247040       | 247060        |
+| Deadlock         | public        | 1422450      | 1422460       |
+| Deadlock         | experimental  | 3488080      | 3488100       |
+| Deadlock         | experimental2 | 3781850      | 3781870       |
+| Deadlock         | experimental3 | 3125160      | 3125180       |
+| Counter-Strike 2 | public        | 730          | -             |
 
 ---
 
@@ -71,19 +71,19 @@ parsing/
 
 Files in each `{Game}/{env}/` folder. Availability per game:
 
-| File / dir              | Dota 2 | Deadlock |  CS2   | Notes                                                                  |
-|-------------------------|:------:|:--------:|:------:|------------------------------------------------------------------------|
-| `GetClientVersion.json` |   ✓    |    ✓     |   —    | `IGCVersion_*/GetClientVersion`                                        |
-| `GetServerVersion.json` |   ✓    |    ✓     |   —    | `IGCVersion_*/GetServerVersion`                                        |
-| `GetHeroes.json`        |   ✓    |    —     |   —    | `IEconDOTA2_*/GetHeroes`                                               |
-| `GetStoreMetaData.json` |   ✓    |    —     |   ✓    | `IEconItems_*/GetStoreMetaData`                                        |
-| `GetSchemaForGame.json` |   ✓    |    ✓     |   ✓    | `ISteamUserStats/GetSchemaForGame`                                     |
-| `GetAssetPrices.json`   | public |    —     | public | `ISteamEconomy/GetAssetPrices`                                         |
-| `GetSDRConfig.json`     | public |  public  | public | `ISteamApps/GetSDRConfig`                                              |
-| `GetAssetClassInfo/`    |   ✓    |    —     |   ✓    | one file per class: `asset{classId}.json`                              |
-| `_SteamAppInfo.json`    |   ✓    |    ✓     |   ✓    | SteamCMD `app_info_print` dump                                         |
-| `_VersionsHistory.json` |   ✓    |    ✓     |   —    | append-only client version changelog (derived)                         |
-| `cvarlist/`             | public |    —     |   —    | deprecated; you can check commands and convars from dota client files* |
+| File / dir                                      | Dota 2 | Deadlock |  CS2   | Notes                                                                  |
+|-------------------------------------------------|:------:|:--------:|:------:|------------------------------------------------------------------------|
+| `GetClientVersion.json`                         |   ✓    |    ✓     |   —    | `IGCVersion_*/GetClientVersion`                                        |
+| `GetServerVersion.json`                         |   ✓    |    ✓     |   —    | `IGCVersion_*/GetServerVersion`                                        |
+| `GetHeroes.json`                                |   ✓    |    —     |   —    | `IEconDOTA2_*/GetHeroes`                                               |
+| `GetStoreMetaData.json`                         |   ✓    |    —     |   ✓    | `IEconItems_*/GetStoreMetaData`                                        |
+| `GetSchemaForGame.json`                         |   ✓    |    ✓     |   ✓    | `ISteamUserStats/GetSchemaForGame`                                     |
+| `GetAssetPrices.json`                           | public |    —     | public | `ISteamEconomy/GetAssetPrices`                                         |
+| `GetSDRConfig.json`                             | public |  public  | public | `ISteamApps/GetSDRConfig`                                              |
+| `GetAssetClassInfo/`                            |   ✓    |    —     |   ✓    | one file per class: `asset{classId}.json`                              |
+| `{app_id}_{client or server}_SteamAppInfo.json` |   ✓    |    ✓     |   ✓    | SteamCMD `app_info_print` dump                                         |
+| `_VersionsHistory.json`                         |   ✓    |    ✓     |   —    | append-only client version changelog (derived)                         |
+| `cvarlist/`                                     | public |    —     |   —    | deprecated; you can check commands and convars from dota client files* |
 
 `GetClientVersion` / `GetServerVersion` / `_VersionsHistory` — Dota 2 and Deadlock only. CS2 and economy files — public
 env only where marked.
