@@ -1,8 +1,9 @@
 {
   "changenumber": 40616626,
-  "missingToken": false,
+  "missingToken": true,
   "appinfo": {
     "appid": "1422450",
+    "public_only": "1",
     "common": {
       "name": "Deadlock",
       "type": "Game",
@@ -175,100 +176,6 @@
         "18": "4726",
         "19": "1667"
       }
-    },
-    "extended": {
-      "minclientversion": "1738026274",
-      "developer": "Valve",
-      "publisher": "Valve"
-    },
-    "config": {
-      "app_mappings": {
-        "1": {
-          "platform": "linux",
-          "tool": "proton_experimental",
-          "comment": "proton"
-        }
-      },
-      "installdir": "Deadlock",
-      "launch": {
-        "0": {
-          "executable": "game\\bin\\win64\\deadlock.exe",
-          "arguments": "-steam -console",
-          "type": "default"
-        }
-      },
-      "steamcontrollertemplateindex": "13",
-      "steamdecktouchscreen": "1",
-      "steamconfigurator3rdpartynative": "65535",
-      "steaminputmanifestpath": "game\\citadel\\cfg\\steam_input_manifest.vdf",
-      "checkforupdatesbeforelaunch": "1"
-    },
-    "depots": {
-      "228989": {
-        "config": {
-          "oslist": "windows"
-        },
-        "depotfromapp": "228980",
-        "sharedinstall": "1"
-      },
-      "1422451": {
-        "manifests": {
-          "public": {
-            "gid": "8832225228956688081",
-            "size": "468926722",
-            "download": "159418560"
-          }
-        }
-      },
-      "1422452": {
-        "config": {
-          "oslist": "windows"
-        },
-        "manifests": {
-          "public": {
-            "gid": "6498059110623542296",
-            "size": "715624920",
-            "download": "258472512"
-          }
-        }
-      },
-      "1422454": {
-        "config": {
-          "oslist": "linux"
-        }
-      },
-      "1422456": {
-        "manifests": {
-          "public": {
-            "gid": "1124591651485547492",
-            "size": "37852469997",
-            "download": "14650331696"
-          }
-        }
-      },
-      "1422457": {
-        "config": {
-          "oslist": "linux"
-        },
-        "manifests": {
-          "public": {
-            "gid": "494554308604402424",
-            "size": "646774197",
-            "download": "228353456"
-          }
-        }
-      },
-      "branches": {
-        "public": {
-          "buildid": "26449080",
-          "timeupdated": "1793854970",
-          "timebuildupdated": "1793849810"
-        }
-      }
-    },
-    "ufs": {
-      "quota": "2147483647",
-      "maxnumfiles": "2000"
     }
   }
 }
