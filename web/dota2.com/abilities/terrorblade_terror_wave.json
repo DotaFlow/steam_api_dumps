@@ -27,7 +27,7 @@
     0
   ],
   "cooldowns": [
-    90
+    85
   ],
   "durations": [
     0
@@ -71,7 +71,7 @@
     {
       "name": "damage",
       "values_float": [
-        200
+        250
       ],
       "is_percentage": false,
       "heading_loc": "DAMAGE:",
@@ -131,7 +131,7 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
-        90
+        85
       ],
       "is_percentage": false,
       "heading_loc": "",

@@ -33,7 +33,7 @@
     0
   ],
   "cooldowns": [
-    0
+    0.25
   ],
   "durations": [
     0
@@ -45,9 +45,9 @@
     0
   ],
   "mana_costs": [
-    110,
-    140,
-    170
+    125,
+    175,
+    225
   ],
   "gold_costs": [],
   "health_costs": [],
@@ -109,13 +109,7 @@
       ],
       "is_percentage": false,
       "heading_loc": "ACTIVATION DELAY:",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_techies_4",
-          "value": 0.8,
-          "operation": 2
-        }
-      ],
+      "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
       "required_facet": ""
@@ -173,9 +167,9 @@
     {
       "name": "mres_reduction",
       "values_float": [
-        15,
-        20,
-        25
+        12,
+        16,
+        20
       ],
       "is_percentage": true,
       "heading_loc": "MAGIC RESISTANCE REDUCTION:",
@@ -191,6 +185,18 @@
       ],
       "is_percentage": false,
       "heading_loc": "DEBUFF DURATION:",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "required_facet": ""
+    },
+    {
+      "name": "tooltip_health_pips",
+      "values_float": [
+        1
+      ],
+      "is_percentage": false,
+      "heading_loc": "MINE PIP HEALTH:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -215,23 +221,11 @@
       ],
       "is_percentage": false,
       "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
-      "required_facet": ""
-    },
-    {
-      "name": "AbilityChargeRestoreTime",
-      "values_float": [
-        15
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
       "bonuses": [
         {
-          "name": "special_bonus_unique_techies_3",
-          "value": 2,
-          "operation": 2
+          "name": "special_bonus_unique_techies_6",
+          "value": 1,
+          "operation": 0
         }
       ],
       "values_shard": [],
@@ -239,11 +233,37 @@
       "required_facet": ""
     },
     {
+      "name": "AbilityChargeRestoreTime",
+      "values_float": [
+        14,
+        13,
+        12
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "required_facet": ""
+    },
+    {
       "name": "AbilityManaCost",
       "values_float": [
-        110,
-        140,
-        170
+        125,
+        175,
+        225
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "required_facet": ""
+    },
+    {
+      "name": "AbilityCooldown",
+      "values_float": [
+        0.25
       ],
       "is_percentage": false,
       "heading_loc": "",
