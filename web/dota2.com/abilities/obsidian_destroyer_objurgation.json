@@ -65,6 +65,9 @@
     {
       "name": "mana_to_barrier",
       "values_float": [
+        9,
+        10,
+        11,
         12
       ],
       "is_percentage": true,
@@ -72,7 +75,7 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [
-        4
+        3
       ],
       "required_facet": ""
     },
@@ -98,6 +101,18 @@
       ],
       "is_percentage": false,
       "heading_loc": "DURATION:",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "required_facet": ""
+    },
+    {
+      "name": "all_damage",
+      "values_float": [
+        1
+      ],
+      "is_percentage": false,
+      "heading_loc": "",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -156,7 +171,7 @@
       "bonuses": [
         {
           "name": "special_bonus_unique_outworld_devourer_barrier",
-          "value": 10,
+          "value": 7,
           "operation": 2
         }
       ],
