@@ -38,7 +38,7 @@
   "turn_rate": 0.8,
   "sight_range_day": 1800,
   "sight_range_night": 800,
-  "max_health": 582,
+  "max_health": 620,
   "health_regen": 2.6000001,
   "max_mana": 315,
   "mana_regen": 1,
@@ -324,7 +324,7 @@
         0
       ],
       "mana_costs": [
-        75
+        60
       ],
       "gold_costs": [],
       "health_costs": [],
@@ -350,6 +350,23 @@
           "required_facet": ""
         },
         {
+          "name": "attack_effectiveness",
+          "values_float": [
+            80
+          ],
+          "is_percentage": true,
+          "heading_loc": "ITEM POTENCY:",
+          "bonuses": [],
+          "values_shard": [],
+          "values_scepter": [],
+          "facet_bonus": {
+            "name": "",
+            "values": [],
+            "operation": 0
+          },
+          "required_facet": ""
+        },
+        {
           "name": "bonus_hero_damage",
           "values_float": [
             40,
@@ -362,7 +379,7 @@
           "bonuses": [
             {
               "name": "special_bonus_unique_ember_spirit_6",
-              "value": 50,
+              "value": 45,
               "operation": 0
             }
           ],
@@ -453,7 +470,7 @@
         {
           "name": "AbilityManaCost",
           "values_float": [
-            75
+            60
           ],
           "is_percentage": false,
           "heading_loc": "",
@@ -565,9 +582,9 @@
         {
           "name": "duration",
           "values_float": [
+            9,
             12,
-            14,
-            16,
+            15,
             18
           ],
           "is_percentage": false,
@@ -629,7 +646,7 @@
           "bonuses": [
             {
               "name": "special_bonus_unique_ember_spirit_3",
-              "value": 100,
+              "value": 70,
               "operation": 3
             }
           ],
@@ -893,8 +910,8 @@
           "name": "damage",
           "values_float": [
             100,
-            200,
-            300
+            185,
+            270
           ],
           "is_percentage": false,
           "heading_loc": "",
@@ -1220,8 +1237,8 @@
           "name": "damage",
           "values_float": [
             100,
-            200,
-            300
+            185,
+            270
           ],
           "is_percentage": false,
           "heading_loc": "DAMAGE:",

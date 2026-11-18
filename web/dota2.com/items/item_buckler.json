@@ -47,7 +47,7 @@
     {
       "name": "armor",
       "values_float": [
-        1
+        2
       ],
       "is_percentage": false,
       "heading_loc": "+$armor",
@@ -59,7 +59,7 @@
     {
       "name": "bonus_aoe_armor",
       "values_float": [
-        2
+        1
       ],
       "is_percentage": false,
       "heading_loc": "",
