@@ -692,6 +692,10 @@
           "indent_level": 1,
           "note": "Base Mana Regen increased by 0.25",
           "icon": "mana_regen"
+        },
+        {
+          "indent_level": 1,
+          "note": "MegaMeepo Duration increased from 20s to 25s"
         }
       ],
       "abilities": [
@@ -701,15 +705,6 @@
             {
               "indent_level": 1,
               "note": "Health Steal (Heroes) increased from 6/10/14/18 to 9/12/15/18"
-            }
-          ]
-        },
-        {
-          "ability_id": 1109,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Duration increased from 20s to 25s"
             }
           ]
         }

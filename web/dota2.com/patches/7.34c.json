@@ -447,17 +447,11 @@
         {
           "indent_level": 1,
           "note": "Call of the Wild Hawk Hawk Base Health decreased from 250/375/500/675 to 200/325/450/625"
-        }
-      ],
-      "abilities": [
+        },
         {
-          "ability_id": 1005,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "No longer considers illusion damage amplification when calculating the healing amount"
-            }
-          ]
+          "indent_level": 1,
+          "note": "Drums of Slom No longer considers illusion damage amplification when calculating the healing amount",
+          "icon": "damage"
         }
       ]
     },
@@ -888,17 +882,10 @@
         {
           "indent_level": 1,
           "note": "Turn Rate improved from 0.7 to 0.9"
-        }
-      ],
-      "abilities": [
+        },
         {
-          "ability_id": 1109,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "No longer gets cancelled if Meepo is banished, hidden or becomes untargetable"
-            }
-          ]
+          "indent_level": 1,
+          "note": "MegaMeepo No longer gets cancelled if Meepo is banished, hidden or becomes untargetable"
         }
       ]
     },

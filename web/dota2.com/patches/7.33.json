@@ -43,8 +43,7 @@
         },
         {
           "indent_level": 1,
-          "note": "Roshan no longer drops Aghanim's Shard on the second death",
-          "aghanims": "shard"
+          "note": "Roshan no longer drops Aghanim's Shard on the second death"
         },
         {
           "indent_level": 1,
@@ -52,8 +51,7 @@
         },
         {
           "indent_level": 1,
-          "note": "On the third death onwards, Roshan now drops Aghanim's Scepter when killed on the Radiant side and a Refresher Shard when killed on the Dire side",
-          "aghanims": "scepter"
+          "note": "On the third death onwards, Roshan now drops Aghanim's Scepter when killed on the Radiant side and a Refresher Shard when killed on the Dire side"
         },
         {
           "indent_level": 1,
@@ -82,13 +80,11 @@
         },
         {
           "indent_level": 1,
-          "note": "Destroying a Tormentor grants an Aghanim's Shard buff to one of the two lowest networth allied heroes that still do not have the Shard when it dies",
-          "aghanims": "shard"
+          "note": "Destroying a Tormentor grants an Aghanim's Shard buff to one of the two lowest networth allied heroes that still do not have the Shard when it dies"
         },
         {
           "indent_level": 1,
-          "note": "If all heroes have an Aghanim's Shard, then destroying a Tormentor gives 280 gold and 280 experience to each hero",
-          "aghanims": "shard"
+          "note": "If all heroes have an Aghanim's Shard, then destroying a Tormentor gives 280 gold and 280 experience to each hero"
         },
         {
           "indent_level": 1,
@@ -2500,6 +2496,10 @@
           "indent_level": 1,
           "note": "Base Damage increased by 1",
           "icon": "damage"
+        },
+        {
+          "indent_level": 1,
+          "note": "Swiftslash Duration increased from 0.8s to 1s"
         }
       ],
       "talent_notes": [
@@ -2524,15 +2524,6 @@
             {
               "indent_level": 1,
               "note": "Cooldown decreased from 130s to 120s"
-            }
-          ]
-        },
-        {
-          "ability_id": 419,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Duration increased from 0.8s to 1s"
             }
           ]
         }
@@ -3979,6 +3970,16 @@
           "indent_level": 1,
           "note": "Call of the Wild Hawk Dive Bomb (Aghanim's Shard) Root Duration decreased from 2.5s to 2s",
           "aghanims": "shard"
+        },
+        {
+          "indent_level": 1,
+          "note": "Drums of Slom Ability reworked"
+        },
+        {
+          "indent_level": 1,
+          "hide_dot": true,
+          "note": "Drums of Slom: Now a passive ability. Attacks from Beastmaster or a nearby unit he controls cause him to bang his drum, dealing damage to nearby units and healing himself and units under his control for a portion of the damage dealt. Every attack decreases the interval between drum hits from a maximum of 3s down to a minimum of 0.4s between hits after 20 attacks. If no attacks are made, the intervals gradually increase every 1 second. Using Primal Roar automatically adds 10/15/20 drum stacks based on the level of Primal Roar. Drum Hit Damage: 90. Heal from Heroes: 25%. Heal from Creeps: 5%",
+          "icon": "damage"
         }
       ],
       "abilities": [
@@ -4002,20 +4003,6 @@
             {
               "indent_level": 1,
               "note": "Mana Cost decreased from 150/175/200 to 100/125/150"
-            }
-          ]
-        },
-        {
-          "ability_id": 1005,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Ability reworked"
-            },
-            {
-              "indent_level": 1,
-              "hide_dot": true,
-              "note": "Now a passive ability. Attacks from Beastmaster or a nearby unit he controls cause him to bang his drum, dealing damage to nearby units and healing himself and units under his control for a portion of the damage dealt. Every attack decreases the interval between drum hits from a maximum of 3s down to a minimum of 0.4s between hits after 20 attacks. If no attacks are made, the intervals gradually increase every 1 second. Using Primal Roar automatically adds 10/15/20 drum stacks based on the level of Primal Roar. Drum Hit Damage: 90. Heal from Heroes: 25%. Heal from Creeps: 5%"
             }
           ]
         }
@@ -6100,6 +6087,19 @@
     },
     {
       "hero_id": 82,
+      "hero_notes": [
+        {
+          "indent_level": 1,
+          "note": "MegaMeepo New ability granted by Aghanim's Scepter",
+          "aghanims": "scepter"
+        },
+        {
+          "indent_level": 1,
+          "hide_dot": true,
+          "note": "MegaMeepo: Primary Meepo mounts all other Meepos in a 600 radius around him on top of his shoulders. While in this form, he gains 50% of the other Meepo stats and can Fling them at enemies, dealing 225 damage and slowing them by 60% for 3s. While active, Earthbind generates additional nets and Poof deals bonus damage based on the amount of Meepos riding on top. Casting Dig cancels MegaMeepo. Has no Mana Cost. Cooldown: 60s. Duration: 20s. Fling Cooldown: 0.5s",
+          "icon": "damage"
+        }
+      ],
       "abilities": [
         {
           "ability_id": 5431,
@@ -6135,21 +6135,6 @@
             {
               "indent_level": 1,
               "note": "Max HP Restore decreased from 50% to 35%"
-            }
-          ]
-        },
-        {
-          "ability_id": 1109,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "New ability granted by Aghanim's Scepter",
-              "aghanims": "scepter"
-            },
-            {
-              "indent_level": 1,
-              "hide_dot": true,
-              "note": "Primary Meepo mounts all other Meepos in a 600 radius around him on top of his shoulders. While in this form, he gains 50% of the other Meepo stats and can Fling them at enemies, dealing 225 damage and slowing them by 60% for 3s. While active, Earthbind generates additional nets and Poof deals bonus damage based on the amount of Meepos riding on top. Casting Dig cancels MegaMeepo. Has no Mana Cost. Cooldown: 60s. Duration: 20s. Fling Cooldown: 0.5s"
             }
           ]
         }
@@ -6401,6 +6386,10 @@
           "indent_level": 1,
           "note": "Damage gain per level increased from +2.5 to +4.26",
           "icon": "damage"
+        },
+        {
+          "indent_level": 1,
+          "note": "Mana Burn Ability removed"
         }
       ],
       "talent_notes": [
@@ -6433,15 +6422,6 @@
               "indent_level": 1,
               "note": "Stun Duration decreased from 1.4/1.8/2.2/2.6s to 1.1/1.4/1.7/2.0s ",
               "info": "Duration decreased as a part of the comprehensive Disables Reduction"
-            }
-          ]
-        },
-        {
-          "ability_id": 1767,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Ability removed"
             }
           ]
         },
@@ -8535,8 +8515,7 @@
         },
         {
           "indent_level": 1,
-          "note": "Chen's Aghanim's Shard increases the level of the following abilities by one, allowing them to reach level 4",
-          "aghanims": "shard"
+          "note": "Chen's Aghanim's Shard increases the level of the following abilities by one, allowing them to reach level 4"
         }
       ]
     },
@@ -8796,7 +8775,7 @@
     },
     {
       "name": "npc_dota_neutral_dark_troll",
-      "localized_name": "Hill Troll",
+      "localized_name": "Dark Troll Trapper",
       "neutral_creep_notes": [
         {
           "indent_level": 1,
@@ -8969,7 +8948,7 @@
       ]
     },
     {
-      "name": "npc_dota_neutral_big_thunder_lizard",
+      "name": "npc_dota_beastmaster_thunderhide",
       "localized_name": "Ancient Thunderhide",
       "neutral_creep_notes": [
         {

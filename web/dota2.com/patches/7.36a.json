@@ -220,8 +220,7 @@
         },
         {
           "indent_level": 1,
-          "note": "Fixed Silencer's Aghanim's Shard not increasing INT steal properly",
-          "aghanims": "shard"
+          "note": "Fixed Silencer's Aghanim's Shard not increasing INT steal properly"
         },
         {
           "indent_level": 1,
@@ -397,6 +396,16 @@
     },
     {
       "hero_id": 8,
+      "hero_notes": [
+        {
+          "indent_level": 1,
+          "note": "Swiftslash: Mana Cost increased from 125 to 150"
+        },
+        {
+          "indent_level": 1,
+          "note": "Swiftslash: Cast Range decreased from 550 to 450"
+        }
+      ],
       "talent_notes": [
         {
           "indent_level": 1,
@@ -432,19 +441,6 @@
             {
               "indent_level": 1,
               "note": "Bonus Damage decreased from 30/35/40 to 25/30/35"
-            }
-          ]
-        },
-        {
-          "ability_id": 419,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Mana Cost increased from 125 to 150"
-            },
-            {
-              "indent_level": 1,
-              "note": "Cast Range decreased from 550 to 450"
             }
           ]
         }
@@ -969,19 +965,10 @@
     },
     {
       "hero_id": 52,
-      "subsections": [
+      "hero_notes": [
         {
-          "title": "Chronoptic Nourishment",
-          "style": "hero_facet",
-          "facet": "leshrac_attacks_mana",
-          "facet_icon": "mana",
-          "facet_color": "Blue1",
-          "general_notes": [
-            {
-              "indent_level": 1,
-              "note": "Now has a 50% mana restoration penalty when attacking creeps"
-            }
-          ]
+          "indent_level": 1,
+          "note": "Chronoptic Nourishment: Now has a 50% mana restoration penalty when attacking creeps"
         }
       ]
     },

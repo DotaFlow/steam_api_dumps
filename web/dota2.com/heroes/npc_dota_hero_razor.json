@@ -27,8 +27,8 @@
     1,
     0
   ],
-  "damage_min": 47,
-  "damage_max": 49,
+  "damage_min": 44,
+  "damage_max": 56,
   "attack_rate": 1.7,
   "attack_range": 475,
   "projectile_speed": 2000,
@@ -38,7 +38,7 @@
   "turn_rate": 0.6,
   "sight_range_day": 1800,
   "sight_range_night": 800,
-  "max_health": 604,
+  "max_health": 640,
   "health_regen": 3.2,
   "max_mana": 327,
   "mana_regen": 1.0500001,
@@ -383,7 +383,10 @@
         0
       ],
       "mana_costs": [
-        65
+        45,
+        50,
+        55,
+        60
       ],
       "gold_costs": [],
       "health_costs": [],
@@ -577,7 +580,10 @@
         {
           "name": "AbilityManaCost",
           "values_float": [
-            65
+            45,
+            50,
+            55,
+            60
           ],
           "is_percentage": false,
           "heading_loc": "",
@@ -713,9 +719,9 @@
         {
           "name": "strike_damage",
           "values_float": [
-            50,
-            90,
-            130,
+            65,
+            100,
+            135,
             170
           ],
           "is_percentage": false,

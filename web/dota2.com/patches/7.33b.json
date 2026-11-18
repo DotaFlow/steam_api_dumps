@@ -712,15 +712,10 @@
     },
     {
       "hero_id": 82,
-      "abilities": [
+      "hero_notes": [
         {
-          "ability_id": 1109,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "No longer pulls Meepos out of Duel Black Hole and Chronosphere"
-            }
-          ]
+          "indent_level": 1,
+          "note": "Megameepo no longer pulls Meepos out of Duel Black Hole and Chronosphere"
         }
       ]
     },

@@ -105,13 +105,11 @@
         },
         {
           "indent_level": 1,
-          "note": "Aghanim's Scepter: Roshan drop now requires you to activate it to consume it (has no effect until consumed)",
-          "aghanims": "scepter"
+          "note": "Aghanim's Scepter: Roshan drop now requires you to activate it to consume it (has no effect until consumed)"
         },
         {
           "indent_level": 1,
-          "note": "Aghanim's Shard: Now drops on the second Roshan kill, and only that one (has same activation mechanics as the Scepter drop)",
-          "aghanims": "shard"
+          "note": "Aghanim's Shard: Now drops on the second Roshan kill, and only that one (has same activation mechanics as the Scepter drop)"
         },
         {
           "indent_level": 1,
@@ -1649,6 +1647,16 @@
     },
     {
       "hero_id": 8,
+      "hero_notes": [
+        {
+          "indent_level": 1,
+          "note": "Swiftslash mana cost increased from 100 to 125"
+        },
+        {
+          "indent_level": 1,
+          "note": "Swiftslash cast range reduced from 600 to 550"
+        }
+      ],
       "abilities": [
         {
           "ability_id": 5030,
@@ -1660,19 +1668,6 @@
             {
               "indent_level": 1,
               "note": "Attack rate multiplier reduced from 1.6 to 1.5"
-            }
-          ]
-        },
-        {
-          "ability_id": 419,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Mana cost increased from 100 to 125"
-            },
-            {
-              "indent_level": 1,
-              "note": "Cast range reduced from 600 to 550"
             }
           ]
         }

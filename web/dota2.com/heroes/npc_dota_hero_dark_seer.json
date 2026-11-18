@@ -38,7 +38,7 @@
   "turn_rate": 0.6,
   "sight_range_day": 1800,
   "sight_range_night": 800,
-  "max_health": 560,
+  "max_health": 600,
   "health_regen": 3.5,
   "max_mana": 351,
   "mana_regen": 1.15,
@@ -82,10 +82,10 @@
         0
       ],
       "cooldowns": [
-        60,
         50,
-        40,
-        30
+        42,
+        34,
+        26
       ],
       "durations": [
         0
@@ -115,13 +115,7 @@
           ],
           "is_percentage": false,
           "heading_loc": "RADIUS:",
-          "bonuses": [
-            {
-              "name": "special_bonus_unique_dark_seer_2",
-              "value": 75,
-              "operation": 0
-            }
-          ],
+          "bonuses": [],
           "values_shard": [],
           "values_scepter": [],
           "facet_bonus": {
@@ -248,14 +242,20 @@
         {
           "name": "AbilityCooldown",
           "values_float": [
-            60,
             50,
-            40,
-            30
+            42,
+            34,
+            26
           ],
           "is_percentage": false,
           "heading_loc": "",
-          "bonuses": [],
+          "bonuses": [
+            {
+              "name": "special_bonus_unique_dark_seer_2",
+              "value": 4,
+              "operation": 2
+            }
+          ],
           "values_shard": [],
           "values_scepter": [],
           "facet_bonus": {
@@ -345,13 +345,7 @@
           ],
           "is_percentage": false,
           "heading_loc": "RADIUS:",
-          "bonuses": [
-            {
-              "name": "special_bonus_unique_dark_seer_5",
-              "value": 65,
-              "operation": 0
-            }
-          ],
+          "bonuses": [],
           "values_shard": [],
           "values_scepter": [],
           "facet_bonus": {
@@ -951,7 +945,7 @@
             6
           ],
           "is_percentage": false,
-          "heading_loc": "ILLUSION DURATION:",
+          "heading_loc": "REPLICA DURATION:",
           "bonuses": [],
           "values_shard": [],
           "values_scepter": [],
@@ -969,6 +963,23 @@
           ],
           "is_percentage": false,
           "heading_loc": "MAX DAMAGE:",
+          "bonuses": [],
+          "values_shard": [],
+          "values_scepter": [],
+          "facet_bonus": {
+            "name": "",
+            "values": [],
+            "operation": 0
+          },
+          "required_facet": ""
+        },
+        {
+          "name": "replica_effectiveness",
+          "values_float": [
+            60
+          ],
+          "is_percentage": true,
+          "heading_loc": "REPLICA ITEM POTENCY:",
           "bonuses": [],
           "values_shard": [],
           "values_scepter": [],
@@ -1041,7 +1052,7 @@
         ""
       ],
       "type": 0,
-      "behavior": "4406636445698",
+      "behavior": "567356589867011",
       "target_team": 0,
       "target_type": 0,
       "flags": 0,
@@ -1230,6 +1241,23 @@
               "operation": 0
             }
           ],
+          "values_shard": [],
+          "values_scepter": [],
+          "facet_bonus": {
+            "name": "",
+            "values": [],
+            "operation": 0
+          },
+          "required_facet": ""
+        },
+        {
+          "name": "replica_effectiveness",
+          "values_float": [
+            60
+          ],
+          "is_percentage": true,
+          "heading_loc": "REPLICA ITEM POTENCY:",
+          "bonuses": [],
           "values_shard": [],
           "values_scepter": [],
           "facet_bonus": {
@@ -1557,9 +1585,9 @@
       "item_quality": 0
     },
     {
-      "id": 420,
-      "name": "special_bonus_unique_dark_seer_5",
-      "name_loc": "+{s:bonus_radius} Ion Shell Radius",
+      "id": 5931,
+      "name": "special_bonus_armor_4",
+      "name_loc": "+{s:value} Armor",
       "desc_loc": "",
       "lore_loc": "",
       "notes_loc": [],
@@ -1604,7 +1632,25 @@
       ],
       "gold_costs": [],
       "health_costs": [],
-      "special_values": [],
+      "special_values": [
+        {
+          "name": "value",
+          "values_float": [
+            4
+          ],
+          "is_percentage": false,
+          "heading_loc": "",
+          "bonuses": [],
+          "values_shard": [],
+          "values_scepter": [],
+          "facet_bonus": {
+            "name": "",
+            "values": [],
+            "operation": 0
+          },
+          "required_facet": ""
+        }
+      ],
       "is_item": false,
       "ability_has_scepter": false,
       "ability_has_shard": false,
@@ -1621,7 +1667,7 @@
     {
       "id": 6365,
       "name": "special_bonus_unique_dark_seer_2",
-      "name_loc": "+{s:bonus_radius} Vacuum AoE",
+      "name_loc": "-{s:bonus_AbilityCooldown}s Vacuum Cooldown",
       "desc_loc": "",
       "lore_loc": "",
       "notes_loc": [],

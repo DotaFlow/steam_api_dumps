@@ -165,8 +165,7 @@
         },
         {
           "indent_level": 1,
-          "note": "Ability tooltips now show icons next to ability values, indicating that those are upgraded by Aghanim's Shard/Scepter, Talents, or Facets",
-          "aghanims": "shard"
+          "note": "Ability tooltips now show icons next to ability values, indicating that those are upgraded by Aghanim's Shard/Scepter, Talents, or Facets"
         },
         {
           "indent_level": 1,
@@ -6159,7 +6158,7 @@
           ]
         },
         {
-          "title": "Chronoptic Nourishment",
+          "title": "NO FACET TITLE",
           "style": "hero_facet",
           "facet": "leshrac_attacks_mana",
           "facet_icon": "mana",
@@ -6184,7 +6183,7 @@
           ]
         },
         {
-          "title": "Misanthropy",
+          "title": "NO FACET TITLE",
           "style": "hero_facet",
           "facet": "leshrac_misanthropy",
           "facet_icon": "nuke",
@@ -9165,19 +9164,14 @@
           "facet": null,
           "facet_icon": "aghs",
           "facet_color": "",
-          "abilities": [
+          "general_notes": [
             {
-              "ability_id": 1339,
-              "ability_notes": [
-                {
-                  "indent_level": 1,
-                  "note": "New Innate ability. Passive, improves with Lycan's level"
-                },
-                {
-                  "indent_level": 1,
-                  "note": "Lycan deals 2% extra damage to neutral creeps per hero level"
-                }
-              ]
+              "indent_level": 1,
+              "note": "New Innate ability. Passive, improves with Lycan's level"
+            },
+            {
+              "indent_level": 1,
+              "note": "Lycan deals 2% extra damage to neutral creeps per hero level"
             }
           ]
         },

@@ -1009,6 +1009,12 @@
     },
     {
       "hero_id": 82,
+      "hero_notes": [
+        {
+          "indent_level": 1,
+          "note": "MegaMeepo Stats gained from other Meepos decreased from 50% to 40%"
+        }
+      ],
       "abilities": [
         {
           "ability_id": 547,
@@ -1016,15 +1022,6 @@
             {
               "indent_level": 1,
               "note": "Max Health Restore decreased from 35% to 25%"
-            }
-          ]
-        },
-        {
-          "ability_id": 1109,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Stats gained from other Meepos decreased from 50% to 40%"
             }
           ]
         }

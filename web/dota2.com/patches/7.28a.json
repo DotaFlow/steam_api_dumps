@@ -19,20 +19,17 @@
     },
     {
       "hero_id": 8,
-      "abilities": [
+      "hero_notes": [
         {
-          "ability_id": 419,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Cooldown increased from 15 to 20"
-            },
-            {
-              "indent_level": 1,
-              "note": "Cast range reduced from 650 to 600"
-            }
-          ]
+          "indent_level": 1,
+          "note": "Swiftslash cooldown increased from 15 to 20"
         },
+        {
+          "indent_level": 1,
+          "note": "Swiftslash cast range reduced from 650 to 600"
+        }
+      ],
+      "abilities": [
         {
           "ability_id": 5028,
           "ability_notes": [

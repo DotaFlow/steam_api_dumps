@@ -27,13 +27,11 @@
         },
         {
           "indent_level": 1,
-          "note": "Fixed Doom with Aghanim's Scepter interaction with stolen Doom",
-          "aghanims": "scepter"
+          "note": "Fixed Doom with Aghanim's Scepter interaction with stolen Doom"
         },
         {
           "indent_level": 1,
-          "note": "Fixed Doom with Aghanim's Scepter doing bonus damage to units with high Status Resistance in its area.",
-          "aghanims": "scepter"
+          "note": "Fixed Doom with Aghanim's Scepter doing bonus damage to units with high Status Resistance in its area."
         },
         {
           "indent_level": 1,
@@ -101,8 +99,7 @@
         },
         {
           "indent_level": 1,
-          "note": "Fixed Rubick with Aghanim's Shard, stealing Anti-Mage's Counterspell, and receiving the Shard aura permanently",
-          "aghanims": "shard"
+          "note": "Fixed Rubick with Aghanim's Shard, stealing Anti-Mage's Counterspell, and receiving the Shard aura permanently"
         },
         {
           "indent_level": 1,

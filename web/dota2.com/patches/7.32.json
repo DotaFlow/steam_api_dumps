@@ -1997,6 +1997,11 @@
         {
           "indent_level": 1,
           "note": "Call of the Wild Hawk Dive Bomb Cast Range decreased from 1200 to 900"
+        },
+        {
+          "indent_level": 1,
+          "note": "Drums of Slom Reworked Scepter. Grants new ability: Drums of Slom. Beastmaster starts hitting his drums with ever increasing speed. Each strike deals 110 damage to enemies in a 600 radius, healing him and units under his control for 25% of damage dealt to heroes and 5% of damage dealt to creeps. Drum hits deal no damage and don't heal if Beastmaster is stunned or silenced. Duration: 6s. Cooldown: 50s. Mana Cost: 100",
+          "icon": "damage"
         }
       ],
       "talent_notes": [
@@ -2025,15 +2030,6 @@
             {
               "indent_level": 1,
               "note": "Bonus Attack Speed decreased from 15/25/35/45 to 10/20/30/40"
-            }
-          ]
-        },
-        {
-          "ability_id": 1005,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Reworked Scepter. Grants new ability: Drums of Slom. Beastmaster starts hitting his drums with ever increasing speed. Each strike deals 110 damage to enemies in a 600 radius, healing him and units under his control for 25% of damage dealt to heroes and 5% of damage dealt to creeps. Drum hits deal no damage and don't heal if Beastmaster is stunned or silenced. Duration: 6s. Cooldown: 50s. Mana Cost: 100"
             }
           ]
         }

@@ -733,21 +733,17 @@
     },
     {
       "hero_id": 38,
+      "hero_notes": [
+        {
+          "indent_level": 1,
+          "note": "Drums of Slom Damage per hit increased from 110 to 115",
+          "icon": "damage"
+        }
+      ],
       "talent_notes": [
         {
           "indent_level": 1,
           "note": "Level 15 Talent Movespeed Aura to Beastmaster and his units decreased from +25 to +20"
-        }
-      ],
-      "abilities": [
-        {
-          "ability_id": 1005,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Damage per hit increased from 110 to 115"
-            }
-          ]
         }
       ]
     },

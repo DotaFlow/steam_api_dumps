@@ -394,6 +394,16 @@
     },
     {
       "hero_id": 38,
+      "hero_notes": [
+        {
+          "indent_level": 1,
+          "note": "Drums of Slom Cooldown decreased from 50s to 40s"
+        },
+        {
+          "indent_level": 1,
+          "note": "Drums of Slom No longer has a sub-ability that would cancel it"
+        }
+      ],
       "talent_notes": [
         {
           "indent_level": 1,
@@ -402,21 +412,6 @@
         {
           "indent_level": 1,
           "note": "Level 15 Talent +2.5% Wild Axes damage replaced with +10 Inner Beast Attack Speed"
-        }
-      ],
-      "abilities": [
-        {
-          "ability_id": 1005,
-          "ability_notes": [
-            {
-              "indent_level": 1,
-              "note": "Cooldown decreased from 50s to 40s"
-            },
-            {
-              "indent_level": 1,
-              "note": "No longer has a sub-ability that would cancel it"
-            }
-          ]
         }
       ]
     },
