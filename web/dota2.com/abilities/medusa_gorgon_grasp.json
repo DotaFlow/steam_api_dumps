@@ -2,7 +2,7 @@
   "id": 1475,
   "name": "medusa_gorgon_grasp",
   "name_loc": "Gorgon's Grasp",
-  "desc_loc": "Medusa fires arrows in a line that land in %volley_count% groups, with each grouping larger than the previous. Enemies struck by a volley of arrows take an initial burst of damage and then are rooted, cannot turn, are revealed to the enemy, and take damage per second.",
+  "desc_loc": "Medusa fires arrows in a line that land in %volley_count% groups, with each grouping larger than the previous. Enemies struck by a volley of arrows take an initial burst of magic damage and then are rooted, cannot turn, are revealed to the enemy, and take damage per second. An enemy can only be hit once per cast.",
   "lore_loc": "The best predators don't even need to pounce.",
   "notes_loc": [],
   "shard_loc": "",
@@ -13,7 +13,7 @@
   "target_team": 0,
   "target_type": 0,
   "flags": 0,
-  "damage": 1,
+  "damage": 2,
   "immunity": 4,
   "dispellable": 2,
   "max_level": 4,
@@ -21,16 +21,16 @@
     625
   ],
   "cast_points": [
-    0.4
+    0.2
   ],
   "channel_times": [
     0
   ],
   "cooldowns": [
     30,
-    26,
-    22,
-    18
+    25,
+    20,
+    15
   ],
   "durations": [
     0
@@ -60,8 +60,8 @@
       "bonuses": [
         {
           "name": "special_bonus_unique_medusa_gorgons_grasp_radius",
-          "value": 20,
-          "operation": 3
+          "value": 50,
+          "operation": 0
         }
       ],
       "values_shard": [],
@@ -75,13 +75,7 @@
       ],
       "is_percentage": false,
       "heading_loc": "RADIUS GROWTH:",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_medusa_gorgons_grasp_radius",
-          "value": 20,
-          "operation": 3
-        }
-      ],
+      "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
       "required_facet": ""
@@ -89,7 +83,7 @@
     {
       "name": "delay",
       "values_float": [
-        1
+        0.8
       ],
       "is_percentage": false,
       "heading_loc": "DELAY:",
@@ -129,13 +123,7 @@
       ],
       "is_percentage": false,
       "heading_loc": "",
-      "bonuses": [
-        {
-          "name": "special_bonus_unique_medusa_gorgons_grasp_volleys",
-          "value": 1,
-          "operation": 0
-        }
-      ],
+      "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
       "required_facet": ""
@@ -150,7 +138,13 @@
       ],
       "is_percentage": false,
       "heading_loc": "DURATION:",
-      "bonuses": [],
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_medusa_gorgons_grasp_duration",
+          "value": 0.4,
+          "operation": 0
+        }
+      ],
       "values_shard": [],
       "values_scepter": [],
       "required_facet": ""
@@ -158,10 +152,10 @@
     {
       "name": "damage",
       "values_float": [
-        30,
-        70,
-        110,
-        150
+        60,
+        120,
+        180,
+        240
       ],
       "is_percentage": false,
       "heading_loc": "DAMAGE:",
@@ -173,7 +167,10 @@
     {
       "name": "damage_pers",
       "values_float": [
-        100
+        12,
+        24,
+        36,
+        48
       ],
       "is_percentage": false,
       "heading_loc": "DAMAGE PER SECOND:",
@@ -209,7 +206,7 @@
     {
       "name": "AbilityCastPoint",
       "values_float": [
-        0.4
+        0.2
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -237,9 +234,9 @@
       "name": "AbilityCooldown",
       "values_float": [
         30,
-        26,
-        22,
-        18
+        25,
+        20,
+        15
       ],
       "is_percentage": false,
       "heading_loc": "",
