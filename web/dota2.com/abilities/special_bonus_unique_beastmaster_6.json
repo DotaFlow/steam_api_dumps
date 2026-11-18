@@ -47,7 +47,7 @@
     {
       "name": "bonus_hp",
       "values_float": [
-        250
+        300
       ],
       "is_percentage": false,
       "heading_loc": "",

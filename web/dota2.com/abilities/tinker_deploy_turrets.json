@@ -6,7 +6,7 @@
   "lore_loc": "",
   "notes_loc": [],
   "shard_loc": "",
-  "scepter_loc": "Turrets fire missiles %missile_attack_rate_tooltip%%% faster.",
+  "scepter_loc": "Turrets missiles have %bonus_missile_range%%% faster attack interval, increased range, and increased speed.",
   "facets_loc": [],
   "type": 0,
   "behavior": "48",
@@ -216,7 +216,7 @@
       "bonuses": [
         {
           "name": "special_bonus_unique_tinker_deploy_turrets_missile_damage",
-          "value": 60,
+          "value": 45,
           "operation": 0
         }
       ],
@@ -233,7 +233,9 @@
       "heading_loc": "",
       "bonuses": [],
       "values_shard": [],
-      "values_scepter": [],
+      "values_scepter": [
+        20
+      ],
       "required_facet": ""
     },
     {
@@ -263,7 +265,9 @@
       "heading_loc": "TURRET RANGE:",
       "bonuses": [],
       "values_shard": [],
-      "values_scepter": [],
+      "values_scepter": [
+        20
+      ],
       "required_facet": ""
     },
     {
@@ -278,7 +282,9 @@
       "heading_loc": "",
       "bonuses": [],
       "values_shard": [],
-      "values_scepter": [],
+      "values_scepter": [
+        20
+      ],
       "required_facet": ""
     },
     {
@@ -323,18 +329,6 @@
       "values_scepter": [
         0.3
       ],
-      "required_facet": ""
-    },
-    {
-      "name": "missile_attack_rate_tooltip",
-      "values_float": [
-        20
-      ],
-      "is_percentage": false,
-      "heading_loc": "",
-      "bonuses": [],
-      "values_shard": [],
-      "values_scepter": [],
       "required_facet": ""
     },
     {

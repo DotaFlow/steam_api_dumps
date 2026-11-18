@@ -29,10 +29,10 @@
     0
   ],
   "cooldowns": [
+    17,
     15,
-    14,
     13,
-    12
+    11
   ],
   "durations": [
     3.5,
@@ -65,7 +65,7 @@
       "bonuses": [
         {
           "name": "special_bonus_unique_death_prophet_silence_aoe",
-          "value": 75,
+          "value": 125,
           "operation": 0
         }
       ],
@@ -142,10 +142,10 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
+        17,
         15,
-        14,
         13,
-        12
+        11
       ],
       "is_percentage": false,
       "heading_loc": "",

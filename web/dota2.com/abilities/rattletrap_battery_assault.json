@@ -44,10 +44,10 @@
     0
   ],
   "mana_costs": [
+    70,
     75,
     80,
-    85,
-    90
+    85
   ],
   "gold_costs": [],
   "health_costs": [],
@@ -83,7 +83,13 @@
       ],
       "is_percentage": false,
       "heading_loc": "DURATION:",
-      "bonuses": [],
+      "bonuses": [
+        {
+          "name": "special_bonus_unique_clockwerk_battery_assault_duration",
+          "value": 2.5,
+          "operation": 0
+        }
+      ],
       "values_shard": [],
       "values_scepter": [],
       "required_facet": ""
@@ -142,10 +148,10 @@
     {
       "name": "AbilityManaCost",
       "values_float": [
+        70,
         75,
         80,
-        85,
-        90
+        85
       ],
       "is_percentage": false,
       "heading_loc": "",

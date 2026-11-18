@@ -121,7 +121,7 @@
       "bonuses": [
         {
           "name": "special_bonus_unique_phantom_assassin_5",
-          "value": 15,
+          "value": 20,
           "operation": 0
         }
       ],
@@ -243,7 +243,7 @@
       "bonuses": [
         {
           "name": "special_bonus_unique_phantom_assassin_7",
-          "value": 2,
+          "value": 2.5,
           "operation": 2
         }
       ],
