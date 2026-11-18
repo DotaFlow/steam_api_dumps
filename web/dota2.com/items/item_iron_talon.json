@@ -29,7 +29,7 @@
     0
   ],
   "cooldowns": [
-    15
+    20
   ],
   "durations": [
     0
@@ -73,7 +73,7 @@
     {
       "name": "creep_damage_pct",
       "values_float": [
-        80
+        45
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -109,7 +109,7 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
-        15
+        20
       ],
       "is_percentage": false,
       "heading_loc": "",

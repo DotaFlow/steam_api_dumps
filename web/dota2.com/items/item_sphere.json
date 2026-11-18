@@ -49,7 +49,7 @@
     {
       "name": "bonus_all_stats",
       "values_float": [
-        16
+        17
       ],
       "is_percentage": false,
       "heading_loc": "+$all",

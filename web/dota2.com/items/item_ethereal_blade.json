@@ -30,7 +30,7 @@
     0
   ],
   "cooldowns": [
-    22
+    20
   ],
   "durations": [
     0
@@ -50,7 +50,7 @@
     {
       "name": "bonus_agility",
       "values_float": [
-        24
+        25
       ],
       "is_percentage": false,
       "heading_loc": "+$all",
@@ -62,7 +62,7 @@
     {
       "name": "bonus_strength",
       "values_float": [
-        24
+        25
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -74,7 +74,7 @@
     {
       "name": "bonus_intellect",
       "values_float": [
-        24
+        25
       ],
       "is_percentage": false,
       "heading_loc": "",
@@ -194,7 +194,7 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
-        22
+        20
       ],
       "is_percentage": false,
       "heading_loc": "",
