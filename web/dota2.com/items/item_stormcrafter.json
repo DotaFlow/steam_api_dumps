@@ -59,7 +59,7 @@
     {
       "name": "damage",
       "values_float": [
-        70
+        90
       ],
       "is_percentage": false,
       "heading_loc": "",
