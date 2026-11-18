@@ -18,9 +18,6 @@
   "dispellable": 2,
   "max_level": 4,
   "cast_ranges": [
-    575,
-    600,
-    625,
     650
   ],
   "cast_points": [
@@ -42,10 +39,10 @@
     0
   ],
   "mana_costs": [
-    110,
+    105,
     120,
-    130,
-    140
+    135,
+    150
   ],
   "gold_costs": [],
   "health_costs": [],
@@ -134,9 +131,6 @@
     {
       "name": "AbilityCastRange",
       "values_float": [
-        575,
-        600,
-        625,
         650
       ],
       "is_percentage": false,
@@ -173,10 +167,10 @@
     {
       "name": "AbilityManaCost",
       "values_float": [
-        110,
+        105,
         120,
-        130,
-        140
+        135,
+        150
       ],
       "is_percentage": false,
       "heading_loc": "",

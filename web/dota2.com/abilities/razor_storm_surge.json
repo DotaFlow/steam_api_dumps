@@ -73,9 +73,9 @@
     {
       "name": "strike_damage",
       "values_float": [
-        50,
-        90,
-        130,
+        65,
+        100,
+        135,
         170
       ],
       "is_percentage": false,

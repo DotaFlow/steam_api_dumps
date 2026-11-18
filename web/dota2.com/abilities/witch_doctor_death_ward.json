@@ -48,8 +48,8 @@
   ],
   "mana_costs": [
     200,
-    200,
-    200
+    250,
+    300
   ],
   "gold_costs": [],
   "health_costs": [],
@@ -66,7 +66,7 @@
       "bonuses": [
         {
           "name": "special_bonus_unique_witch_doctor_5",
-          "value": 40,
+          "value": 35,
           "operation": 0
         }
       ],
@@ -205,7 +205,9 @@
     {
       "name": "AbilityManaCost",
       "values_float": [
-        200
+        200,
+        250,
+        300
       ],
       "is_percentage": false,
       "heading_loc": "",

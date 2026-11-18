@@ -98,7 +98,7 @@
     {
       "name": "AbilityCharges",
       "values_float": [
-        2
+        3
       ],
       "is_percentage": false,
       "heading_loc": "",
