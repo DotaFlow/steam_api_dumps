@@ -29,9 +29,9 @@
     0
   ],
   "cooldowns": [
-    11,
+    14,
+    12,
     10,
-    9,
     8
   ],
   "durations": [
@@ -44,9 +44,9 @@
     0
   ],
   "mana_costs": [
-    70,
     85,
-    100,
+    95,
+    105,
     115
   ],
   "gold_costs": [],
@@ -79,9 +79,9 @@
     {
       "name": "fireblast_damage",
       "values_float": [
-        70,
-        130,
-        190,
+        100,
+        150,
+        200,
         250
       ],
       "is_percentage": false,
@@ -89,7 +89,7 @@
       "bonuses": [
         {
           "name": "special_bonus_unique_ogre_magi_2",
-          "value": 175,
+          "value": 125,
           "operation": 0
         }
       ],
@@ -154,9 +154,9 @@
     {
       "name": "AbilityManaCost",
       "values_float": [
-        70,
         85,
-        100,
+        95,
+        105,
         115
       ],
       "is_percentage": false,
@@ -169,9 +169,9 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
-        11,
+        14,
+        12,
         10,
-        9,
         8
       ],
       "is_percentage": false,

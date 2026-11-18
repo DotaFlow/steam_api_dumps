@@ -29,7 +29,7 @@
     0
   ],
   "cooldowns": [
-    60
+    40
   ],
   "durations": [
     5
@@ -49,7 +49,7 @@
     {
       "name": "purge_damage",
       "values_float": [
-        450
+        425
       ],
       "is_percentage": false,
       "heading_loc": "CLEANSE HEAL:",
@@ -109,7 +109,7 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
-        60
+        40
       ],
       "is_percentage": false,
       "heading_loc": "",
