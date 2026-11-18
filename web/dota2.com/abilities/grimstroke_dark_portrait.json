@@ -27,7 +27,7 @@
     0
   ],
   "cooldowns": [
-    35
+    40
   ],
   "durations": [
     0
@@ -63,6 +63,18 @@
       ],
       "is_percentage": false,
       "heading_loc": "",
+      "bonuses": [],
+      "values_shard": [],
+      "values_scepter": [],
+      "required_facet": ""
+    },
+    {
+      "name": "illusion_effectiveness",
+      "values_float": [
+        50
+      ],
+      "is_percentage": true,
+      "heading_loc": "ILLUSION ITEM POTENCY:",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [],
@@ -155,7 +167,7 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
-        35
+        40
       ],
       "is_percentage": false,
       "heading_loc": "",

@@ -42,7 +42,7 @@
     345
   ],
   "mana_costs": [
-    120
+    110
   ],
   "gold_costs": [],
   "health_costs": [],
@@ -229,7 +229,7 @@
     {
       "name": "AbilityManaCost",
       "values_float": [
-        120
+        110
       ],
       "is_percentage": false,
       "heading_loc": "",
