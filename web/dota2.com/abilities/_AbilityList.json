@@ -171,6 +171,30 @@
           "is_innate": false
         },
         {
+          "id": 1885,
+          "name": "ability_stone_of_recall",
+          "name_loc": "",
+          "name_english_loc": "",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1886,
+          "name": "stone_of_recall_teleport",
+          "name_loc": "",
+          "name_english_loc": "",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
           "id": 5200,
           "name": "necronomicon_warrior_last_will",
           "name_loc": "Last Will",
@@ -689,8 +713,8 @@
         {
           "id": 935,
           "name": "warpine_raider_seed_shot",
-          "name_loc": "Seed Shot",
-          "name_english_loc": "Seed Shot",
+          "name_loc": "Snowball Shot",
+          "name_english_loc": "Snowball Shot",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -703,6 +727,18 @@
           "name": "mud_golem_hurl_boulder",
           "name_loc": "Hurl Boulder",
           "name_english_loc": "Hurl Boulder",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1889,
+          "name": "mud_golem_hurl_big_boulder",
+          "name_loc": "Hurl Big Boulder",
+          "name_english_loc": "Hurl Big Boulder",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -795,10 +831,58 @@
           "is_innate": false
         },
         {
+          "id": 1933,
+          "name": "radigull_eggstremism",
+          "name_loc": "Eggstremism",
+          "name_english_loc": "Eggstremism",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
           "id": 922,
           "name": "ancient_rock_golem_weakening_aura",
           "name_loc": "Weakening Aura",
           "name_english_loc": "Weakening Aura",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1890,
+          "name": "eimermole_miners_aura",
+          "name_loc": "Miner's Aura",
+          "name_english_loc": "Miner's Aura",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1891,
+          "name": "eimermole_miners_slam",
+          "name_loc": "Miner's Slam",
+          "name_english_loc": "Miner's Slam",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1926,
+          "name": "odobenus_blight",
+          "name_loc": "Odobenus Blight",
+          "name_english_loc": "Odobenus Blight",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -833,6 +917,18 @@
         {
           "id": 896,
           "name": "neutral_upgrade",
+          "name_loc": "",
+          "name_english_loc": "",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1887,
+          "name": "neutral_gold_upgrade_ability",
           "name_loc": "",
           "name_english_loc": "",
           "neutral_item_tier": -1,
@@ -1265,8 +1361,8 @@
         {
           "id": 5689,
           "name": "black_dragon_fireball",
-          "name_loc": "Fireball",
-          "name_english_loc": "Fireball",
+          "name_loc": "Searing Swoop",
+          "name_english_loc": "Searing Swoop",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -1375,6 +1471,30 @@
           "name": "big_thunder_lizard_frenzy",
           "name_loc": "Frenzy",
           "name_english_loc": "Frenzy",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1892,
+          "name": "ogre_seal_flop",
+          "name_loc": "Seal Flop",
+          "name_english_loc": "Seal Flop",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1893,
+          "name": "ogre_seal_pup_disapproval_aura",
+          "name_loc": "Seal of Disapproval Aura",
+          "name_english_loc": "Seal of Disapproval Aura",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -8837,8 +8957,8 @@
         {
           "id": 6662,
           "name": "special_bonus_unique_juggernaut_2",
-          "name_loc": "+{s:bonus_healing_ward_bonus_health} Healing Ward Hits to Kill",
-          "name_english_loc": "+{s:bonus_healing_ward_bonus_health} Healing Ward Hits to Kill",
+          "name_loc": "+{s:bonus_healing_ward_bonus_health} Healing Ward Pip Health",
+          "name_english_loc": "+{s:bonus_healing_ward_bonus_health} Healing Ward Pip Health",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -10368,7 +10488,7 @@
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
           "recipes": [],
-          "is_innate": false
+          "is_innate": true
         },
         {
           "id": 1454,
@@ -10421,8 +10541,8 @@
         {
           "id": 6509,
           "name": "special_bonus_unique_lina_4",
-          "name_loc": "{s:bonus_fiery_soul_magic_resist}% Fiery Soul Magic Resist Per Stack",
-          "name_english_loc": "{s:bonus_fiery_soul_magic_resist}% Fiery Soul Magic Resist Per Stack",
+          "name_loc": "+{s:bonus_AbilityCastRange} Light Strike Array Cast Range",
+          "name_english_loc": "+{s:bonus_AbilityCastRange} Light Strike Array Cast Range",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -11484,7 +11604,7 @@
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
           "recipes": [],
-          "is_innate": false
+          "is_innate": true
         },
         {
           "id": 661,
@@ -11731,6 +11851,30 @@
           "name": "beastmaster_summon_razorback",
           "name_loc": "Summon Razorback",
           "name_english_loc": "Summon Razorback",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1894,
+          "name": "beastmaster_summon_thunderhide",
+          "name_loc": "Summon Ancient Thunderhide",
+          "name_english_loc": "Summon Ancient Thunderhide",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1895,
+          "name": "beastmaster_thunderhide_drum",
+          "name_loc": "Thunderhide Drum",
+          "name_english_loc": "Thunderhide Drum",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -12504,7 +12648,7 @@
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
           "recipes": [],
-          "is_innate": false
+          "is_innate": true
         },
         {
           "id": 5194,
@@ -12963,6 +13107,18 @@
           "is_innate": false
         },
         {
+          "id": 1930,
+          "name": "dazzle_through_the_realm",
+          "name_loc": "Through the Realm",
+          "name_english_loc": "Through the Realm",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
           "id": 1293,
           "name": "dazzle_innate_weave",
           "name_loc": "Weave",
@@ -13063,6 +13219,54 @@
           "name": "special_bonus_unique_dazzle_shallow_grave_cooldown",
           "name_loc": "-{s:bonus_AbilityCooldown}s Shallow Grave Cooldown",
           "name_english_loc": "-{s:bonus_AbilityCooldown}s Shallow Grave Cooldown",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 8255,
+          "name": "special_bonus_unique_dazzle_shadow_wave_cast_range",
+          "name_loc": "+{s:bonus_AbilityCastRange} Shadow Wave Cast Range",
+          "name_english_loc": "+{s:bonus_AbilityCastRange} Shadow Wave Cast Range",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1934,
+          "name": "special_bonus_unique_dazzle_shallow_grave_duration",
+          "name_loc": "+{s:bonus_duration}s Shallow Grave Duration",
+          "name_english_loc": "+{s:bonus_duration}s Shallow Grave Duration",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1918,
+          "name": "special_bonus_unique_dazzle_poison_touch_undispellable",
+          "name_loc": "Poison Touch Undispellable",
+          "name_english_loc": "Poison Touch Undispellable",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1919,
+          "name": "special_bonus_unique_dazzle_nothl_projection_cooldown",
+          "name_loc": "-{s:bonus_AbilityCooldown}s Nothl Projection Cooldown",
+          "name_english_loc": "-{s:bonus_AbilityCooldown}s Nothl Projection Cooldown",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -13229,8 +13433,8 @@
         {
           "id": 1296,
           "name": "leshrac_chronoptic_nourishment",
-          "name_loc": "Chronoptic Nourishment",
-          "name_english_loc": "Chronoptic Nourishment",
+          "name_loc": "",
+          "name_english_loc": "",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -13435,6 +13639,18 @@
           "name": "special_bonus_unique_furion_4",
           "name_loc": "+{s:bonus_sprout_damage} Sprout Damage",
           "name_english_loc": "+{s:bonus_sprout_damage} Sprout Damage",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1920,
+          "name": "special_bonus_unique_furion_force_of_nature_treants",
+          "name_loc": "+{s:bonus_max_treants} Nature's Call Treants",
+          "name_english_loc": "+{s:bonus_max_treants} Nature's Call Treants",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -13788,7 +14004,7 @@
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
           "recipes": [],
-          "is_innate": false
+          "is_innate": true
         },
         {
           "id": 1120,
@@ -14631,6 +14847,18 @@
           "is_innate": false
         },
         {
+          "id": 1915,
+          "name": "weaver_time_lapse_ally",
+          "name_loc": "Time Lapse (Ally)",
+          "name_english_loc": "Time Lapse (Ally)",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
           "id": 1465,
           "name": "weaver_rewoven",
           "name_loc": "Rewoven",
@@ -14897,8 +15125,8 @@
         {
           "id": 714,
           "name": "special_bonus_unique_batrider_7",
-          "name_loc": "+{s:bonus_movement_speed_pct}% Sticky Napalm Movement Slow",
-          "name_english_loc": "+{s:bonus_movement_speed_pct}% Sticky Napalm Movement Slow",
+          "name_loc": "+{s:bonus_movement_speed_pct}% Sticky Napalm Movement Slow Per Stack",
+          "name_english_loc": "+{s:bonus_movement_speed_pct}% Sticky Napalm Movement Slow Per Stack",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -14983,6 +15211,18 @@
           "name": "chen_martyrdom",
           "name_loc": "Martyrdom",
           "name_english_loc": "Martyrdom",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1909,
+          "name": "chen_anoint",
+          "name_loc": "Anoint Zealot",
+          "name_english_loc": "Anoint Zealot",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -15329,8 +15569,8 @@
         {
           "id": 6352,
           "name": "special_bonus_unique_ancient_apparition_3",
-          "name_loc": "-{s:bonus_AbilityCooldown}s Ice Vortex Cooldown",
-          "name_english_loc": "-{s:bonus_AbilityCooldown}s Ice Vortex Cooldown",
+          "name_loc": "Cold Feet Leashes",
+          "name_english_loc": "Cold Feet Leashes",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -16311,6 +16551,18 @@
           "is_innate": false
         },
         {
+          "id": 1921,
+          "name": "lycan_pack_hunter",
+          "name_loc": "Pack Hunter",
+          "name_english_loc": "Pack Hunter",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
           "id": 5397,
           "name": "lycan_feral_impulse",
           "name_loc": "Feral Impulse",
@@ -16491,6 +16743,42 @@
           "is_innate": false
         },
         {
+          "id": 1896,
+          "name": "brewmaster_primal_split_earth_brewling",
+          "name_loc": "Earth Brewling",
+          "name_english_loc": "Earth Brewling",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1897,
+          "name": "brewmaster_primal_split_storm_brewling",
+          "name_loc": "Storm Brewling",
+          "name_english_loc": "Storm Brewling",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1898,
+          "name": "brewmaster_primal_split_fire_brewling",
+          "name_loc": "Fire Brewling",
+          "name_english_loc": "Fire Brewling",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
           "id": 537,
           "name": "brewmaster_primal_split_cancel",
           "name_loc": "Primal Split Cancel",
@@ -16625,8 +16913,8 @@
         {
           "id": 1682,
           "name": "brewmaster_fire_pull",
-          "name_loc": "",
-          "name_english_loc": "",
+          "name_loc": "Cinder Dash",
+          "name_english_loc": "Cinder Dash",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -16879,6 +17167,18 @@
           "name": "lone_druid_spirit_bear_return",
           "name_loc": "Return",
           "name_english_loc": "Return",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1888,
+          "name": "lone_druid_spirit_bear_summon_druid",
+          "name_loc": "Summon Lone Druid",
+          "name_english_loc": "Summon Lone Druid",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -17163,6 +17463,42 @@
           "is_innate": false
         },
         {
+          "id": 1910,
+          "name": "chaos_knight_armageddon",
+          "name_loc": "Ahead, Armageddon",
+          "name_english_loc": "Ahead, Armageddon",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": true
+        },
+        {
+          "id": 1899,
+          "name": "chaos_knight_armageddons_flank",
+          "name_loc": "Armageddon's Flank",
+          "name_english_loc": "Armageddon's Flank",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": true
+        },
+        {
+          "id": 1900,
+          "name": "chaos_knight_armageddons_flank_end",
+          "name_loc": "Heel, Armageddon",
+          "name_english_loc": "Heel, Armageddon",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": true
+        },
+        {
           "id": 5430,
           "name": "meepo_earthbind",
           "name_loc": "Earthbind",
@@ -17271,22 +17607,10 @@
           "is_innate": false
         },
         {
-          "id": 1761,
-          "name": "meepo_fling",
-          "name_loc": "Fling",
-          "name_english_loc": "Fling",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": [],
-          "is_innate": false
-        },
-        {
           "id": 1762,
           "name": "meepo_fling_release",
-          "name_loc": "Fling Release",
-          "name_english_loc": "Fling Release",
+          "name_loc": "Fling",
+          "name_english_loc": "Fling",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -17587,6 +17911,18 @@
           "name": "undying_flesh_golem",
           "name_loc": "Flesh Golem",
           "name_english_loc": "Flesh Golem",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1913,
+          "name": "undying_bite",
+          "name_loc": "Zombie Bite",
+          "name_english_loc": "Zombie Bite",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -18041,8 +18377,8 @@
         {
           "id": 5463,
           "name": "nyx_assassin_mana_burn",
-          "name_loc": "",
-          "name_english_loc": "",
+          "name_loc": "Mind Flare",
+          "name_english_loc": "Mind Flare",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -18139,6 +18475,18 @@
           "name": "nyx_assassin_neuro_sting",
           "name_loc": "Mana Burn",
           "name_english_loc": "Mana Burn",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": true
+        },
+        {
+          "id": 1901,
+          "name": "nyx_assassin_scarab_metabolism",
+          "name_loc": "Scarab Metabolism",
+          "name_english_loc": "Scarab Metabolism",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -19296,7 +19644,7 @@
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
           "recipes": [],
-          "is_innate": false
+          "is_innate": true
         },
         {
           "id": 643,
@@ -19661,8 +20009,8 @@
         {
           "id": 6601,
           "name": "special_bonus_unique_abaddon_2",
-          "name_loc": "+{s:bonus_damage_heal} Mist Coil Damage / Heal",
-          "name_english_loc": "+{s:bonus_damage_heal} Mist Coil Damage / Heal",
+          "name_loc": "{s:bonus_AbilityCharges} Aphotic Shield Charges",
+          "name_english_loc": "{s:bonus_AbilityCharges} Aphotic Shield Charges",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -19685,8 +20033,8 @@
         {
           "id": 7335,
           "name": "special_bonus_unique_abaddon_4",
-          "name_loc": "{s:bonus_effect_radius} AoE Mist Coil",
-          "name_english_loc": "{s:bonus_effect_radius} AoE Mist Coil",
+          "name_loc": "+{s:bonus_duration}s Borrowed Time Duration",
+          "name_english_loc": "+{s:bonus_duration}s Borrowed Time Duration",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -19709,8 +20057,8 @@
         {
           "id": 972,
           "name": "special_bonus_unique_abaddon_6",
-          "name_loc": "+{s:bonus_heal_reduction_pct}% Withering Mist Health Restoration Reduction",
-          "name_english_loc": "+{s:bonus_heal_reduction_pct}% Withering Mist Health Restoration Reduction",
+          "name_loc": "+{s:bonus_min_heal_reduction_pct}% Withering Mist Health Restoration Reduction",
+          "name_english_loc": "+{s:bonus_min_heal_reduction_pct}% Withering Mist Health Restoration Reduction",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -19721,8 +20069,8 @@
         {
           "id": 1165,
           "name": "special_bonus_unique_abaddon_7",
-          "name_loc": "Aphotic Shield provides +{s:bonus_regen} HP Regen",
-          "name_english_loc": "Aphotic Shield provides +{s:bonus_regen} HP Regen",
+          "name_loc": "+{s:bonus_AbilityCastRange} Mist Coil Cast Range",
+          "name_english_loc": "+{s:bonus_AbilityCastRange} Mist Coil Cast Range",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -20489,8 +20837,8 @@
         {
           "id": 6227,
           "name": "special_bonus_unique_phoenix_1",
-          "name_loc": "+{s:bonus_max_hero_attacks} Supernova Hit Count",
-          "name_english_loc": "+{s:bonus_max_hero_attacks} Supernova Hit Count",
+          "name_loc": "+{s:bonus_max_hero_attacks} Supernova Pip Health",
+          "name_english_loc": "+{s:bonus_max_hero_attacks} Supernova Pip Health",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -22008,7 +22356,7 @@
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
           "recipes": [],
-          "is_innate": false
+          "is_innate": true
         },
         {
           "id": 6480,
@@ -22104,7 +22452,7 @@
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
           "recipes": [],
-          "is_innate": false
+          "is_innate": true
         },
         {
           "id": 1422,
@@ -22200,7 +22548,7 @@
           "is_earlygame_suggested": false,
           "is_lategame_suggested": false,
           "recipes": [],
-          "is_innate": false
+          "is_innate": true
         },
         {
           "id": 1783,
@@ -23427,10 +23775,22 @@
           "is_innate": false
         },
         {
-          "id": 966,
-          "name": "special_bonus_unique_antimage_manavoid_aoe",
-          "name_loc": "+{s:bonus_mana_void_aoe_radius} Mana Void Radius",
-          "name_english_loc": "+{s:bonus_mana_void_aoe_radius} Mana Void Radius",
+          "id": 1935,
+          "name": "special_bonus_unique_antimage_counterspell_reflect_duration",
+          "name_loc": "+{s:bonus_reflected_debuff_duration_pct}% Counterspell Reflected Spell Debuff Duration",
+          "name_english_loc": "+{s:bonus_reflected_debuff_duration_pct}% Counterspell Reflected Spell Debuff Duration",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1936,
+          "name": "special_bonus_unique_antimage_mana_break_damage",
+          "name_loc": "+{s:bonus_percent_damage_per_burn}% Mana Break Mana Burned As Damage",
+          "name_english_loc": "+{s:bonus_percent_damage_per_burn}% Mana Break Mana Burned As Damage",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -23451,10 +23811,10 @@
           "is_innate": false
         },
         {
-          "id": 665,
-          "name": "special_bonus_unique_antimage_6",
-          "name_loc": "+{s:bonus_mana_void_damage_per_mana} Mana Void Damage Multiplier",
-          "name_english_loc": "+{s:bonus_mana_void_damage_per_mana} Mana Void Damage Multiplier",
+          "id": 6607,
+          "name": "special_bonus_unique_antimage_4",
+          "name_loc": "+{s:bonus_magic_resistance}% Counterspell Magic Resistance",
+          "name_english_loc": "+{s:bonus_magic_resistance}% Counterspell Magic Resistance",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -23835,18 +24195,6 @@
           "is_innate": false
         },
         {
-          "id": 6105,
-          "name": "special_bonus_unique_juggernaut",
-          "name_loc": "+{s:bonus_blade_fury_damage} Blade Fury Damage Per Second",
-          "name_english_loc": "+{s:bonus_blade_fury_damage} Blade Fury Damage Per Second",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": [],
-          "is_innate": false
-        },
-        {
           "id": 1788,
           "name": "special_bonus_unique_mirana_quiver_damage",
           "name_loc": "+{s:bonus_bonus_damage} Celestial Quiver Damage",
@@ -23871,10 +24219,10 @@
           "is_innate": false
         },
         {
-          "id": 6876,
-          "name": "special_bonus_unique_nevermore_4",
-          "name_loc": "+{s:bonus_bonus_attack_speed} Feast of Souls Attack Speed",
-          "name_english_loc": "+{s:bonus_bonus_attack_speed} Feast of Souls Attack Speed",
+          "id": 1789,
+          "name": "special_bonus_unique_nevermore_frenzy_max_collection_count",
+          "name_loc": "+{s:bonus_soul_collection_per_hero} Feast of Souls Souls Collected Per Hero",
+          "name_english_loc": "+{s:bonus_soul_collection_per_hero} Feast of Souls Souls Collected Per Hero",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -23885,8 +24233,8 @@
         {
           "id": 6875,
           "name": "special_bonus_unique_nevermore_3",
-          "name_loc": "+{s:bonus_presence_armor_reduction} Presence Armor Reduction",
-          "name_english_loc": "+{s:bonus_presence_armor_reduction} Presence Armor Reduction",
+          "name_loc": "+{s:bonus_presence_armor_reduction}/{s:bonus_presence_magic_resistance_reduction}% Presence Armor/Resist Reduction",
+          "name_english_loc": "+{s:bonus_presence_armor_reduction}/{s:bonus_presence_magic_resistance_reduction}% Presence Armor/Resist Reduction",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -23895,10 +24243,10 @@
           "is_innate": false
         },
         {
-          "id": 1789,
-          "name": "special_bonus_unique_nevermore_frenzy_max_collection_count",
-          "name_loc": "+{s:bonus_soul_collection_per_hero} Feast of Souls Souls Collected Per Hero",
-          "name_english_loc": "+{s:bonus_soul_collection_per_hero} Feast of Souls Souls Collected Per Hero",
+          "id": 1922,
+          "name": "special_bonus_unique_nevermore_frenzy_heal_per_soul",
+          "name_loc": "Feast of Souls Heals {s:bonus_heal_per_soul} HP Per Soul",
+          "name_english_loc": "Feast of Souls Heals {s:bonus_heal_per_soul} HP Per Soul",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -23921,8 +24269,8 @@
         {
           "id": 815,
           "name": "special_bonus_unique_nevermore_6",
-          "name_loc": "+{s:bonus_requiem_slow_duration}s Requiem Fear per line",
-          "name_english_loc": "+{s:bonus_requiem_slow_duration}s Requiem Fear per line",
+          "name_loc": "+{s:bonus_requiem_fear_duration}s Requiem Fear and Slow Duration",
+          "name_english_loc": "+{s:bonus_requiem_fear_duration}s Requiem Fear and Slow Duration",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -24015,30 +24363,6 @@
           "is_innate": false
         },
         {
-          "id": 1695,
-          "name": "special_bonus_unique_phantom_lancer_juxtapose_illusio_proc_chance",
-          "name_loc": "+{s:bonus_illusion_proc_chance_pct}% Juxtapose Illusion Trigger Chance",
-          "name_english_loc": "+{s:bonus_illusion_proc_chance_pct}% Juxtapose Illusion Trigger Chance",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": [],
-          "is_innate": false
-        },
-        {
-          "id": 1696,
-          "name": "special_bonus_unique_phantom_lancer_illusion_lances",
-          "name_loc": "{s:bonus_illusion_lance_damage_pct}% Illusion Spirit Lance Damage",
-          "name_english_loc": "{s:bonus_illusion_lance_damage_pct}% Illusion Spirit Lance Damage",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": [],
-          "is_innate": false
-        },
-        {
           "id": 1697,
           "name": "special_bonus_unique_phantom_lancer_doppelwalk_cast_range",
           "name_loc": "+{s:bonus_AbilityCastRange} Doppelganger Cast Range",
@@ -24055,6 +24379,30 @@
           "name": "special_bonus_unique_phantom_lancer_lance_damage",
           "name_loc": "+{s:bonus_lance_damage} Spirit Lance Damage",
           "name_english_loc": "+{s:bonus_lance_damage} Spirit Lance Damage",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1695,
+          "name": "special_bonus_unique_phantom_lancer_juxtapose_illusio_proc_chance",
+          "name_loc": "+{s:bonus_illusion_proc_chance_pct}% Juxtapose Illusion Trigger Chance",
+          "name_english_loc": "+{s:bonus_illusion_proc_chance_pct}% Juxtapose Illusion Trigger Chance",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1696,
+          "name": "special_bonus_unique_phantom_lancer_illusion_lances",
+          "name_loc": "{s:bonus_illusion_lance_damage_pct}% Illusion Spirit Lance Damage",
+          "name_english_loc": "{s:bonus_illusion_lance_damage_pct}% Illusion Spirit Lance Damage",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -24377,8 +24725,8 @@
         {
           "id": 890,
           "name": "special_bonus_unique_sand_king_8",
-          "name_loc": "+{s:bonus_AbilityCastRange} Burrowstrike Cast Range",
-          "name_english_loc": "+{s:bonus_AbilityCastRange} Burrowstrike Cast Range",
+          "name_loc": "-{s:bonus_AbilityCooldown}s Epicenter Cooldown",
+          "name_english_loc": "-{s:bonus_AbilityCooldown}s Epicenter Cooldown",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -24437,8 +24785,8 @@
         {
           "id": 1187,
           "name": "special_bonus_unique_storm_spirit_overload_aspd",
-          "name_loc": "+{s:bonus_overload_move_slow}/{s:bonus_overload_move_slow}% Overload Attack/Movement Speed Slow",
-          "name_english_loc": "+{s:bonus_overload_move_slow}/{s:bonus_overload_move_slow}% Overload Attack/Movement Speed Slow",
+          "name_loc": "+{s:bonus_overload_attack_slow}/{s:bonus_overload_move_slow}% Overload Attack/Movement Speed Slow",
+          "name_english_loc": "+{s:bonus_overload_attack_slow}/{s:bonus_overload_move_slow}% Overload Attack/Movement Speed Slow",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -25169,8 +25517,8 @@
         {
           "id": 781,
           "name": "special_bonus_unique_lion_11",
-          "name_loc": "+{s:bonus_spell_amp}% To Hell And Back Debuff/Spell Amp",
-          "name_english_loc": "+{s:bonus_spell_amp}% To Hell And Back Debuff/Spell Amp",
+          "name_loc": "+{s:bonus_mana_per_second} Mana Drain Mana Per Second",
+          "name_english_loc": "+{s:bonus_mana_per_second} Mana Drain Mana Per Second",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -25323,10 +25671,10 @@
           "is_innate": false
         },
         {
-          "id": 6889,
-          "name": "special_bonus_unique_slardar_2",
-          "name_loc": "+{s:bonus_bonus_damage} Bash of the Deep Damage",
-          "name_english_loc": "+{s:bonus_bonus_damage} Bash of the Deep Damage",
+          "id": 7871,
+          "name": "special_bonus_unique_slardar_4",
+          "name_loc": "-{s:bonus_AbilityCooldown}s Slithereen Crush Cooldown",
+          "name_english_loc": "-{s:bonus_AbilityCooldown}s Slithereen Crush Cooldown",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -25371,10 +25719,10 @@
           "is_innate": false
         },
         {
-          "id": 7871,
-          "name": "special_bonus_unique_slardar_4",
-          "name_loc": "-{s:bonus_AbilityCooldown}s Slithereen Crush Cooldown",
-          "name_english_loc": "-{s:bonus_AbilityCooldown}s Slithereen Crush Cooldown",
+          "id": 6889,
+          "name": "special_bonus_unique_slardar_2",
+          "name_loc": "+{s:bonus_bonus_damage} Bash of the Deep Damage",
+          "name_english_loc": "+{s:bonus_bonus_damage} Bash of the Deep Damage",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -25947,10 +26295,10 @@
           "is_innate": false
         },
         {
-          "id": 1038,
-          "name": "special_bonus_unique_warlock_upheaval_aoe",
-          "name_loc": "+{s:bonus_aoe} Upheaval Radius",
-          "name_english_loc": "+{s:bonus_aoe} Upheaval Radius",
+          "id": 764,
+          "name": "special_bonus_unique_warlock_7",
+          "name_loc": "Shadow Word Increases Movespeed by {s:bonus_shard_movement_speed_pct}%",
+          "name_english_loc": "Shadow Word Increases Movespeed by {s:bonus_shard_movement_speed_pct}%",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -25971,10 +26319,10 @@
           "is_innate": false
         },
         {
-          "id": 764,
-          "name": "special_bonus_unique_warlock_7",
-          "name_loc": "+{s:bonus_spell_aoe} Shadow Word AoE",
-          "name_english_loc": "+{s:bonus_spell_aoe} Shadow Word AoE",
+          "id": 1928,
+          "name": "special_bonus_unique_warlock_shadow_word_damage",
+          "name_loc": "+{s:bonus_damage} Shadow Word Damage/Heal",
+          "name_english_loc": "+{s:bonus_damage} Shadow Word Damage/Heal",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -26211,10 +26559,10 @@
           "is_innate": false
         },
         {
-          "id": 6980,
-          "name": "special_bonus_unique_venomancer_4",
-          "name_loc": "+{s:bonus_base_damage} Snakebite Initial Damage",
-          "name_english_loc": "+{s:bonus_base_damage} Snakebite Initial Damage",
+          "id": 6981,
+          "name": "special_bonus_unique_venomancer_5",
+          "name_loc": "Snakebite Undispellable",
+          "name_english_loc": "Snakebite Undispellable",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -26235,10 +26583,10 @@
           "is_innate": false
         },
         {
-          "id": 6981,
-          "name": "special_bonus_unique_venomancer_5",
-          "name_loc": "Snakebite Undispellable",
-          "name_english_loc": "Snakebite Undispellable",
+          "id": 1902,
+          "name": "special_bonus_unique_venomancer_plague_damage",
+          "name_loc": "+{s:bonus_damage_per_second}% Noxious Plague Max Health Damage",
+          "name_english_loc": "+{s:bonus_damage_per_second}% Noxious Plague Max Health Damage",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -26427,10 +26775,10 @@
           "is_innate": false
         },
         {
-          "id": 6367,
-          "name": "special_bonus_unique_death_prophet_2",
-          "name_loc": "-{s:bonus_AbilityCooldown}s Crypt Swarm Cooldown",
-          "name_english_loc": "-{s:bonus_AbilityCooldown}s Crypt Swarm Cooldown",
+          "id": 698,
+          "name": "special_bonus_unique_death_prophet_5",
+          "name_loc": "-{s:bonus_AbilityChargeRestoreTime}s Spirit Siphon Replenish Time",
+          "name_english_loc": "-{s:bonus_AbilityChargeRestoreTime}s Spirit Siphon Replenish Time",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -26451,10 +26799,10 @@
           "is_innate": false
         },
         {
-          "id": 6628,
-          "name": "special_bonus_unique_death_prophet_3",
-          "name_loc": "+{s:bonus_damage} Spirit Siphon Damage/Heal",
-          "name_english_loc": "+{s:bonus_damage} Spirit Siphon Damage/Heal",
+          "id": 1284,
+          "name": "special_bonus_unique_death_prophet_crypt_swarm_damage",
+          "name_loc": "+{s:bonus_damage} Crypt Swarm Damage",
+          "name_english_loc": "+{s:bonus_damage} Crypt Swarm Damage",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -26463,10 +26811,10 @@
           "is_innate": false
         },
         {
-          "id": 698,
-          "name": "special_bonus_unique_death_prophet_5",
-          "name_loc": "-{s:bonus_AbilityChargeRestoreTime}s Spirit Siphon Replenish Time",
-          "name_english_loc": "-{s:bonus_AbilityChargeRestoreTime}s Spirit Siphon Replenish Time",
+          "id": 6805,
+          "name": "special_bonus_unique_death_prophet_4",
+          "name_loc": "Unslowable During Exorcism",
+          "name_english_loc": "Unslowable During Exorcism",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -26475,10 +26823,10 @@
           "is_innate": false
         },
         {
-          "id": 1810,
-          "name": "special_bonus_unique_death_prophet_exorcism_duration_on_kill",
-          "name_loc": "Deaths During Exorcism Extend Duration By +{s:bonus_duration_increase_per_kill}s",
-          "name_english_loc": "Deaths During Exorcism Extend Duration By +{s:bonus_duration_increase_per_kill}s",
+          "id": 6367,
+          "name": "special_bonus_unique_death_prophet_2",
+          "name_loc": "+{s:bonus_spirits} Witchcraft Spirit",
+          "name_english_loc": "+{s:bonus_spirits} Witchcraft Spirit",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -26595,18 +26943,6 @@
           "is_innate": false
         },
         {
-          "id": 6859,
-          "name": "special_bonus_unique_pugna_6",
-          "name_loc": "+{s:bonus_attacks_to_destroy} Nether Ward Health",
-          "name_english_loc": "+{s:bonus_attacks_to_destroy} Nether Ward Health",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": [],
-          "is_innate": false
-        },
-        {
           "id": 1191,
           "name": "special_bonus_unique_pugna_decrepify_ally_movespeed",
           "name_loc": "+{s:bonus_bonus_movement_speed_allies}% Decrepify Movement Speed To Allies",
@@ -26619,10 +26955,22 @@
           "is_innate": false
         },
         {
+          "id": 6859,
+          "name": "special_bonus_unique_pugna_6",
+          "name_loc": "-{s:bonus_AbilityCooldown}s Life Drain Cooldown",
+          "name_english_loc": "-{s:bonus_AbilityCooldown}s Life Drain Cooldown",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
           "id": 6220,
           "name": "special_bonus_unique_pugna_1",
-          "name_loc": "+{s:bonus_bonus_heal_pct}% Life Drain Heal",
-          "name_english_loc": "+{s:bonus_bonus_heal_pct}% Life Drain Heal",
+          "name_loc": "+{s:bonus_life_drain} Life Drain Drain Per Second",
+          "name_english_loc": "+{s:bonus_life_drain} Life Drain Drain Per Second",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -26945,8 +27293,8 @@
         {
           "id": 7055,
           "name": "special_bonus_unique_luna_5",
-          "name_loc": "Lucent Beam Hits An Additional Target",
-          "name_english_loc": "Lucent Beam Hits An Additional Target",
+          "name_loc": "Lucent Beam Hits {s:bonus_lucent_beam_additional_targets} Additional Targets",
+          "name_english_loc": "Lucent Beam Hits {s:bonus_lucent_beam_additional_targets} Additional Targets",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -27027,10 +27375,10 @@
           "is_innate": false
         },
         {
-          "id": 1613,
-          "name": "special_bonus_unique_dazzle_nothl_projection_duration",
-          "name_loc": "+{s:bonus_max_duration}s Nothl Projection Duration",
-          "name_english_loc": "+{s:bonus_max_duration}s Nothl Projection Duration",
+          "id": 1925,
+          "name": "special_bonus_unique_clockwerk_battery_assault_duration",
+          "name_loc": "+{s:bonus_duration}s Battery Assault Duration",
+          "name_english_loc": "+{s:bonus_duration}s Battery Assault Duration",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -27147,10 +27495,10 @@
           "is_innate": false
         },
         {
-          "id": 9418,
-          "name": "special_bonus_unique_leshrac_7",
-          "name_loc": "Diabolic Edict Hits An Additional Target",
-          "name_english_loc": "Diabolic Edict Hits An Additional Target",
+          "id": 6063,
+          "name": "special_bonus_unique_leshrac_1",
+          "name_loc": "+{s:bonus_num_explosions} Diabolic Edict Explosions",
+          "name_english_loc": "+{s:bonus_num_explosions} Diabolic Edict Explosions",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -27171,10 +27519,10 @@
           "is_innate": false
         },
         {
-          "id": 6063,
-          "name": "special_bonus_unique_leshrac_1",
-          "name_loc": "+{s:bonus_num_explosions} Diabolic Edict Explosions",
-          "name_english_loc": "+{s:bonus_num_explosions} Diabolic Edict Explosions",
+          "id": 9418,
+          "name": "special_bonus_unique_leshrac_7",
+          "name_loc": "Diabolic Edict Hits An Additional Target",
+          "name_english_loc": "Diabolic Edict Hits An Additional Target",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -27279,22 +27627,10 @@
           "is_innate": false
         },
         {
-          "id": 420,
-          "name": "special_bonus_unique_dark_seer_5",
-          "name_loc": "+{s:bonus_radius} Ion Shell Radius",
-          "name_english_loc": "+{s:bonus_radius} Ion Shell Radius",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": [],
-          "is_innate": false
-        },
-        {
           "id": 6365,
           "name": "special_bonus_unique_dark_seer_2",
-          "name_loc": "+{s:bonus_radius} Vacuum AoE",
-          "name_english_loc": "+{s:bonus_radius} Vacuum AoE",
+          "name_loc": "-{s:bonus_AbilityCooldown}s Vacuum Cooldown",
+          "name_english_loc": "-{s:bonus_AbilityCooldown}s Vacuum Cooldown",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -27387,10 +27723,10 @@
           "is_innate": false
         },
         {
-          "id": 554,
-          "name": "special_bonus_unique_clinkz_9",
-          "name_loc": "-{s:bonus_AbilityChargeRestoreTime}s Death Pact Charge Restore Time",
-          "name_english_loc": "-{s:bonus_AbilityChargeRestoreTime}s Death Pact Charge Restore Time",
+          "id": 495,
+          "name": "special_bonus_unique_clinkz_8",
+          "name_loc": "+{s:bonus_health_gain} Death Pact Bonus Health",
+          "name_english_loc": "+{s:bonus_health_gain} Death Pact Bonus Health",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -27411,10 +27747,10 @@
           "is_innate": false
         },
         {
-          "id": 495,
-          "name": "special_bonus_unique_clinkz_8",
-          "name_loc": "+{s:bonus_health_gain} Death Pact Bonus Health",
-          "name_english_loc": "+{s:bonus_health_gain} Death Pact Bonus Health",
+          "id": 1923,
+          "name": "special_bonus_unique_clinkz_skeletons",
+          "name_loc": "+{s:bonus_skeleton_count} Skeleton Walk Skeletons",
+          "name_english_loc": "+{s:bonus_skeleton_count} Skeleton Walk Skeletons",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -27521,8 +27857,8 @@
         {
           "id": 1130,
           "name": "special_bonus_unique_enchantress_enchant_health_damage",
-          "name_loc": "+{s:bonus_bonus_health} Health / +{s:bonus_bonus_damage} Damage  for Enchantress and her units",
-          "name_english_loc": "+{s:bonus_bonus_health} Health / +{s:bonus_bonus_damage} Damage  for Enchantress and her units",
+          "name_loc": "+{s:bonus_bonus_health} Health / +{s:bonus_bonus_damage} Damage for Enchantress and her units",
+          "name_english_loc": "+{s:bonus_bonus_health} Health / +{s:bonus_bonus_damage} Damage for Enchantress and her units",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -27759,10 +28095,10 @@
           "is_innate": false
         },
         {
-          "id": 1039,
-          "name": "special_bonus_unique_broodmother_7",
-          "name_loc": "+{s:bonus_hp_bonus} Spiderlings Health",
-          "name_english_loc": "+{s:bonus_hp_bonus} Spiderlings Health",
+          "id": 6362,
+          "name": "special_bonus_unique_broodmother_4",
+          "name_loc": "+{s:bonus_miss_chance}% Incapacitating Bite Slow/Miss Chance",
+          "name_english_loc": "+{s:bonus_miss_chance}% Incapacitating Bite Slow/Miss Chance",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -27783,10 +28119,10 @@
           "is_innate": false
         },
         {
-          "id": 6362,
-          "name": "special_bonus_unique_broodmother_4",
-          "name_loc": "+{s:bonus_miss_chance}% Incapacitating Bite Slow/Miss Chance",
-          "name_english_loc": "+{s:bonus_miss_chance}% Incapacitating Bite Slow/Miss Chance",
+          "id": 1039,
+          "name": "special_bonus_unique_broodmother_7",
+          "name_loc": "+{s:bonus_hp_bonus} Spiderlings Health",
+          "name_english_loc": "+{s:bonus_hp_bonus} Spiderlings Health",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -27915,6 +28251,18 @@
           "is_innate": false
         },
         {
+          "id": 1929,
+          "name": "special_bonus_unique_weaver_threads_of_fate_damage",
+          "name_loc": "+{s:bonus_damage_per_thread_hero}% Threads of Fate Damage Per Thread",
+          "name_english_loc": "+{s:bonus_damage_per_thread_hero}% Threads of Fate Damage Per Thread",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
           "id": 6200,
           "name": "special_bonus_unique_weaver_1",
           "name_loc": "+{s:bonus_damage} Shukuchi Damage",
@@ -27929,8 +28277,8 @@
         {
           "id": 6989,
           "name": "special_bonus_unique_weaver_4",
-          "name_loc": "+{s:bonus_destroy_attacks} Swarm Attacks to Kill",
-          "name_english_loc": "+{s:bonus_destroy_attacks} Swarm Attacks to Kill",
+          "name_loc": "+{s:bonus_destroy_attacks} Swarm Pip Health",
+          "name_english_loc": "+{s:bonus_destroy_attacks} Swarm Pip Health",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -28085,8 +28433,8 @@
         {
           "id": 1818,
           "name": "special_bonus_unique_chen_zealot",
-          "name_loc": "+{s:bonus_damage}% Zealot Health/Damage",
-          "name_english_loc": "+{s:bonus_damage}% Zealot Health/Damage",
+          "name_loc": "Anointed Zealot gains +{s:bonus_damage}% Health/Damage",
+          "name_english_loc": "Anointed Zealot gains +{s:bonus_damage}% Health/Damage",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -28097,8 +28445,8 @@
         {
           "id": 7869,
           "name": "special_bonus_unique_chen_5",
-          "name_loc": "+{s:bonus_damage_bonus}% Holy Persuasion Damage",
-          "name_english_loc": "+{s:bonus_damage_bonus}% Holy Persuasion Damage",
+          "name_loc": "+{s:bonus_damage_bonus}% Zealot Controlled Unit Damage/Spell Amp",
+          "name_english_loc": "+{s:bonus_damage_bonus}% Zealot Controlled Unit Damage/Spell Amp",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -28133,8 +28481,8 @@
         {
           "id": 6535,
           "name": "special_bonus_unique_chen_4",
-          "name_loc": "+{s:bonus_health_min} Holy Persuasion Minimum Health",
-          "name_english_loc": "+{s:bonus_health_min} Holy Persuasion Minimum Health",
+          "name_loc": "+{s:bonus_health_min} Zealot Controlled Unit Minimum Health",
+          "name_english_loc": "+{s:bonus_health_min} Zealot Controlled Unit Minimum Health",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -28313,20 +28661,8 @@
         {
           "id": 971,
           "name": "special_bonus_unique_doom_11",
-          "name_loc": "Permanent Scorched Earth",
-          "name_english_loc": "Permanent Scorched Earth",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": [],
-          "is_innate": false
-        },
-        {
-          "id": 1819,
-          "name": "special_bonus_unique_ancient_apparition_cold_feet_dps",
-          "name_loc": "+{s:bonus_damage_per_second} Cold Feet Damage Per Second",
-          "name_english_loc": "+{s:bonus_damage_per_second} Cold Feet Damage Per Second",
+          "name_loc": "Permanent Scorched Earth with {s:bonus_damage_per_second_talent_tooltip} Damage",
+          "name_english_loc": "Permanent Scorched Earth with {s:bonus_damage_per_second_talent_tooltip} Damage",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -28339,6 +28675,18 @@
           "name": "special_bonus_unique_ancient_apparition_cold_feet_distance",
           "name_loc": "+{s:bonus_break_distance} Cold Feet Break Distance",
           "name_english_loc": "+{s:bonus_break_distance} Cold Feet Break Distance",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1904,
+          "name": "special_bonus_unique_ancient_apparition_bone_chill",
+          "name_loc": "Bone Chill Slows by {s:bonus_movement_slow_pct}%",
+          "name_english_loc": "Bone Chill Slows by {s:bonus_movement_slow_pct}%",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -28527,10 +28875,10 @@
           "is_innate": false
         },
         {
-          "id": 1012,
-          "name": "special_bonus_unique_gyrocopter_flak_cannon_bonus_damage",
-          "name_loc": "+{s:bonus_bonus_damage} Flak Cannon Damage",
-          "name_english_loc": "+{s:bonus_bonus_damage} Flak Cannon Damage",
+          "id": 6654,
+          "name": "special_bonus_unique_gyrocopter_5",
+          "name_loc": "-{s:bonus_AbilityCooldown}s Call Down Cooldown",
+          "name_english_loc": "-{s:bonus_AbilityCooldown}s Call Down Cooldown",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -28575,10 +28923,10 @@
           "is_innate": false
         },
         {
-          "id": 6654,
-          "name": "special_bonus_unique_gyrocopter_5",
-          "name_loc": "-{s:bonus_AbilityCooldown}s Call Down Cooldown",
-          "name_english_loc": "-{s:bonus_AbilityCooldown}s Call Down Cooldown",
+          "id": 6653,
+          "name": "special_bonus_unique_gyrocopter_4",
+          "name_loc": "{s:bonus_bonus_movement_speed_per_hit}x Afterburner Movespeed",
+          "name_english_loc": "{s:bonus_bonus_movement_speed_per_hit}x Afterburner Movespeed",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -28731,10 +29079,10 @@
           "is_innate": false
         },
         {
-          "id": 5762,
-          "name": "special_bonus_unique_invoker_additional_chaos_meteors",
-          "name_loc": "+{s:bonus_meteor_count} Chaos Meteors",
-          "name_english_loc": "+{s:bonus_meteor_count} Chaos Meteors",
+          "id": 724,
+          "name": "special_bonus_unique_invoker_13",
+          "name_loc": "{s:bonus_move_speed_per_instance}x Quas/Wex/Exort Active Bonuses",
+          "name_english_loc": "{s:bonus_move_speed_per_instance}x Quas/Wex/Exort Active Bonuses",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -28767,10 +29115,10 @@
           "is_innate": false
         },
         {
-          "id": 724,
-          "name": "special_bonus_unique_invoker_13",
-          "name_loc": "{s:bonus_move_speed_per_instance}x Quas/Wex/Exort Active Bonuses",
-          "name_english_loc": "{s:bonus_move_speed_per_instance}x Quas/Wex/Exort Active Bonuses",
+          "id": 5762,
+          "name": "special_bonus_unique_invoker_additional_chaos_meteors",
+          "name_loc": "+{s:bonus_meteor_count} Chaos Meteors",
+          "name_english_loc": "+{s:bonus_meteor_count} Chaos Meteors",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -29009,8 +29357,8 @@
         {
           "id": 6684,
           "name": "special_bonus_unique_lycan_4",
-          "name_loc": "+{s:bonus_bonus_damage}% Feral Impulse Damage",
-          "name_english_loc": "+{s:bonus_bonus_damage}% Feral Impulse Damage",
+          "name_loc": "+{s:bonus_bonus_damage}% Pack Hunter Bonus Damage Per Stack",
+          "name_english_loc": "+{s:bonus_bonus_damage}% Pack Hunter Bonus Damage Per Stack",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -29585,8 +29933,8 @@
         {
           "id": 6972,
           "name": "special_bonus_unique_undying_5",
-          "name_loc": "+{s:bonus_hits_to_destroy_tooltip} Tombstone Attacks to Destroy",
-          "name_english_loc": "+{s:bonus_hits_to_destroy_tooltip} Tombstone Attacks to Destroy",
+          "name_loc": "+{s:bonus_hits_to_destroy_tooltip} Tombstone Pip Health",
+          "name_english_loc": "+{s:bonus_hits_to_destroy_tooltip} Tombstone Pip Health",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -29775,10 +30123,10 @@
           "is_innate": false
         },
         {
-          "id": 6130,
-          "name": "special_bonus_unique_nyx",
-          "name_loc": "{s:bonus_aoe} Mind Flare Radius",
-          "name_english_loc": "{s:bonus_aoe} Mind Flare Radius",
+          "id": 1905,
+          "name": "special_bonus_unique_nyx_assassin_scarab_metabolism",
+          "name_loc": "Permanent {s:bonus_multiplier}x Scarab Metabolism",
+          "name_english_loc": "Permanent {s:bonus_multiplier}x Scarab Metabolism",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -29823,10 +30171,10 @@
           "is_innate": false
         },
         {
-          "id": 6701,
-          "name": "special_bonus_unique_naga_siren_3",
-          "name_loc": "-{s:bonus_incoming_damage}% Mirror Image Illusion Damage Taken",
-          "name_english_loc": "-{s:bonus_incoming_damage}% Mirror Image Illusion Damage Taken",
+          "id": 1938,
+          "name": "special_bonus_unique_naga_siren_eelskin_evasion",
+          "name_loc": "+{s:bonus_evasion_per_naga}% Eelskin Evasion Per Naga",
+          "name_english_loc": "+{s:bonus_evasion_per_naga}% Eelskin Evasion Per Naga",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -29847,10 +30195,10 @@
           "is_innate": false
         },
         {
-          "id": 6205,
-          "name": "special_bonus_unique_naga_siren",
-          "name_loc": "+{s:bonus_images_count} Mirror Image Illusion",
-          "name_english_loc": "+{s:bonus_images_count} Mirror Image Illusion",
+          "id": 761,
+          "name": "special_bonus_unique_naga_siren_6",
+          "name_loc": "-{s:bonus_AbilityCooldown}s Mirror Image Cooldown",
+          "name_english_loc": "-{s:bonus_AbilityCooldown}s Mirror Image Cooldown",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -29859,10 +30207,10 @@
           "is_innate": false
         },
         {
-          "id": 761,
-          "name": "special_bonus_unique_naga_siren_6",
-          "name_loc": "-{s:bonus_AbilityCooldown}s Mirror Image Cooldown",
-          "name_english_loc": "-{s:bonus_AbilityCooldown}s Mirror Image Cooldown",
+          "id": 6205,
+          "name": "special_bonus_unique_naga_siren",
+          "name_loc": "+{s:bonus_images_count} Mirror Image Illusion",
+          "name_english_loc": "+{s:bonus_images_count} Mirror Image Illusion",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -30243,10 +30591,10 @@
           "is_innate": false
         },
         {
-          "id": 1561,
-          "name": "special_bonus_unique_medusa_gorgons_grasp_radius",
-          "name_loc": "+{s:bonus_radius}% Gorgon's Grasp Radius",
-          "name_english_loc": "+{s:bonus_radius}% Gorgon's Grasp Radius",
+          "id": 1906,
+          "name": "special_bonus_unique_medusa_gorgons_grasp_duration",
+          "name_loc": "+{s:bonus_duration}s Gorgon's Grasp Duration",
+          "name_english_loc": "+{s:bonus_duration}s Gorgon's Grasp Duration",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -30267,10 +30615,10 @@
           "is_innate": false
         },
         {
-          "id": 1574,
-          "name": "special_bonus_unique_medusa_gorgons_grasp_volleys",
-          "name_loc": "+{s:bonus_volley_count} Gorgon's Grasp Volley",
-          "name_english_loc": "+{s:bonus_volley_count} Gorgon's Grasp Volley",
+          "id": 1561,
+          "name": "special_bonus_unique_medusa_gorgons_grasp_radius",
+          "name_loc": "+{s:bonus_radius} Gorgon's Grasp Initial Radius",
+          "name_english_loc": "+{s:bonus_radius} Gorgon's Grasp Initial Radius",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -30795,6 +31143,18 @@
           "is_innate": false
         },
         {
+          "id": 1927,
+          "name": "special_bonus_unique_skywrath_scion_shield_barrier",
+          "name_loc": "+{s:bonus_damage_barrier} Shield Of The Scion Barrier",
+          "name_english_loc": "+{s:bonus_damage_barrier} Shield Of The Scion Barrier",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
           "id": 411,
           "name": "special_bonus_unique_skywrath_6",
           "name_loc": "+{s:bonus_AbilityCastRange} Arcane Bolt Cast Range",
@@ -30891,6 +31251,18 @@
           "is_innate": false
         },
         {
+          "id": 6378,
+          "name": "special_bonus_unique_elder_titan_2",
+          "name_loc": "+{s:bonus_stomp_damage} Echo Stomp Damage",
+          "name_english_loc": "+{s:bonus_stomp_damage} Echo Stomp Damage",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
           "id": 917,
           "name": "special_bonus_unique_elder_titan_bonus_spirit_speed",
           "name_loc": "+{s:bonus_move_pct_heroes}% Astral Spirit Bonus Move Speed Per Hero",
@@ -30907,30 +31279,6 @@
           "name": "special_bonus_unique_elder_titan_4",
           "name_loc": "+{s:bonus_wake_damage_limit} Echo Stomp Wake Damage",
           "name_english_loc": "+{s:bonus_wake_damage_limit} Echo Stomp Wake Damage",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": [],
-          "is_innate": false
-        },
-        {
-          "id": 6378,
-          "name": "special_bonus_unique_elder_titan_2",
-          "name_loc": "+{s:bonus_stomp_damage} Echo Stomp Damage",
-          "name_english_loc": "+{s:bonus_stomp_damage} Echo Stomp Damage",
-          "neutral_item_tier": -1,
-          "is_pregame_suggested": false,
-          "is_earlygame_suggested": false,
-          "is_lategame_suggested": false,
-          "recipes": [],
-          "is_innate": false
-        },
-        {
-          "id": 1836,
-          "name": "special_bonus_unique_elder_titan_momentum_attack_speed",
-          "name_loc": "{s:bonus_attack_speed_from_movespeed}% of Bonus Movement Speed as Attack Speed",
-          "name_english_loc": "{s:bonus_attack_speed_from_movespeed}% of Bonus Movement Speed as Attack Speed",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -30975,10 +31323,22 @@
           "is_innate": false
         },
         {
-          "id": 1113,
-          "name": "special_bonus_unique_legion_commander_9",
-          "name_loc": "-{s:bonus_AbilityCooldown}s Overwhelming Odds Cooldown",
-          "name_english_loc": "-{s:bonus_AbilityCooldown}s Overwhelming Odds Cooldown",
+          "id": 1836,
+          "name": "special_bonus_unique_elder_titan_momentum_attack_speed",
+          "name_loc": "{s:bonus_attack_speed_from_movespeed}% of Bonus Movement Speed as Attack Speed",
+          "name_english_loc": "{s:bonus_attack_speed_from_movespeed}% of Bonus Movement Speed as Attack Speed",
+          "neutral_item_tier": -1,
+          "is_pregame_suggested": false,
+          "is_earlygame_suggested": false,
+          "is_lategame_suggested": false,
+          "recipes": [],
+          "is_innate": false
+        },
+        {
+          "id": 1939,
+          "name": "special_bonus_unique_legion_commander_overwhelming_odds_attack_speed",
+          "name_loc": "+{s:bonus_bonus_attack_speed} Overwhelming Odds Attack Speed",
+          "name_english_loc": "+{s:bonus_bonus_attack_speed} Overwhelming Odds Attack Speed",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -31047,10 +31407,10 @@
           "is_innate": false
         },
         {
-          "id": 880,
-          "name": "special_bonus_unique_legion_commander_7",
-          "name_loc": "+{s:bonus_hp_leech_percent}% Moment of Courage Lifesteal",
-          "name_english_loc": "+{s:bonus_hp_leech_percent}% Moment of Courage Lifesteal",
+          "id": 1932,
+          "name": "special_bonus_unique_legion_commander_moment_of_courage_crit",
+          "name_loc": "Moment of Courage Has a {s:bonus_crit_mult}% Critical Strike",
+          "name_english_loc": "Moment of Courage Has a {s:bonus_crit_mult}% Critical Strike",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -31263,10 +31623,10 @@
           "is_innate": false
         },
         {
-          "id": 6997,
-          "name": "special_bonus_unique_techies_3",
-          "name_loc": "-{s:bonus_AbilityChargeRestoreTime}s Proximity Mines Cooldown",
-          "name_english_loc": "-{s:bonus_AbilityChargeRestoreTime}s Proximity Mines Cooldown",
+          "id": 1940,
+          "name": "special_bonus_unique_techies_6",
+          "name_loc": "+{s:bonus_AbilityCharges} Proximity Mines Max Charges",
+          "name_english_loc": "+{s:bonus_AbilityCharges} Proximity Mines Max Charges",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -31325,8 +31685,8 @@
         {
           "id": 6998,
           "name": "special_bonus_unique_techies_4",
-          "name_loc": "-{s:bonus_activation_delay}s Proximity Mines Activation Delay",
-          "name_english_loc": "-{s:bonus_activation_delay}s Proximity Mines Activation Delay",
+          "name_loc": "Sticky Bomb {s:bonus_explosion_stun_duration}s Stun on Explosion",
+          "name_english_loc": "Sticky Bomb {s:bonus_explosion_stun_duration}s Stun on Explosion",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -31337,8 +31697,8 @@
         {
           "id": 663,
           "name": "special_bonus_unique_underlord_7",
-          "name_loc": "+{s:bonus_bonus_ms}% Invading Force Movement Bonus/Damage Reduction",
-          "name_english_loc": "+{s:bonus_bonus_ms}% Invading Force Movement Bonus/Damage Reduction",
+          "name_loc": "+{s:bonus_bonus_ms}% Invading Force Movement Bonus/Barrier",
+          "name_english_loc": "+{s:bonus_bonus_ms}% Invading Force Movement Bonus/Barrier",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -31673,8 +32033,8 @@
         {
           "id": 8004,
           "name": "special_bonus_unique_grimstroke_4",
-          "name_loc": "+{s:bonus_destroy_attacks} Attacks to Destroy Phantom",
-          "name_english_loc": "+{s:bonus_destroy_attacks} Attacks to Destroy Phantom",
+          "name_loc": "+{s:bonus_destroy_attacks} Phantom Pip Health",
+          "name_english_loc": "+{s:bonus_destroy_attacks} Phantom Pip Health",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -31707,10 +32067,10 @@
           "is_innate": false
         },
         {
-          "id": 1020,
-          "name": "special_bonus_unique_mars_rebuke_radius",
-          "name_loc": "+{s:bonus_radius} God's Rebuke Distance",
-          "name_english_loc": "+{s:bonus_radius} God's Rebuke Distance",
+          "id": 884,
+          "name": "special_bonus_unique_mars_bulwark_damage_reduction",
+          "name_loc": "+{s:bonus_physical_damage_reduction}%/+{s:bonus_physical_damage_reduction_side}% Bulwark Front/Side Damage Reduction",
+          "name_english_loc": "+{s:bonus_physical_damage_reduction}%/+{s:bonus_physical_damage_reduction_side}% Bulwark Front/Side Damage Reduction",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -31901,8 +32261,8 @@
         {
           "id": 6487,
           "name": "special_bonus_unique_snapfire_2",
-          "name_loc": "+{s:bonus_buffed_attacks} Lil' Shredder attacks",
-          "name_english_loc": "+{s:bonus_buffed_attacks} Lil' Shredder attacks",
+          "name_loc": "+{s:bonus_buffed_attacks} Lil' Shredder Attacks",
+          "name_english_loc": "+{s:bonus_buffed_attacks} Lil' Shredder Attacks",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -31923,10 +32283,10 @@
           "is_innate": false
         },
         {
-          "id": 1628,
-          "name": "special_bonus_unique_snapfire_firesnap_cookie_additional_charge",
-          "name_loc": "{s:bonus_AbilityCharges} Firesnap Cookie Charges",
-          "name_english_loc": "{s:bonus_AbilityCharges} Firesnap Cookie Charges",
+          "id": 1907,
+          "name": "special_bonus_unique_snapfire_scatterblast_knockback",
+          "name_loc": "+{s:bonus_debuff_duration}s Scatterblast Base Slow and Knockback",
+          "name_english_loc": "+{s:bonus_debuff_duration}s Scatterblast Base Slow and Knockback",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -32163,10 +32523,10 @@
           "is_innate": false
         },
         {
-          "id": 1438,
-          "name": "special_bonus_unique_muerta_calling_hp_regen",
-          "name_loc": "+{s:bonus_hp_regen_pct}% Max HP Regen while inside The Calling",
-          "name_english_loc": "+{s:bonus_hp_regen_pct}% Max HP Regen while inside The Calling",
+          "id": 5758,
+          "name": "special_bonus_unique_muerta_the_calling_num_revenants",
+          "name_loc": "The Calling summons {s:bonus_num_revenants} additional revenants",
+          "name_english_loc": "The Calling summons {s:bonus_num_revenants} additional revenants",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -32187,10 +32547,10 @@
           "is_innate": false
         },
         {
-          "id": 5758,
-          "name": "special_bonus_unique_muerta_the_calling_num_revenants",
-          "name_loc": "The Calling summons {s:bonus_num_revenants} additional revenants",
-          "name_english_loc": "The Calling summons {s:bonus_num_revenants} additional revenants",
+          "id": 1931,
+          "name": "special_bonus_unique_muerta_the_calling_slow",
+          "name_loc": "+{s:bonus_aura_movespeed_slow}% The Calling Movement Slow",
+          "name_english_loc": "+{s:bonus_aura_movespeed_slow}% The Calling Movement Slow",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
@@ -32201,8 +32561,8 @@
         {
           "id": 5759,
           "name": "special_bonus_unique_muerta_gunslinger_double_shot_chance",
-          "name_loc": "+{s:bonus_double_shot_chance}% Gunslinger chance",
-          "name_english_loc": "+{s:bonus_double_shot_chance}% Gunslinger chance",
+          "name_loc": "+{s:bonus_double_shot_chance}% Gunslinger Chance",
+          "name_english_loc": "+{s:bonus_double_shot_chance}% Gunslinger Chance",
           "neutral_item_tier": -1,
           "is_pregame_suggested": false,
           "is_earlygame_suggested": false,
