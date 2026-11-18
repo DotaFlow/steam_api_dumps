@@ -29,9 +29,9 @@
     5.75
   ],
   "cooldowns": [
-    120,
+    125,
     110,
-    100
+    95
   ],
   "durations": [
     0
@@ -118,7 +118,7 @@
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [
-        225
+        200
       ],
       "required_facet": ""
     },
@@ -183,16 +183,16 @@
     {
       "name": "AbilityCooldown",
       "values_float": [
-        120,
+        125,
         110,
-        100
+        95
       ],
       "is_percentage": false,
       "heading_loc": "",
       "bonuses": [],
       "values_shard": [],
       "values_scepter": [
-        40
+        35
       ],
       "required_facet": ""
     }
