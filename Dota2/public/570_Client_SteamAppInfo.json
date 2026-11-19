@@ -1,5 +1,5 @@
 {
-  "changenumber": 41251728,
+  "changenumber": 41275403,
   "missingToken": false,
   "appinfo": {
     "appid": "570",
@@ -500,7 +500,7 @@
       "373301": {
         "manifests": {
           "public": {
-            "gid": "3546973523438570792",
+            "gid": "3748041956985148056",
             "size": "5088371706",
             "download": "3271969952"
           }
@@ -525,9 +525,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "4853804528577603040",
-            "size": "663029400",
-            "download": "197692432"
+            "gid": "574403079535704210",
+            "size": "663048344",
+            "download": "197697776"
           }
         }
       },
@@ -537,9 +537,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "5949437636739157467",
-            "size": "635950558",
-            "download": "297104256"
+            "gid": "8008870190115869867",
+            "size": "635967150",
+            "download": "297113584"
           }
         }
       },
@@ -558,9 +558,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "3113936732622845167",
-            "size": "760962804",
-            "download": "319302176"
+            "gid": "2903986798059076508",
+            "size": "760980692",
+            "download": "319306464"
           }
         }
       },
@@ -609,7 +609,7 @@
         "dlcappid": "313250",
         "manifests": {
           "public": {
-            "gid": "1852016825693771531",
+            "gid": "5908351432526325788",
             "size": "5984313075",
             "download": "1641257664"
           }
@@ -719,9 +719,9 @@
       "workshopdepot": "570",
       "branches": {
         "public": {
-          "buildid": "26777257",
-          "timeupdated": "1795067307",
-          "timebuildupdated": "1795067135"
+          "buildid": "26793125",
+          "timeupdated": "1795115015",
+          "timebuildupdated": "1795114153"
         }
       },
       "privatebranches": "1",
