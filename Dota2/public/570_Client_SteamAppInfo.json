@@ -1,5 +1,5 @@
 {
-  "changenumber": 41284184,
+  "changenumber": 41315631,
   "missingToken": false,
   "appinfo": {
     "appid": "570",
@@ -500,7 +500,7 @@
       "373301": {
         "manifests": {
           "public": {
-            "gid": "1528544581214091117",
+            "gid": "8570545058950223930",
             "size": "4997607135",
             "download": "3190068000"
           }
@@ -525,9 +525,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "4011795787937279634",
-            "size": "663056024",
-            "download": "197710864"
+            "gid": "8942947003217189433",
+            "size": "663057048",
+            "download": "197677824"
           }
         }
       },
@@ -537,9 +537,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "6428191452526535042",
-            "size": "635967182",
-            "download": "297115696"
+            "gid": "1288970911354478018",
+            "size": "635967206",
+            "download": "297113712"
           }
         }
       },
@@ -558,9 +558,9 @@
         },
         "manifests": {
           "public": {
-            "gid": "1465056603388732913",
-            "size": "760989172",
-            "download": "319319344"
+            "gid": "2670292001147842344",
+            "size": "760989556",
+            "download": "319309696"
           }
         }
       },
@@ -609,9 +609,9 @@
         "dlcappid": "313250",
         "manifests": {
           "public": {
-            "gid": "3006696296685275098",
+            "gid": "7410463888540903729",
             "size": "5984291441",
-            "download": "1641255632"
+            "download": "1641255616"
           }
         }
       },
@@ -719,9 +719,9 @@
       "workshopdepot": "570",
       "branches": {
         "public": {
-          "buildid": "26799465",
-          "timeupdated": "1795135530",
-          "timebuildupdated": "1795135032"
+          "buildid": "26821183",
+          "timeupdated": "1795206839",
+          "timebuildupdated": "1795206649"
         }
       },
       "privatebranches": "1",
