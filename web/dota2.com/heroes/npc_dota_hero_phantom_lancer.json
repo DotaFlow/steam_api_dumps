@@ -1060,7 +1060,7 @@
         {
           "name": "outgoing_floor",
           "values_float": [
-            17
+            15
           ],
           "is_percentage": true,
           "heading_loc": "MIN DAMAGE:",
