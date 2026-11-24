@@ -878,7 +878,7 @@
         {
           "name": "bonus_slow_resistance",
           "values_float": [
-            40
+            30
           ],
           "is_percentage": true,
           "heading_loc": "SLOW RESISTANCE:",
@@ -1042,7 +1042,7 @@
         {
           "name": "bonus_damage_per_str",
           "values_float": [
-            0.08
+            0.15
           ],
           "is_percentage": false,
           "heading_loc": "DAMAGE PER STRENGTH:",
