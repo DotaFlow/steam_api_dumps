@@ -11,7 +11,7 @@
   "str_gain": 2.3,
   "agi_base": 20,
   "agi_gain": 1.7,
-  "int_base": 25,
+  "int_base": 23,
   "int_gain": 3.5,
   "primary_attr": 3,
   "complexity": 1,
@@ -40,8 +40,8 @@
   "sight_range_night": 800,
   "max_health": 580,
   "health_regen": 2.15,
-  "max_mana": 375,
-  "mana_regen": 1.55,
+  "max_mana": 351,
+  "mana_regen": 1.45,
   "abilities": [
     {
       "id": 5233,
@@ -820,7 +820,7 @@
           "bonuses": [
             {
               "name": "special_bonus_unique_dazzle_shadow_wave_cast_range",
-              "value": 125,
+              "value": 100,
               "operation": 0
             }
           ],
@@ -1304,7 +1304,7 @@
           "heading_loc": "LEASH RANGE:",
           "bonuses": [],
           "values_shard": [
-            500
+            450
           ],
           "values_scepter": [],
           "facet_bonus": {
@@ -1408,7 +1408,7 @@
         {
           "name": "shard_cast_range_bonus",
           "values_float": [
-            250
+            200
           ],
           "is_percentage": false,
           "heading_loc": "",
@@ -1425,7 +1425,7 @@
         {
           "name": "shard_leash_range_bonus",
           "values_float": [
-            500
+            450
           ],
           "is_percentage": false,
           "heading_loc": "",
@@ -1448,7 +1448,7 @@
           "heading_loc": "",
           "bonuses": [],
           "values_shard": [
-            250
+            200
           ],
           "values_scepter": [],
           "facet_bonus": {
