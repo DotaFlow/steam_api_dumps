@@ -135,10 +135,10 @@
         {
           "name": "damage",
           "values_float": [
-            100,
+            110,
             160,
-            220,
-            280
+            210,
+            260
           ],
           "is_percentage": false,
           "heading_loc": "BASE DAMAGE:",
@@ -1414,7 +1414,7 @@
         {
           "name": "images_movespeed_bonus",
           "values_float": [
-            30
+            25
           ],
           "is_percentage": true,
           "heading_loc": "ILLUSION MOVESPEED BONUS:",
@@ -1536,9 +1536,7 @@
       "dispellable": 3,
       "max_level": 3,
       "cast_ranges": [
-        700,
-        800,
-        900
+        800
       ],
       "cast_points": [
         0.15
@@ -1696,9 +1694,7 @@
         {
           "name": "AbilityCastRange",
           "values_float": [
-            700,
-            800,
-            900
+            800
           ],
           "is_percentage": false,
           "heading_loc": "",
