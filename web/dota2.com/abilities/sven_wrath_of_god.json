@@ -47,7 +47,7 @@
     {
       "name": "bonus_damage_per_str",
       "values_float": [
-        0.08
+        0.15
       ],
       "is_percentage": false,
       "heading_loc": "DAMAGE PER STRENGTH:",
